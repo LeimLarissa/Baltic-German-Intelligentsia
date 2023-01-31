@@ -5,7 +5,7 @@ This is more or less my sandbox to test and improve my skills.
 The idea for this project developed during my Master Studies, but now this is just a side project on a topic I'm interested in. 
 
 ## Goals
-Goal1: 
+Goal 1:   
 I'm interested in people with higher education from the Baltic Governorates of the Russian Empire and their activities in Baltic-German learned societies. My main sources are self-published meeting minutes of different learned societies and the membership-lists within them.  
 These source materials do put the focus on more of the German speaking popultation of the Baltic Governorates, but whereever possible I'm interested in identifying people with higher education regardless of ethnic identity.   
 
@@ -18,10 +18,10 @@ The tasks I set for myself are:
 
 ## Contents
 ### Scripts 
-Task 1: Clean errors generated through OCR to improve data quality. 
-[] I'm working on a Jupyter notebook to identify the OCR generated error of spaces inbetween individual letters of a line.
-[] I also want to track how common the error is across my sources. 
-[] I want to remove the additional spaces and create better source materials. 
+Task 1: Clean errors generated through OCR to improve data quality.   
+- [ ] I'm working on a Jupyter notebook to identify the OCR generated error of spaces inbetween individual letters of a line.  
+- [ ] I also want to track how common the error is across my sources.   
+- [ ] I want to remove the additional spaces and create better source materials.   
 
 ### Sources
 Abbr.   | Learned Society   | Title of Publication | Location| Timespan     | Database | Rights 

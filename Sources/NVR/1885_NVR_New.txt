@@ -1,0 +1,4148 @@
+des
+Naturforscher -Vereins
+zu Riga.
+---- - ------------------------------------------
+j9* *  s ̂ /
+X X V III .
+R iga, 1885.
+D ru c k  v o n  W. F. H ä c k e r .
+Дозволено цензурою. Рига, 9 Октября 1885
+Inhalt.
+Seite
+Keinp. v. Rautenfeld: Zur Bestimmung der Fortpflanzungs­
+geschwindigkeit der galvanischen Elektrizität . . 1.
+Sitzungsberichte . .........................................................................7.
+Direktor 6. Schweder: Salzgehalt des Rigaschen Meer­
+busens V ...................................................................................... 33.
+W issenschaftliche Vereine und deren Schriften. . . .  34.
+Geschenke für die Bibliothek von den Verfassern . . 44.
+Direktorium für 1884— 85 .................................. .....  45.
+M itg lied erv erze ich n is ....................................... .....  45.
+K a s s a b e r ic h t ....................................................................................52.
+Oberlehrer A. Werner: M eteorologische Beobachtungen 
+in Riga und Dünamünde.
+Dr. F. Buhse: Erdtemperatur in Friedrichshof bei Riga.
+Inhalt der Sitzungsberichte.
+Seite.
+B arom eter.....................  .................................................... 9.
+Behrmann, Th., F ab rik d irek to r..................... 20.
+Bernhardt, R., F i s k a l ..................................... 9Л
+32.
+Chronograph .................................................... 9
+Dichte der E r d e .......................... ..... . . 23.
+Dynamo-elektrisehe Maschinen . . . . 13
+Eckers, K o l l . - R a t .......................................... 9
+E lektricität, a tm o sp h ä risc h e ..................... 11
+Elektricität, Geschwindigkeit derselben . 1.
+Edelmarder . . . . . . . . . . . 12.
+Fische, g i f t i g e ............................................... U
+17.
+Geoid......................................................... .15G e w i t t e r ......................................................... 31
+Goebel, H. . . .  ..................................... . 28
+Goegginger, H., seu,, K unstgärtner . . . 8 13
+Gottfriedt, M., O b e r l e h r e r .......................... 17.
+15 ?3
+Gutzeit, W. v., Dr. med................................... 14
+11,
+Insekten, H aftlappen derselben . . . . U
+u
+Lutzau, Dr. med................................................ 18.
+N atura lien .................................................... . 7. 8. 9. 11. 14. 16. 20. 22. 24.
+Omis des E ism ee re s ..................................... 28.
+31
+3?
+.....................................1. 13 14
+............................... 24. 30 32
+V,0
+1H
+Schweden, G., Stadtschulendirektor . . . . . 14. 17. 21. 22. 28. 30. 32.
+S o n n e n p a ra l la x e .......................................... 22.
+S p a ltp ilze ..............................................................................................................9.
+Teich, C. A., Kreislehrer . . . . \ ............................................... 14. 31.
+Thoms, G., P ro f e s s o r ........................................................................................ 19.
+Zur Bestimmung der Fortpflanzungsgeschwindigkeit der 
+galvanischen Elektricität.
+So misslich es ist, über physikalische Vorgänge zu 
+sprechen, ohne vorhergehende Experimente, so habe ich 
+mich doch dazu verleiten lassen, einige Gedanken über die 
+Bestimmung der Fortpflanzungsgeschwindigkeit der Elektri­
+cität, die mir während einer Arbeit über dynamoelektrische 
+Maschinen aufstiessen, vorzutragen. Die freundliche Auf­
+forderung, diese Gedanken schriftlich dem Korrespondenz- 
+Blatt des Rigaschen Naturforscher-Vereins einzusenden, hat 
+den nachstehenden Aufsatz veranlasst.
+A.Die voltametrische Methode.In dem Nachstehenden soll gezeigt werden, wie sich 
+das Voltameter zur Bestimmung der Dauer sehr kurzer 
+elektrischer Ströme, sowie zur Bestimmung der Fortpflan­
+zungsgeschwindigkeit der galvanischen Elektricität benutzen 
+lässt. Neu ist dabei die Anwendung, nicht das Princip.
+Schon Edison benutzte das Voltameter als Zeitmesser für 
+die Dauer elektrischer Ströme. Er ging davon aus, dass ein 
+Strom von x  Amperes in einem mit Höllensteinlösung g e ­
+fü llten , Voltameter pr. Stunde x. 3,96 Grm. Silber nieder­
+schlägt. Das Voltameter wurde in einen Nebenstrom (ge­
+wöhnlich von Vioo der Stärke des Hauptstromes, den der 
+Konsument erhielt) geschaltet, der Niederschlag gewogen, 
+und daraus die Dauer des Stromes resp. der Elektricitäts- 
+verbrauch der Stunden berechnet*). Damit war das Volta* 
+meter als Messinstrument für die Dauer a n h a lt e n d e r  Ströme 
+eingeführt, d. h. gerade so weit, als die Technik es erheischte. 
+Ein kleiner Schritt weiter führt uns zur Messung der Dauer 
+sehr kurzer Ströme, z. B. der Induktionsstösse.
+*) U nter der Voraussetzung, dass ein Strom von x Amperes pro 
+Stunde ebenso viel kostet, als ein Strom von 2 x Amperes pro halbe 
+Stande, war es ausserdem gleichgiltig, ob x variierte.
+Korr.-Bl. des N.-V. XXVIII. 1, 1
+_  2 —
+I. Die Dauer eines Induktionsstosses: 
+abed seiderinducierendeDraht,bсderinducierende
+T eil desselben; 
+efgh derinducierteDraht,fg = bc derinducierteTeil
+desselben;
+beide Drähte aus gleichem Material und von gleicher D ick e; 
+A  ein Element* dessen einer Pol mit d  fest verbunden 
+ist und dessen zweiter P ol durch einen Unterbrecher at 
+mit a verbunden werden kann;
+В  ein Voltameter, dessen eine Elektrode mit h fest ver­
+bunden ist und dessen zweite Elektrode durch den 
+Unterbrecher et mit e verbunden werden kann; 
+schliesslich se i noch ein in der Zeichnung fortgelassenes 
+Galvanometer vorhanden, mit welchem die Intensität des 
+Induktionsstosses gem essen werde.
+Messung: nachdemexgeschlossenworden,wirdatge­schlossen. Es durchfliesst der Strom den Leiter a b  c d ,  von 
+welchem der Teil b с (die übrige Einwirkung ist zu ver­
+nachlässigen) in f g  einen Strom induciert, dessen Intensität 
+durch das Galvanometer gem essen werde und dessen Dauer durch 
+den Niederschlag im Galvanometer bestimmt ist. Da dieser 
+Niederschlag für den einzelnen Stoss jedoch nicht wägbar 
+ist, wird der Vorgang wiederholt. Zu dem Zwecke wird 
+erst ex und dann ax geöffnet. (Der Odhmngsstrom wirkt 
+dann auf das Voltameter nicht ein.) Damit hat man die 
+ursprünglichen Verhältnisse erreicht und die W iederholung 
+beginnt. Bei n faeher W iederholung lässt sieh für ein 
+genügend grosses n die Dauer der n Stösse und somit die 
+Dauer des einzelnen Stosses bestimmen, ü eb er diese Dauer 
+lassen sich a priori einige Vermutungen ausaprechcn.
+Unter Induktion verstehen wir die Zust&ndsänderung 
+eines elektrischen Leiters (gewöhnlich geschlossenen Leiters), 
+welche hervorgerufen wird dadurch, dass sich der elektrische 
+Zustand seiner Umgebung ändert, einerlei, ob diese Aenderung 
+bewirkt wird durch Variation des elektrischen Zustandes der 
+Umgebung oder dadurch, dass der Leiter sich in einer mit 
+verschiedenem elektrischem Potential behafteten Umgebung 
+bewegt.
+In unserem Fall wird die Induktion in f g  offenbar so 
+lange währen, als die Zustandsänderung in b c, d. h. unter
+der Voraussetzung, dass der innere Widerstand des Elementes 
+(d a , )  ebenso gross ist, als der W iderstand in at a b c d  und, 
+dass das Stück d e  im Vergleich zu b c  so klein ist, dass es 
+vernachlässigt werden kann, nahezu so lange, als die E lek­
+tricität braucht, um von b bis с zu gelangen. Damit aber 
+hätten wir die Möglichkeit, die Fortpflanzungsgeschwindigkeit 
+der Elektricität zu bestimmen. Voraussetzung bleibt dabei, 
+dass die Zu s ta n d s  än d e r u n g  in b c  гевр. f g  in der ganzen 
+Zeit, wo die Elektricität von b bis с 'lauft, eine gleichmässige 
+ist. Präciser dürfte jedoch hierzu folgende Anordnung sein: 
+gmd undgneseien2Kupferdrähte,undzwargmd 
+doppelt so lang und von doppelt so grossem Quer­
+schnitt als g n e , so dass also beide einen gleichen  
+elektrischen W iderstand haben {m und n  sind ihre 
+Mitten) ;
+in g  und /  seien beide vereinigt; a und b seien Strom­
+unterbrecher, durch w elche /  mit — Zn  und g  mit -}-C,  
+den beiden Polen eines E lem entes, in Verbindung 
+gebracht werden können; I  und I I  seien zwei ganz 
+gleiche Voltameter und endlich X noch ein Kommutator, 
+welcher gestattet, d  mit I I  und в mit I  zeitweilig zu 
+verbinden (wir wollen diese Stellung als die zweite 
+Kommutatorstellung bezeichnen).
+M e ssu n g :
+Vorgang 1. b g e s c h lo s s e n ,  wodurch die Voltameter 
+und das ganze Drahtsystem das Potential —Zn  
+erhalten. Um zu vermeiden, dass hierbei in 1 
+und 11 ungleiche Arbeit geleistet w erde, kann 
+man b einmal bei der ersten, das zweite Mal bei 
+der zweiten Kommutatorstellung schliessen (im 
+letzteren Fall kommutiert man zurück, sobald 
+alles das Potential erhalten).
+Vorgang 2. Nachdem Vorgang 1 in obiger W eise, 
+d. h. ohne dass in 1 and I I  ungleiche Arbeit 
+geleistet, eingetreten, wird a g e s c h lo s s e n .  Die 
+durch g  hineinströmende positive Elektricität teilt 
+sich in g  wegen des gleichen elektrischen W ider­
+standes in zwei gleiche T eile und erreicht, da 
+gm solangalsge ist,diePunkteeundm im
+gleichen Augenblick. Während sie sich nun in
+gd vonm ausbisd bewegt,leistetsiein11schon
+Arbeit, so dass also, wenn der Ausgleich vollendet 
+ist, in 11 um so viel mehr Arbeit geleistet worden 
+ist, als ein Strom von der Stärke, wie er durch 
+g e  g ing , in der Zeit le istet, welche vergeht, 
+während die Elektricität das Stück m d  durchläuft.
+Der Gewichtsunterschied in 1 und I I  (er sei 
+mit у bezeichnet) giebt also die Zeit, welche ver­
+ging, bis die Elektricität das Stück m d  durchlief, 
+resp. die Fortpflanzungsgeschwindigkeit der E lek­
+tricität.
+Auch hier bedürfen wir zur Messung einer 
+vielfachen W iederholung des Vorganges. Zu dem 
+Ende wird
+Vorgang 3. a geöffnet. Die negative Elektricität 
+fliesst über /  weiter durch beide Voltameter, bis 
+sie sich, von beiden Seiten kommend, im ßogen  
+ngm, undzwarineinemPunktezwischeng undm,
+ausgeglichen hat. Hierbei dürfte wiederum in I  
+und I I  gleich viel Arbeit geleistet werden, und 
+wir sind zugleich damit so weit, dass der Vor­
+gang 2 von neuem eintreten kann. Vorgang 2 
+aber liefert durch den Gewichtsunterschied in I  
+und I I  bei der nötigen Zahl von Wiederholungen 
+die gesuchte Fortpflanzungsgeschwindigkeit.
+Anmerkung. (Eine Prüfung, ob Vorgang 3 wirklich 
+indifferent ist, kann man vornehmen, indem  
+man zuerst dem ganzen System das Potential 
++C giebt(analogwiefrüher,beiwechselnden 
+Kommutatorstellungen) und jetzt Vorgang 4 
+Ъ schliesst. Man kann dann V o r g a n g  3 
+eintreten lassen , d. h. a öffnen, oder V o r ­
+gang 5ЪöffnenunddiegemeinsameWir­kung von 3 u. 4 oder von 3 u. 5 untersuchen.)
+W enn nun gegen das Angeführte manche Bedenken er­
+hoben werden können, insbesondere gegen die Annahme, 
+dass das Gesetz der Stromteilung schon im Moment des 
+Stromentstehens resp. Verschwindens gilt, so dürften derartige 
+Versuche immerhin recht interessant sein, selbst wenn sie nur 
+die Giltigkeit des genannten G esetzes einschränken sollten. 
+Unabhängiger ist dagegen die nachstehende:
+г
+1.
+
+В. D y u a m o m e tr is c h e  M eth o d e . 
+gab сde seieinKupferdrahtvongrosserLänge,аb
+und с cL zwei gleich lange Stücke desselben, die auf den 
+Draht i h ,  von dem sie gleich w eit abstehen, inducierend 
+wirken sollen, /  ein Unterbrecher, durch welchen e mit - |-  с 
+verbunden werden kann, g mit —zn  (dem zweiten Pole des 
+Elem entes) fest verbunden, k i h l  ebenfalls ein Kupferdraht, 
+hi dasStückdesselben,aufwelchesabundсd einwirken
+(hi gleichlangmitab), endlichII einmiteundкfestver­bundenes Dynamometer.
+M e ssu n g :
+Vorgang 1. /  geschlossen. Der Schliessungsstrom  
+induciert in гА 2 Stösse, einmal im Moment, wo 
+der Strom von d  nach с geht, das zweite Mal im 
+Moment, wo er von b nach a geht. Beide sind 
+gleich und gleich gerichtet und liegen zeitlich um 
+so viel auseinander, als die Elektricität braucht, 
+um von с bis b zu gelangen*).
+Vorgang 2. /  geöffnet. Der Oeffnungsstrom erzeugt 
+ganz ähnlich zwei den vorigen entgegengerichtete, 
+untereinander aber gleichgerichtete Stösse, die 
+zeitlich wiederum ebenso w eit auseinander liegen, 
+wie die vorigen.
+Folgt nun Vorgang 2 so rasch auf Vorgang 1, dass der 
+zweite Stoss von 1 im selben Augenblick erfolgt, als der 
+erste von 2 ,  so heben sich ihre Wirkungen auf i h  nahezu 
+auf, da h i  gleichzeitig von zwei nahezu gleichen und ent­
+gegengesetzten Strömen induciert wird. Dasselbe gilt, wenn 
+jetzt wiederum Vorgang i  auf Vorgang 2 mit derselben 
+Schnelligkeit folgt; der zweite Stoss von 2 und der erste 
+des wiederholten Vorgangs 1 heben sich auf u. s. w. Schliesst 
+und öffnet man also /  nacheinander gleichmässig schnell und 
+mit einer solchen Geschwindigkeit, wie oben, so wird im 
+Dynamometer der Aufschlag zu einem Minimum verkleinert, 
+ln  der Zeit zwischen Schluss und Oeffnung von / ,  deren 
+Dauer man messen kann, legt aber die Elektricität jedesmal 
+das Stück с b zurück.
+*) A nm . d. R e d . Genauer d bia b, was aber bei der verhältnis­
+mässig grossen Länge von с b nicht in B etracht kommt.
+— e —
+Damit ist die Fortpflanzungsgeschwindigkeit bestimmt.
+Ersetzt man das Stück с b durch einen Draht aus anderem 
+Metall, so erhält man auch für dieses Metall die Fortpflan­
+zungsgeschwindigkeit und aus beiden W erten die relative 
+Fortpflanzungsgeschwindigkeit für beide Metalle.
+Der W ert der letzteren lässt sich übrigens noch weit 
+einfacher bestimmen.
+Es sei wiederum a b  c n n v d e f  g h  ein Kupferdraht, dessen  
+Enden a und h mit — Zn  und -f- С (den beiden Polen eines 
+Elementes) fest verbunden sind; bc  und f g  seien die zwei 
+inducierenden, gleich langen und von i  к gleich w eit ab­
+stehenden Teile desselben; m  ein Unterbrecher; n  und nx 
+zwei Klemmschrauben, welche mit Hilfe des von ihnen ge­
+tragenen Kupferdrahtes x  die Verbindung zwischen d  und с 
+hersteilen. Endlich sei p  г к q ebenfalls ein Kupferdraht, 
+dessen Enden mit dem Dynamometer I  fest verbunden sind; 
+und г к der inducierte T eil dieses Drahtes.
+Wird nun m  geschlossen, so erfolgt nach beiden Seiten 
+zu, d. h. nach с b und f g  hin, eie Ausgleich der Elektricität, 
+resp. der Strombeginn.
+x  werde nun so lang gewählt, dass wenn man m schliesst, 
+diese beiden durch den Ausgleich der Elektricität resp. durch 
+den Strombeginn erfolgenden Stcjsse in с b und g f  gleich­
+zeitig erfolgen. Da sie gleich und entgegengesetzt sind, 
+wird in diesem Fall in 1 kein Ausschlag erfolgen. Jede 
+Veränderung in der Länge von % aber bewirkt ein verschieden 
+schnelles Ankommen der Elektricität in с und f ,  also einen 
+Ausschlag in / * ) .
+Ersetzt man nun x  durch einep Draht у  aus anderem 
+Metall und macht diesen so lang, dass in I  ebenfalls kein 
+Ausschlag erfolgt, so sind die beiden so gefundenen Werte 
+von x  und у  in Bezug auf die Fortpflanzungsgeschwindigkeit 
+der Elektricität offenbar gleichwertig und das Verhältnis ihrer 
+Längen giebt direkt die gesuchte relative Geschwindigkeit.
+H e in r . v. R a u te n fe ld .
+*) A n m e r k u n g .  In  einem Dynamometer a d d i e r e n  sich in Bezug 
+auf den A usschlag entgegengesetzte Ströme, ohne R ücksicht auf ihr 
+Zeichen, wenn sie n a c h e i n a n d e r  erfolgen.
+— 7 —
+S i t z u n g s b e r i c h t e .
+3. S e p te m b e r  18 8 4 .
+Der Präses eröffnete die erste Versammlung nach den 
+Ferien mit einer kurzen Begrössung und gedachte der im 
+Laufe der Ferien verstorbenen M itglieder (Dr. Szonn, Dr. 
+Deeters und Konsul Rücker). Die Anwesenden ehrten das 
+Andenken der Verstorbenen durch Aufstehen. Neu aufge­
+nommen wurden: Kreislehrer W. M aass, Realschullehrer
+H. Naprowski, Chemiker A. Seyboth. An N a t u r a l ie n  
+wurden vorgelegt: ein als Geschenk von Professor Dr. Wolff 
+eingesandter, bei Kemmern erlegter Edelmarder (Mustela 
+martes), ferner mehrere Kuckucke, alte und junge in ver­
+schiedener Färbung , darunter auch ein rotfarbiges, Herrn 
+Oberingenieur Becker gehöriges Exemplar. Früher hielt man 
+die rot gefärbten Kuckucke für eine besondere Art, indessen 
+ist durch vielerlei Beobachtungen, insbesondere durch Auf­
+findung von Exemplaren im Uebergangsgefieder, festgestellt, 
+dass zuweilen ein-, auch zweijährige Weibchen des gemeinen 
+Kuckucks (Cucuius canorus) ein rotes Kleid tragen, worauf 
+sie später das gewöhnliche graue Kleid mit der gesperberten  
+Unterseite anlegen. Ferner wurden zwei ebenfalls im Besitz 
+von Herrn Oberingenieur Becker befindliche Goldregenpfeifer 
+vorgelegt, von denen der eine sein prachtvolles Sommerkleid 
+zeigt. Direktor Schweder übergab für die Sammlung des 
+Vereins die dort noch fehlende Kreuzkröte (Bufo ealamita) in 
+zwei Exem plaren, beide in diesem Sommer am Rigaschen 
+Strande gefangen, wo sie insbesondere abends auf den Dünen 
+häufig anzutreffen sind. Derselbe verliest ein Schreiben des 
+Herrn Oskar v. Löwis aus Meiershoff, worin derselbe zwei in 
+einem Gläschen beigelegte und jetzt vorgezeigte, angeblich 
+junge W ieseneidechsen (Lacerta vivipara) bespricht. „Die 
+lederartig weiche Haut, die weichen, krallenlosen Zehen“ er­
+scheinen Herrn v. Löwis „deutlich deren grosse Jugendlich­
+keit, die aber nach Tagen anzugeben allzugewagt sein dürfte“, 
+zu beweisen, während Direktor Schweder darin, sowie in der 
+Vierzahl der Vorderzehen, dem seitlich zusammengedrückten 
+Schwanz u. s. w. einen Bew eis dafür sieht, dass jene angeb­
+lichen W ieseneidechsen überhaupt keine Eidechsen, sondern 
+junge Molche (Triton taeniatus) sind.
+Ferner wurden lebend mehrere rotbraune Rüsselkäfer 
+vorgelegt, welche sich zahlreich in der Kymmelschen Bier­
+brauerei in aus Zaryzin bezogener Gerste vorgefunden. Sie 
+gehören wahrscheinlich der schädlichen Art Calandra granaria 
+an, welche nach Angabe von Gymnasiallehrer Müthel hier 
+bisher auch nur in Speichern gefunden ist.
+Kunstgärtner Gögginger sen. legt vor eine blühende 
+Tabakspflanze (Nicotiana affinis), io deren haarigen Blättern 
+zahlreiche Insekten gefangen waren, einen kanadischen Busch­
+kürbis und ein Stück Torf, welches auf der Brauerei von 
+Bertels bei Charlottenthal 15 Fuss unter der Oberfläche in 
+einem mächtigen Lager gefunden war. Fiskal Bernhardt legt 
+eine ungewöhnlich grosse Kornähre mit mehreren stark ent­
+wickelten Seitenähren vor, sowie eine enghalsige Flasche, in 
+der sich ein grosser A pfel befand.
+Zum Schluss gab Oberlehrer W e r n e r  einen eingehenden 
+Bericht über seinen Besuch der deutschen Seewarte 
+bei Hamburg, über die dortigen meteorologischen Apparate 
+und die Art der dortigen Arbeiten, ferner eine Beschreibung  
+der ebenfalls von ihm besuchten privaten meteorologischen  
+Warte in Magdeburg.
+Am 24. S e p te m b e r  1884 .
+Der Direktor eröffnet die Sitzung mit der Mittheilung, 
+dass der Verein ein langjähriges Mitglied, Herrn v. Löwis- 
+Panten, durch den Tod verloren habe. Die Anwesenden ehr­
+ten das Andenken des Verstorbenen durch Aufstehen. Zum 
+ordentlichen Mitgliede wurde Herr Ratsherr Victor Zwingmann 
+aufgenommen; das frühere Mitglied Herr Dr. Dihrik hatte 
+seinen W iedereintritt angezeigt. Der Direktor teilt mit, dass 
+von dem Herrn Geheimrat Wichmann mehrere wertvolle 
+mathematische und naturwissenschaftliche Werke, sowie eine 
+Anzahl von Versteinerungen dem Naturforscher-Verein als 
+Geschenk dargebracht worden seien. Desgleichen war eine 
+Kollektion von 32 Marmorsorten aus dem Gouvernement 
+Olonez als Geschenk von Fräulein Grunwaldt eingelaufen. 
+Herr Kapitän Zwilling hatte dem Verein mehrere Barten eines 
+im Juni 1883 an der Murmankiiste getöteten W als als G e­
+schenk übersandt. Ferner waren als Geschenke eingelaufen
+zwei Hornhechte von Herrn Schubert, ein Skorpion und eine 
+Kreuzspinne vom Gymnasiasten Kreuzer und ein in Kurland 
+geschossenes, eigentümlich gefärbtes Eichhörnchen von Herrn 
+Oberforstmeister Jürgensohn. V orgezeigt wurden: ein Hamster, 
+eine Springmaus und ein langohriger (sibirischer) Igel (den 
+Sammlungen des Stadtgymnasiums gehörig), ferner zwei in 
+eine Baumwurzel hineingewachsene Kartoffelknollen, mehrere 
+durch M eereswellen zusammengeballte Kugeln aus W urzel­
+fasern bestehend (mitgebracht von Herrn Dulckeit) und eine 
+aus Sessw egen stammende doppelte Kornähre (eingesandt 
+von Herrn W eiss).
+Oberlehrer W e r n e r  sprach über die A n w e n d u n g  d e s  
+Prinzips der Waage zurAufzeichnung der Schwan­kungen des Barometers underläuterteausführlichanAb­bildungen den Waagebarograph von Sprung, wie er vom 
+Mechaniker Fues in Berlin angefertigt wird.
+Zum Schluss sprach Herr K ollegienrat Eckers über Spalt­
+pilze, deren Natur, Grösse, Form, Farbe, Vermehrung, Stand­
+orte, Arten und deren Wirkungen er schilderte.
+Am 15. O k to b e r  1 8 8 4  im  P o ly te c h n ik u m .
+Zu ordentlichen Mitgliedern wurden die Herren Ober­
+lehrer Anders und Lehrer Ahbel aufgenommen. An N a tu ­
+ralien wurdenvorgezeigtzweikorkenzieherartiggewundene
+Möhren und eine handförmig gebildete Rübe durch Herrn 
+Gögginger, ferner zwei hier .gelegte Papageien-Eier durch 
+Herrn Baron Nolken.
+Herr Professor B eck  sprach über den gegenwärtig bei 
+astronomischen Beobachtungen benutzten C h r o n o g r a p h e n . 
+Während früher grosse Uebung und Geschicklichkeit bei dem 
+Astronomen vorausgesetzt werden m usste, wenn es galt, 
+einen zu fixierenden Zeitpunkt auf Vio Sekunde genau zu 
+bestimmen, gestattet der Chronograph gegenwärtig auch dem 
+weniger geübten Beobachter, derartige Messungen auf Vioo 
+Sekunde genau auszuführen. Das Princip des Chronographen 
+ist folgendes: Auf einem mit gleichförmiger Geschwindigkeit 
+fortrückenden Papierstreifen wird jeder Sekundenschlag eines 
+Chronometers durch Eindrücken eines Stiftes markiert. Es 
+geschieht dieses dadurch, dass bei jedem Sekundenschlage
+— 10 —
+ein elektrischer Strom geschlossen wird, der auf einen 
+Elektromagneten wirkt. Unabhängig von diesem Elektro­
+magneten befindet sich unmittelbar daneben ein zweiter 
+Elektromagnet samt Anker, dessen Stromkreis durch den 
+Beobachter im gegebenen Moment geschlossen werden kann. 
+Hierdurch wird der zu fixierende Zeitpunkt auf dem Papier­
+streifen markiert. Durch M essung des Abstandes dieser 
+Marke von den zwei zunächstliegenden Sekundenmarken lässt 
+sich der gewünschte Zeitpunkt auf Vioo Sekunde genau be­
+stimmen. Diese Messung wird durch ein Glaslineal ausgeführt, 
+auf welchem ein Masstab eingeritzt ist. Redner erläuterte 
+die W ichtigkeit dieses Apparats an mehreren Beispielen, wie 
+die Bestimmung der Zeit des Beginns einer Sonnenfinsterniss, 
+der Kulminationszeit eines Gestirns, die Bestimmung der 
+geographischen Länge etc. Der Fehler, der darin liegt, dass 
+der Anker Zeit braucht, um der Anziehung des E lektro­
+magneten zu folgen, sow ie der persönliche Fehler des Be­
+obachters, wird bei den meisten derartigen Beobachtungen  
+kompensiert. Herr Professor Beck führte mehrere Versuche 
+der Zeitbestimmung für den Fall eines Körpers an der 
+Atwoodsehen Fallmaschine aus, wobei die beobachteten Fall­
+zeiten sehr genau mit den berechneten übereinstimmten. 
+Redner ging nun zur Besprechung der bei diesen Versuchen 
+benutzten elektrischen U hr, die von Herrn Raasehe in Riga 
+angefertigt worden, über. Die Bewegung des Pendels wird 
+durch ein kleines Gewicht reguliert, «während der Zeiger­
+mechanismus durch einen elektrischen Strom bewegt wird, 
+welcher ausserdem noch das Aufziehen des Gewichts besorgt. 
+Zum Schluss erläuterte Professor Beck die Einrichtung der 
+elektrischen Uhr im Treppenhause des Polytechnikums, durch 
+welche unter anderem auch der im Vortragsraum angebrachte 
+Zeitindikator in Bewegung gesetzt wird. Die Zeitindikatoren 
+bestehen aus Zeigerwerk und Zifferblatt und sind in jüngster 
+Zeit durch Hipp wesentlich verbessert worden.
+Am 29. O k to b e r  1884.
+Der Direktor teilte der Versammlung das erfolgte Ab­
+leben des langjährigen M itgliedes des Vereins, des dim. 
+Landrats v. G rote , mit. Die Anwesenden ehrten das An­
+— 11 —
+denken des Verstorbenen durch Aufstehen.— Zum ordentlichen 
+M itgliede wurde Herr Johannes Pohrt aufgenommen.
+An N a tu r a l ie n  waren eingegangen von Herrn Apotheker 
+N eese in Kiew: die Früchte mehrerer Pinus-Arten und einiger 
+anderer Bäume aus der südlichen Krim und aus Mentone, 
+ferner Gips aus Kiew, eine Phosphorit-Kugel aus dem Thal© 
+des Dnestr bei Mohilew, Bernstein aus Kiew, versteinertes 
+Nadelholz aus dem Dnepr und ein Stück Labrador aus 
+Kameny-Brod. Ausserdem wurden übergeben: verkalkte 
+Baumwurzeln, die bei Nordeckshof ausgegraben worden, 
+durch Herrn Dr. Allenstein, ein Seehase durch Herrn 
+Gögginger, eine Rohrdrossel und ein Schilfsänger als Ge­
+schenk des Herrn Niederlau, ein F lüevogel durch Herrn Dr. 
+Buhse, das N est einer Schwanzmeise und ein Exemplar des 
+kleinen Brachvogels aus Oesel und ein junger Uhu im Dunen­
+kleide, welcher für die Sammlungen angekauft worden war.
+Oberlehrer H e llm a n n  sprach über die a tm o s p h ä r is c h e  
+E le k t r i c i t ä t  nach einer Broschüre von Palmieri, in welcher 
+dieser Gelehrte seine Studien, die sich auf einen Zeitraum 
+von 32 Jahren erstrecken und auf dem Observatorium des 
+Vesuvs und an ändern Orten angestellt sind, niedergelegt 
+hat. Der Apparat, den Palmieri bei seinen Beobachtungen 
+anwandte, bestand im wesentlichen aus einem isolierten 
+Leiter, der mit einem Elektroskop von Bohnenberger in 
+Verbindung stand und zur'jedesm aligen Beobachtung gehoben  
+resp. gesenkt werden konnte. Mit diesem Apparat liefert 
+Palmieri den Beweis, dass die atmosphärische Elektricität 
+durch Influenz auf die in der freien Luft befindlichen Leiter 
+wirkt und sich denselben nicht durch Berührung mittheilt, 
+ebenso, dass die meist negativ elektrische Erdoberfläche durch 
+die Luftelektricität induciert ist. Palmieri fand sowohl bei 
+heiterem W etter als auch bei bedecktem Himmel die Luft 
+stets -f- elektrisch, wenn in einem Umkreise» von etwa 70 
+Kilometer (Werst) Radius nicht R egen, H agel oder Schnee 
+fiel, dagegen war negative Elektricität ein sicheres Anzeichen  
+dafür, dass innerhalb dieser Grenze ein Niederschlag statt­
+fand. Besonders an ruhigen und heiteren Tagen war eine 
+Periode imGangederElektricitätwahrnehmbar,undzwar
+erhielt Palmieri 2 Maxima, gegen 9 Uhr Morgens und bald 
+nach Sonnenuntergang, und 2 Minima, gegen Tagesanbruch
+— 12 —
+und Nachmittags. Bei bewölktem Himmel war die Elektrici­
+tät meist weniger intensiv und ohne eine klar ausgesprochene 
+tägliche Periode. Eigentümlich war das Verhalten des 
+Elektroskops, wenn von grosser Entfernung her eine R egen­
+wolke sich näherte: zunächst zeigte dasselbe verstärkte -J- 
+Elektricität, dann — Elektricität und wenn der Regen den 
+Beobachter erreicht hatte, wieder starke -f- Elektricität. 
+Entfernte sich dann die W olke, so zeigte das Elektroskop  
+— Elektricität und nach einer gewissen Zeit wieder - f -  
+Palmieri sieht in der Kondensation des Wasserdampfes eine 
+reichliche Quelle der Elektricität. Um die regnende W olke 
+herum befindet sich nach Palmieri eine mehr oder weniger 
+breite Zone von inducierter negativer Elektricität; auf diese 
+folgt eine andere Zone positiver Elektricität, die dann in 
+grösserer Entfernung rasch abnimmt. Gewitterregen machen 
+von diesem Gesetz keine Ausnahme; nur wird jeder Blitz­
+schlag dadurch am Elektroskop angezeigt, dass sich das 
+Goldblättchen im selben Augenblick dem einen Pole plötzlich 
+nähert oder plötzlich davon entfernt, was auf eine rapide 
+Ab- oder Zunahme der inducierenden Elektricität deutet. 
+Den Ursprung der atmosphärischen Elektricität sieht Palmieri 
+in der Verdampfung des W assers, wobei der Dampf positiv 
+elektrisch wird, während bei der Kondensation des W asser­
+dampfes diese Elektricität stark, oft bis zur Funkenbildung, 
+zunimmt. — In der Diskussion sprachen sich Professor  
+Grönberg und Professor Beck gegen Bildung der Elektricität 
+bei Verdampfung aus und wiesen auf den Widerspruch hin, 
+dass nach Palmieri sowohl bei Verdampfung als auch bei Kon­
+densation positive Elektricität entstehe, während die doch 
+gleichzeitig gebildete negative Elektricität nicht zur Er­
+scheinung komme.
+Am 12. N o v e m b e r  1884.
+Der Direktor teilt eine Notiz des Herrn Forstmeisters 
+v. Wardenburg auf Oesel mit, nach welcher Herr v. Warden­
+burg im August c. auf Oesel einen Edelmarder erlegt hat. 
+Von Herrn Professor Grewingk waren zwei Broschüren als 
+Geschenke eingegangen: 1) Ueber die vermeintliche, vor 700 
+Jahren die Landenge Sworbe durchsetzende schiffbare W asser­
+— 13 —
+strasse, und 2) Neue Funde subfossiler W irbeltierreste un­
+serer Provinzen.
+Herr v. R a u te n f  eld-L indenruh hielt einen Vortrag über 
+dynamoelektrische Maschinen.NachdemderVor­tragende das W esen des Magnetismus, soweit es bis jetzt  
+erkannt ist, erläutert und das dynamoelektrische Grundgesetz 
+besprochen hatte, ging Redner speciell auf die Principien der 
+Konstruktion der gegenwärtig gebräuchlichen dynamoelektri­
+schen Maschinen ein. Br gruppierte sie nach ihrer Kon­
+struktionsform als solche mit einem Flächenring und mit 
+einem Cylinder, und nach ihrem Effekt als solche, die einen 
+Wellenstrom, einen W echselstrom und einen kontinuierlichen 
+Strom liefern. Der Vortragende verweilte ferner bei dem 
+durch Siemens aufgestellten „ d y n a m is c h e n  P r in c ip “, nach 
+welchem der Magnet zur Verstärkung seiner magnetischen 
+Kraft in den Hauptstrom eingeschaltet w ird, sowie bei den 
+Verbesserungen, die später Edison durch Einschaltung in 
+einen Nebenstrom , und endlich Siemens und Andere durch 
+eine doppelte W ickelung (sog. Compoundwickelung) erzielten. 
+Bei Besprechung der die Wirkung der Maschine beeinträch­
+tigenden Erwärmung des Magneten und der Windungen schlug 
+Redner vor, hinter den Elektromagneten starke Stahlmagnete 
+zur Unterstützung anzubringen und hob hervor, dass die Zu­
+kunft der Dynamomaschine in der Herstellung gesättigter  
+Stahlmagnete zu suchen sei. Die wissenschaftliche Systematik 
+anlangend sprach sich der Vortragende dahin aus, dass für 
+dieselbe die Konstruktion der Maschine, sowie ihre Entwicke­
+lungsgeschichte massgebend sein müsse; die Klassificierung 
+nach dem Effekte sei schon deswegen zu verwerfen, weil 
+dieser durch geringfügige Veränderungen an der Maschine 
+vollkommen umgestaltet werden könne.
+Am 17. D e c e m b e r  1884.
+Herr G ö g g in g e r  sen. teilt ein Verfahren mit, durch 
+w elches ein allmähliches, aber andauerndes Anfeuchten der 
+Wurzeln der Zimmerpflanzen erreicht wird. Es geschieht 
+dieses dadurch, dass das W asser nicht plötzlich auf den 
+Blumentopf gegossen , sondern durch eine W ulst von roher
+— 14 —
+Baumwölle, welche als H eber wirkt, demselben tropfenweise 
+zugeführt wird.
+Direktor S c h w e d e r  legt der Versammlung einen in den 
+Sammlungen des Vereins nicht vertretenen Vogel, den Tord- 
+Alk, vor, der nach Russow für uns zu den Durchzugsvögeln 
+gehört. Bei dieser G elegenheit besprach Direktor Schweder 
+noch eine andere Species, den fluglosen oder Riesen-Alk, der 
+im höchsten Norden lebte und dort den Pinguin oder die 
+Fettgans des Südens vertrat, aber gegenwärtig ausgerottet 
+zu sein scheint.
+Herr Dr. v. G u tz e it  machte eine Mitteilung über das 
+Leben der für unsere Schmetterlingskunde so verdienstvollen  
+Pastorin Friederike Wilhelmine L ienig, geb. v. B erg, und 
+übergab im Namen von Herrn Georg Lange ihre Photographie 
+für das Album des Vereins.
+Herr T e ic h  brachte unter Vorzeigung eines mikroskopi­
+schen Präparats eine Notiz über die H a f t la p p e n  an d en  
+Füssen der Insekten, mittelstderensieimStandesind,
+an glatten Wänden emporzukriechen. Nach der früheren 
+Anschauung sollte der Luftdruck auf die Haftlappen dieses 
+ermöglichen, während gegenwärtig mikroskopische Unter­
+suchungen dargethan haben, dass die Haftlappen mit- feinen 
+Haaren besetzt sind, die eine klebrige Flüssigkeit absondern.
+Im weiteren Verlauf der Sitzung wurde zwischen Herrn 
+Professor Grönberg und Herrn v. Rautenfeld die in voriger 
+Sitzung begonnene Diskussion darüber fortgesetzt, ob zur Er­
+haltung des magnetischen Zustandes in weichem Eisen der 
+elektrische Strom Arbeit, zu leisten habe oder nicht. Herr 
+v. Rautenfeld vertrat die erstere Ansicht, während Professor 
+Grönberg, gestützt auf allgemeine Principien, dieses verneinte.
+Zum Schluss teilte Herr v. R a u t e n f e ld  zwei neue von 
+ihm ersonnene Methoden zur Bestimmung der G e s c h w in ­
+d ig k e i t  d er  E le k t r ic i t ä t  mit.
+Am 14. J a n u a r  1885 .
+An N a tu r a l ie n  waren eingegangen: Von Herrn A po­
+theker Buchardt: Ein W asserstaar, der nach Russow ein 
+W intergast unserer Gegenden ist, ferner ein Sandart und eine 
+Schmerle von Herrn Bergmann. Von Herrn Obrist v. Schubert
+-  15 -
+war eine Perlmuschel (Unio-Arfc) mit echten Perlen eingesandt 
+worden, die aus dem kleinen Fluss Kereti stammt, der sich 
+in den nordwestlichen Busen des W eissen Meeres ergiesst. 
+H err Teich übergab 13 Species von Schmetterlingen, welche 
+in den Vereinssammlungen nicht vertreten sind, als Geschenk. 
+Herr Oberforstmeister Jürgensonn übergab eine Verbänderung 
+einer Grähne, welche noch mit Nadeln bedeckt war.
+Professor G r ö n b e r g  sprach über die G e s t a l t  d er  
+Erde undspeciellüberdasGeoid.NachdemRednerin
+historischer Uebersicht kurz die Wandlungen der Anschauungen  
+über die Gestalt der Erde berührt, besprach er die seit dem 
+17. Jahrhundert ausgeführten Gradmessungen, als deren Er­
+gebnis für die Gestalt der Erde sich den Newtonschen An­
+schauungen entsprechend ein abgeplattetes Sphäroid ergab 
+und ging dann näher auf die seit derselben Zeit aller Orten 
+angestellten Pendelbeobachtungen ein, durch welche zwar 
+nicht direkt die Krümmung der Erdoberfläche gemessen  
+werden, wohl aber die Grösse der Schwerkraft für die ver­
+schiedenen Orte bestimmt werden konnte, worauf sich ein 
+Schluss auf die Gestalt der Erde machen liess. Wenn die 
+Resultate der Pendelbeobachtungen nun im grossen Ganzen 
+auch mit denen der Gradmessungen übereinstimmten, so er­
+gaben sich in speciellen Fällen doch so bedeutende Diffe­
+renzen, dass ein neues Studium der Frage unabweislich wurde. 
+Im Beginn dieses Jahrhunderts hatte man die lotablenkende 
+Wirkung der Gebirgsmassen erkannt. Da an der M eeres­
+oberfläche derartige Einflüsse ausgeschlossen zu sein schienen, 
+so galt es, durch Gradmessungen und Gravitationsbeobach­
+tungen die Natur dieser Fläche, welche man sich als Niveau­
+fläche unter den Kontinenten fortgesetzt dachte, zu bestimmen. 
+Durch fortgesetzte Messungen der Pendelschwere erkannte 
+man aber bald, dass Gauss und B essel in der Annahme, der 
+Spiegel des Meeres sei eine Niveaufläche, geirrt hatten. Es 
+ergab sich, dass auf demselben Parallelkreise die Anzahl der 
+täglichen Schwingungen des Pendels in der Nähe der Küste 
+eine geringere war als auf Inseln mitten im Ocean, woraus 
+hervorgeht, dass die Kontinente durch ihre Gravitationswirkung 
+das W asser an sich emporziehen. Nach der Formel Д  h =
+C .A N , wo N die Anzahl der täglichen Schwingungen und 
+die Konstante 0  120 Meter bedeutet, konnte man die Höhen­
+— 16 —
+differenz berechnen. Für den Atlaptischen Ocean ergab sich 
+beispielsw eise ein Unterschied der Höhe von 1000 Meter. 
+Da das sog. Meeresniveau nicht überall dasselbe ist, so ist 
+diese Fläche auch nicht geeignet, zur Basis für die M es­
+sungen zu dienen, welche die wahre Erdgestalt ermitteln 
+sollen. Eine derartige wirkliche Niveaufläche wird nach 
+Lietings Vorgänge von Bruns ein G-eoid genannt und am 
+anschaulichsten folgendermaassen definiert: Denkt man sich 
+vom Erdmittelpunkt aus einen materiellen Punkt nach ver­
+schiedenen Richtungen fortgeschoben, so erfüllen alle Punkte, 
+bis zu welchen der fragliche Massenpunkt in der nämlichen 
+Zeit mittelst Aufwendung des nämlichen Arbeitsquantums 
+emporgehoben werden konnte, eine Geoidfläche. D iese ist 
+dcmgemäss eine geschlossene Fläche; sie wird wegen der 
+ungleichen Massenvertheilung der Erdkugel eine unregel­
+mässige und eines mathematischen Ausdrucks nicht fähige 
+sein. Die Erdrinde enthält unendlich viele solcher Niveau­
+flächen, von denen e in e  durch Pendelbeobachtungen und 
+Nivellements empirisch bestimmt werden müsste. Den Oceanen 
+werden im allgemeinen Einsenkungen, den Kontinenten Er­
+hebungen des Geoids entsprechen. Die Ansichten von Bruns 
+gehen dahin, dass erst von dieser Grundlage aus brauchbare 
+Gradmessungen möglich seien.
+Am 28. J a n u a r  1885.
+An N a tu r a l ie n  waren eingegangen: ein lebendes Exem­
+plar von Piscicola geometra durch Herrn Bermann, ferner 
+das Männchen einer Eisente aus Kurland vom Forstmeister 
+Ostwald, bei welcher G elegenheit Direktor Schweder unter 
+Vorlegung zahlreicher Exemplare von Eisenten auf die nach 
+Jahreszeit und Geschlecht grossen Unterschiede in der Aus­
+bildung und Färbung der Federn- aufmerksam macht. Der­
+selbe übergab ferner einen ebenfalls im Januar geschossenen  
+W asserstaar, welcher von Herrn Förster Schulz aus Oger 
+eingesandt war; auch legte er mehrere Exemplare von Gold­
+hähnchen vor, von denen er bisher immer nur die Species 
+Regulus flavicapillus erhalten habe, während ihm ein Regulus 
+ignicapillus, von dem ein ausländisches Exemplar vorgezeigt 
+wird, hier noch nicht vorgekommen sei, obgleich das hiesige
+— 17 —
+Vorkommen nach Russow feststehe. Sodann wurde ein präch­
+tiger, hier geschossener Rackelhahn vorgezeigt mit dem B e­
+merken, dass jetzt in Böhmen bei W interfeld eine künstliche 
+Zucht dieser Vögel angelegt sei, von der die Abbildung eines 
+4 Tage alten Hühnchens vorgelegt wird. Zugleich wird 
+darauf hingew iesen, dass die in der Vereinsšammlung vor­
+handenen Exemplare von Birkhühnern (Hähnen und Hennen) 
+recht schadhaft seien und der Erneuerung bedürfen.
+Direktor S c h w e d e r  macht auf neuere Untersuchungen, 
+betreffend das F l i e g e n  und S c h w e b e n  d e r  V ö g e l ,  auf­
+merksam. Danach muss ein mit ausgebreiteten Flügeln in 
+ruhiger Luft liegender V ogel unbedingt fallen und zwar gerade 
+abwärts, wenn er ganz horizontal liegt, schräg nach vorn 
+abwärts bei schräg abwärts geneigtem Kopfe. In letzterem  
+Fall erlangt er, wenn man von dem Einfluss der Reibung ab­
+sieht, eine G eschwindigkeit, durch welche er , wenn er sich 
+je tz t schräg nach oben stellt, bis fast zu derselben Höhe 
+zurücksteigen muss, aus der er gefallen war. Hat der V ogel 
+sich eine gew isse Geschwindigkeit ertheilt, so muss er, schräg 
+nach oben gestellt, auch ohne die Flügel zu bewegen, bis zu 
+der Höhe steigen, aus der fallend er jen e Geschwindigkeit 
+erlangt hätte. Herrscht ein mässiger und, wie dies meist der 
+Fall ist, ein mit der Höhe zunehmender W ind, so kann der 
+V ogel auch ohne Flügelbewegung, blos durch passende Stel­
+lung steigen aus denselben Ursachen, die einen durch einen 
+Faden gegen den Wind gehaltenen Drachen heben. Aber 
+nicht nur das bewegungslose Steigen erfolgt gegen den Wind, 
+auch beim Fliegen mit Flügelschlag steigt der V ogel leichter 
+gegen den Wind. Er fliegt aber auch mit dem Winde, bewegt 
+sich dann aber schneller als dieser, so dass ihm die Luft re­
+lativ entgegenströmt. Hierzu bemerkt Oberlehrer G o t t f r ie d t ,  
+dass bisweilen das ruhige Schweben der grossen Vögel doch 
+nur scheinbar ein solches ist, er habe einmal bei dem in 
+seiner Nähe erfolgenden Aufsteigcn eines Adlers ein lautes 
+Brausen gehört, welches offenbar von den schnellen Vi­
+brationen der Flügel veranlasst gew esen. In einem ausge­
+breiteten F lügel liegen die schmalen, steifen Aussenfahnen 
+oberhalb, während sich die breiten, weicheren Innenfahnen 
+unter die Aussenfahne der Nachbarfeder legen. Hebt nun ein 
+V ogel den Flügel, so geben die Innenfahnen nach und lassen
+Korr.-Bl. des N.-V. XXV1IJ. 2. 2
+— 18 —
+die Luft durcbgehen; schlägt der V ogel die F lügel aber ab­
+w ärts, so legen sich die Innenfahnen unter die folgenden 
+Aussenfahnen, und es bildet der Flügel eine grosae geschlos­
+sene Fläche, durch dessen Druck auf die Luft der Vogel ge­
+hoben wird, ln  der Natur kommen wohl beide Arten des 
+Steigens der Vögel vor, sowohl in der zuerst geschilderten  
+W eise nach Art eines Drachens, wie auch in der zuletzt an­
+gegebenen W eise, wo der schnell auf- und abbewegte Flügel 
+wie die Klappe eines Blasebalges arbeitet. Für die Benutzung 
+des entgegenströmenden Windes zum Steigen führt Ober­
+lehrer G o t t f r ie d t  noch an, dass man bei der Jagd auf 
+Taucher immer von der W indseite auf sie losgeht, da sie, 
+nur gegen den Wind auffliegen könnend, so dem Schützen 
+entgegenfliegen.
+Der Präses teilt ein Schreiben des Herrn Dr. C. v. L u tz  au 
+aus Wolmar mit, wonach es demselben gelungen ist, folgende 
+hier bisher unbekannte S c h m e t t e r l in g e  zu fangen:
+1. Notodonta bicolaria, var. albida B,, gef. bei Karlsbad am 
+Rig. Strande 8. Juni 1882.
+2. Nonagria gemini punctata, Hatch., gef. bei Wolmar 
+28. Aug. 1883.
+3. Leucania L. album, L., gef. bei Wolmar 12. u. 14. Juni 1884.
+4. Taeniocampa stabilis View., gef. b. Wolmar 10. Mai 1884. 
+Nach Dr. v. Lutzau war der Sommer 1884 dadurch aus­
+gezeichnet, dass viele seltene Arten in grossen Massen auf­
+traten, während sonst gewöhnliche Arten fehlten oder spärlich 
+vertreten waren. Sehr zahlreich waren insbesondere Agrotis 
+sobrina und hyperborea, Caradrina Selini. Von Seltenheiten  
+fing Dr. v. Lutzau eine Diphthera ludifica am 19. Juni 1884 
+in Kemmern.
+Kreislehrer T e ic h  führt folgende, von ihm 1884 als für 
+uns neu gefangene Schmetterlinge an:
+1. Leucania impudens, Hb., Kemmern 19. Juni am Köder.
+2. Acidalia herbariata, F., auf dem W all 11. Juni.
+3. Lobophora appensata, Ev., Kemmern 9. Mai, vom Baum 
+geklopft.
+4. Eupithecia var. callunaria, Dbld., Schlock 16. Jani.
+5. Botys stachydalis, Zk., Kemmern 14. u. 19. Juni.
+6. Botys ferrugalis, Hb., Kemmern 19. Juni.
+7. Teras rufana, Schiff., Kemmern 4. Mai.
+— ts
+8. Tortrix dumetfma, Tr., NetHDubbeln 22. Juli.
+9. Cochylis notulana, Z., SchJoök 16. Jirni.
+10. Rhopobeta var. gem inana,S tyhM Ke*mnern 7., Juli.
+11. Glyphipterix forsterella, F»> Kammern Schlock in der 
+ersten Hälfte des Juni.
+12. Opostega auritella, Hb., Schlock in der ersten Hälfte des 
+Juni, abends an einigen nassen Stellen in Menge.
+13. Biston stratarius, Hufn., Kemmern an einer Eiche am 
+15. April, daher das Fragezeichen bei NolckCn zu streichen.
+14. Herthiiiia cribrumalrs, Hb,, Schlock ii. Kemmerti im Juni. 
+Letztere Art war schon von ' Frau Lienig aufgeführt, von 
+Ко1скёй aber wieder fortgelissen . :
+Im ganzen ergiebt sich somit folgender Bestand für 
+unsere Schmetterlingsfauna:
+Rhopal. . 109 Arten
+Sphing. . 38 n
+Bomb. . . . 134 »
+Noct. . . 296 n
+Geom. . . . 253 и
+Pyral. . . 142 »
+Tortric. Ш »
+Tin. . . . 571 \ »
+Pteroph. . . 33 n
+Zusammen 1867 Arten.
+Am 11. F e b r u a r  188 5  im  P o ly te c h n ik u m .
+Der Direktor eröffnete die Sitzung mit der Anzeige, dass 
+der Verein eins seiner hervorragendsten Ehrenmitglieder, den 
+Akademiker und General G. v. Helmersen, durch den Tod 
+verloren habe. Er hob insbesondere hervor, dass der Ver­
+storbene nie unterlassen habe, ein Exemplar seiner zahlreichen 
+wertvollen Arbeiten unserm Verein zu übersenden. Die An­
+wesenden ehren das Andenken des Verstorbenen durch 
+Aufstefcen.
+Prof. T h o m s berichtet unter Vorzeigung von Präparaten 
+und nachdem er unter die Anwesenden bezügliche Tabellen  
+verteilt hat, aber eine von ihm im Sommer 1884 veranstaltete
+2*
+— 20 —
+Probe - Agrar - Enquöte für Livland. (Soll in der baltischen 
+W ochenschrift veröffentlicht werden.)
+N a tu r a lie n . Von Herrn Forstmeister E. Ostwald war 
+war ein Sägetaucher eingesandt.
+Am 25. F e b r u a r  1885.
+Zu ordentlichen Mitgliedern werden die Herren Lehrer 
+Karl H elm s, Simeon Nowitzky und Kaufmann Landenberg 
+aufgenommen.
+Naturalien: EingegangenwaralsGeschenkfürdie
+Sammlung des Vereins von Herrn Kaufmann Pohrt ein aus- 
+gestopfter Birkhahn.
+Herr Fabrikdirektor B eh rm a n n  sprach sodann über den 
+Salzgehalt der Ostsee. DerVortragendehattedurch
+das freundliche Entgegenkommen des Kapitäns der „Ostsee“, 
+Herrn Breidsprecher, zahlreiche Proben von Ostseewasser er­
+halten, die letzterer auf seinen regelmässigen Touren von 
+Riga nach Stettin an bestimmten Punkten genommen. Es 
+befanden sich vier Stationen in der O stsee, die 5. und
+6. Station im Rigaschen Meerbusen. Alle 66 Proben von 
+11 Reisen sind in der Zeit vom 15. Juni bis zum 12. Novbr. 1884 
+n. St. genommen worden, und ergiebt die Untersuchung als 
+mittlern Salzgehalt für die einzelnen Stationen, von Stettin aus 
+gerechnet, nebst dem Maximum und Minimum folgende Werte:
+Mittel. Maximum. Minimum.
+1„ 0,727 \ 0 ,77 bei W estwind 0 ,68  bei Ostwind
+2. 0,725 ( 0 ,76 0,69
+3. A ( 0,699  0,713 l ! 0 ,76 0 ,67
+4. 0,642 / 0 ,68 0 ,55
+5. 0 ,5 3 8 ) n 0,59 bei Ostwind 0,48  bei W estwind.
+’ 0,540  
+6. 0 ,543 ) 0 ,59 0,50
+Nach Ackermanns „Beiträge zur physischen Geographie 
+der O stsee“ ist der Salzgehalt bei Westwinden grösser als 
+bei Ostwinden, und findet dieses nach den in der Ostsee g e ­
+nommenen Proben auch seine Bestätigung; für den Rigaschen 
+Meerbusen ergiebt sich das Umgekehrte.
+Ferner wird nach Ackermann der Salzgehalt am grössten  
+im W inter, im Sommer geringer. Vergleicht man die hier
+— 21 —
+für den Rigaschen Busen gefundenen W erte mit denen am 
+Strande gemachten Beobachtungen, so ergiebt sich
+Mittel. Max. Min.
+nach den Beobachtungen von Dir. Schweder 0,4998 0,бо 0,35
+„ „ „ „ Prof. Glasen app 0,59 0,67 0,46
+„ „ Untersuchungen des Vortragenden 0,54 0,53 0,50
+W ie der Salzgehalt an einigen Punkten der Ostsee 
+schwankt, zeigen die Beobachtungen an der Stockholmer 
+Station, wo Differenzen bis zu 2 ^  Vorkommen, und zwar er­
+sichtlich durch die Winde veranlasst.
+Die oberen, an Salz ärmeren Schichten werden durch den 
+Wind abgetrieben und die an Salz reicheren Schichten kom­
+men an die Oberfläche.
+Strömungen müssen auch berücksichtigt werden, daher 
+ist es erklärlich, dass trotz des grossen Entwässerungsgebiets 
+der O stsee, welches nur süsses W asser liefert, die Ostsee 
+stets salzhaltig blieb: das süsse W asser fliesst zum Teil 
+ab, während salziges zuströmt. Der geringe Salzgehalt im 
+Frühling ist dem dann zuströmenden Schneewasser zuzu­
+schreiben.
+Redner hat am 29. Juli 1884 auch an der Ostküste von 
+Runoe Proben zu verschiedenen Tageszeiten genommen, die 
+im w esentlichen dieselben Resultate ergaben, und zwar auch 
+einen geringeren Salzgehalt, als die am selben Tage bei 
+Dünamünde entnommene Probe.
+Im Anschluss an das M itgeteilte bemerkt Dir. S c h w e d e r ,  
+dass nach den Angaben von Dr. H. A. Meyer in den „Unter­
+suchungen deutscher M eere“ IV  der Salzgehalt in folgender 
+W eise von Ost nach W est zunimmt:
+Oestlich von Rügen . . . . b/±%
+Zwischen Rügen und Fehmarn 1 %
+Ö r e s u n d ........................................1XU%
+Schleswig-Holstein-Küste . . l 3/4 ^
+K a t t e g a t ....................................... 2Уз %
+Skagerak....................................... 3%N o r d s e e ........................................V-U%
+und dass nach Karsten die Oberfläche der Ostsee 7300 Q.-M., 
+der Inhalt höchstens 75 Kub.-M. beträgt, während das Ent­
+wässerungsgebiet auf etwa 30000 Q.-M. steigt, und dass somit 
+der Zuwachs durch Regenwasser IV2 Kub.-Meile ausmacht.
+-  22 —
+Direktor S c h w e d e r  sprach sodann über die P a r a l la x e  
+d er  S o n n e  und ihre Bestimmung durch die Venusdurch-
+gän ge. _ _ _ _ _
+Am 11. M arz 1885 .
+Naturalien: VonHerrnNotarWernerwareinSchädel-
+stiick mit einem kleinen Geweih von einer am 18. Nov. 1884 
+in Olai geschossenen Ricke eingegangen. Krejsiehrer M a a ss  
+legte einen Backenzahn vor, der vermutlich ein fossiler 
+Mammutszahn war.
+Es wird ein A u fr u f  an d ie  V o g e l  fr e u n d e  verlesen, 
+welcher zur Beobachtung des V ogellebens auffordert; hieran 
+schliesst sich die Mitteilung, dass Formulare zur Beiautwortung 
+der gestellten Fragen gedruckt und behufs Ausfüllung zur 
+Verfügung gestellt werden würden. Das beim Naturforscher- 
+Verein einlaufende Material soll hier zus&mmengesfcellt und 
+dann Herrn Prof. Braun in Dorpat, der die Vertretung in 
+den Ostseeprovinzen übernommen, zugesandt werden.
+Direktor S c liw e d e r  fuhr in seinem Vortrag über die 
+Parallaxe der Sonne fortundgabzunächstdieErklärung
+für die bei .den Beobachtungen der Venusdurcbgätige sich 
+zeigend© Erscheinung des sogenannten schwarzen Tropfens, 
+wodurch die Angabe des Zeitmoments des Ein- und Austritts 
+der Venus sehr erschwert werde. D iese Erscheinung wird 
+durch Irradiation erklärt, die helle Körper auf dunklem 
+Grunde grösser und dunkle Körper auf hellem Grunde kleiner 
+erscheinen lässt, als sie wirklich sind. Darnach erscheint die 
+Sonne grösser, die dunkle Venusscheibe kleiner, als das Bild 
+auf der Netzhaut sein müsste. Findet nun die Berührung 
+der Ränder beider Scheiben statt, so kann an diesem Punkt 
+in Folge der Verdunklung keine Vergrösserung der Sonnen­
+scheibe eintreten und es muss daher eine scheinbare Lücke 
+entstehen.
+Redner bespricht sodann weitere Methoden zur Berech­
+nung der Sonnenparallaxe, und zwar sind hierzu Marsdurch­
+gänge mit Erfolg benutzt worden, wobei als günstiger Moment 
+die Stellung Erde im Aphel, Mars im Perihel anzusehen ist. 
+Auch die Planetoiden sind dazu verwertet worden, und zwar 
+eignen sie sich besonders deswegen zur Beobachtung, weil
+— 23 —
+sie ihrer geringen Grösse wegen sich nicht als Scheiben dar­
+stellen, wie der Mars, wo der Mittelpunkt schwer zu bestim­
+men ist. Endlich wird darauf hingewiesen, wie durch Kom­
+bination der verschiedenen Methoden zur Bestimmung der 
+Geschwindigkeit des Lichtes auch di§ Sonnenparallaxe ge­
+folgert werden kann.
+Prof. G r ö n b e r g  referierte über eine vorläufige Mittei­
+lung von Dr. W ilsing aus den math.-naturwissensch. Sitzungs­
+berichten der Königl. Preuesischen Akademie über die A n ­
+wendung des Pendels zur Bestimmung der Dichtig­keit der Erde,Anfänglich sind Lotablenkungen aus der Vertikalen in 
+der Nähe grosser Berg§ zur Berechnung der Erddichtigkeit 
+benutzt worden, jedoch war die Komponente der Bergan­
+ziehung gegenüber der Erdanziehung zu gering. Lord Ca­
+vendish eliminierte die Erdanziehung, indem er ein Horizontal­
+pendel an wandte, welches in der Nähe zweier grossen B lei­
+kugeln oscillierte. Aus den Schwingungen wurde die Ab­
+lenkung des Horizontalpendels und mit Hilfe der Torsion  
+des Aufhängefadens das Verhältnis der Anziehungskräfte ge­
+funden. Cavendish fand 5,48 und nach einer Korrektur 5,69. 
+Dr. W ilsing bringt wieder das Vertikalpendel in Anwendung, 
+nur muss es etwa wie ein Metronom befestigt werden. Das 
+vorgeschlagene Pendel soll eine Eisenstange von l ra Länge 
+sein, mit 2300=r schweren Bleikugeln an jedem Ende. Der 
+Unterstützungspunkt ist sehr nahe am Schwerpunkt, so dass 
+das Gewicht des Pendels an einem sehr kurzen Hebelarm, 
+das der Bleikugeln dagegen an einem langen Hebelarm wirkt. 
+Es soll die Ablenkung aus der ursprünglichen G leichgewichts­
+lage mit Fernrohr und Skala abgelesen werden. Die Beob­
+achtungen sind noch nicht gemacht worden.
+Am 18. M ärz 1885.
+Von Herrn Oberlehrer Kolberg war eine australische 
+Maus und von Hrn. Rosenberg einRauhfussbussard eingegangen.
+Dr. A lfr e d  W a lte r  sprach über die Meeresfauna der Insel 
+H elgoland, die er selbst durchforscht hat. Bedeutsame R e­
+präsentanten dieser Fauna werden vom Redner in wohler­
+— 24 —
+haltenen Exemplaren vorgelegt, die er dem Verein zum Ge> 
+schenk darbringt. Ein eingehendes Referat über den Vortrag 
+hat Redner für das Korrespondenzblatt in Aussicht gestellt.
+Am 8. A p r il  1 885.
+Herr R. B e r n h a r d t  teilte mit, dass er sich vergeblich  
+bemüht habe, die beiden Arteü R a n a  fu s c a  und R. a r v a l is ,  
+in welche je tz t die alte Linnesche Art R. temporäria getrennt 
+werde, auch für die Ostseeprovinzen nachzuweisen. Die an­
+gegebenen Merkmale seien zu wenig stichhaltig, sodäss er 
+zuletzt zur Untersuchung der Spermatpzoen übergegangen sei, 
+und darnach habe er bisher nur Rana fusca gefunden. Die 
+charakteristischen Spermatozoen dieser Art werden unter dem 
+Mikroskop vorgezeigt.
+Naturalien werdenvorgezeigteinHänflingimWinter­kleide und ein Goldammer, beide von Herrn Dulckeit dar­
+gebracht.
+A ls G e s c h e n k  fü r  d ie  B ib l io t h e k  ist eingegangen von 
+Herrn Mag. W ladyslaw Rothert: „Vergleichend anatomische 
+Untersuchungen über die Differenzen im primären Bau der 
+Stengel und Rhizome krautartiger Phanerogamen“.
+Der wirkliche Staatsrat Dr. med. J. Kn o ch  hielt folgen­
+den Vortrag über 3 g i f t i g e  F i s c h a r t e n  (Schizothorax ar- 
+gentatus, Schizothorax aksajensis und Schizothorax orientalis), 
+lebend in den Flüssen M ittelasiens:
+Den Bewohnern der Ssemiretschenskischen, Sir-Darjaschen 
+und Turkestanschen Gouvernements ist es, gleichwie den 
+Reisenden in Mittelasien, die besonders die Städte Chodschent, 
+Werni und Sergiopol, sowie die Flüsse der Seen Balchasch 
+und Issik-Kul besuchen, z. B. Ajagus, Lepsa, Aksu, Ili, Baskan, 
+Barskoul und Sir-Darja — sehr wohl bewusst, wie giftig die 
+drei oben benannten Fischspecies sind , die von den Orts­
+bewohnern der bereits erwähnten Gouvernements Mittelasiens 
+mit dem Namen „Marinka“ bezeichnet werden und der Familie 
+Schizothorax angehören. Bei diesen drei Fischarten, die ausser 
+den russischen Gouvernements M ittelasiens noch in den 
+Flüssen Persiens leben, verdient besonders hervorgehoben
+— 25 —
+zu werden, dass weniger das F leisch , als namentlich der 
+grobkörnige Kaviar von rötlich-gelber Färbung sich durch 
+seine im höchsten Grade giftigen Eigenschaften auszeichnet 
+und sogar tötlich nicht allein auf jeden Angereisten einwirkt, 
+sondern zugleich auf jeden der dortigen Bewohner, die bereits 
+gewohnt sind, von dem gutgekochten Fleisch dieser drei Fisch- 
+species zu essen, sodass die Einwohner der Ssemiretschenski- 
+sehen, Sir-Darjaschen und der ihnen benachbarten Gouverne­
+ments, sehr wohl kennend die giftigen Eigenschaften der drei 
+Species der Fische „Marinka“, den Kaviar derselben nicht 
+essen, sondern stets denselben sofort nach dem Fange dieser 
+Fische, zugleich mit den in der Nähe des Kaviars gelegenen  
+Eingeweiden derselben, wie Leber, Gallen- und Luftblase etc., 
+herausnehmen und wegwerfen.
+Die wichtigsten Symptome, die infolge der Vergiftung, 
+besonders durch den Kaviar der Fische Marinka eintreten, 
+sind folgende:
+1. Starkes und andauerndes Erbrechen, das nur schwer 
+der Heilung weicht und sehr die Patienten erschöpft. Dem 
+anhaltenden Erbrechen geht U ebelkeit und Schwindel vorher.
+2. Durchfall, der zugleich mit Tenesmen und heftigem, 
+anhaltendem Erbrechen in kurzer Zeit zum Collapsus führt, 
+wie es bei der Cholera eigentümlich ist.
+3. Krämpfe in den Waden und krampfhafte Einschnürung 
+in der Magengegend, und
+4. Erweiterung der Pupillen, Bewusstlosigkeit und end­
+lich der Tod. — Im Fall der Ausgang der Krankheit kein 
+letaler ist, erfolgt die Genesung meist sehr langsam — im 
+Verlauf von etwa 5 Tagen — wobei noch lange ein grosser 
+Schwächezustand fortbesteht und sorgfältig strenge Diät be­
+obachtet werden muss.
+Die soeben beschriebenen Vergiftungssymptome, bedingt 
+durch den Kaviar der sog. „Marinka“, beweisen deutlich, dass 
+dieselben grosse Aehnlichkeit mit den Symptomen der Cho­
+lerine (Cholera nostras) und zum Teil sogar mit der Cholera 
+(Cholera asiatica) haben, jedoch mit dem Unterschiede, dass 
+der Ausgang der Vergiftung infolge der giftigen Fische der 
+Familie Schizothorax weniger letal und weniger rapid als 
+bei der Cholera, und infolge der Vergiftung durch den Kaviar
+— 26 —
+der Fische Tetrodon inermis ist, welche Fische besonders in 
+den Gewässern Japans angetroffen werden. Der Kaviar dieser 
+Fische tötet zufolge der Experimente de» Dr. Sawfcschenko*) 
+einen Hund, bei dessen Fütterung mit demselben, schon im 
+Verlauf von 8—10 Minuten! —  Jedoch nicht allein der Kaviar 
+der drei Species der Fische Marinka* sowol in frischem, als 
+auch in gesalzenem , u-nd was besonders hervorgehoben zu 
+werden verdient — sogar in gut gekochtem Zustande, sondern 
+aueh ihr Fleisch wirkt, sobald es nicht gut durchgekocht ist, 
+schädlich auf die R eisenden, wie die Doktorea stets sich zu 
+überzeugen G elegenheit haben, die die neugeworbeeen S o l­
+daten nach Taschkent, Ch<jdschead und Werni u. s. w. be­
+gleiten , sowie die in Mittelasien angestellten Doktoren und 
+Apotheker. Zufolge ihrer Beobachtungen soll nur das gut 
+durchgekochte Fleisch der Marinka unschädlich sein.
+W as die Grösse der giftigen Fischspecies Marinka an­
+betrifft, so erreicht der Schizothorax argentatus die Grösse 
+von 70 Centimetern, d. i. eine Länge von mehr als einer 
+Arßchin; gewöhnlich jedoch werden sie gefangen von der 
+Grösse eines halben Fusses bis zu einem Fuss (Schizothorax 
+aksajensis). Von dieser Grösse sind besonders diejenigen 
+Fische der Marinka, denen man in den Flüssen des Ssemi- 
+retschenskischen Gouvernements begegnet, wie z. B. in den 
+Flüssen Lepsa, Ajagus etc. —  Die Farbe der Species Schi­
+zothorax argentatus ist nur bei den jungen Exemplaren eine 
+silberne, bei den grossen Marinken dieser Art dagegen 
+ist sie , gleichwie bei der Species Schizothorax orientalis, 
+dunkel olivenfarbig, fast schwarz. — In Bezug auf den G e­
+schmack des-F leisches der drei Species der giftigen Marinka 
+ist zu erwähnen, dass derelbe ein angenehmer ist und dass 
+namentlich der grobkörnige, höchst giftige Kaviar durch sein 
+schönes Aussehen sehr zum Genuss desselben einladet, so dass 
+Angereiste, wiewohl sie auf die giftigen Eigenschaften des­
+selben aufmerksam gemacht wurden, dennoch nicht dem Ge­
+nüsse desselben entsagen konnten und infolge dessen schwer 
+erkrankten. Besonders angenehm ist der Geschmack des
+*) An m.  Siehe dessen Mitteilung „Случай отравлешя рыбнымъ 
+ядомь“, sowie den A rtikel des Präsidenten des Medicinal-Rats Professors 
+Zdekauer „über das F ischgift“.
+-  27 —
+Fleisches dieser F ischspeeies, sobald der Kaviar mit der 
+Leber und den ändern Eingeweiden sofort nach dem Fange 
+der Fische entfernt wird, was übrigens sorgfältig von den 
+Fischern, wenigstens der russischen Provinaen Mittelasiens, 
+beobachtet wird.
+Zur genauen Konstatierung der giftigen Eigenschaften, 
+besonders des Kaviars der Fische Marinka, und zwar auf 
+experimentellem W ege, fütterte ich Mäuse mit dem Kaviar 
+des Schizothorax argentatus in nicht ganz reifem Zustande, 
+in welchem die Eier noch nicht frei oder isoliert auftraten. 
+Bei der Fütterung der Mäuse mit dem Kaviar*) dieser Fische, 
+die fast ein halbes Jahr in Spiritus, mit zum Teil geöffnetem  
+Unterleib, gelegen, ergab sich’s, dass diese Tiere in 26 bis 
+30 Stunden nach der Fütterung krepierten. Bei der Sektion 
+der auf diese W eise mit dem Kaviar der Marinken vergifte­
+ten Mäuse konnte Folgendes konstatiert werden:
+Die Schleimhaut des Magens war mit einer zähen Masse 
+von dunkelgelber Färbung bedeckt, die unter dem Mikroskop 
+sich als eine feinkörnige Substanz erw ies, in der man an 
+einigen Stellen a u ß e r d e m  Reste des fadenförmigen Gewebes 
+vom Eierstock des Fisches antraf; in dem ^ rm k a n a l befand 
+sich Schleim von gelber Färbung u«d in  dem pickdarm waren 
+dunkelgraue Exkremente. Die Lungen erschienen mehr oder 
+weniger byperämisch; die Leber und die Nieren waren normal 
+und die Harnblase enthielt nur eine kleine Quantität hell­
+gelben Harnes. In dem Blute konnten Stäbchenbakterien 
+nachgewiesen werden.
+Die soeben beschriebenen Fütterungsversuche mit dem Ka­
+viar der Fische Marinka beweisen au fs unzweifelhafteste, dass 
+besonders der Kaviar der zur Familie Schizothorax gehörigen  
+Fische — S. argentatus, S. aksajensis und S. orientalis — sich 
+durch seine überaus giftigen Eigenschaften auszeichnet, wobei 
+ich zum Schluss noch hervorheben w ill, dass der Charakter 
+und die Eigenschaften dieses Giftes noch fast gar nicht er­
+forscht sind und dass bis jetzt von seiten der Regierung noch
+*) Anm. Der jedes Mal durch Begiessen mit reinem W asser und 
+längeres Liegen in demselben so viel als möglich ers t vom Spiritus 
+befreit wurde.
+— 28 —
+gar keine Vorsichtsmaassregein etwa durch besondere Ver­
+ordnungen getroffen sind, wiewohl dieser, besonders in me- 
+dicinischer Hinsicht überaus wichtige Gegenstand namentlich 
+für die russischen Provinzen Mittelasiens von grosser Be­
+deutung ist, während dagegen sogar in China und Japan gegen  
+den Verkauf und Genuss der in den Gewässern dieser Länder 
+vorkommenden giftigen Fische, „Fougou“ genannt und den 
+Familien „Tetrodon“ und „Diodon“ etc. angehörend —  die 
+strengsten G esetze herausgegeben und schon längst in Kraft 
+getreten sind.
+Im Anschluss an diesen Vortrag legt Direktor S c h w e d e r  
+Abbildungen mehrer Schizothorax-Arten aus der von den Mos­
+kauer Naturfreunden herausgegebenen Reise nach Turkestan 
+vor und bemerkt, dass die in Europa nicht vorkommende Fisch­
+gattung zur Familie der Cypriniden gehöre und hier ihre näch­
+sten Verwandten in der Gättung Barbus habe, mit der sie 
+auch im Besitz der 4 Mundwinkel-Bartfäden übereinstimme, 
+während ihr eine besonders beschuppte, After und Afterflossen  
+umfassende Spalte oder Furche eigentümlich sei und sie auch 
+darnach ihren Namen erhalten habe (von ö%(&lv, spalten, und 
+&6q(i£ der Rumpf).
+Herr H erm a n n  G o e b e l  sprach nach eigener Anschauung 
+über die O rn is  d e s  n ö r d lic h e n  E is m e e r e s ,  sow eit selbiges 
+die Murmanküste (Nordrand der Halbinsel Kola) und den 
+südlichen Teil der Insel Nowaja Semlja bespült. Einleitend 
+gab , Redner einige Bemerkungen über die Flora der von ihm 
+besuchten Landstrecken, denen zufolge auch die Birke und 
+der Pihlbeerbaum dort Vorkommen, allerdings bedeutend w e­
+niger üppig an Wuchs und Gestalt, als wir bei uns gewöhnt 
+sind. Die Bäume seien derart verkrüppelt, dass sie Laien als 
+ganz fremdartig oder doch von anderer Art erscheinen, als 
+sie wirklich seien. Ein von ihm an der Murmanküste gesam­
+meltes Herbarium übergab er dem Verein zum Geschenk.
+Zu seinem eigentlichen Thema überlenkend, äusserte 
+derselbe, dass, wenn die V ogel weit daselbst auch in verhält* 
+nissmässig wenigen Gattungen vertreten sei, diese Gattungen 
+aber, dank dem Klima, das, als unter dem Einfluss des Golf­
+stromes stehend, verhältnissmässig mild sei, Vertreter ohne 
+Zahl hätten.
+Gefunden hat er an der auf
+Murmanküste,Nowaja SemljaRaubvögeln 8 3 Arten
+Schwalben 1 1 »
+Körnerfressern 5 2 n
+Singvögeln 5 — n
+Krähen 2 — n
+Hühnern 1 1 r>
+Sumpfvögeln 9 5 я
+Enten 9 7 n
+Ruderfüssern 1 — n
+Steissfüssern 3 3 r>
+Möven 8 6 n
+zusammen 52 28 Arten.
+Auf riesigen, hohen und ausgedehnten sog. Vogelbergen  
+nisten im Juni Tausend und aber Tausende von Lummen und 
+Alken an steilen Felswänden, jeden, auch den kleinsten Platz 
+ausnutzend. N est neben N est reibe sich oft bis zum Gipfel 
+hinauf; selbst eine gew isse Rangordnung lasse sich beobach­
+ten , keine Art dulde eine minder berechtigte Art über sieh'r 
+am höchsten niste die Mövenart Larus glaucus. Larus ma- 
+rinus, eine sehr scheue Mövenart, niste nur in höchstens 
+10 Paaren gemeinsam auf besonderen kleinen Inseln. Höchst 
+interessant sei es, das Leben und Treiben der Vogelschaaren  
+in diesen Gefilden zu beobachten, W erste weit höre man das 
+Gekreisch und Geschnatter. Obgleich a lle n , diesen Vögeln 
+mehr oder weniger von den Fischern nachgestellt werde, ob­
+gleich eine Unzahl derselben durch elementare Ereignisse ver­
+komme, seien ihrer doch immer so viele wie Sand am Meer. 
+Vor allen sei der Papageitaucher ein wichtiger Fangartikel. 
+Inseln, auf welchen derselbe in grösserer Anzahl nistet, wür­
+den von der norwegischen und russischen Regierung verpachtet. 
+Die Eiderente sei dort gleichsam ein Haustier, das sogar in 
+die Vorhäuser komme, um dort zu brüten. Seien die Jungen 
+noch nicht selbstständig genug, nähme die Hausfrau sie unter 
+ihre Obhut und trüge sie zum Meer. Die Eiderenten dürften 
+nicht geschossen werden; zwei Polizisten, welche die russische 
+Regierung dort für die ca. 800 W erst lange Murmanküste 
+stationiert hat, hätten darüber zu wachen.
+-  so —
+Am 22. A p r il  1 8 8 5 .
+Direktor S c h w e d e r  sprach über die hiesigen F r o s c h ­
+lu r c h e . Dem Vortrage legte er eine vorzügliche Särtimlung 
+zu Grunde, welche von Franke bei Dresden äfi ge fertigt und 
+für das h iesige Stadt-Gymnasium erworben ist. Dieselbe ent­
+hält alle in Deutschland vorkommenden Reptilien und Am­
+phibien in Serien, welche ihre Entwickelung vom Ei oder 
+Laich bis zum geschlechtsreifen Tier darstellen. Diesmal 
+kamen nur die in den Ostseeprovinzen nachgewiešenen Frosch- 
+lurche zur Betrachtung. Als für unsere Fauna nachgewiesen 
+werden bezeichnet:
+1. H y la  a r b o r e a , L., der Laubfrosch, auf Grund der A n­
+gaben von Oberlehrer W erner und Kreislehrer Teich, 
+obgleich ein hier gefangenes Tier noch nicht vorliegt.
+2. R a na f u s c a ,  R ösel, der Grasfrosch. — Ob man Recht 
+daran time, R. arvälis Nils., den Feldfrosch, von obigem  
+zu trennen und ob auch letzterer bei uns vorhanden, kann 
+der Vortragende zur Zeit noch nicht entscheiden.
+3. R an  a e s c u le n t a ,  L. Grüner W asserfrosch.
+4. P e lo b a t e s  fu s c u s , Laur., die Knoblauch- oder W asser­
+kröte. D ieses an den vertikalen Pupillen und dem ge­
+wölbten H interkopf sicher zu erkennende Tier wird in 
+zwei lebenden, von Herrn R. Bernhardt mitgebrachten, 
+bei Riga gefangenen Exemplaren der Versammlung vor­
+gezeigt.
+5. B o m b in a to r  ig n e u s 4, Laur., Feuerkröte. Wird von 
+Drümpelmann als hier gefunden aufgeführt und abgebildet, 
+findet sich aber nicht in unsern Provinzial-Museen.
+6. B u fo  e a la m it a ,  Laur., Kreuzkröte. An unserem Strande 
+überall häufig, vom Vortragenden insbesondere bei Per- 
+nigel, Karlsbad und Assern beobachtet.
+7. B u fo  c in e r e u s ,  Merr. == v u lg a r is  Laur. Gem. Kröte.
+8. B u fo  v ir id is  Laur. =  v a r ia b i l i s .  Gem. W echselkröte; 
+früher von dem Vortragenden mit Pelobates fuseus ver­
+w echselt, jetzt aber sicher unterschieden, ist von ihm 
+wiederholt bei Riga, einmal auch bei Karlsbad beobach­
+tet und auch in unserer Sammlung vorhanden.
+An N a tu r a l ie n  waren eingegangen: ein schwarzer 
+Storch, geschenkt von Herrn H. Fritsche, zwei Kuckukseier,
+gesammelt von Herrn v. Löwls-Panten, und eine bei uns seltene 
+P ia n ze , Petasites officinalis, von Herrn Ilster aus Stock- 
+mannshof.
+Oberlehrer W e r n e r  teilte die Ergebnisse des am 21, und 
+22. März a. c. ausgeführten P r ü f u n g s n iv e l le m e n t s  in 
+Dünamünde mit. Aus demselben ergiebt sich als Höhen­
+differenz zwischen dem Pegeteullpankte und der Marke an 
+der Festungskirche 16 ,2 0 5  F. und zwischen dem Pegelnullpunkte 
+und der Marke am Leuchtturm 18,777 F., und zwar stimmt das 
+letztere Resultat mit dem früheren Nivellem ent bis auf 0,ооз F. 
+überein, während für die erstere, etwa zehnmal grössere 
+Strecke sich eine Differenz: von ö ,m  F. ergiebt. ßezogen auf 
+den Nullpunkt des Rig. Pegels findet man nach diesem N i­
+vellement, verglichen mit dem früheren, eine Höhendifferenz 
+von 0,049 F. resp. 0 ,ш  F. für die Nullpunkte beider Pegel. 
+Da sich hiernach die Lage des Pegelnullpünktes in Шпа- 
+münde zur Leuehtturmsmarke nicht geändert hat, so müsste 
+eine Senkung des Dammes angenommen werden, wenn nicht 
+jen e Differenz zwischen dem Pegelnullpunkt und der Marke 
+an der Festungskirche den Fehlern des Nivellemente zuzu­
+schreiben ist. Der aus allen Nivellem ents der letzteren  
+Strecke berechnete mittlere Fehler ist so gering, dass die 
+Annahme, die Nivellements beziehen sich alle auf eine und 
+dieselbe Höhe, gerechtfertigt erscheint.
+Aus den bisherigen Beobachtungen des W asserstandes 
+der Düna in Riga und Dünamünde ergiebt sich als Gefälle, 
+wenn man die Monate des Hochwassers ausschliesst, 0,2 F.; 
+žieht man diese mit in die Rechnung 0,45 F. Nimmt man 
+nun auch die grösste, sich aus den Nivellements ergebende 
+Niveau-Differenz der Nullpunkte im Betrage von 0,i» F. an, 
+so kann doch nur ein geringes Gefälle für die Strecke Riga- 
+Dünamünde sich ergeben.
+Oberlehrer W e r n e r  verlas ferner drei von dem m eteo­
+rologischen Centralobservatorium ihm zugegangene Formulare, 
+in welchen B e o b a c h tu n g e n  ü b e r  G e w it t e r ,  N ie d e r ­
+schläge undWetterleuchten imLaufedesganzenJahres
+zu verzeichnen sihd, und forderte die Mitglieder auf, sich an 
+diesen Beobachtungen zu beteiligen.
+Kreislehrer T e ic h  zeigte das mikroskopische Präparat 
+eines Pilzes vor, welcher in Form eines weissen Staubes auf
+— 32 —
+den Larven und Cocons der Schmetterlinge schmarotzt und 
+dieselben zerstört. Es ist Herrn Teich nicht gelungen, diesen 
+Pilz, der sich von ändern, auf Insekten und deren Larven 
+lebenden Pilzen wesentlich unterscheidet, zu bestimmen.
+Am 20. M ai 1885 .
+Naturalien.Dr.Bahse bestimmteeinenvonHerrn
+Krickmeyer bei Majorenhof gefundenen Pilz als Polyporus 
+laccatus und einen von Herrn Emil Bertels aus Bonaventura 
+eingesandten Pilz als Wachholderpilz (Tremella juniperina), 
+welcher dem Getreiderost ähnlich ist. Von ebendaher war 
+auch ein Teichschwamm eingesandt.
+Direktor S ch w e .d er  sprach unter Vorlegung bezüglicher 
+Exemplare aus der in der vorigen Sitzung erwähnten Franke­
+schen Sammlung über die g e s c h w ä n z te n  L u r c h e  der 
+Ostseeprovinzen.
+Salamandra maculata,Laur.,Feuersalamander,undS.
+a tr a , Laur., schwarzer Erdmolch, werden zwar von Prof. 
+Asmuss als hier vorkommend, ersterer als in Koken­
+husen gefunden, aufgeführt. Es fehlen indessen spätere 
+Bestätigungen dafür.
+Triton cristatus, Laur.,grosserWassermolch,istvon
+Alex, von Schrenk bei Kokenhusen gefunden und soll 
+in der Dorpater Sammlung vorhanden sein.
+Triton taeniatus, Schneid.,kleinerWassermolch,ist
+sehr häufig.
+Triton punctatus, welchennochSeidlitzaufführt,bildet
+keine besondere Art, sondern ist so das Männchen der 
+vorigen Art genannt worden.
+Alle Lurche, geschwänzte und ungeschwänzte, werden 
+der Beachtung der Mitglieder empfohlen.
+Direktor B e r g  referierte über den von ihm besuchten 
+diesjährigen G e o g r a p h e n ta g  in H a m b u rg  und über die 
+damit verbundenen Ausstellungen.
+— 33 —
+Salzgehalt des Rigaschen Meerboserte V. ^
+’i1‘r*'С•->».а ■.Mt,'.Da die von mir auch in diesem Sommer in der bisherigen 
+W eise fortgesetzten Salzbestimmungen immerhin einiges In­
+teresse erregen dürften, so erlaube ich mir auch diesmal —• 
+wie in den letzten Jahren — wenigstens die Mittel von 10 
+zu 10 Tagen hier zum Abdruck zu bringen. Das W asser 
+wurde beim Baden in Karlsbad täglich zwischen 7 und 9 Uhr 
+geschöpft und dann sofort untersucht.
+N. St. M ittel. Min. Max.
+Juni 27— 1 0,526 0,51 0,55
+Juli 2 — 11 0,510 0,475 0,55
+я 1 2 — 21 0,510 0,47 0,53
+n 22—31 0,521 0,39 0,55
+August 1— 1 0 0,503 0,38 0,58
+r> 1 1 — 2 0 0,525 0,48 0,58
+Mittel 0,524^.
+Bei einem im ganzen sehr wenig schwankenden Salz­
+gehalt traten am 31. Juli und am 7, August plötzlich die an­
+gegebenen starken Minima ein. Beide Male wehte starker 
+N E ., welcher offenbar das Dünawasser herführte, und in 
+beiden Fällen hatten etwa 3 0 .Stunden früher gehr starke 
+Regengüsse stattgefunden. Etwa 30 Stunden nach dem hef­
+tigen Regen schwoll auch das Grenzflüsschen zwischen K arls­
+bad und Assern sehr stark an, ein Bew eis dafür, dass jetzt 
+mehr Regenwasser dem Meere zugeführt Wurde. Am 7. August 
+war auch im Meer eine starke Strömung aus Ost, also von 
+der Düna her, bemerkbar. — In. beiden Fällen war der Salz­
+gehalt am Tage vorher und nachher wieder 0,5^ oder etwas 
+höher. — Das Max. am 3. August trat bei NW.-Wind und 
+Strömung aus W est ein; das gleiche Maximum am 19. Aug. 
+nach Landwind mit einer W assertemperatur von 10° C.
+Dass das Wasser an dem flacheren Ufer bis IV2 0 kälter 
+war, als weiter hinein, wurde auch in diesem Sorpmer mehr­
+fach beobachtet. Eine sehr rasche Temperaturabnahme zum 
+Meer hinein wurde am 20. Aug. beobachtet, indem das W asser 
+bei 1 Fuss T iefe 12°C. und wenige Schritte weiter nur 9° C. 
+hatte.
+25. August 1885. G. S c h w e d e r .
+Korr.-Bl. des N.-V. XXVIII. 3. 3
+_  34 —
+Wissenschaftliche Vereine und Institute, mit denen der 
+Verein im Jahre 1884 in Verkehr stand,
+nebst Angabe der zuletzt erhaltenen Schriften.A lte n b u r g . Naturforschende Gesellsch. des Osterlandes.
+Mitteilungen N. P. II, 1884.
+A m sterd a m . Akademie der W issenschaften.
+Jaarboek 1882.
+Processen-Verbal 1883—84.
+Verslagen en medeelingen X IX . X X .
+A m ste r d a m . Zoologische Genossenschaft.
+Tijdschrift voor de dierkunde V. 1.
+Baltimore (N.-Am.).JohnHopkinsUniversityStudies
+from the biological laboratory III. 2. 
+B a m b erg . Naturforschende Gesellschaft.
+13. Bericht 1884.
+B a se l. Naturforschende Gesellschaft.
+Verhandlungen VII, 2.
+B e r lin . Akaldemie der Wissenschaften.
+Sitzungsberichte für 1884.
+Math. u. naturw. Mitteil, aus den Sitzungsberichten 
+für 1883.
+B e r lin . G esellschaft naturforschender Freunde.
+Sitzungsberichte für 1884.
+B e r lin . Botanischer Verein für die Mark Brandenburg. 
+Verhandlungen 1882—84.
+10) B is t r i t z  (Siebenbürgen). Gewerbeschule.
+Jahresbericht X.
+11) B onn . Naturhistorischer Verein für die Rheinlande.
+Verhandlungen 41. 42.
+12) B o s t o n .  Society o f natural history.
+Memoirs, Vol. I ll , 8. 9. 10.
+Proceedings X X II.
+13) B r a u n s c h w e ig . Verein für Naturwissenschaft.
+Jahresbericht.
+14) B rem en . Naturwissenschaftlicher Verein.
+Abhandlung IX, 2.
+15) B r e s la u . Schlesische Gesellsch. für vaterländische Kultur. 
+Jahresbericht 1883. 1884.
+— 35 -
+16) B r e s la u . Gesellsch. f. Insektenkunde.
+17) B rü n n . Naturforschender Verein.
+Verhandlungen XXII.
+Bericht der meteorol. Komm. f. 1882.
+18) B r ü s s e l .  Socidtd malacologique.
+Proces-verbaux de stances 1883.
+Annales 1883.
+19) B r ü s s e l.  Soc. entomologique.
+Annales 27.
+20) B u d a -P e s t . Ungarische geologische Anstalt.
+Jahresbericht f. 1883.
+Mitteilungen VII, 2. 3.
+Zeitschrift X IV , 4 - 1 2 .  X V , 1— 5.
+21) B u d a -P e s t .  Naturwissensch. Gesellschaft.
+Mathem. naturw. Berichte aus Ungarn I.
+Entz. Infusorien des Salzteiche8 zu Szamosfalva. 
+Heer. Permische Pflanzen in Fünfkirchen. 
+Posewitz. Zinninseln im indischen Ocean. 
+Schenzel. Anleitung zu erdmagnet. Beobachtungen.
+22) B u e n o s -A ir e s .  Sociedad cientifica Argentina.
+Anales 1885, 1—3.
+Holmberg: Sierra Cura-Malal.
+23) C a m b r id g e  (Mass). Museum o f comparative zoölogy.
+Annual report 1882— 83.
+Bulletin VI, 8— 11. XI, I I .  XII, 1.
+Memoirs VI, 1. VH, 1. 2. IX, 3.
+24) C h a rk o w . Общество естествоиспытателей.
+Труды 1884.
+Czerniawski. Crustacea decapoda pontica littoralia.
+25) C h em n itz . Naturwissenschaft!. Gesellschaft.
+Bericht IX.
+26) C h e r b o u r g . Soci^td des sciences naturelles.
+Memoires.
+27) C h r is t ia n ia . Universität.
+Aarsberetning 1878— 1881.
+Forhandlinger i videnskabs-selskabet 1878— 1882. 
+Publication der Norweg. Komm. der europäischen 
+Gradmessung.
+1. Geodätische Arbeiten. H eft 1—4. 1882— 85.
+2. Vandstands observationer. H e f t l— 3. 1882—85.
+— 36 —
+28) C o r d o b a . Academia national de sciencias.
+Boletin V I ,.2. 3. 4. VII, 1—4. VIII, 1.
+29) Chur. Naturwissenschaft!. Gesellschaft für Graubünden.
+Jahresbericht 1883—84.
+30) D a n z ig . Naturforschende Gesellschaft.
+Schriften, N. F. VI, 1. 2.
+31) D a v e n p o t  (Jowa). Acad, of nat. sciences.
+Proceedings III, 1883.
+Putnam. Elephant Pipes. 1885.
+32) D o rp a t. Kaiserliche Universität.
+Dissertationen für 1884.
+Weihrauch. Anemomeirische Skalen für Dorpat 1885.
+33) D o rp a t. M eteorologisches Observatorium.
+Beobachtungen von 1880.
+34) D o r p a t . Naturforscher-Gesellschaft.
+Archiv 1. Serie, Bd. IX , 1, 2.
+2. „ „ X, 1.
+Sitzungsberichte VH, 1.
+Türsting. Entwickelung der primitiven Aorten 1884.
+35) D o r p a t . Gelehrte estnische Gesellschaft.
+Sitzungsberichte 1884.
+Verhandlungen XII.
+36) D r e s d e n . Naturwissenschaftliche Gesellschaft „Isis“.
+Sitzungsberichte 1884, II.
+37) D ü rk h e im . Naturwissenschaftlicher Verein „Pollicliia“.
+Jahresbericht 36—52.
+38) E m den . Naturforschende Gesellschaft.
+69. Jahresbericht 1884.
+39) E r la n g e n . Physikalisch-medicinische Societät.
+Heft 16.
+40) F r a n k fu r t  a. M. Senkenbergische naturwissenschaftliche
+Gesellschaft.
+Bericht 1884.
+41) San  F r a n c is c o . Californian Academy of sciences.
+Proceedings 1.881.
+Bulletin 1885, 1—3.
+42) F r a u e n f e ld . Thurgauische naturforschende Gesellsch.
+Mitteilungen 6.
+43) F r e ib e r g  i. Br. Naturforschende Gesellschaft.
+Bericht 1884.
+— 37 —
+44) F u ld a . Verein für Naturkunde;
+VII. Bericht 1883.
+45) S t, G a lle n . Naturwissenschaftliche Gesellschaft.
+46) G ie s s e n . Obei-hessische Gesellschaft für Natur- und
+Heilkunde.
+X X III. Bericht 1884.
+47} G ö r litz . Oberlausitzsche Gesellscb, d. W issenschaften. 
+Magazin Bd. 61, 1.
+48) G ö r litz . Naturforschende Gesellschaft.
+Abhandlungen X V III, 1884,
+49) G raz. Naturwissenschaftlicher Verein für Steiermark.
+Mittheilungen für 1883.
+50) G raz. Verein der Aerzte.
+Mitteilungen XX.
+51) G r e if s w a ld . Naturwissenschaftlicher Verein für Neu-
+Vorpommern und ßügen.
+Mitteilungen XVI.
+52) G r e if s w a ld . Geographische Gesellschaft.
+I, Jahresbericht 1882-—83.
+53) G ü s tr o w . Verein der Freunde der Naturgeschichte in
+Mecklenburg.
+Archiv 1883.
+54) H a lle .  Verein für Erdkunde.
+Mitteilungen 1884.
+55) H a lle . Naturforschende Gesellschaft,
+Bericht für 1884.
+56) H a lle . Naturwissenschaftlicher Verein für Sachsen und
+Thüringen.
+Zeitschrift 1884.
+57) H a lle .  K. Leopoldinisch-Karolinische Akademie der
+Naturforscher.
+Leopoldina H eft VII— XX.
+Knoblauch. Verhalten der Metalle gegen strahlende 
+Wärme 1877.
+Engler. Ozon 1879.
+Prowe. Copernicus als Arzt 1881.
+Bachmann. Scrophularineen 1881.
+Beyse. Impatiens-Arten 1881.
+Drude. Stossw eise Wachstumsänderungen bei V ic­
+toria regia 1881.
+— 38 —
+Engelhardt. Fossile Pflanzen aus Böhmen 1881. 
+Geinitz. Skandinavische Plagioklasgesteine und Pho- 
+nolith aus Mecklenburgischem Diluvium 1882. 
+Taschenberg. Mallophagen 1882.
+Dewitz. Jugendstadien exotischer Lepidopteren 
+1882.
+Adolph. Zur Morphologie der Hymenopterenflügel 
+1883.
+Jordan. Binnenmollusken 1883.
+Zeising. Der goldene Schnitt 1884.
+Schreiber. Reduktion von Barometerständen auf 
+ein anderes Niveau 1884.
+Gruber. Protozoen aus Genua 1884.
+Kessler. Entwickelungs- und Lebensweise der 
+Aphiden 1884.
+Wunderlich. Kehlkopf der V ögel 1884,
+Blanc. Amphipoden der K ieler Bucht 1884.
+Zopf. Phycomyeeten 1884.
+H. Burmeister. Neue Beobachtungen an Mac- 
+rauchenia patachonica 1885.
+58) H a m b u r g .. Deutsche See warte.
+Monatliche Uebersicht der Witterung 1884.
+M eteor. Beobachtungen in Deutschland f. 1879, 
+81 u. 82.
+59) H a m b u rg . Naturwissenschaftlicher Verein.
+Abhandlungen VIII, 1. 2. 3.
+60) H a m b u rg . Ver. f. naturwissenschaftliche Unterhaltung.
+Verhandlungen V (1872— 82).
+61) H an au . Wetterauische Gesellschaft für Naturkunde.
+Bericht für 1879— 82.
+62) H a n n o v e r . Naturhistorische Gesellschaft.
+Jahresbericht 1883.
+63) H a n n o v e r . Gesellschaft für Mikroskopie.
+Jahresbericht 1881— 82.
+64) H a r lem . Musde T ey ler .„
+Archives 1884.
+65) H e id e lb e r g ;  Naturhistorisch-medicinischer Verein.
+Verhandlungen N . F . III, 4.
+66) H e ls in g f o r s .  Societas pro fauna et flora fennica.
+Meddelanden 11.
+— 39 —
+67) H e r m a n n s ta d t .  Siebenbürgischer Verein für Natur­
+wissenschaft.
+Verhandlungen und Mitteilungen 34.
+68) Ig lo . Ungarischer Karpathen-Verein.
+Jahrbuch 11. 12.
+69) K a sa n . Gesellschaft der Aerzte.
+Дневникъ 1884.
+70) K a sa n . Общество естествоиспытателей.
+Труды XIH.
+Протоколы 1884.
+71) K a s s e l .  Verein für Naturkunde.
+Berichte 30.
+K. Ackermann. Inklination von Kassel.
+72) K ie l .  Universität.
+73) K ie l. Naturwissenschaft!. Verein für Schleswig-Holstein.
+Schriften V, 2.
+74) K ie l. Kommission zur Untersuchung deutscher Meere.
+IV. Bericht 1883, 1.
+Ergebnisse der Beobachtungen an den deutschen 
+Küsten 1884.
+75) K iew . Общество естествоиспытателей.
+Протоколъ 1883.
+Записки VH, 2.
+Указатель русской литературы по математик^ и 
+естественнымъ наукамъ за 1883.
+76) K la g e n fu r t .  Landesmuseum.
+77) K la u s e n b u r g . Magyar Növenytani lapok I— VII.
+78) K ö n ig s b e r g . Physikalisch-ökonomische Societät.
+79) K o p e n h a g e n . Det Danske meteorologiske Institut.
+Bulletin 1885.
+80) L a n d sh u t. Botanischer Verein.
+Bericht 8.
+81) L e ip z ig .  Königl. sächs. Gesellschaft der Wissenschaften.
+Verhandlungen 1883. 84.
+82) L e ip z ig .  Naturforschende Gesellschaft.
+Sitzungsberichte 1884.
+83) L e ip z ig .  Jablowskisehe Gesellschaft.
+84) L in z . Verein für Naturkunde.
+Jahresbericht 14.
+— 40 —
+8 5 ) /St. L o u is . Academy of science.
+Transactions IV, 3.
+86) L ü n eb u rg . Naturwissenschaftlicher Verein.
+Jahresheft 1883— 84.
+87) L u x e m b u r g . Institut royal ^rand ducal.
+Publications.
+88) L u x em b u rg . Socidte botanique.
+Recueil des mömoires et des travaux 1883— 84. ‘
+89) L yon . Sociötd d’agriculture, d’histoire naturelle et d’arts
+utiles. Annales 1882.
+90) L yon . Acaddmie des sciences, belles lettres et arts.
+Mdmoires 1883’—84.
+91) L y o n . Societd Linndenne.
+Annales 1882.
+92) M a g d eb u rg . Naturwissenschaftlicher Verein.
+Jahresbericht 1883. 84.
+93) M a n c h e s te r . Literary and philosophical soc.
+Proceedings 1883.
+Memoirs IX.
+94) M an n h eim . Verein für Naturkunde.
+Jahresbericht für 1878—82.
+95) M arb u rg . Gesellschaft zur Beförderung der gesamm-
+ten Naturwissenschaften.
+Sitzungsberichte 1883.
+96) M e isse n . Gesellschaft für Naturkunde „Isis“.
+97) Mi tau . Gesellschaft für Literatur und Kunst.
+Sitzungsberichte für 1882.
+98) M o ns. Soeidtd des sciences, des arts, des lettres, du
+Hainaut.
+Mdmoires. IV. Ser. tome 6. 7. 1883.
+99) M o n tp e ll ie r . Academie des sciences et lettres.
+Memoires 1881.
+100) M oskau . Общество испытателей природы.
+Bulletin 1883.
+Nouveaux memoires XIV.
+Meteorol. Beobachtungen für 1883.
+101) M osk au . Общество любителей естествознанш.
+HsßicTia XLV, 1. 2. 3.
+— 41 _
+102 M ü n ch en . Akademie der W issenschaften.
+Sitzungsberichte 1884. 3. .4. • -.f -,
+103 M ü n ch en . Zentral-Kommission für wissenschaftliche 
+Landeskunde von Deutschland.
+4. Bericht 1884.
+104 M ü n ste r . W estfäl. Prov.-Verein f. W issenschaft u. Kunst.
+Jahresbericht für 1882.
+105 N e w -H a v e n . Connecticut Academy.
+Transactions VI, 1. 1884.
+106 N e w -Y o r k . Academie of sciences.
+Annals III, 1. 2.
+Transactions 1883.
+107 N ü r n b e r g . Naturhistorische Gesellschaft.
+Abhandlungen VII.
+108 O d e ssa . Новороссшское общество естествоиспытателей.
+Записки IX, 1. 2. X, 1.
+109 O ffe n b a c h . Verein für Naturkunde.
+Bericht für 1882— 84.
+110 O sn a b rü ck . Naturw. Verein.
+6. Jahresbericht für 1883—84.
+111 P a s s a u . Naturhistorischer Verein.
+112 P e te r s b u r g . Akademie der W issenschaften.
+Bulletin X X X .
+Memoires X X X II.
+113 P e te r s b u r g . Nikolai-Hauptsternwarte zu Pulkowa.
+Jahresbericht 1882.
+114 P e te r s b u r g .  Kaiserl. geographische Gesellschaft. 
+Отчетъ за 1884.
+Извйстая 1884. 1 - 5 .  1885. 1. 2.
+115 P e te r s b u r g . Kaiserl. mineralogische Gesellschaft. 
+Матер1алы для геологш Россш IX, 1883. 
+Verhandlungen 19. 20. 21.
+116 P e t e r s b u r g .  Kaiserl. botanischer Garten.
+A cta IX, 1.
+117 P e t e r s b u r g .  Physikalisches Central-Observatorium. 
+Annalen für 1883.
+Repertoriunfl für M eteorologie V III .'
+118 P e te r s b u r g . Kaiserl. entomologische Gesellschaft. 
+Horae entomologicae XVIII, 1884.
+— 42 —
+119) P e te r s b u r g , Геологичесшй комитетъ.
+Изв^стзя 1885.
+Труды I, 3. 4.
+Nikitin. Allgem eine geologische Karte von Russ­
+land. Blatt 71 (Kostroma).
+120) P h i la d e lp h ia .  American phil. society.
+Proceedings X X I, 115. 116.
+Transactions XVI, 1.
+121) P h ila d e lp h ia . Academy o f natural sciences.
+Proceedings 1883.
+122) P r a g . Sternwarte.
+Magnet, und m eteorologische Beobachtungen 1884.
+123) R e g e n s b u r g . Naturwissenschaftlicher Verein.
+Korrespondenzblatt 38.
+124) R e v a l .  Estländische literär. Gesellschaft.
+Beiträge III, 2.
+125) R ig a . Gesellschaft für Geschichte u. Alterthumskunde.
+Mitteilungen XIII, 2.
+Sitzungsberichte von 1882 u. 83.
+126) R ig a . Technischer Verein.
+Industrie-Zeitung für 1884.
+127) R ig a . Gesellschaft praktischer Aerzte.
+Protokolle 1884.
+128) R ig a . Baltisches Polytechnikum.
+Knieriem. Verwertung der Cellulose im tierischen  
+Organismus.
+129) Rom . Real comitato geologico.
+Bolletino XV, 1884.
+130) S a le m  (Mass). Essex-Institute.
+Bulletin 14.
+131) S a lem . Association for the advancement of science.
+Proceedings X X X II, 1883.
+132) S o n d e r s h a u s e n . Irmischia. Botanischer Verein.
+Korrespondenzblatt 1884. 1885.
+Toepfer. Phänologische Beobachtungen in Thü­
+ringen für. 1883.
+133) S t e t t in .  Ornithologischer Verein.
+Zeitschrift Jahrgang 1883.
+— 43 —
+134) S tockholm . Königl. Akademie der Wissenschaften.
+Handlingar 1880. 81.
+Bihang tili handlingar 6. 7. 8.
+Förhandlingar 1831. 82. 83.
+Meteorologiska jakttagelser 1878. 79. 
+Lefnadstekningar 2. 2.
+135) S tockho lm . Entomologiska föreningen.
+Entomologisk tidskrift. 1884.
+136) S tu t tg a r t .  Verein für vaterländische Naturkunde.
+Jahresheft 1885.
+137) T if l is . Observatorium.
+Meteorologische Beobachtungen 1883. 1884. 
+Beobachtungen der Temperatur des Erdbodens 1881.
+138) T if l is .  Горное управлеше.
+MaTepiajLbi для геологш Кавказа 1885.
+139) T if lis . Кавказское общество любителей естествознашя
+и Алыпйскаго клуба.
+Изв^стая.
+140) T if lis . Кавказское медицинское общество.
+Протоколъ 1884.
+Сборникъ 1884.
+141) T r ie s t .  Societä adriatica de scienze naturali.
+Bolletino V ni.
+142) T rom so . Museum.
+Aarshefter 7 
+Aarsberetning for 1883.
+143) U tre c h t. Königl. niederländisches meteorolog. Institut.
+Meteor Jaarboek voor 1877. II. 1884.
+144) W a s h in g to n . Smithsonian Institution.
+Annual report 1882.
+Miscellaneous collections XXVII.
+Contributions of Knowledge.
+145) W ien. Kaiserl. Akademie der Wissenschaften.
+Sitzungsberichte. Math. Naturw. 1883—84, II.
+146) W ien. Kaiserl. geologische Reichsanstalt.
+Verhandlungen 1884. 1885.
+147) W ien . K. K. geographische Gesellschaft.
+Mitteilungen 1883. 84.
+-  44 -
+148) W ien. Ornithologischer Verein.
+Jahrgang 7.
+Mitteilungen.der Section für Geflügel, Jahrg. 2.
+149) W ien. Naturwissenschaftlicher Verein.
+Mitteilungen 1882—83.
+150) W ien. Zoologisch-botanischer Verein.
+Verhandlungen 1884.
+151) W ien. Gesellschaft 2ur Verbreitung naturwissenschaft­
+licher Kenntnisse.
+Schriften XXIII, 1883.
+152) W ie sb a d en . Verein für Naturkunde.
+Jahrbücher 1884.
+153) W ilna. Медицинское общество.
+Протоколъ 1884.
+154) Z ürich . Naturforschende Gesellschaft.
+Vierteljährsschrift 1881. 82. 83.
+Geschenke
+fü r die B ib l io th e k  von den V e rfa s se rn .
+K. B erg . Reptiles у anfibios del Tandäi u de La Tinta 1884.
+Quindecim coleoptera nova faunae Argentinae. 1885.
+Rhinocerophis nasus Garm. Bothrops ammodytoides. 
+Leyb. —• 1885.
+J. K lin g e . Flussfahrt auf dem Woo. 1884.
+W. R o th e rt. Vergleichend anatomische Untersuchungen 
+über die Differenzen im primären Bau der 
+Stengel und Rhizome krautartiger Phanero- 
+gamen. 1885.
+E. R. v. T r a u tv e t te r .  Incrementa florae phaner. Rossicae 
+IV. 1884.
+— 45 —
+Direktorium des Naturforscher-Vereins zu Riga 
+für 1884— 85.
+Präses G. Sch we d e r, Stadtschulendirektor. 
+Vice-Pi’ääes Th. G rönjberg , Professor.
+Sekretär A. H a e n s e ll , Oberlehrer. 
+Schatzmeister O. H au ffe , Kaufmann. 
+Bibliothekar W. v. G u tz e it ,  Dr. med.
+P. B u h se , Dr. phil.
+M. G o t t f r ie d t ,  Oberlehrer.
+Th. B e h rm a n n , Fabrikdirektor.
+P. B e rg , Realschuldirektor.
+G. T hom s, Professor.
+A. W e rn e r , Oberlehrer.
+H. H ell m ann, Oberlehrer.
+Konservator A. S p u n d e , Lehrer.
+Mitglieder am 1. Juli 1885.
+(Die Nummer vor dem Namen ist diejenige, unter welcher das betreffende 
+Diplom ausgestellt ist.)
+A. E h r e n m i t g l i e d e r .
+1. 605. Berg, Karl, Dr. phil., Prof., in Buenos-Aires seit 18Ö1
+2. 21. Buhse, Fr., Dr. phil., in Riga . . .  . . Stifter „ 1881
+3. 679. Dechen, wirkl. Geheimrat, in Bonn . . . . „ 1870
+4. 678. Dubois-Reymond, Professor, in Berlin . . „ 1870
+5. 680. Fresenius, R., Präses des naturhistor. Ver­
+eins, iD W ie s b a d e n ..................... ..... „ 1880
+e. 247. Grewingk, C., Prof., wirkl. Staatsrät, in Dorpat „ 1870
+7. 585. Keyserling, Graf, Alex., in Raiküll (Estl.) . „ 1864
+8. 681. Kokscharow, General, Akadem.-Direktor des
+Bergkorps, in P e ter sb u rg .......................... „ 1870
+9. 472. Middendorff, Geheimrat, in Hellenorm (Livl.) „• 1855
+10. 752. Petzholdt, Alex., Prof. emer., wirkl. Staats­
+rat, in Freiburg in Baden . . . . . . „ 1881
+11. 602. Renard, Geheimrat, in M o s k a u ..................... „ 1865
+— 46 —
+12. 6Д4. Schmidt, C., Professor, wirk l. Staatsrat, iu
+Dorpat.............................................................. seit187013. 601. Schnwalow, Graf P ............................... .................................„ 1865
+14. 625. Schweinfurth, G., Dr. phil.................................. ..................„ 1872
+15. 636. Toepler, Aug., Professor, in Dresden . . .  „ 1868
+16. 626. Tolstoi, Graf D., wirkl. Geheimrat, Minister,
+in P e te r s b u r g ............................................... ................. „ 1867
+17. 627. Trautvetter, Direktor des botanischen Gar­
+tens, in P e te r s b u r g ...................................................... „ 1867
+18. 506. Yesselofsky, K., Geheimrat, best. Sekretär der
+Akademie der Wissenschaften, in Petersburg „ 1870
+B. B e s t ä n d i g e  M i t g l i e d e r .
+(Durch Zahlung eines einmaligen Beitrages von 40 Rbl. (bei Auswärtigen 
+von 30 Rbl.) wird ein Mitglied von den jährlichen Beiträgen befreit.)
+1. 106. Mercklin, Dr. med., Geheimrat, in Petersburg Stifter seit 1845
+2. 616. Hoyningen von Huene in Lechts (Estl.) . . „ 1867
+3. 776. Wulf, A. v., Besitzer von Lennewarden
+(L iv la n d )......................................................... ..................„ 1873
+4. 867. Löwis of Menar, Oskar von, in Meiershof (Livl.) „ 1878
+5. 878. Rautenfeld, H. v., auf Lindenruh . , . . „ 1879
+C. O r d e n t l i c h e  M i t g l i e d e r .
+1. In oder bei Riga wohnend.
+1. Ahbel, Joh...............................................................  seit 1884
+2. 609. Allenstein, Dr. med.............................................. ................. „ 1869
+3. Anders, Theod., O b er le h r e r .......................... ................. „ 1884
+4. 3. Angelbeck, Ed., P harm aceu t.......................... Stifter „ 1845
+5. 923. Back, Direktor der Gewerbeschule . . . .  „ 1882
+6. 739. Banken, M., L e h r e r ............................................................„ 1873
+7. 786. Barth, E., Schu lvorsteher............................... ................. ,, 1875
+8. 837. Baumann, J., A rch itek t...................................................... „ 1876
+9. 927. Baxter, M. S., Ingenieur...................................................... „ 1883
+10. 659. Behrmann, Th., F abrikd irek tor..................... ................. „ 1869
+11. 880. Beck, A., Dr. phil., P r o f e s s o r ..................... ................. „ 1879
+12. 261. Berg, F., Direktor der Realschule . . . .  „ 1847
+13. 902. Berg, Paul, Cand. ehem., Assistent am
+Polytechnikum ............................................... ................. „ 1881
+14. 940. Bergner, Amadeus, L eh rer ............................... ................. „ 1885
+15. 734. Bermann, P., L eh rer .......................................... ................. „ 1872
+16. 438. Bernhardt, R., K re isfisk a l............................... ................. „ 1853
+17. 727. Bertels, A., Dr. phil............................................. ................. „ 1871
+18. Bertels, Julius, F a b r ik a n t ............................... ................. „ 1884
+19. 815. Bockslaff, N., M akler........................................................... ,, 1875
+20. 906. Bolton, K aufm ann................................................................ „ 1881
+— 47 —
+21. 15. Bornhaupt, Dr. phil............................................... Stifter seit 1845
+22. 624. Bornhaupt, C., K o n su le n t ................................ ................. „ 1868
+23. 771. Braunstein, M., Lehrer . . . . . . . .  „ 1873
+24. 897. Bruhns, Ed., Buchhändler . . . . . . .  „ 1881
+25. 647. Buchardt, Th., A p oth ek er................................ ................. „ 1868
+26. 888. Büngner, Gust., Cand., Oberlehrer . . . .  „ 1880
+27. 22. Buhse, Jak., auf S tu b b en see........................... Stifter „ 1845
+28. 927. Dettmann, H., M e c h a n ik e r ........................... ................. „ 1882
+29. 759. Dihrik, A., Dr. med.............................................. ....................... 1873
+30. 758. Dohne, Fr., L e h r e r ........................................... ................. „ 1873
+31. 829. Donner, L. W., L eh rer ....................................................... ,, 1876
+32. 597. Dulckeit, J., Zahnarzt „ 1864
+33. 33. Bekers, K o ll.-R a t................................................Stifter „ 1845
+34. 809. Ehrlich, Joh., Kronslandm esser...................... ................. „ 1875
+35. 756. Erasmus, W., A p o th e k e r ................................ ................. „ 1873
+36. 621. Esche, Dr. med........................................................................ „ 1867
+37. 801. Felser, Osw., Kaufmann..................................... ................. „ 1875
+38. 844. Fetting, P. v., wirkl. S ta a te r a t ....................................... „ 1877
+39. 862. Fleischer, Hugo, B e a m te r ................................ ................. „ 1878
+46. 649. Förster, C., Dr. med., Staatsrat . . . . .  „ 1868
+41. 821. Forsch, Rob., Eisenbahnbeamter . . . .  ,, 1876
+42. 38. Frederking, 0. W., Mag. pharm........................Stifter „ 1845
+43. 869. Friedenberg, Lehrer ............................................................„ 1878
+44. 537. Fromm, W., L e h r e r ............................................................ ,, I860
+45. 783. Gerich, E., K a u fm a n n ....................................................... „ 1874
+46. 404. GermanD, Th., A dvokat..................................... ..................„ 1860
+47. 623. Gögginger, H., sen., Kunstgärtner . . . .  „ 1867
+48. 646. Gögginger, H., jun., „ . . . .  „ 1868
+49. 225. Gottfriedt, M., O berlehrer.................................................. „ 1846
+56. 806. Grönberg, Th., P r o fe s s o r ...................... . . „ 1875
+51. 336. Grote, A. v., Kammerherr, Landrat . . .  „ 1850
+52. 884. Grube, Karl, L e h r e r .............................................................„ 1880
+53. 399. Gutzeit, W. v., Dr. med...................................... ..................„ 1850
+54. 859. Häcker, W. M., Buchdruckereibesitzer . . „ 1877
+55. 780. Haensell, A., O b e r le h r e r ................................ ..................„ 1 8 ^
+56. 479. Haken, W., Beam ter.............................................................„ 1856
+57. Hafferberg, Rob., K aufm ann .......................... ..................„ 1885
+58. 720. Hampeln, P. v., Dr. med.................................... ..................„ 1872
+59. 548. Hartmann, Th., R a ts h e r r ..................................................„ 1861
+60. 588. Hauffe, O., Kaufmann . . . -........................................„ 1863
+61. 866. Hellmann, H., O berlehrer..................................................„ 1878
+62. 941. Helms, Karl, Lehrer .......................................... ..................„ 1885
+63. 339. Hernmarck, dim. Bürgerm eister..................... ..................„ 1850
+64. 909. Hertzberg, Rieh, v., Forsttaxator . . . .  „ 1863
+65. 613. Hill, A., Veterinärarzt * ................................ ................. „ 1866
+66. 340. Hill, J., K a u fm a n n .......................................... ..................,, 1850
+—  48 —
+67. 697. Hoff, E.) Kunstgärtner . . . .....................  seit 1870
+68. 645. Hol st, j Y., Dr. med..............................................  „ 1868
+69. 908. Jacoby, Georg, S ta a tsr a t ...............................  ,, 1881
+70. 921. Jakseh, Hob., K a u fm a n n .......................... ..... „ 1882
+71. 843. Jensen, E., F orstrevident................................ „ 1878
+72. 939. Jeschj E rn st.........................................................  „ 1885
+73. 874. Jürgensohn* O b erfo rstm eister ..................... „ 1879
+74. 740. Keilmann, Ph;, Dr. m e d . ...............................  ,, 1873
+75. 882. KeilmanD, Isid., Zahnarzt . . . . . . .  „ 1879
+76. 472. Kieseritzky, G., Direktor des Polytechnikums ,, 1853
+77. 538. Kirschfeldt, L., A p o t h e k e r ..........................  ,, I860
+78. 449. Klein, E. v., Koll.-Rat .....................................  „ 1855
+79. 889. Knieriem, W., Professor, Dr. . . . . .  „ 1880
+80. 872. Koch, Jul., B eam ter .......................... ..... • • » 1879
+81. 773. Kottkowitz, Gymnasiallehrer........................... ,, 1873
+82. 898. Kröpsch, W., K a u fm a n n ...............................  „ 1881
+83. 732. Krohne, H., Kaufmann . . . . . . . .  „ 1872
+84. 888. Kuphaldt, G., S ta d tg ä r tn e r ..........................  „ 1880
+85. 943. Landenberg, Karl, K a u f m a n n .....................  „ 1885
+86. 251. Lange, B. v., Dr. med., wirkl. Staatsrat . „ 1846
+87. 883. Langermann, L e h r e r .....................................  „ 1880
+88. 733. Lementy, J., Lehrer ..........................................  „ 1872
+89. 934. Maas, Wilh., K re is leh rer ..................... . . ,, 1884
+90. 926. Maisit, Martin, L e h r e r ....................................  „ 1883
+91. 607. Meder, R., O b er leh rer .......................... ..... . » 1865
+92. 796. Meissner, H., T u rn leh rer ...............................  „ 1875
+93. 388. Mengden, Baron, Kammerherr . . . . .  „ 1851
+94. 725. Mesching, J., B e a m te r ..................................... „ 1872
+95. 917. Milhard,. J., K r e is le h r e r ................................ „ 1882
+96. 912. Miram, Joh., Dr. m e d , ....................................  „ 1882
+97. 818. Müller, Eug. Wilh., Konsul, Kaufmann . . „ 1876
+98. 855. Miithel, K., Gymnasiallehrer..........................  „ 1877
+99. 741. Mundei, K oll.-Assesso.r.......................... ..... . „ 1873
+1Q0. 807. Naprowski, H., L eh rer....................... ..... „ 1875
+1-01. 114. Niederlau, F., A p o th ek er ................................. Stifter „ 1845
+102. 942. Nowitzky, S., L e h r e r ....................................  „ 1885
+103. 389. Oettingen, Aug. v., Hofmeister, Stadtrat . ,, 1851
+104. 769. Ostwald, E., F orstingen ieur..........................  „ 1873
+105. 760. Petersenn, K., Dr. med...................................... ,, 1873
+106- 913. Plates, E. A., Buclidruckereibesitzer . . .  „ 1882
+107. 938. Plato, Alex, v., Protonotär des Rats . . „ 1884
+108. 915. Pohrt, Nik., Chemiker . ................................ „ 1882
+109. 937. Pohrt, Joh., Kaufmann..................................... „ 1884
+110. 791. Raasche, G. L., M echaniker..........................  „ 1875
+111. 853. Rahwing, P., L eh rer .......................................... » 1877
+112. 885. Reckert, Alex., Kaufmann...............................  1880
+— 49 —
+113. 615. Rieke, Aug., O b e r le h r e r ................................. seit 186G
+114. 804. Risch, K aufm ann................................................................... ,, 1875
+115. 565. Rõsenberg, C., K aufm ann........................... . ,, 1862
+116. 900. Rothert, B an k d irek tor ...................... ..... ............................ „ 1881
+117. 910. Rubacli, R e n t i e r ................................................ ..................„ 1882
+118. 604. Rücker, C., A e l t e s t e r ...................................... ..................,, 1865
+119. 779. Saweljew, Alex., L e h r e r ................................. ..................„ 1874
+120. 792. Sehabert, Kreislehrer ...................................... ..................„ 1875
+121. 857. Schilling, E., A gronom ........................................................ ,, 1877
+122. 914. Schleicher, Fr. A., F a b r ik a n t .........................................,, 1882
+123. 922. Schultz, H., Dr. med.............................................................. ,, 1882
+124. 575. Schulz, Th., Kaufmann...................................... ..................„ 1862
+125. 899. Schwartz, Val., Dr. med..................................... ..................,, 1881
+126. 549. Schweder, Gr., Stadtschulen direktor . . .  „ 1859
+127. 714. Seidler, H., F a b r ik d irek to r ..............................................„ 1872
+128. Seyboth, Arn., C h em ik er ............................... ..................„ 1884
+129. 856. Sieber, A. v., Dr. med., H ofrat.........................................,, 1877
+130. 928. Sönnecken, G., Fabrikant................................. ..................„ 1883
+131. 656. Spunde, A., L e h r e r ........................................... ..................,, 1869
+132. 745. Stamm, C., Notarius publicus . . . . .  „ 1873
+133. 930. Stephan, O berlehrer........................................... ..................,, 1884
+134. 633. Stieda, Herrn., A e lte s te r ............................ .■ „ 1868
+135. 929. Stolterfoht, P., Kaufmann................................. ................. „ 1883
+136. 813. Taube, Ludw., B u c h h a l t e r ............................ ..................„ 1870
+137. 584. Teich, C. A., K reisleh rer................................. ..................„ 1863
+138. 287. Thieme, K unstgärtner.........................................................,, 1848
+139. 728. Thoms, G., P r o fe s s o r ...................................... ..................„ 1872
+140. 903. Trey, H., Cand. ehem., Assistent . . . .  „ 1881
+141. 754. Wagner, K., K u n s tg ä r tn e r ............................ ................. ,, 1873
+142. 853. Walter, J., L e h r e r ....................................... ...................... „ 1876
+143. 918. Walter, Karl, O berlehrer................................. ..................„ 1882
+144. 803. Walter, Jos., F a b r ik a n t ................................. ................. „ 1875
+145. 911. Weiss, Ed., Telegraphen-Beamter . . . .  ,, 1881
+146. 819. Werner, A., Oberlehrer............................ ..... . „ 1876
+147. 824. Werner, G., B e a m t e r ....................................... ................. „ 1876
+148. 653. Wertlier, W., L e h r e r ....................................... ................. „ 1869
+149. 700. Westermann, H., Oberlehrer............................ ................. „ 1870
+150. 599. Wiehert, E., Dr. med............................................................. ,, 1864
+151. 907. Wiehmann, Jul., G 'eheim i'at............................................. „ 1881
+152. 770. Wolff, Fr., Lehrer ........................................... ' „ 1873
+153. 905. Wolferz, Dr. med.................................................................... ,, 1881
+154. 664. Zander, J., S tad t-A elterm a im ....................... ................. ,, 1869
+155. 871. Zilp, G., L e h r e r ................................................. ................. „ 1879
+156. Zwingmann, Y., R atsh err ................................................. „ 1884
+Korr.-Bl. des N.-V. XXVIII. 4. 4
+— 50 —
+2. Ausserhalb Riga’s wohnend.
+1. 787. Flor, Osc., Caud. phys., bei Königsberg . . seit 1875
+2. 849. Grünhof, Dr. med., in Prawingen (Kurl.) . . „ 1877
+3. 706. Grünwaldt, P., Kaufmann, in Petersburg . „ 1871
+4. 845. Johnson, W., Türkischer General-Koneul, in
+K o p en h a g en ............................................... . „ 1878
+5. 876. Kämmerling in K e m m e r n ...............................  „ 1879
+6. 896. Klinge, J., Mag. bot., in D orpat..................... „ 1881
+7. 836. Kreytenberg, Apotheker, in Mitau . . . .  „ 1876
+8. 916. Laudanski, A ., Chemiker, in Karotscha
+(Gouv. Orel) ..................................................... „ 1882
+9. 97. Loewis of Menar, Alex, v., auf Dahlen (Livl.) Stifter „ 1845
+10. 919. Lutzau, Dr. med., in W olmar..........................  „ 1882
+11. 860. Nordstroem, Dr. med., Staatsrat, in Dubbeln „ 1878
+12. 128. Rautenfeld, H. v., auf Ringmundshof (Livl.) „ 1848
+13. 904. Schade, A., Kreislehrer, in Wolmar . . .  „ 1881
+14. 266. Schoeler, Apotheker, in F e l l i n .....................  ,, 1847
+15. 920. Treumann, J., Oberlehrer, in Birkenruh . . „ 1882
+D. K o r r e s ' p o n d i r e n d e  M i t g l i e d e r .
+1. 684. Aschersou, Dr., Sekretär des botanischen
+Vereins, in B er lin .......................................... seit 1870
+2. 573. Bauer, dim. Gymn.-Direktor, in Riga . . .  „ 1862
+3. 694. Berendt, Dr., in K ö n ig sb erg ..........................  „ 1870
+4. 716. Berg, v., Ingen ieur-K apitän ..........................  ,, 1872
+5. 709. Brandt, A. v., Dr., in Petersburg . . . .  „ 1871
+6. 696. Bruttan, Hofrat, in D o r p a t ..........................  „ 1870
+7. 610. Diercke, A ., Seminardirektor, in Stade
+(H a n n o v e r ) ....................................................  „ 1869
+8. 283. Dubitzky, Dr. med., in R i g a ..........................  „ 1848
+9. 582. Fliigel, F., Dr., in L e ip z ig ...............................  „ 1863
+10. 568. Götschel, E. v., Generalmajor, in Wilna . „ 1875
+11. 755. Heller, Professor, in W i e n ..........................  „ 1873
+12. 712. Knappe, D., Schulinspektor, iu Windau . . „ 1871
+13. 686. Krauss, Professor, in S tu ttg a rt.....................  „ 1870
+14. 666. Krüger, E., Reallehrer, in Mitau . . . .  „ 1869
+15. 748. Kuhn, 0 . v., Ingenieur-K apitän..................... ,, 1873
+16. 881. Iversen, W., Kustos der ökon. Gesellschaft,
+in P e te r s b u r g ...............................................  „ 1874
+17. 533. Le Jolis, Dr., in C herbourg ..........................  „ 1860
+18. 695. Lindemann, Dr. E. v., Medicinalrat, in
+E lisa b e th g r a d ...............................................  ,, 1870
+19. 206. Moritz, wirkl. Staatsrat, in Dorpat . . . .  ,, 1845
+20. 560. Müller, Ferd., Oberlehrer, iu Petersburg . ,, 1876
+21. 115. Nolcken, Baron, Generalmajor, in Riga . . Stifter ,, 1870
+— 51 —
+22. 693. Oettingen, Arthyr v., Professor, in Dorpat . seit 1870
+23. 522. Peltz, A., Koll.-Assess., in Petersburg . . „ 1871
+24. 784. Quaas, Navigationslehrer, in Libau . . . „ 1875
+25. 570. Russow, E., Professor, in Dorpat . . . . „ 1870
+28. 594. Schell, A., Professor, in Wien . . . . . „ 1874
+27. 682. Schmidt, Fr., wirkl. Staatsrat, Akademiker,
+„ 1870
+28. 691. Staudinger, Dr., in D r e s d e n ..................... ..... „ 1870
+29. 698. Stieda, L., Dr., wirkl. Staatsrat, Professor,
+in K ö n ig sb erg ............................................... „ 1870
+30. 705. Strauch, A ., Dr., wirkl. Staatsrat, Aka­
+demiker, in P etersbu rg ............................... „ 1871
+31. 704. Uexkiill v. Güldenband, Ingenieur-Kapitän . „ 1871
+32. 421. Wiedemann, Geheimrat, Akademiker, in
+Petersburg ; . П 1852
+— 52 —
+Kassenbericht
+für die Zeit vom 1. Juli 1884 bis 1. Juli 1885.
+E in n a h m e n . A n s g a b e n .
+Rbl. вы.
+Mitgliederbeiträge . . . . 643 L o k a l ..................................... 75
+Zinsen .................................... 374 K onservator........................... 100
+Vom Börsenkomite . . . . -600 2 D ie n e r ............................... 82
+Vom hydrographischen De­ Bibliothek............................... 44
+partement .......................... 180 Porto, Beischlüsse und div.
+Vom Oekonomieamt . . . 50 Drucksachen . . . . 88
+Von der Müllerschen Buch­ Korrespondenzblaft . . . 175
+druckerei .......................... J50 Versicherung.......................... 31
+Vom Himselschen Museum . 100 Inserate ................................. 16
+Verkaufte Drucksachen . . 48 Sam m lungen.......................... 95
+Meteorologische Stationen . 865
+Diverse Ausgaben . . . . 14
+Zum K apital.......................... 460
+zusammen 2045 zusammen 2045
+Kapital am 1. Juli 1885.
+Rigaer Hypothckenpfandbriefe . . 7300 Rbl. 
+Nominal-Wert.
+Anhaftende Z i n s e n ..........................  63 ,
+Baares Saldo ..................... ..... . . 162 „
+zusammen 7525 Rbl.
+Meteorologische BeohtMiagen
+in
+i ga  und D ü n a mü n
+fü r  1884,
+—==*<158$Э0сЗ$ё>><>
+Station R iga. Monat Januar 1884.
+Mittel*« rthe. l h- Mittag. Тмилйаг.
+Cels. 700щ т . Mt r. + % p. Sec. 0-10 Cels. Cels. - mm.
+russ.
+Fu88
+14 0.772.794SW.410+ 1.0—2.25.224 0.969.2100SW.410+ 1.4—3.24.93- 1.464.4SW.§104*i?o.- 4.0S.гvÜ.34.44- ij»*К.Ф1Ü!h*%H-ftüje.;13.55.15- 5Л566.6&08- 2.(T—11.0'2.34.96 — 4.7 57.7 93 SSW. 2 10 — 2:4 — 6.4 S. 1.0 5.0
+74 1.540.7100SSW.4104 2.4—5.6R.1.14.98—5.354.977N.884 0.8—7.4S.4.89 —11.6 70.2 78 0 . 0 — 6.4 —13.8 4.5
+10 — 0.7 56.1 99 NW. 2 10 -J- 2.4 —12.0 S. • 1.3 4.9
+11 4  2.0 48.9 100 SSW. 2 10, 4- 2.8. — 2.4 R. 11.8
+«h t e 3ß.7 Ш 'WSW. 4 1« 4- 2.2 o.e RS. 3.8 MИ
+wi- Ü7M.416m.8m4-0.8—1.2S.4.44J14 — 1.5 55.3 97 SE. 2 10 — 0.4 — 2.2 S. 5.4 4.6
+15 — 1.9 51.2 97 NE. 2 10° 4- o.o —  4.2 S. 1.0 5.2
+16 +  0.8 52.7 92 W. 4 10 4- 2.0. —  3.2 SOR. 1.1 5.7
+17 —  5.1 59.8 86 N. 8 10 4- 2.8 —  7.8 5.9
+18 —  6.1 72.1 87 0 10 — 4.6 — 7.4 5.2
+19 — 1.1 67.8 99 0 10 4- l.o -  7.0 5.4
+20 4  2.3 64.9 97 0 0 4- 2.8 4  0.4 5.3
+21 +  2.9 52.1 95 SW. 6 10 4- 4.7 4  0.2 R. 4.0 5.7
+22 4  2.1 52.0 93 SSW. 6 10 4- 0.4 4  3.8 R. 10.1 5.3
+23 +  1.6 34.6 99 WNW. 3 8 4- 4.0 — 0.2 RS. 13.9 5.4
+24 — 0.7 35.3 88 N. 2 10° 4- 1.3 — 3.7 S. 3.4 5.3
+25 — 1.9 48.7 90 SSW. 6 5 4 -1 .0 — 5.2 6.4
+26 4  1.3 47.9 85 SW. 12 10 4  2.0 0.0 S. 0.1 6.0
+27 4  0.9 41.9 92 SSW. 14 10 !+■ 2.4 — 1.2 S. 0.8 5.6
+28 - f  0.9 43.5 93 SSW. 4 8 44  2.0 — 0.4 0.9
+5.2
+29 +  0.8 46.7 93 SSW . 4 10 3.0 — 1.0 s. 0.5 6.4
+30 - f  1.2 48.4 100 SSW. 2 10 4  3.2 — 3.2 s. 2.3 5.2
+31 4- 2.6 45.0 84 W NW  10 10 4  3.4 4  0.8 s. 3.3 7 9
+Mitt. — 0.9 53.8 93 — 8.9 4  4.7 —13.8 76.3 5.3'
+Nebel am 2., 11., 16., 19. und 24.; Sturm am 17., 22. und 31. 
+Graupeln am 5.
+£
+Winde . . . Я H К
+m CO ss? m £ »
+šs
+m
+"А m ,.:ё _
+Häufigkeit . . 2 4 11 4 2 — — 1 — 2 4 17 2 2 2 2
+Meter pr. — 5.8 3.2 2.0 — — 2.0 — 4.6 4.4 6 .0 4 .0 6.5 2.0 7.5Secunde.
+Datum neuen Styls.
+Lufttemp.
+Barometer 
+Still. bei 0° C.
+Hygrometer.
+NE. Wind.
+ESE. Bewölkung, j
+Maxim.
+SSW.
+ 1 SW.  .Minim.
+Regen oder Schnee.
+Niederschlags­
+menge.
+to NNW. Wasserstand.
+Station Binam üM a ШШЛ Janmr l$84.
+Ф
+MNttlwnrtlie. .0 j ' 1>- Mittag. TeifierstHr. -э ' • » -
+jоaCG
+T<p3
+b   
+■ а<6u0
+£
+Cels. 700 mm. Mtr.P. §<£,... 0-10 Cels. Cels. -
+rase.
+mm. Puls»
+1 +  1.2 72.5 94 WSW 10 10 __ _ 0.4 5.2
+2-f 1.569.199WNW.610—R0.0.34.93 — 1.5 64.5 99 SSW . 8 10 S. 2.1 4.7
+4 — 1.9 57.4 85 N. 21 10 .— S. 1.8 5.4
+5 — 3.6 66.2 '79 W. 10 7 — — S. 1.6 5.3
+6 — 4.2 57.6 96 S. 8 9 — ■ — s. 3.4 4.6
+7 +  1.2 40.1 100 SW. 10 10 ii-* — HS. 1.0 4.7
+8 — 3.7, 54.9 81 NNW. 21 8 — so. 0.3 5.5
+9 — 9.3 70.3 85 SSE. 4 1 r — — • 5.3 4.2
+40 — 0.1 56.0 98 NNW. 14 10 :— RS. 0.3 5.3
+11 +  2.1 49.2 99 SSW. 6 10 — — B. 11.5 4.9
+12 +  0.7 36.5 100 WNW . 8 10 — — RS. 5.7 5.5
+13 — 0.1 51.5 93 NNW. 14 10 — w_ S. 0.4 5.6
+14 — 1.6 55.8 100 SSE. 4 10 — — s. 3.2 5.0
+15 — 1.5 51.1 98 ENE. 4 7 — — s. 1.0 4.9
+16 +  1.5 52.7 93 NW. 10 8 — — s. 1.5 6.0
+17 — 3.8 60.1 89 NNE. 20 10 — — 5.9
+18 — 6.8 71.9 96 SSE. 4 10 — — 0.5 5.2
+19 — 1.4 67.9 100 W SW . 3 10 — — S«. 5.4
+20 - f  2.1 64.8 98 WSW. 3 1 — . — 5.2
+21 +  2.3 52.0 96 SW. 10 10 — — R. 1.8 5.4
+22 +  1.7 52.0 95 SSW. 10 10 — — S. 4.5 4.9
+23 +  2.1 34.9 97 NW. 10 10 — — R. 4.6 5.5
+24 — 0.8 35.7 90 NE. 2 9. —  - — 5.2
+25 — 1.0 48.9 86 SW. 10 6 — ■— 6.3
+26 +  1.1 47.9 90 SW. 20 9 —- — 0.9 6.0
+27 +  1.1 42.1 94 SSE. 14 10 — — S. 1.5 5.4
+28 4  ̂ 0.4 43.2 96 S. 12 10 — — 5.3
+29 4- 0.9 46.5 93 SSW. 8 10 — —■ S. 1.0 6.0
+30 - f  0.7 48.6 99 SSW . 8 10 — — s. 4.5 5.4
+31 4- 2.5 44.3 88 WNW15 10 — — 7.9
+Mitt. — 0,6 53.7 94 — . . . . 8.9 — — 59.1 5.4
+Nebel am 2., 9., 18., 19. und 20.; Reif am 24. und 30.; Sturm am 8.,
+17., 26. und 31.
+Winde Л ‘-*3 H sa
+m. £ 00 m C/5s CQ iGQ
+Häufigkeit — 4 1 2 2 1 2 9 6 8 17 16 2 4 4 15
+Meter pr. 
+Secunde. _ 12.2 20.0 4.0 3., 4.0 5.0 5.8 8.7 7.0 8.3 7.2 lO.o 8.2 8.5 12.4
+ ! Datum neuen Styls.
+Lufttemp.
+Barometer 
+bei 0° C.
+NNE. Hygrometer.
+1 ENE. Wind.
+Bewölkung, j
+Maxim.
+SW. Minim.
+WSW
+WNW Niederschlags*
+menge.
+NW.
+NNW. Wasserstand.
+8taUm lüge* Mom* aFfbnitr*
+<5
+Mittelwert he. Lb- Mittag. Teaperatftr. ф>0
+m
+<u,■0T
+03
+a<2
+©be
+Q Cels, TOO ram Mtr. rase.+ % p. Sec 0-10 Cels. Cels. — mm. Fuss.
+1
+o/6 +  0.7 52.1 97 0 9 4- 1.9 — 0.6 S. 12.9 5.5
+оо +  11 42.9 86 W N W .8 10 4- 2.9 — 1.4 1.3 7.0
+4+ 0.155.974WSW.56+ 1.0—1.86.5Эс +  2.2 46.1 98 sw. 5 10 - f  4.5' — 0.8 R. 5.4 6.9
+оО 4- 2.7 55.5 81 NW. 1 0 4- 3.5 +  0:4 6.3
+7 4- 2.4 59.6 96 0 2 4- 4.3 4- 0.4 0.1 5.9Q +  3.1 57.7 100 W SW . 2 10 - f  3.5 4 - 0.1 R0. 0.6 5.8О
+АУ ■f 1-2 60.2 84 W SW . 4 0 - f  3.5 — 0.8 5.9
+10 — 1.7 65.0 100 SSW . 4 10
+— — 5.2
+j1 14 +  0.8 62.5 89 SSW. 6 0
+— — 5.3
+12 - f  2.4 61.2 96 SSW . 4 10 +  3.5 — 0.2 R. 0.9 5.0
+13 4- 1.8 64.9 100 0 10 -j- 2.9 +  1.0 R 9.1 5.1
+14 -j- 0.9 72,3 100 w. 1 10 4- 2.7 — 0.6 0.5 5.44- 1.5 77.8 93 NE. 4 10 4- 2.9 — 0.6 5.015 — 1.5 80.8 92 NE. 2 10 -  1.1 — 2.6 4.9
+16 2.3 76.6 94 0 10 — 0.3 — 3.0 So. 0.5 5.2
+17 -  1.7 75.6 94 0 10 — 0.3 — 2.0 S°. 0.3 4.7
+18 — 0.7 73.7 98 N. 2 8 + 1 .1 — 2.0 R°S. 1.0 4.9
+19 — 0.6 68.1 90 0 10 4- 0.9 — 1.6 So. 5.2
+20 — 1.2 59.0 96 S. 2 6 4- 1.7 — 4.0 S. 0.4 4.5-
+21 — 1.3 59.2 86 0 10 — 1.1 — 2.6 S°. 0.5 4.6
+22 — 2.5 63.0 83 N. 1 10 — 0.9 — 3.4 s°. 4.5
+23 — 3.9 61.8 84 S. 6 10 -  1.9 — 5.8 4.3
+24 — 0.9 51.4 100 SE. 1 10 +  1.1 — 2.6 s.. 4.1 4.0
+25 +  1.3 48.6 100 S. 1 10 4 - 3.5 +  0.2 RS. 8.4 4.1
+26 — 4.5 52.5 94 NNE. 2 10 +  1-1 — 8.2 S. 0.2 4.127 —11.2 63.8 84 N. 6 1 — 4.2
+28 — 5.3 71.0 97 ENE. 4 10 — 1.5 — 8.8 3.8
+29 — 5.7 72.0 86 0 0 — 0.1 — 9.4 3.6
+МШ. — 0.8 62,4 92 _ 7.7 -j- 4.5 — 9.4 46.2 5.1
+Nebel am 7., 9., 12., 18. und 25.
+Winde и. . Ж И 0Н3 0D
+£
+Я £ Ä
+Häufigkeit. 27 8 4 6 2 1 1 — 9 8 8 5 2 1 3 2
+Meter pr, 
+Secunde. - 4.1 3.5 2.8 3.0 2.0. 1.0 — З.о 3.6 3.6 3.2 1.0 8.0 3.7 4.5
+atum neuen Style. '
+Lufttemp.
+Still. Barometer 
+bei О« 0 .
+NNE. Hygrometer.
+Wind.
+Bewölkung. J
+SSE.
+Maxim.
+|SSW. .
+SW. Minim.
+W SW
+WNW Niederschlags­
+menge.
+NNW. Wasserstand.
+Station IMmamünde. Monat Februar 1884.
+Ф
+Mittelwerthe. 1>». Mittag. Temperatur. ОCDX0X
+02
+i В T
+s!
+О
+*8 fl Я
+% S bФo
+Я
+Ols. 700mm. Mtr. 0-10 Cels. Cels. - mm. russ.+ p. Sec. Fuss
+1 +  0.9 52.1 95 SE. 6 10 _ _ s. 9.9 5.6
+2 4- l.i 42.8 91 NNW. 21 9 — _ 0.9 7,5
+3 +  0.4 56.6 81 WNW10 5 — 0.4 6.4
+4 +  2.4 46.0 97 SW. 5 10 — — ES. 2.6 6.3
+5 +  2.7 55.6 90 NW. 8 0 — — 6.5
+6 +  2.4 59.5 99 W SW . 4 2 — — 0.9 6.0
+7 +  3.1 57.4 99 SW. 8 10 — — R°. 0.4 6.1
+8 +  1.9 60.2 90 WNW10 0 — — 0.2 6 A
+9 — 2.2 65.1 100 S. 6 10 — — 5.4
+10 +  0.7 62.3 90 SSE. 8 0 — . — 5.3
+11 +  2.3 60.6 96 SSE. 8 8 — R. 1.0 5.0
+12 4- 1.7 65.1 100 SE. 4 10 — — R. 7.6 5.1
+13 +  0.6 72.0 100 NW. 4 10 — — 5.5
+14 4- 1.4 77.8 96 E. 6 9 — — 4.8
+15 — 1.7 80.7 97 ENE. 4 10 — — SO. 0.1 4.9
+16 — 2.1 76.8 99 NW. 4 10 — — So. 0.7 5.0
+11 — 1.3 75.6 97 SSE. 1 10 — — So. 0.4 4.8
+18 — 0.6 73.7 98 NNW . 6 7 — .— S. 1.4 4.8
+19 — 0.6 68.4 96 W N W .6 10 — •— 4.9
+20 — 1.8 59.3 98 SSE. 4 4 — — S. 0.7 4.6
+21 — 0.9 59.0 92 NE. 1 10 — — 0.7 4.6
+22 — 2.5 62.6 92 ENE. 1 9 — — s. 4.3
+23 — 4.2 61.3 92 SE. 10 10 — — 1.4 3.9
+24 — 1.1 51.0 100 ESE. 8 10 — -— s. 3.2 3.9
+25 + 0.8 48.7 100 SE. 8 10 — — s. 8.7 4.2
+26 — 5.1 51.3 97 NE. 4 10 — — s. 0.9 4.0
+27 —10.2 63.8 92 ENE. 8 1 — — 4.0
+28 — 5.7 70.9 99 ENE. 6 10 — — 3.8
+29 —  5.5 72.0 87 E. 4 0 3.9
+Ktf. — 0.8 62.4 95 _ 7Г4 _ 42.1 5.1
+Nebel am L, 8., 9., 12., 13., 15., 16., 17n 20., 25. und 29.; E eif affi
+9. und 29.; Schneegestöber am 18.; Sturm am 2. und 4.
+й S &
+Winde Z Иz Z 02 mm 05 0Ž
+& &
+(3 cO
+£ N
+W m oa CO
+£ Z Zz
+Hänfigk. 1 1 1 5 10 6 1 9 9 4 1 7 6 2 4 8 12
+Meter pr.
+Secunde. — 4.0 3.0 5.4 4.7 4.8 8л 7 a 5л 6.5 6.0 5 * 5.0 6.0 7.5 4.6 9.7
+В
+I Datum neuen Styls.
+1
+i
+Still. ! Lufttemp.
+Barometer 
+NNE. bei 0° C.
+Hygrometer.
+Wind.
+Bewölkung.
+W SW
+Niederschlags­
+menge.
+Wass erstand.
+Station Riga. Monat März 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+Cels. 700mm. Mtr. 
+russ.
++ p. Sec. 0-10 Cels. Cels. - mm. Fuss
+1 — 6.9 72.5 81 E. 2 0 _ 3.2 —10.7 3.8
+2 — 3.9 77.8 93 S. 2 10 — 0.2 — 6.1 3.7
+3 — 3.5 79.2 83 ESE. 2 0 + 1.8 — 7.5 3.7
+4 — 5.2 78.7 92 ESE. 4 2 2.0 — 6.9 3.3
+5 — 5.5 75.8 83 0 0 0.0 — 9.7 3.1
+6 — 2.9 71.5 75 E. 4 0 + 3.0 — 8.1 2.9
+7 — 3.6 68.8 79 S. 4 6 1.0 — 5.5 3.0
+8 — 2.5 63.1 55 SSE. 2 0 + 2.2 — 5.7 3.2
+9 — 4.9 57.7 79 NE. 4 10 0.6 — 9.5 SO. 3.0
+10 — 5.0 61.8 77 NE 2 0 — 1.0 — 6.5 2.8
+11 — 6.2 68.0 75 SE. 4 0 — 1.6 — 9.1 2.6
+12 — 5.6 71.2 74 S. 8 0 — 1.2 — 9.5 2.0
+13 — 2.2 64.9 78 S. 20 10 + 1.8 — 5.3 So. 2.5
+14 — 2.7 69.4 94 N. 3 10 + 1.6 -  5.3 S. 4.0 2.8
+15 — 3.8 74.8 92 0 10 + 2.0 —10.5 3.0
+16 +  1.3 68.8 88 SW. 8 2 + 2.8 — 2.7 3.4
+17 +  1.6 62.4 100 0 10 + 4.0 — 0.2 3.8
+18 +  1.0 61.9 93 NNW. 6 0 + 3.2 — 0.9 3.7
+19 +  1.9 58.2 87 SW. 1 0 + 5.8 — 3.5 R. 1.6 3.4
+20 +  1.4 55.1 98 SE. 2 10 + 3.2 - f  0.9 R0. 3.6
+21 - f  2.6 55.0 99 S. 6 10 + 4.0 +  0.3 RS. 12.7 3.4
+22 +  1.4 54.6 99 S. 4 10 + 4.0 4 -  0.3 RS. 3.8
+23 +  3.5 55.5 88 0 9 + 6.2 4 -  0.5 3.6
+24 +  3.6 61.7 87 s. 2 8 + 6.4 4 -  0.9 RS°. 3.4
+25 - f  3.0 66.0 85 0 8 + 6.6 — 0.9 3.7
+26 +  1.6 65.3 80 NNE. 6 0 + 3.2 — 0.5 3.6
+27 +  1.0 66.1 84 ENE. 2 9 + 2.6 — 0.7 3.7
+28 - f  2.1 67.2 87 NW. 1 0 + 6.0 — 2.5 3.8
+29 +  2.3 67.2 83 0 2 + 5.8 — 2.7 3.7
+30 - f  3.4 66.1 65 SSW. 2 2 + 7.6 — 2.5 3.7
+31 - f  2.8 66.3 84 N. 1 8 + 7.6 — 0.1 3.6
+Mitt. — 1.0 66.2 84 — 4.7 + 7.6 —10.7 18.3 3.3
+Nebel am 15., 17., 19., 20., 23. und 29.; Rauhfrost am 15.; Sturm am 13.; 
+R eif am 18., 19., 25., 28., 29. und 30.
+Winde Я Sk. . . Я яÄ Я 02 cn со GOЯ CC
+Häufigkeit . . 36 3 2 5 3 4 3 6 2 15 7 4 — 1 2
+Meter pr. ] 
+Secunde. — 3.3 4.0 3.6 4.0 2.2 2.7 2.2 2.0 6.5 2.9 3.7 — 1.0 4.0
+|, Datum neuen Styls.
+Lufttemp.
+Barometer 
+Still. bei О» C.
+Hygrometer.
+NNE.
+1
+NE. Wind.
+ENE.
+Bewölkung, j
+Maxim.
+Minim.
+SSW.
+SW. Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+NNW. Wasserstand.
+Station Dünamünde. Monat März 1884.
+ttittelwerthe. l h- Mittag. Temperatur.
+700 mm. Mtr. russ.Cels. + % p. Sec. 0-10 Cels. Cels. - mm. Fuss
+1 _ 7.4 72.3 89 ENB. 4 0 _ __ 3.7
+2 — 4.3 77.5 97 SE. 6 10 — — 3.8
+3 — 2.4 79.3 86 SE. 5 0 — — 3.6
+4 — 4.8 78.4 95 SE. 6 1 — — 3.4
+5 — 4.8 75.9 88 ENE. 1 0 — — 3.3
+6 — 2.6 71.7 85 SE. 6 9 — — 3.2
+7 — 3.3 68.9 94 SE. 8 4 — — 3.2
+8 — 0.5 63.8 83 0 1 — — 3.2
+9 — 4.5 57.1 91 ESE. 6 10 — — S°. 3.2
+10 — 4.6 61.9 87 ESE. 5 0 — — 3.0
+11 — 5.8 67.5 81 SE. 8 0 — — 2.8
+12 — 5.3 70.5 81 SSE. 20 0 — — 2.0
+13 — 2.5 64.6 89 SSE. 20 9 — — S. 4.3 2.7
+14 — 2.4 69.0 96 NNE. 6 3 — — s. 0.1 3.3
+15 — 4.2 75.6 97 S. 6 8 — — 3.2
+16 + 1.7 69.1 91 SW. 8 2 — — 3.6
+17 + 1.4 62.3 99 WSW. 1 10 — — 3.6
+18 + 0.9 62.0 96 NE. 4 0 — — 0.3 3.6
+19 + 1.9 58.5 89 SSE. 4 0 — — R.° 2.9 3.5
+20 + 1.4 54.5 100 SE. 4 10 — — 3.8
+21 + 2.6 54.9 98 SSE. 10 10 — — R. 11.5 3.8
+22 + 1.5 54.6 98 S. 6 10 — — S. 4.0
+23 + 2.7 55.6 96 WSW 8 9 — — R0. 0.1 4.2
+24 + 2.7 61.8 92 SW. 1 9 — — SO. 5.2
+25 + 2.0 65.7 96 NE. 6 5 — — 4.0
+26 + 1.4 65.4 89 NE. 8 8 — — 3.5
+27 + 1.0 66.1 88 E. 4 10 — — 3.8
+28 + 0.7 66.8 94 N. 6 0 — — 0.1 3.9
+29 + 1.1 67.3 97 N. 4 0 — — 0.1 3.8
+30 ~b 1.4 66.4 94 N. 6 1 — — 3.8
+31 + 2.1 66.0 88 NNE. 4 3 — — 3.7
+Mitt. — 1.1 66.2 92 ■ — 4.6 — — 19.4 3.5
+Nebel am 1., 2., 3., 4., 5., 6., 11., 12.. 15., 17., 19., 20., 22. und 30.; 
+Reif am 3., 4., 5., 6., 11., 12., 18., 19., 25., 28., 29. und Э0.; Rauhfrost 
+am 15.; Sturm am 12. und 13.
+Winde . £& eä H 02 CQCG £J L
+Häufigkeit 2 4 2 10 9 6 4 25 12 5 1 6 4 1 — 2
+Meter pr. 
+Seeunde. — 5.0 5.0 4.7 3.9 3.8 4.7 5.5 9.0 6.4 2.0 5.7 3.5 1.0 — 3.0
+Datum neuen Styls.
+Lufttemp.
+Still. Barometer 
+bei 0° C.
+NNE. Hygrometer.
+NE.
+ENE. Wind.
+ESE. Bewölkung.
+SSE. Maxim.
+SSW. Minim.
+SW.
+Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+NNW. Wasserstand.
+Station Riga. Monat April 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+TaS S
+’S
+s ä
+Cels. 700 mm Mtr. + % p. Sec. 0-10 Cels. Cels. - mm.
+russ.
+Fuss.
+1 +  1.0 66.8 80 NNE. 4 6 4- 5.9 — 1.6 3.6
+2 — 0.1 67.4 85 NNW. 2 8 4- 3.5 — 3.6 3.5
+3+ 0.865.26200+ 4.1—2.63.44 +  3.1 61.3 64 0 0 4- 8.7 — 2.6 3.4
+5 +  3.6 60.5 87 N. 6 0 4- 8.5 + 0.2 3.5
+6 +  4.1 67.5 62 E. 2 0 4- 9.5 — 0.3 3.5
+7 -j- 4.0 70.6 69 ESE. 4 0 4- 9.5 — 1.6 3.3
+8 +  5.7 70.0 68 NE. 2 0 4-10.7 — 1.0 3.5
+9 +  6.5 68.7 75 S. 4 4 4-11.3 — 1.0 3.4
+10 -j- 7.3 65.0 67 SE. 4 1 4-12.3 — 1.0 3.9
+11 4- 5.9 59.4 87 S. 2 10 4- 8.9 4- 3.6 R. 1.2 4.2
+12 4- 4.1 59.5 95 NW. 2 9 4- 7.3 4- 2.6 4.6
+13 +  5.2 59.3 80 NW. 1 0 4- 9.1 4- 4.4 4.8
+14 +  2.9 57.3 77 N. 1 4 -)- 9.3 — 1.2 5.2
+15 +  1.3 58.2 59 SW. 2 1 4- 3.9 — 3.2 5.3
+16 +  3.3 53.4 73 N. 2 10 4- 9.5 — 0.4 S°. 5.4
+17 -  1.2 53.4 81 NW. 4 10 — — 3.2 S. 2.3 5.6
+18 — 2.7 60.5 81 N. 4 10 h 0.9 — 4.0 S. 5.2
+19 — 0.1 62.1 64 SSW . 4 0 - 4.3 — 5.0 5.6
+20 +  3.1 58.7 54 NE. 7 0 - 7.1 — 3.2 6.0
+21 +  3.6 57.0 55 NNE. 8 3 - 7.3 — 0.2 5.9
+22 4- 2.5 60.4 65 NE. 6 4 - 7.5 — 1.2 5.8
+23 +  2.9 62.3 51 NE. 3 0 - 7.5 — 2.6 5.6
+24 4- 4.0 61.3 49 SSW. 6 0 - 7.3 — 2.0 5.4
+25 4- 5.9 61.0 51 E. 4 8 - 9.7 — 0.6 5.0
+26 +  7.2 61.2 54 E. 8 8 -11.5 — 2.2 4.8
+27 4- 9.9 64.6 62 S. 4 9 -13.1 4- 4.8 4.5
+28 +  9.6 65.5 75 SSW. 4 9 -12.3 4- 7.0 R. 6.7 4.3
+29 +  8.4 61.7 96 SSW. 2 10 4-10.5 4- 6.8 R. 6.3 4.5
+30 4-10.3 59.0 76 S. 4 10 4-14.1 4- 6.6 R. 7.1 4.4
+Mittt +  4.1 62.0 70 — 4.5 4-14.1 — 5.0 23.6 4.7
+Reif am 1., 2., 3., 4., 5., 6., 7., 8., 10., 15. und 23,; Nebel am 3. und 12.; 
+Sturm am 17.; Sonnenhof am 20.
+H £
+Winde . . Z z z z H C
+ИG m Hgg 00 OG zCG z
+£
+z H Й £ z
+Häufigkeit. 12 12 9 9 2 7 1 8 2 11 6 4 — — 5 2
+Meter pr. 
+Secunde. — 3.7 3.9 3.7 1.5 3.6 4.0 2.6 3.5 2.6 3.7 1.5 — — 3.0 1.5
+1 Datum neuen Styls. |
+Lufttemp.
+Still. Barometer 
+bei 0° C.
+Hygrometer.
+ 1Bewölkung, j
+......... !
+Maxim.
+SSW.
+SW.
+Regen oder Schnee.
+W SW
+Niederschlags­
+menge.
+NW.
+Wasserstand.
+Station Dünamünde. Monat April 1884.
+Mittelwerthe. l fl- Mittag. Temperatur.
+Cels. 700 mm. Mtr. ■+■ p. gec. 0-10 Cels. Cels.
+russ.
+- mm. Fuss
+1 + 1.4 66.9 88 NE. 6 5 _ _ 3.6
+2 + 0.2 67.4 90 N. 6 4 — — 3.4
+3 + 0.2 65.4 70 NNW. 2 0 — — 3.3
+4 + 2.3 61.3 79 NW. 4 0 — — 3.4
+5 + 2.7 60.5 95 NNE. 8 1 — — . 3.4
+6 + 2.7 67.4 81 N. 4 0 — — 3.1
+7 4- 4.1 70.5 78 SE. 4 0 — ' — 2.9
+8 + 4.3 70.1 85 NE. 6. 0 — — 3.1
+9 + 6.1 69.0 82 SSE. 4 3 — — 2.9
+10 + 7.7 65.3 70 0 0 — — 3.0
+11 + 4.8 59.9 91 SE. 2 10 — . — R°. 1.2 3.2
+12 + 3.6 59.3 98 NNW 2 10 — — 3.5
+13 + 4.1 59.3 87 NW. 4 1 — — 3.5
+14 + 2.4 57.3 78 NNE. 14 1 — — 3.4
+15 + 1.0 57.8 67 NW. 4 1 — — 3.6
+16 + 1.5 53.4 88 NNW 6 10 — — S. 0.2 4.0
+17 1.4 53.3 93 NW. 8 10 — — S. 1.0 4.0
+18 — 2.3 60.3 81 NNW. 8 5 — — S. 3.6
+19 — 0.2 62.2 75 SE. 6 0 — — 3.5
+20 + 2.0 59.1 79 NE. 14 1 — — 3.5
+21 + 2.7 56.7 76 NE. 12 6 — — 3.3
+22 + 1.7 60.4 81 NE. 10 1 — —• 3.0
+23 + 2.3 62.2 73 NE. 10 0 — — 3.1
+24 + 3.7 61.0 58 SE. 8 0 — — 3.1
+25 + 5.7 61.0 61 SE. 10 7 — — 2.9
+26 + 7.5 60.9 58 SE. 20 5 — — 2.7
+27 + 9.0 64.0 66 SSE. 20 8 — — 3.2
+28 + 8.6 64.9 78 SSE. 10 8 — — R. 5.0 3.4
+29 7.3 61.7 98 SSE. 6 10 — — R. 4.5 3.4
+30 + 9.6 58.9 81 SSE. 8 9 — R. 3.5
+Mitt. + 3.5 61.9 79 — 3.9 — — 11.9 3.3
+Reif ara 1., 2., 3., 4., 6., 7., 8., 10., 19. und 20.; Thau am 14.; 
+Sturm am 21., 26. und 27.
+Winde . "-G H H 02 £
+£02 ÄSK &
+02 Ä H 02 OQ £ Utr tz£ SS
+Häufigkeit 1 5 3 19 6 2 2 22 14 2 — — 1 — 5 8
+Meter pr. 
+Secunde. — 3.6 10.6 8.1 4.7 3.0 3.0 5.9 6.8 2.0 — — 6.0 — 5.6 6.2
+С
+Datum neuen Styls.
+Lufttemp.
+Barometer 
+bei 0° C.
+NNE. Hygrometer.
+ENE. Wind.
+ESE. Bewölkung.
+SSE. Maxim.
+Minim.
+Regen oder Schnee.
+Niederschlags'
+menge.
+NW.
+Wasserstand.
+Station Riga. Monat Mai 1884.
+Mittelwerthe. l h* Mittag. Temperatur.
+JФd
+оS  Я 
+§
+ef.i. <d cä
+PQÄ 2
+Q 700 mm л/ Mtr. russ.
+Cels. 4- % p. Sec. 0-10 Cels. Cels. — mm. Fass.
+1-f 9.355.393SW.2104-14.0+7.3R.4.42 4- 7.0 50.3 97 SSW . 3 10 4-11.8 4- 4.6 R. 13.5 5.1
+3-f 7.047.481WSW.684-10.64~4.9R.2.05.24 4-10.6 45.9 94 SSW. 4 10 4-15.4 + 6.3 R. 5.8 4.8
+5 4-11.4 50.2 75 SW. 8 8 4-16.0 4- 5.1 R. 24.0 5.3
+6 9.5 52.7 86 sw. 4 9 4-13.0 6.9 R. 5.4
+7 4-11.5 60.8 63 sw.
++
+6 8 4-16.0 4- 6.1 5.2
+8 4- 9.6 65.3 57 W NW . 1 1 4-13.2 4- 4.7 0.2 6.2
+9 4-10.0 57.0 96 SW. 8 10 4-11.0 4- 8.1 R. 3.0 6.3
+10 4- 8.3 58.0 €3 N. 18 0 4-11-4 4- 6.1 R». 6.3
+11 4- 6.6 59.8 96 N. 18 0 4-10.2 4~ 3.5 6.5
+12 4- 6.1 67.2 63 NNW. 4 0 4- 9.0 4- 3.3 6.4
+13 4-10.4 65.1 71 SSW . 4 1 4-14.4 + 2.1 0.3 6 .2
+14 4- 8.5 56.9 80 N. 5 0 4-11.6 4- 5.5 R°. 6.5
+15 4- 8.7 56.6 52 S. 4 10 4-12.0 4- 4.1 R°. 0.9 6.4
+16 4-10.5 52.1 66 SW. 2 10 4-14.6 4- 4.1 R. 1.4 7.0
+17 4-11.1 53.9 81 NW. 4 4 4-14.0 + 7.3 6 .8
+18 4-16.8 57.7 80 SSW. 4 8 4-22.0 4- 9.9 6.7
+19 4-18.2 56.0 62 0 1 4-24.2 4- 9.9 2.3 6.5
+20 4-11.5 57.5 76 NNW. 2 10 4-14.4 + 9.1 R. 3.3 6.4
+21 4- 9.9 57.5 69 SW. 18 9 4-13.0 4- 7.3 R. 5.0 6.5
+22 4- 7.5 68.2 88 NNW. 8 2 4-11.4 4- 5.7 R. 7.0
+23 4-11.6 67.6 87 SW. 2 9 4-16.0 4- 3.3 5.8
+24 4-12.4 54.8 82 WSW 10 2 4-18.8 4- 7.3 5.8
+25 4- 7.7 54.3 78 NW. 18 2 4-13.0 4- 5.1 5.9
+26 4- 7.8 60.6 77 NW . 8 4 4-10.4 4- 6.1 R°. 5.8
+27 4- 8.5 60.8 79 NW. 3 3 4-10.6 4- 5.1 Rö. 1.3 5.4
+28 4- 7.9 59.0 88 0 9 4-11.2 4_ 4.3 R. 0.9 5.2
+29 4-И .З 60.7 71 NNE. 2 4 4-14.8 4- 4.7 R. 1.6 5.0
+30 4-11.4 59.4 84 NNW. 8 2 4-15.4 4- 9.1 5.0
+31 4-11.2 60.2 68 N. 2 0 4-14.4 4- 8.1 4.7
+Mitt« 4-10.0 57.7 78 — 5.3 4-24.2 + 2.1 65.5 5.9
+Nebel am 2.; Sturm am 10., 11., 21., 22. und 25.; Gewitter am 20.
+Winde . . W m И gc55 Я H m ШsЯ CQ CQS5 Я cc £ SSz
+Häufigkeit. 4 11 4 5 — — 1 1 5 8 30 4 2 2 10 6
+Meter pr. 
+Secuhde. — 6.7 2.0 1.8 — — 2.0 3.0 2л 3.7 3.6 5.5 &J) 2.5 5.6 5.7
+atum neuen Styls.
+Lufttemp.
+Still.
+Hygrometer.
+ENE. Wind.
+Bewölkung, j
+SSW.
+SW. Minim.
+WSW
+Regen oder Schnee.
+WNW] Niederschlags- J 
+menge, !
+NW.
+Wasserstand.
+Station Dünamiinde. Monat Mm 1884.
+аз
+T» Mittelwerthe. l h- Mittag. Temperatur.
+QQ
+я Sm .a> p-,ü а ® o
+я CD
+ß
+оS S_ '§аЕЗ J0 Я
+s PQ
+а Cels, 700тш. % Mtr. 0-10 Cels. Cels. шт. russ.+ p. Sec. — Fass
+1 +  8.4 55.4 95 NE. 2 9 _ _и R. 3.3 3.7
+2 +  6.8 50.3 95 SSW. 6 10 — RO. 6.5 3.6
+3 +  6.2 47.1 89 W SW . 8 5 — _ R. 1.5 4.2
+4 +10.9 45.7 89 S. 18 9 — — 3.2 3.9
+5 -+- 9.7 50.0 83 SW. 8 6 — — R. 17.2 4.0
+6 4" 8.5 52.5 88 WSW. 8 10 — — R. 0.4 4.2
+7 +  9.0 60.7 82 WSW. 6 5 — — 4.2
+8 +  8.5 65.3 73 NW. 4 0 — 1— 2.0 4 3
+9+ 8.756.698WSW 1010——R.2.94.610 +  7.3 58.0 78 NNW. 10 0 — — 4.7
+11 +  5.9 59.8 85 NNW . 20 0 — — 4.9
+12 - f  6.2 66.8 82 NNW .10 0 — — 4.6
+13 +10.0 65.5 61 NNE. 2 0 — _ 0.1 4.2
+14 +  8.5 57.1 88 NNW. 8 0 __ R°. 4.6
+15 +  8.3 56.6 84 SSE. 6 10 — — R. 1.2 4.0
+16 +  9.5 52.0 88 W. 8 6 — — R. 0.7 4.8
+17 +  8.9 53.7 83 NNW . 4 3 — — 4.7
+18 +15.7 57.6 79 WSW. 6 5 — 4.3
+19 +15.3 55.4 85 ENE. 2 1 — — 2.8 4.8
+20 +10.4 57,7 96 NNE. 8 9 — — R. 3.5 4.9
+21 +  9.1 57.6 93 W SW  14 9 — — R. 2.5 5.3
+22 +  7.6 68.1 88 NNW. 12 0 — — R. 5.6
+23 +10.5 67.8 72 SW. 10 7 — — 4.6
+24 +  11.3 55.1 87 W. 8 2 — — 5.1
+25 +  7.7 54.1 90 NNW.15 2 — — 5.1
+26 +  8.0 60.2 92 NNW. 14 1 — R°. 5.0
+27 +  8.3 61.0 77 NNW . 6 1 — .— R°, 1.2 4.7
+28 +  7.6 59.5 92 N. 2 10 — — 4.7
+29 +  9.7 61.0 89 NNW. 6 3 — - — R. 1.3 4.5
+30 +10.3 59.5 80 NNW . 8 1 4.5
+31 +10.7 60.3 80 NNW . 14 0 . 4.5
+Miit. +  9.1 57.7 85 4.3 — — 50.3 4.5
+Nebel am 2.; Gewitter am 19. und 20.; Starm am 9., 11., 21. und 22.
+н4
+Winde Wz cq r4cfi C CDmQ £
+ES &
+m Ш ZZ
+Ilüiifigk. — 3 3 6 1 2 — 4 3 3 5 14 11 6 1 6 25
+Meter pr. 
+Secuude. — 5.8 6 lo 4.7 2 .0 З л — 6 .0 4.8 9.3 6.4 7.2 7.6 9.0 6.0 9.8 10.3
+Still.
+NNE.
+NE. Hygrometer.
+ENE.
+Wind.
+Bewölkung. |
+SSW.
+SW. Minim.
+WSW
+Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+Wasserstand.
+Station Riga. Monat Juni 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+700mm.
+Cels. Mtr. 
+russ.
+■h p. Sec. 0-10 Cels. Cels. - mm. Fuss.
+1 +13.0 61.6 49 NW. 2 8 +17 .4 +  6.6 1.5 4.5
+2+13.059.567N.62+19.0+ 9.6R.4.53 +16.4 55.9 52 0 2 +21.2 +  7.2 4.5
+4 +14.8 51.0 93 SE. 2 8 +19.2 +10.2 R. 9.4 4.4
+5 +19.4 47.0 85 N. 1 9 +24 .0 +12.0 R. 15.2 4.2
+6 +15.1 47.8 89 SW. 6 10 +17.6 +10.4 R. 4.6
+7 +14.1 53.9 79 SW. 6 8 +18.2 +10.2 4.7
+8 +17.3 57.4 61 SSW. 2 8 +23.0 +  8.2 4.6
+9 +19.4 58.6 63 s. 4 6 +24.0 +12.6 4.4
+10 +18.4 59.1 81 N. 6 6 +23.8 +12.0 R. 10.6 4.4
+11 +16.7 62.8 78 N. 2 1 +22.2 +12.2 4.2
+12 +  19.8 61.9 63 SSW . 6 4 +26.2 +11.2 R. 0.2 4.1
+13 +15.1 62.5 63 NNW. 2 0 +19.8 +11.2 4.3
+14 +18.8 58.3 60 WSW. 2 1 +25.4 +  8.8 4.7
+15 +15.2 52.8 65 NNW. 2 4 +19.2 +12.4 4.8
+16 +12.8 52.3 82 SSW. 2 9 +19.0 +  7.6 R. 0.3 4.6
+17 +14.2 55.4 70 NNW. 2 1 +19.4 +  9.2 4.8
+18 +14.7 55.5 H7 N. 6 0 +17.2 +12.2 4.8
+19 +15.5 52.6 94 N. 6 8 +19.6 +13.4 R. 0.6 4.9
+20 +18.3 51.9 95 ESE. 2 10° +24.2 +13.4 R. 4.6
+21 +18.6 53.6 66 NE. 2 4 +24.2 +12.6 R. 4.8
+22 +18.3 54.2 71 S. 4 4 -4-23.4 +12.8 R. 10.6 4.7
+23 +16.7 51.4 89 SSW. 4 8 +21.6 +14 .4 R. 12.1 5.0
+24 +16.5 56.0 89 s. 4 9 +21.8 +10.6 R. 2.6 4.8
+25 +15 .0 59.1 86 SW. 4 10° +18.6 +11.6 0.6 5.0
+26 +15.0 57.9 76 WSW. 6 8 +18.8 +12.4 R. 4.9
+27 +14.0 58.9 84 SW. 4 8 +18.2 +  9.0 R. 12.4 4.8
+28 +15.3 59.5 78 N. 6 2 +17.8 +11.0 4.9
+29 +18.5 65.1 70 N. 4 8 +23.4 +11.5 5.0
+30 +21.9 67.2 63 N. 4 4 +26.8 +14 .4 4.8
+Mitt. +16 .4 56.7 75 — 5.7 +26 .8 +  6.6 76.1 4.6
+Gewitter am 4., 5., 6., 10., 16.. 19., 20., 21. und 24.
+H
+Winde . . . HÄ z H GQ H£ H GQ CQ &
+Häufigkeit . . 11 18 3 7 2 1 2 12 9 14 3 1 2 5
+Meter pr. i 
+Secuude. j — 3.9 3.0 2.0 — 1.5 2.0 3.0 2.6 3.0 3.9 4.0 2.0 1.5 3.6
+Datum neuen Styls.
+Lufttemp.
+Barometer 
+Still. bei 0° C.
+Hygrometer.
+NE. Wind.
+ENE.
+Bewölkung.
+Maxim.
+SSW. Minim.
+SW.
+|wsw Regen oder Scliüee.
+Niederschlags­
+menge.
+NW.
+NNW. Wasserstand.
+Station Dünamünde. Monat Juni 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+700 mm. Mtr. 0-10 - russ.Cels. + % p. Sec. Cels. Cels. mm. Fass
+1 +12.1 61.5 73 NE. 6 5 _ _ 1.0 4.2
+2 +12.2 59.6 84 N. 8 2 — — R. 4.1
+3 +15.7 55.9 67 NE. 4 2 — — 4.1
+4 +  13.9 50.1 82 ESE. 14 9 — — R. 2.5 4.1
+5 +14.9 47.6 86 NE. 8 6 — — R. 10.6 4.3
+6 +  13.9 48.1 84 S. 10 9 —— — R. 4.57 +12.8 53..8 75 WSW. 6 6 — 4.7
+8 +17.0 57.4 71 SSE. 8 5 — — R°. 4.2
+9 +18.7 58.5 75 ENE. 4 7 — — 4.3
+10 +16.6 59.3 94 NNE. 10 5 — — R. 0.9 4.3
+11 +14.0 62.6 89 N. 8 1 — — 4.1
+12 +17.9 61.8 75 WSW. 6 2 — — 4.1
+13 +14.1 62.7 77 N. 4 0 — — 4.1
+14 +17.3 58.6 77 W SW . 4 1 — — 0.1 4.3
+15 +14.1 53.0 79 W N W .6 1 — — R. 3.0 4.8
+16 +12.8 51.9 81 SE. 2 5 — — R. 7.7 4.7
+17 +13.9 55.1 81 NNW. 10 0 — — 4.9
+18 +14.7 55.7 92 N N W .10 0 — — 5.0
+19 +15.2 52.7 98 N. 10 10 — — R. 3.2 4.8
+20 +17 .4 51.8 98 SE. 6 7 — — R. 2.2 4.6
+21 +18.1 53.5 75 SE. 4 5 — — R. 8.9 4.9
+22 +18.3 54.1 78 SSE. 6 9 — — 7.9 4.8
+23 +15.3 51.2 98 W SW . 6 10 ■ — — R. 19.3 4.9
+24 + 16.5 55.6 91 SSE. 10 9 — — R. 2.5 4.9
+25 +  14.7 59.2 89 W SW 10 9 — — R. 1.2 5.0
+26 +15.1 57.6 '79 W SW . 8 8 — — 5.3
+27 +14.8 58-5 83 W. 6 10 — — 13.5 5.0
+28 +15.1 59.5 91 N. 12 2 — — R. 5.1
+29 +16.7 65.0 90 NNE. 10 2 — — 4.9
+30 +19.3 67.2 81 N. 8 2 4.7
+Mitt. +15 .4 56.6 83 — 5.0 — — 84.5 4.6
+Thau am 1.; Nebel am 3., 8., 9., 13., 24., 25. u. 29.; Gewitter am 4.,
+5., 6., 10., 16., 19., 20., 21., 23., 24. ucd 28.
+Winde . И Я£ S3 Я
+Яаз Ясо cd S
+=B=£
+Ä Я К > _
+Häufigkeit 9 6 14 5 1 1 10 11 5 3 4 9 2 1 3 6
+Meter pr. 
+Secunde. 8.7 7.3 5.3 5.2 2.0 14.о| 4.8 5.9 6.0 8.0 7.5 7.1 6.0 6.0 4.7 8.3
+D
+Datum neuen Styls.
+Lufttemp.
+Barometer 
+bei 0° C.
+NE. Hygrometer.
+Wind.
+Bewölkung.
+SSE.
+Maxim.
+SSW.
+ [ SW. Minim.
+Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+NNW. Wasserstand.
+Station Riga. Monat Juli 1884.
+Mittelwerthe. l b- Mittag. Temperatur.
+-3 ■'  
+aо
+ьс
+Ш
+Ci 700 mm Altr. russ.
+Cels. + % p. Sec, 0-10 Cels. Cels. — mm. Fuss.
+1 +22.9 68.5 64 ENE. 2 0 -4-28.1 +  15.8 4.7
+2 +24.8 67.5 57 NNW. 2 4 + 29.3 +16.8 4.7
+3 +24.5 64.7 63 0 0 +28.3 +17.4 4.6
+4 +24.9 63.1 60 SW. 2 6 ! +30.3 +17 .2 R. 4.3 4.3
+5 +23.6 61.2 74 NNW. 4 6 +27.3 +18 .2 12.8 4.6
+6 -4-20.8 58.6 84 NNW. 4 6 +28.1 +17 .2 R. 4.4
+,7 +15.8 59.5 70 N. 6 4 +20.1 +12.8 4.4
+8 +19.3 60.3 80 NNW. 3 1 +23.3 +13.2 4.3
+9 +19.1 61.9 66 NNW. 6 0 +23.1 +14.2 4.3
+10 +17.4 62.0 55 N. 2 0 +20.9 +11 .4 4.1
+11 +15.7 61.5 75 N. 2 9 +19.3 +  9.4 4.0
+12 +18.9 61.8 73 NW. 2 2 +23.3 +  12.4 3.9
+13 +20.5 60.8 65 SW. 2 8 +25.3 +13.6 3.7
+14 +19.0 57.0 85 SW. 4 6 +25.8 +14.6 R. 2.9 4.0
+15 +18.7 55.4 72 W. 4 4 +25.3 +13.6 4.3
+16 +18.9 57.4 77 w . 4 4 4-23.1 +14.4 4.5
+17 +20.6 57.3 70 SSW. 4 6 4-26.3 +11.4 R. 0.9 3.8
+18 +17.9 55.2 78 SSW. 6 9 +26.7 +15.4 4.0
+19 +19.2 59.8 70 SW. 4 8 +25.1 +12.5 5.6 3.9
+20 +16.5 54.8 86 ENE. 1 8 ! +20.5 +14.6 R. 7.4 3.7
+21 +15.2 56.4 58 SW. 4 6 +20.7 +  9.4 3.9
+22 +14.6 58.6 73 ; 0 8  j +  17.5 +  8.4 R. 0.2 4.2
+23 +15.7 62.1 64 N. 1 0 +18.7 +  9.4 4.6
+24 +18.7 60.1 56; SSW . 4 2 j +23.9 +  9.4 4.1
+25 +20.9 55.9 53 s. 4 4°; +26.5 +15.2 4.6
+26 +17.4 54.4 98 w . 2 10 +20.3 +16.4 R. 6.0 4.9
+27 +16.3 57.4 78: N. 6 9 ! +20.1 +14.0 R. 4.8
+28 +15.8 60.0 76 NW. 4 10 1+  19.7 +  14.9 4.6
+29 +  17.0 63.0 68 SW. 2 6 j +21.3 +  9.6 R. 0.3 4.5
+30 +16.6 63.3 73 ! s . 4 10 +22.3 +10.6 R. 3.5 4.2
+31 +14.4 56.9 99 SE. 2 io  1! +  16.9 +13.2 R. 4.1
+Mitt. +18.8 59.9 72 — 5.4 1+30.3 +  8.4 1 43.9 4.3
+Am 6. Gewitter und Hagel.
+Winde . . щ ! Иz g  z  fä я  1 Щ ! -с š  js £
+A  j  H ж ß  ! , и  : “
+Häufigkeit. 24 11 2 1 3 1 1 1 5 4 22 — 4 — 8 6
+Meter pr. 
+Secuirde. 2.6 1.5 2.0 : 1.3 4.0 2.0 2.0 3.4 4.0 2.5 — 3.0 — 2.2 3.3
+atum neuen Styls.
+Lufttemp.
+Still.
+Barometer 
+bei 0° C.
+NNE.
+Wind.
+Bewölkung, j
+Maxim.
+Minim.
+WSW
+Regen oder Schnee.
+WNW Niederschlags- 1 
+menge. I
+NW.
+NNW. Wasserstand.
+Station Dim am im de. Monat Juli 1884.
+Ф
+Mittelwerthe. ) l 1». Mittag. Temperatur. 0330
+01 
+. и  
+ü o  
+® я T
+a3> 
+a ~s  " оcR5 а
+f<c33öS ® » fi
+p?
+700mm. Mtr. russ. . 
+Cels. + # p. Sec. 0-10 Cels. Cels. - mm. Fuss.
+1 4-20.3 68.4 85 N. 6 1 __ __ 4.7
+2 4-21.9 67.8 82 NNE. 4 1 — — 4.6
+3 4-22.3 64.7 81 N. 6 2 — — 4.6
+4 +23.2 63.1 82 NE. 2 1 — — 4.4
+5 +23.1 61.5 73 N. 4 2 — — 4.5
+6 +20.9 58.6 81 N. 8 3 — — 0.1 4.7
+7 +  15.7 59.6 79 N. 8 3 — — 4.5
+8 +18.9 60.1 84 NNW. 8 1 — — 4.4
+9 + 19 .3 61.8 69 NNW. 8 0 — — 4.5
+10 +17.4 62.0 64 N. 2 1 — — 4.3
+11 +16.2 61.0 72 NNW. 5 4 — — 4.1
+12 +19.2 61.6 77 NNW. 2 1 — — 4.2
+13 +20.3 60.6 74 NW. 3 2 — — 4.0
+14 +19.2 56.9 87 WSW 6 1 — — 4.3
+15 +19.3 55.3 80 WNW . 4 2 — — R. 2.0 4.5
+16 +19.1 57.0 80 WNW .8 2 — — 0.1 4.6
+17 +  19.3 57.4 79 S. 12 4 — — R. 0.6 4.0
+18 +19.5 54.7 83 S. 14 9 — -— 0.5 4.1
+19 +20.2 59.5 75 WSW. 4 6 — — 5.0 4.1
+20 +17.3 54.4 85 SE. 4 8 — — R. 4.2 4.6
+21 +15.7 56.1 63 WSW.10 3 — — 5.2
+22 +15.3 58.3 64 W. 6 3 — — 5.1
+23 +15.9 61.7 69 NNW. 4 1 — — 4.9
+24 4-18.5 59.9 65 SSE. 8 1 — — 4.4
+25 +21.2 55.5 63 SSE. 14 3 — — R®. 0.1 4.5
+26 +16.8 54.3 100 NNW . 6 10 — — R. 10.0 4.7
+27 +16.4 56.9 84 NNW. 10 5 — — 0.1 5.0
+28 +16.2 59.6 78 NW . 8 7 — — 4.8
+29 +16.8 62.8 83 NE. 2 1 — — 4.7
+30 +16.8 63.0 80 SSE. 6 10 R. 3.7 4.4
+31 +15.5 57.1 99 SSE. 4 10 R. 4.7
+Mitt. +18.6 59.7 78 3.5 — — 26.4 4.5
+Nebel am 1., 3., 4., 5., S., 9., 11., 12., 13., 14., 18., 21., 23., 24., 29.; 
+Tliau am 4., 5.. 7., 8., 13., 17.; Gewitter am 6.
+И S3
+Winde *3 HZ ea1 Z
+O l c/2 O l o i £ &!Z5o i H O l
+Häufigk. — 7 4 13 6 1 — 4 11 4 1 3 8 4 3 10 14
+Meter pr. _
+Secnndc. 5.7 4.5 3.6 4.2 4.0 — 5.0 6.6 8.5 2.0 6.0 7.2 5.5 6.0 6.7 5.8
+Datum neuen Styls.
+Lufttemp.
+Hygrometer.
+ENE.
+Wind.
+.. ........ ........................  _ . 1
+Bewölkung.
+SSW.
+SW. Minim.
+(WSW
+Niederschlags­
+menge.
+NW.
+'NNW. Wasserstand.1
+Station Riga. Monat August 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+Cels. 700mm. Mt r. 
+russ.
++ % p. Sec. 0-10 Cels. Cels. - mm . Fuss.
+1 +15.9 55.0 75 SE. 2 9 +20.4 +  8.6 R. 0.5 4.7
+2 +15.9 54.7 84 SE. 2 8 +19.8 +11.5 R. 2.8 4.8
+3 + 15 .8 56.6 90 N. 1 8 +19.2 +12.6 R. 5.1
+4 +16.7 60.2 75 WNW. 2 2 +21.4 +13.1 4.8
+5 +17.4 60.3 84 W. 2 6 +21.6 +13.9 R. 2.0 5.1
+6 +17.0 64.8 87 NNW. 6 0 +19.8 +12.9 R. 5.0
+7 +16.2 69.2 90 N. 4 9 +19.8 +13.9 4.7
+8 +15.9 72.3 76 N. 2 0 +20.8 +  9.9 4.7
+9 +17.5 71.9 70 N. 2 0 +22.4 +10.1 4.4
+10 +19.4 67.0 64 S. 4 0 +25.4 +11.1 1.2 4.1
+11 +18.1 59.0 90 SW. 2 8 +24.6 +13.1 R. 16.5 4.2
+12 +  15.4 57.5 95 NNE. 6 10 +18.2 +13.5 R. 1.0 4.0
+13 +  12.3 64.4 68 NNE. 4 9 +15.4 +  9.9 4.2
+14 +11.8 63.9 73 N. 4 6 +15.6 +  9.5 4.1
+15 +14.6 639 71 N. 4 4 +18.6 +  7.6 4.0
+16 +15.2 65.6 73 N. 2 0 +18.8 +  9.3 4.0
+17 +  16.6 64.5 74 W. 2 2 +20.8 +10.1 4.0
+18 +  15.9 61.8 84 SW. 2 9 + 2 I.0 +10.5 R0. 4.1
+19 +  16.3 59.4 93 N. 2 8 +20.4 +  13.5 R. 0.4 4.1
+20 +14.7 61.2 86 NW. 4 8 +  19.2 +14.7 4.2
+21 +13.1 63.2 80 N. 4 2 +  17.2 +  8.7 4.0
+22 +14.9 63.5 77 N. 7 9° +18.4 +10.1 4.2
+23 +13.7 62.4 92 N. 6 10 +  17.4 +10.7 R. 2.1 4.2
+24 +14.7 63.0 77 N. 2 4 +18.8 +  9.1 4.3
+25 +12.0 61.3 66 NNE. 4 8 +16.8 +  8.9 4.0
+26 +  11.1 57.7 73 NE. 2 2 +15.2 +  6.5 3.7
+27 +12.1 57.7 73 NNW. 4 1 + 16.4 +  7.6 3.7
+28 +13.0 61.0 79 0 0 +16.6 +  7.9 3.8
+29 +13.9 61.4 84 N. 4 4 +  17.6 +  8.1 0.1 3.9
+30 +11.1 58.4 91 ESE. 1 9 +13.6 +  9.7 R. 1.6 3.7
+31 +11.0 55.9 87 j ENE. 2 9 +  15.0 +  8.1 R. 5.8 3.9
+litt. +14 .8 61.9 80 1 — 5.3 +25.4 +  6.5 34.0 4.3
+Nebel am 9., 20. und 29.; Gewitter und Hagel am 11.
+Й
+Winde . . . Я CЙO Й g
+Ä Й со
+£
+Я
+Häufigkeit . . 32 18 8 5 4 2 4 2 1 5 2 6 1 1 2
+Meter pr. j 
+Secunde. j - j 3. 3.6 1.6 2.0 1.0 2.0 4.0 4.0 2.2 3.0 1.8 2.0 4.0 5.0
+Datum neuen Styls.
+Lufttemp.
+Barometer 
+Still. bei 00 C.
+Hygrometer.
+NE. Wind.
+ENE.
+Bewölkung, j
+Maxim.
+iSSW.
+sw. Minim.
+jwsw  
+ 1 w. Regen oder Schnee.
+Niederschlags­
+menge.
+NNW. Wasserstand.
+Station Diinamiinde. Monat August 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+ä
+’S
+£
+Q л/ Mtr. rUSF.
+Cels, + p. Sec. 0-10 Cels. Cels. — mm. Fuss
+1 +16.1 55.0 80 SSE. 6 8 ____ ___ 15.0 4.6
+2 +15.5 54.6 89 SE. 6 8 — — R. 2.3 5.0
+3 +15.8 56.1 94 NNW. 6 4 — — 5.0
+4 +  17.6 60.0 77 WSW 3 1 — — 4.8
+5 +  17.3 60.2 91 NW. 4 1 — — R. 4.4 5.2
+6 +17.8 64.6 91 NNW. 8 1 — — 5.2
+7 +16.9 69.3 96 NNE. 8 5 — — 4.9
+8 +15.6 72.3 90 N. 8 0 — — 4.7
+9 +18.4 71.7 80 NNE. 6 0 — — 4.5
+10 + 20.2 67.2 71 SE. 6 0 — — 1.5 4.3
+11 +18.4 59.3 92 NW. 4 1 — —  . R. 6.1 4.4
+12 +15.9 57.9 94 ENE. 14 8 — ' — R. 0.3 4.6
+13 + 12.4 64.4 80 ENE. 6 7 — — 4.0
+14 +13.1 64.1 78 N. 6 2 — — 4.0
+15 +15.6 63.7 79 N. 6 1 — — 4.0
+16 +16.1 65.4 81 NNW 6 0 — — 4.1
+17 + 17.4 64.6 85 NW. 4 1 — — 4.1
+18 +16.6 61.8 92 WSW. 4 7 — — 0.1 4.3
+19 +17.0 59.4 98 NNE. 6 3 — — 0.2 4.2
+20 + 15.5 60.7 91 NNW. 4 2 — — 4.1
+21 +14.5 62.9 78 N.. 8 1 — — 4.1
+22 +15.8 63.9 82 N. 12 5 — — R. 0.4 4.2
+23 +15 .0 62.2 92 NNE. 18 7 — — R. 2.0 4.4
+24 + 15 .2 63.2 89 NNE. 10 1 — — 4.2
+25 +12.6 62.4 72 NE. 10 2 — — 3.9
+26 +11.7 57.8 78 NE. 6 2 — — 3.5
+27 +12.8 57.4 78 N. 6 0 — — 3.9
+28 +15.1 60.6 81 N. 6 0 — — 4.0
+29 +15.1 61.2 84 NNW. 4 1 — . .— 4.0
+30 +11.5 57.7 94 ESE. 6 10 — — R. 1.5 3.9
+31 +11.6 55.6 88 ESE. 8 8 — — R. 3.7
+Mitt. +15.5 61.8 85 — 3.1 — — 33.8 4.3
+Thau am 8., 9., 10., 16., 17., 21., 24. u. 28.; Gewitter am 11., 12. u. 30.; 
+Nebel am 7., 9., 10., 15., 16., 20., 21., 26., 27. u. 28.; Sturm am 23.
+Winde . Я53 я Я cd £ Ц £  Ä m *  |Ä
+Häufigkeit 10 10 14 11 4 3 10 4 1 — 3 3 — — j 9 11
+Meter pr. 
+Secunde. 6.6 8.2 5.9 6.9 4.2 7.3 3.7 5.0 6.0 — 4.7 5.0 — — j 5.6 6.2
+E
+atum neuen Styls.
+Lufttemp.
+Barometer 
+bei 0° C.
+NE. Hygrometer.
+ENE.
+Wind.
+ESE.
+Bewölkung, j
+SSE.
+i
+Maxim.
+SSW.
+SW.
+WSW
+Regen oder Schnee.
+Niederschlags­
+menge.
+NNW. Wasserstand.
+£
+£
+сс
+Station Riga. Monat September 1884.
+Mittelwerthe. lh. Mittag. Temperatur.
+яbß
+0
+3
+<PDS
+M
+700 mm Mtr. russ.
+Cels. p. Sec 0-10 Cels. Cels. - mm.+ Fuss.
+1+ 10.259.388N.484-14.3+ 8.4R.0.14.02 +12.2 63.7 73 SE. 2 90 +16.9 +  8 .6 3.7
+3 +14.2 61.0 85 SE. 6 8 +18.1 +10.6 R. 2.4 3.6
+4 +14.5 57.6 78 S. 6 4 +19.3 +10.2 3.5
+5 +14.0 54.7 71 SE. 10 1 +20.3 +  8.6 3.2
+6+ 14.556.771SSE.40+20.3+ 8.43.67 +14.3 61.0 91 NNW. 2 4 +20.3 +  8.4 3.6
+8 +15.1 63.6 65 SSW. 2 1 +21.3 +  8.6 3.5
+9 +16.0 67.6 71 0 \L +22.9 +  8.6 3.7
+10 +15.3 71.8 85. NW. 1 0 +21.5 + 9.4 3.7
+11 +13.4 73.8 98 NW. 2 9° +17.7 +  9.4 3.7
+12 +13.3 73.3 97. NNW. 2 0 +16.9 +  10.4 3.8
+13 +14.7 68.9 86 0 0 +19.3 + 1 0 8 4.0
+14 +15.0 65.4 78 NNW. 5 2 +18.1 +11.0 4.1
+15 +14.2 66.3 79 NNW. 4 10 +  18.3 +  11.6 4.0
+16 +  14.7 69.6 86 NNE. 6 4 +18.3 +10.4 R. 4.1
+17 +14.3 65.6 76; W. 6 2 +20.5 + 6.8 4.4
+18 +  11.2 66.3 80 N. 2 2 +15.5 + 8.6 3.6
+19 +11.7 60.0 81 S. 6 100 +17.3 + 6.8 R. 2.3 3.5
+20 +11.3 56.6 76 NW. 6 6 +13.9 + 8.6 R. 1.8 4.3
+21 +11.7 60.3 72 NW. 1 3 +14.9 + 9.0 R. 3.7
+22 +11.3 62.6 91 S. 2 1 +14.9 + 9.0 3.4
+23 +14.0 59.7 86 S. 6 6 +18.5 + 8.4 3.6
+24 +12.3 60.2 82 SW. 6 9 +  17.1 + 9.8 3.2
+25 +11.3 63.0 86 SW. 4 6 +16.9 + 5.8 R. 4.0
+26 +12.0 60.7 74 SSW . 6 8 +16.1 + 9.6 3.8
+27 +10.1 64.8 84 s. 4 4 +15.9 + 4.8 4.0
+28 +11.2 64.4 78 s. 4 1 +15.7 + 5.0 3.9
+29 +  14.1 68.1 83 SW. 4 9 +19.5 + 8.6 4.2
+30 + 12.7 71.5 76 SSW . 6 0 +17.3 + 9.8 3.9
+Mitt. +13.2 63.9 81 — 4.3 +22.9 4.8 6.6 3.8
+Nebel am 11., 12., 17. und 27.
+m £
+Winde . . Я я Ия И pä
+И
+я CQ QtnQ
+m QQ N £
+* Я
+Häufigkeit. 31 8 1 — — — 7 1 14 7 9 - 2 — 5 5
+Meter pr. 
+Secunde. — 4.0 6.0 — — — 4.1 4.0 3.5 3.4 3.3 — 4.0 — 2.4 3.0
+Datum neuen Styls.
+Lufttemp.
+Still. Barometer 
+bei 0° 0 .
+Hygrometer.
+ENE. Wind.
+Maxim.
+SSW.
+SW. Minim.
+Regen oder Sclmee.
+WNW Niederschlags­
+menge.
+NNW. Wasserstand.
+Station Dünamünde. Monat September 1884.
+Mittelwerthe. lh. Mittag. Temperatur.
+..
+® О 3
+Ф
+1
+о£ о  О
+be
+PЙQ1-° Ш
+700mm. Mtr. 1*1183.
+Cels. + % p. Sec. 0-10 Cels. Cels. - rum. Fuss.
+1 +  11.7 58.9 88 NNE. 6 6 _ _и R. 6.1 4.0
+2 +  12.5 63.6 80 SSE. 6 8 — — 3.9
+3 +14.1 60.6 90 SE. 12 9 — — R. 3.7 3.5
+4 +14.9 57.3 84 SE. 10 1 — — 3.7
+5 +15.3 54.3 76 SE. 10 0 — — 3.4
+6 +15.6 56,2 80 SSE. 10 0 — — 3.6
+7 +  13.9 60.6 97 NNW. 4 2 — — 3.8
+8 +15.7 62.6 76 SSE. 6 1 — — 39
+9 +15.5 67.4 94 NE. 4 0 — — 3.8
+10 +15.4 71.8 94 NNW. 4 0 — — 0.4 3.9
+11 +14.8 73.8 99 NNW. 8 10 — — 0.1 3.8
+12 +15.1 73.0 95 NNW . 6 0 — — 4.0
+13 +15.0 69.4 94 NW. 2 0 — — 3.8
+14 +15.6 65.4 87 NNW. 8 2 — — 4.1
+15 +15.2 66.0 85 NNW. 8 8 — — 4.1
+16 +15.5 68.9 94 NNW. 8 1 — — 4.2
+17 +  15.8 64.5 89 WNW. 8 2 — — 4.4
+18 +11.7 66.2 85 N. 6 1 — — 3.7
+19 +12.0 59.9 89 SSE. 6 8 — — R0. 1.4 3 9
+20 +12.4 56.4 73 N N W .18 3 — — R. 0.1 4.8
+21 +12.3 59.8 78 WNW. 6 5 — — R°. 0.1 3.9
+22 + 11.8 62.1 95 SE. 8 2 — — 0.1 3.5
+23 +14.7 59.1 87 SSE. 14 5 — 3.6
+24 +  12.4 59.3 95 NW. 10 7 — — R. 0.2 4.4
+25 +11.9 62.6 92 W SW . 6 3 — — 4.3
+26 +12.5 60.4 84 0 6 — — 0.1 4.0
+27 +10.8 64.5 90 WSW. 2 1 — — 0.1 4.1
+28 +11.6 64.4 80 S. 14 1 — 4.0
+29 +13.8 67.7 90 SSW . 10 6 — — 4.4
+30 +13.4 71.2 82 S. 14 0 — — 4.2
+Mitt. 4-13.8 63.6 87 3.3 — — 12.4 4.0
+Thau am 2., 6., 8., 9., 10.3 11., 12., 14., 17., 18., 23., 24., 25., 27. u. 28.; 
+Nebel am 6., 10., 11., 12., 17., 18., 23., 26., 27., 28. u. 29.; Sturm am 20.
+И
+Winde 55 H Jr l HCO GQ £
+==*
+%
+fläufigt. 1 1 1 4 2 1 — 22 14 5 4 3 4 — 3 6 19
+Meter pr. 
+Secunde. 6.0 6.0 2.5 4.0 2.0 6.8 6.9 8.6 7.0 4.0 6.0 — 7.3 7.3 7.2
+ 1 Datum neueu Styls.
+ 1Still. Lufttemp.
+NNE.
+NE.
+ENE.
+Wind.
+Bewölkung.
+SSE.
+Maxim.
+SSW.  ! ___
+SW. Minim.
+WSW
+Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+NNW. Wasserstand.
+Station Riga. Monat Oktober 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+Q russ.Cels. 700mm. %л/ Mtr.+ p. Sec. 0-10 Cels. Cels. “ mm. Fuss,
+1 +  9.9 70.4 78 SSW. 8 0 +16.8 + 6.2 4.1
+2 +  9.7 66.4 67 s. 4 8 +14.9 + 5.8 3.9
+3 +11.1 63.3 66 SE. 2 10° +14.9 + 6.0 4.0
+4 +11.8 62.9 94 SSE. 2 10° +14.9 + 9.2 R. 0.6 4.0
+5 +  10.3 71.5 87 0 4 +14.1 + 7.0 3.8
+6 +10.2 76.2 96 SSW . 2 10 +14.3 + 4.2 4.0
+7 +10.4 72.0 82 SSW . 2 0 +16.3 + 4.6 3.7
+8+ 9.964.680s.80+ 15.1+5.03.79 +10.2 56.7 76 s. 8 6 +14.1 + 5.6 R. 3.9
+10 +  9.9 52.9 98 0 10 +11.5 + 8.6 R. 3.8 3.9
+11 +10.7 51.8 98 s. 4 10 +12.5 + 8.0 Ro. 2.4 3.5
+12 +  9.9 49.4 77 SW. 4 4 +11.3 + 8.0 R. 3.4
+13 +  6.6 48.2 88 SSW . 14 10 +  8.5 + 5.2 R. 0.3 4.0
+14 +  5.9 45.3 88 SSW. 7 9 +  8.7 + 3.8 R0. 2.6 4.1
+15 +  5.9 52.9 91 w. 4 10 +  9.7 + 3.2 R. 2.5 5.3
+16 +  5.4 45.0 99 SSW. 6 8 +  8.3 + 1.2 R. 5.1 4.1
+17 +  4.2 39.8 95 SSW. 6 10 +  6.9 + 2.8 R. 9.0 4.9
+18 +  1.4 47.8 78 N. 6 10 +  4.1 0.4 RS. 3.3 4.6
+19 +  3.9 54.4 91 W SW 2 6 +  6.1 0.0 RS. 9.3 5.2
+20 +  6.8 46.0 82 0 9 +  9.1 + 3.8 R. 0.9 6.0
+21 +  6.2 57.6 78 N. 8 4 +  8.1 + 3.8 Ro. 6.2
+22 +  6.6 61.8 95! SW. 4 4 +10.9 2.8 5.6
+23 +  
++
+8.3 69.6 100 0 10 +  9.7 + 5.8 R. 5.2
+24 +  5.0 72.6 89 SSW. 2 2 +  9.5 + 0.6 4.7
+25 +  4.3 65.2 90 s. 4 10° +  8.1 + 0.0 4.3
+26 +  5.3 49.0 97 s. 4 10 +  6.3 + 4.6 R. 5.4 4.1
+27 +  6.4 37.3 88 SSW. 8 9 +  8.3 + 4.4 R. 2.1 4.8
+28 +  6.1 44.2 83 W SW 14 9 +  8.3 + 4.4 R. 4.1 6.2
+29 +  5.8 45.1 79 SW. 20 8 +  8.3 + 2.8 R. 0.3 6.3
+30 +  3.1 66.1 95 SSW. 4 9 +  7.1 + 0.2 RO. 0.2 5.9
+31 +  5.7 73.1 90 SW. 2 8 +  7.9 + 1.2 R. 0.2 5.4
+Mitt. +  7.3 57.4 87 — 7.3 +16.8 0.4 52.1 4.6
+Graupeln am 18. u. 19.; Nebel am 7., 23. u. 31.; Reif am 25. u. 30.; 
+Sturm am 18., 27., 28. u. 29.
+Я
+Winde . . . Й Ясо Я Яm •!  £ sžÄ Z Я со с
+соо СО ! СО;со £ Ш
+Häufigkeit . . 17 4 1 3 — 4 1 14 : 2 8 13 3 1
+— —
+Meter pr. j 
+Secunde. j — 6.5 2.0 2.7 — 2 .5 2.0 7.0 6.0 4.0 8.0
+atum neuen Styls.
+Lufttemp,
+Barometer 
+ ; Still. bei 00 C.
+Hygrometer.
+Wind.
+Bewölkung.
+Maxim.
+SW. Minim.
+ * |wsw
+Regen oder Schnee.
+Niederschlags­
+menge.
+ : N w.
+NNW. Wasserstand.
+11 ю
+1
+Station Dünamünde. Monat Oktober 1884.
+Mittelwerthe. lb. Mittag. Temperatur.
+Q 700 mm. Mtr. russ.
+Cels. + % p. Sec. 0-10 Cels. Cels. — mm. Fuss.
+1 +11.7 70.3 77 SSE. 10 0 _ __ _ 4.5
+2 +  11.1 66.1 75 SE. 8 6 — — 4.1
+3 +12.1 63.1 76 SE. 6 7 — — 4.4
+4 +12 .0 62.4 99 SE. 4 9 — — R. 0.9 4.4
+5 +11.1 70.9 89 SSE. 2 1 — — 4.2
+6 + 10.4 76.2 97 SSE. 4 9 — — 0.2 4.2
+7 + 11.3 72.0 83 S. 8 0 — — 4.0
+8 +10.7 64.8 83 SSE. 14 0 — — 40
+9 +10 .9 56.4 80 SSE. 18 4 — — R°. 3.7
+10 +10.2 52.9 99 SSW. 6 10 — — R. 5.3 4.1
+11 +  10.9 51.6 99 SSE. 8 10 — — 1.8 3.9
+12 +10.1 49.2 85 S. 10 5 — — 0.1 3.9
+13 +  7.0 47.2 94 SSW. 21 10 — — R. 1.3 4.4
+14 +  5.9 44.7 97 SSE. 8 9 — — 3.0 4.4
+15 +  7.1 52.9 86 NNW. 14 9 — — R. 2.9 5.6
+16 +  5.4 44.5 100 S. 10 8 — — R. 5.0 5.3
+17 +  4.1 40.0 99 S. 10 10 — — R. 5.5 5.2
+18 +  3.2 47.8 77 N. 14 9 — — RS. 4.7 4.8
+19 +  4.6 54.3 94 NW. 6 5 — — R. 9.5 5.4
+20 +  7.1 45.7 94 W. 1 10 — — R. 1.4 6.2
+21 +  7.1 57.2 86 N. 10 2 — — _ 5.7
+22 +  6.6 62.8 95 WSW. 6 2 — — ’ 0.5 5.3
+23 +  8.4 69.0 100 SSW. 4 10 — — Ro. 0.2 5.0
+24 +  5.4 72.7 92 S. 4 1 — — 0.1 4.9
+25 +  5.3 64.9 91 SSE. 10 6 — — 0.1 4.4
+26 +  5.4 48.8 98 SSE. 15 10 — — R. 4.5 4.3
+27 +  6.3 37.2 92 SSW . 15 5 — — R. 1.1 5.0
+28 +  6.0 43.7 90 SW. 18 9 — — R. 8.2 6.5
+29 +  6.4 43.7 82 WSW 18 3 — — R. 1.5 7.9
+30 +  4.5 65.4 94 SW. 10 8 — — 0.1 5.9
+31 +  6.1 72.7 92 SSW. 10 1 — — 0.5 5.7
+Mitt. +  7.9 57.1 90 — 6.1 — — 58.4 4.9
+Nebel am 1., 7., 8., 22., 23., 25. u. 30.; Thau am 1., 6., 7., 8., 11., 22., 24.,
+25., 30. u. 31.; Reif am 25.; Sturm am 9., 13., 16., 17., 18., 26., 28. u. 29.
+KJ
+Winde Ä
+s
+M со r WÄ соt со CQ
+Ss
+я Cß £ &
+Iläufigk. — 4 1 — 4 — 1 11 28 10 11 10 6 1 — 3 3
+Meter pr. 
+Secunde. — 10.5 21.0 — 2.5 - 6.0 7.3 9.5 8.4 10.9 9.9 10.3 1.0 — lO.o 10.7
+F.
+atum neuen Styls.
+Still. Lufttemp.
+Barometer 
+bei 0° C.
+NE. Hygrometer.
+ENE.
+Wind.
+Bewölkung.
+Maxim.
+SSW.
+SW. Minim.
+W SW
+Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+NNW. Wasserst and.
+Station Riga. Monat November 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+700mm.
+Cels. %/у/ Mt r. russ.+ p. Sec. 0-10 Cels. Ceis. — mm. Fuss.
+1+ 6.676.282SSW.61+ 9.14-3.75.22+ 3.274.180SSW.61+ 6.1—1.55.03+ 3.372.155SSW.21+ 6.1—1.1j5.04+ 2.166.777S.29+ 4.1—0.5j3.44.65 4- 4.0 66.1 98 0 10 +  5.5 4- 1.7 R. 0.9 4.4
+6 4- 5.9 61.6 100 SSW. 4 10 4- 8.7 4- 3.3 R. 8.3 4.85
+7 +  6.4 65.1 92 w . 6 4 4- 8.5 4- 3.7 5.4
+8 4- 4.2 64.4 100 SSW. 8 10 4- 7.3 4- 1.3 R. 1.9 4.3
+9 +  6.9 64.4 100 SSW . 2 10 4- 7.9 4- 2.5 R. 5.1
+10 +  7.6 64.3 98 SW. 4 10 4- 9.3 4- 4.5 5.2
+11 4- 6.7 70.4 71 NNW . 6 6 4- 7.3 4- 3.7 6.0
+12 +  3.7 76.9 75 N. 2 10 4- 5.5 4- 2.3 4.9
+13 +  0.9 79.1 88 0 10 4- 3-5 -f- 0.5 4.5
+14 +  0.7 76.8 95 NNE. 1 10 4- 1-7 — 0.5 4.5
+15 — 1.3 744 89 0 10 — 0.1 -  3.5 4.3
+16 +  1.9 73.9 80 0 2 4- 3.1 — 2.5 3.9
+17 +  0.7 65.0 92 ESE. 4 10 +  1.9 — 0.7 S. 2.2 3.4
+18 +  0.7 57.5 100 0 10 4- 1.9 — 0.5 So. 3.3 45
+19 — 3.0 59.6 78 SSW. 1 10 — 0.3 — 4.9 S. 9.4 4.7
+20 — 7.7 60.7 95 SW. 2 6 — 3.5 — 9.7 s. 1.3 4.1
+21 — 7.5 62.0 .95 S. 4 10 — 5.3 — 8.0 s. 0.3 3.9
+22 —10.0 59.5 94 s. 4 10 — 6.3 —10.5 s. 0.2 39
+23 — 7.6 55.1 98 is . 4 10 !— 5.1 —13.3 s. 2.5 3.8
+24 — 7.2 56.5 94 s. 4 10 !— 4.7 -  8.7 s. 1.2 4.0
+25 —12.7 56.3 95 0 2 1 -  6.9 — 14.1 4.1
+26 —10.1 50.0 96 0 9 — 5.9 —15.1 4.2
+27 —10.5 47.6 99 0 10 1 -  7.1 -1 4 .7 4.0
+28 — 10.5 49.6 99 ISSW . 2 6° ! — 7.5 —14.1 SO. 2.3 4.0
+29 -1 0 .3 51.1 100 Io 10 ! — 6.3 — 14.7 s. 2.1 4.4
+30 —15.3 59.6 100 0 0 :—12.9 —16.5 4.0
+Mitt. — 1.6 63.9 91 2.5 7.6 14- 9.3 —16.5 39.3 4.8
+Nebel am 5., 8., 10. u. 29.; Reif am 2., 3., 4., 15., u. 16.; Rauhfrost 
+am 27., 28., 29. und 30.
+H а £
+Winde . . z Z Я
+а
+z m Z
+32 z z £а 55 m £ z
+Häufigkeit. 39 5 2 l l 3 2 1 8 18 6 2 1 — 1
+Meter pr. 
+Secunde. - 5.2 1.5 2.0 2.0 З.з 1.5 1.0 3.7 3.7 5.0 6.0 — 6.0
+atum neuen Styls.
+Lufttemp.
+Barometer 
+bei 0° C.
+Hygrometer.
+Wind.
+ESE.
+Bewölkung.,
+Maxim.
+CO
+GO SSW.
+SW. Minim.
+WSW
+Regen oder Schnee.
+Niederschlags­
+menge.
+NNW. Wasserstand.
+Station Dünamünde. Monat November 1884.
+I
+Mittelwerthe. | l h- Mittag. Temperatur.
+Sh
+В ©
+о  _
+J J
+700 mm. Mt r. r U S s .
+Cels. - f - % p. Sec. 0-10 Cels. Cels. - mm. Fass
+1 +  6.9 75.3 84 SW. 8 1 __ _ 5.6
+2 +  3.9 74.9 79 s. 10 0 — — 5.1
+3-f 3.872.363SSE.64——4.84 4- 2.5 66.2 84 SE. 4 9 — — 2.4 4.8
+5 4- 3.9 65.8 98 SSE. 4 10 — — R. 5.0 4.9
+6 4- 6.0 61.1 100 S. 10 10 — — R. 10.2 4.7
+7 4- 6.7 64.6 97 W. 6 6 — — 0.1 5.5
+8 4- 4.4 64.1 100 SSE. 10 10 — — R. 3.0 4.4
+9 4- 7.3 63.9 99 WSW. 6 10 — — R. 5.3
+10 4- 7.8 64.0 98 WSW. 8 8 — — 5.3
+11 4- 7.3 69.8 77 NNW. 10 4 — — 5.7
+12 4- 4.U 76.7 «3 ENE. 4 8 — — . 4.9
+13 4- 0.9 79.1 92 SE. 6 10 — — 4.8
+14 4- l.o 76.9 96 ENE. 4 10 — — 4.8
+15 — 1.1 74.4 .92 ENE. 6 9 — — 4.5 *
+16 4- 2.1 74.0 86 SE. 8 4 — — 4.1
+17 4- l.o 64.9 95 SE. 8 10 — — S. 2.0 4.2
+18 4- 0.8 56.9 100 S. 4 10 — — S. 2.1 4.9
+19 — 1.8 59.3 82 NNW .14 10 — — s. 7.0 4.9
+20 — 7.1 60.0 93 S. 6 1 — — s. 1.5 4.2
+21 — 8.2 61.6 100 SSE. 6 10 — — s. 0.9 4.2
+22 — 11.3 59.7 100 SSE. 6 10 — — s. 0.2 4.3
+23 — 7.7 54.8 100 SSE. 8 10 — — s. 2.5 4.4
+24 -  7.1 56.1 100 SSE. 8 10 — — s.' 0.1 4.7
+25 — 11.3 56.3 97 E. 2 5 — — 4.3
+26 -1 0 .6 50.3 100 SSE. 4 8 — — 0.1 4.4
+27 —10.1 47.2 100 SSE. 2 10 — — ■ s. 6.7 4.5
+28 -1 1 .1 49.5 100 S. 3 8 — — 4.8
+29 — 9.3 50.9 100 E. 2 10 — —• s. 2.3 4.4
+30 —15.7 59.1 100 SE. 2 10 — — 4.1
+Mitt. — 1.4 63.7 93 — 7.8 — — 46.1 4.7
+Nebel am 1., 2., 3., 5., 6., 8., 13., 20., 26., 27., 28., 29. u. 30.; Reif am 2.,
+3., 4., 15., 16., 23., 25., 26. u. 28.; Rauhfrost am 27., 29. u. 30.; Thau 
+am 8.; Graupeln am 19.
+•
+Winde . К £ =='z Z r4 * 02. £z CO CQ £* z
+Häufigkeit 1 — 2 6 7 2 17 14 2 4 7 123 — 4
+Meter pr. 
+Secunde. lO.o — 3.5 4.5 3.1 1.5 4.2 5.1 6.1 8.0* 5.5 6.3 6.0 11.51
+Datum neuen Styls.
+Lufttemp.
+NE. Hygrometer.
+ENE.
+Wind.
+ESE.
+Bewölkung.
+SSE.
+Maxim.
+SSW.
+Minim.
+Regen oder Sclmee.
+Niederschlags­
+menge.
+NNW. Wasserstand.
+Station Riga. Monat December 1884.
+Mittelwerthe. l h- Mittag. Temperatur.
+Q Cels. 700 mm /у/ Mt r.
+:
++ % p. Sec 0-10 Cels. Cels. — mm.
+russ.
+Fuss.
+1 _ 8.8 52.7 100 NNE. 4 10 _ 6.5 _14.6 S. 4.8 3.1
+2 — 7.8 46.5 99 SE. 2 10 — 2.9 — 9.6 S. 0.6 4.1
+3 — 5.3 56.3 99 j 0 10 — 2.3 — 8.0 s. 1.5 4.5
+4 — 7.0 49.9 99 I S. 2 10 — 3.5 —11.0 s . 0.4 4.2
+5 + 0.9 44.9 100 s . 4 10 + 2.5 — 4.6 RS. 2.9 3.9
+6 + 1.3 47.2 lo o ; SW. 4 10 + 2.3 4~ 0.6 RS. 3.6 4.4
+7 + 1.1 51.6 100 j s . 4 10 + 2.5 — 0.2 S. 7.5 4.6
+8 + 3.3 49.9 100 SW. 4 10 + 5.5 4- 1.4 R. 4.7 4.7
+9 4- 4.5 46.1 83 1WSW. 8 10 4* 4.9 4- 2.8 5.8
+10 4- 3.1 49.2 91 I SW. 4 8 + 4.3 4- 1.6 5.0
+11 4- 2.8 48.6 99 SW. 4 10 4~ 3.7 + 0.6 RS. 2.7 5.1
+12 + 4.3 42.6 100! SW.' 4 10 + 4.9 4- 0.6 R. 4.9 5.0
+13 4- 1.1 49.8 83 w. 6 10 ~1r 3.5 4- 0 8 RS. 5.8
+14 4.4 55.2 83 0 5 1.5 — 6.4 S. 1.2 5.0
+15 4- 0.5 46.3 98 SW. 4 10 4- 3.1 •— 5.0 RS. 10.9 4.8
+16 0.3 45.1 90 j 0 10 4- 2.5 — 4.4 RS. 1.6 5.1
+17 4- 1.5 52.5 100 SW. 2 8 4" 2.7 — 3.8 S. 5.7
+18 0.3 50.3 100 SE. 4 10 4- 2.1 — 1.6 S. 2.8 4.8
+19 — 0.3 48.6 100 j SSW. 4 10 + 1.7 — 1.6 5.2
+20 + 0.9 44.3 100 SSW. 4 10 ~T1 2.3 — 0.4 RS. 4.4 5.2
+21 3.2 56.4 100 s. 1 2 4~ 1.5 — 5.6 5.0
+22 — 3.2 66.6 100 NNE. 2 10 1.1 •- 5.6 4.6
+23 — 8.0 68.4 99 NE. 2 10 — 4.9 — 9.4 4.3
+24 — 3.3 59.0 100 0 10 — 1.5 — 8.8 s°. 4.3
+25 — 0.5 61.6 100 0 10 4* 0.9 — 2.4 s. 1.1 4.4
+26 — 0.1 65.8 99 0 10 4- 1 3 — 1.4 0.2 4.4
+27 4- 0.7 61.6 100 SSW . 4 10 4- 2.7 — 0 4 s°. 0.6 4.6
+28 1.0 69.4 87 0 10 2.1 — 2.2 R. 4.2
+29 — 0.9 71.1 95 SE. 2 10 4- 2.5 — 2.6 0.4 3.7
+30 4- 1.3 71.8 98 S. 4 10 4- 2.7 4- 0.4 R. 3.7
+31 0.4 77.0 95 SE. 2 10 + 1.7 — 0.4 3.5
+Mitt. - 0.9 55.0 97 — 9.5 4- 5.5 14.6 56.8 4.6
+Nebel am 5., 7., 11., 21. u. 25.; Rauhfrost am 22.; Graupeln am 5.; 
+Sturm am 13.
+Я
+Winde . . . z S3 Я £CG ==CG
+55 Z А cc CG Zz
+Häufigkeit . . 31 l 4 4 1 8 2 7 6 22 3 2 1 1 —
+Meter pr. ( 
+Secuude. j 4.0 4.0 2.5 4.0 3.2 4.0 3.6 4.0 3.8 6.7 7.0 4.0 4.0 —
+atum neuen Styls.
+Lufttemp.
+Barometer 
+bei 00 (J.
+Hygrometer.
+NE. Wind.
+ENE.
+Bewölkung.
+Maxim.
+SSW.
+SW. Minim.
+WSW
+Regen oder Schnee.
+Niederschlags­
+menge.
+NW.
+Wasserstand.
+Station Dünamünde. Monat December 1884.
+Mittelwerthe. l !l- Mittag. Temperatur.
+Cels. 700mm. Mtr. o-io- Cels. Cels. - russ.+ p. Sec. mm. Fuss.
+1 — 7.5 52.6 100 NE. 18 10 __ - S. 4.7 3.4
+2 — 7.3 46.2 100 E. 6 10 — — S. 1.5 4.5
+3 — 5.3 56.1 100 SSW. 2 10 — — s. 0.8 4.5
+4 — 7.0 49.7 100 SE. 6 10 — — 8 . 3.1 3.5
+5 + 1.5 44.7 100 SSE. 4 10 — — RS. 1.3 3.8
+6 4- 1.6 46.6 99 W. 10 10 — — RS. 2.0 4.7
+7 4- 1.0 51.8 99 SSE. 10 10 — — RS. 7.2 3.9
+8 + 3.7 49.7 99 SSW. 10 10 — — . R. 1.5 4.2
+9 + 4.3 46.3 90 W. 10 9 — — 5.8
+10 + 2.9 49.1 96 W SW 6 5 — ---- 0.3 5.0
+11 + 2.8 48.4 99 SW. 8 10 — — R. 5.5 5.0
+12 4.2 42.6 100 S. 8 10 — —  . R. 3.5 5.1
+13 + 0.3 49.2 89 NNW. 18 9 — —  . S. 4.1 6.7
+14 — 3.3 55.1 84 NNW. 6 6 — — 2.0 5.4
+15 + 0.9 46.7 98 WSW 10 5 — — S. 8.8 5.4
+16 + 0.1 45.5 96 WNW10 9 — -— RS. 0.6 5.7
+17 2.0 52.3 99 SW. 6 2 — — 0.2 5.8
+18 — 0.1 50.7 100 SE. 6 10 — .— S. 3.3 5.0
+19 + 0.3 48.4 97 SSE. 6 10 — — s. 3.1 5 2
+20 + 0.8 44.0 100 SSW. 6 10 — — s. 2.6 4.8
+21 3.1 56.5 100 S. 2 10 — — 5.1
+22 — 3.1 66.4 100 NE. 6 10 — — 4.5
+23 — 7.9 69.0 100 ENE. 8 10 — — 4.5
+24 — 3.4 59.2 100 ENE. 4 9 — — s. 1.5 4.2
+25 — 0.8 61.3 100 SSW . 1 9 — — s. 4.6
+26 — 0.5 65.6 100 ESE. 3 10 — _ 0.3 4.4
+27 + 0.6 61.2 100 SSW. 6 10 — — R°S°. 0.9 4.4
+28 0.7 69.2 89 ENE. 4 9 — — 4.3
+29 + 0.2 70.7 97 SE. 10 10 — — 0.5 3.9
+30 + 1.6 71.6 96 SSE. 8 10 — — RS.- 0.5 3.9
+31 + 0.0 76.7 98 SE. 8 10 — — 3.7
+Mitt. — 0.7 54.9 98 — 9.1 — — 59.8 4.7
+Sturm am 1., 6. u. 13.; Nebel am 18., 21. u. 22.; Graupeln am 13.; 
+Reif am 18.
+H
+Winde Я а
+а а
+я а со а 02 5Й=Я Яа а т £ &
+Häufigk. — 1 — 6 9 1 5 15 11 4 10 9 12 3 2 4 1
+Meter pr. 
+Secunde. — 4.0 — 7.0 6.2 6.0 3.6 6.3 4.9 3.2 6.1 5.8 7.2 7.3 14.0 8.7 6.0
+G
+Datum neuen Styls.
+Lufttemp.
+ 1Still.
+Barometer 
+bei 0° G.
+Hygrometer.
+Wind.
+Bewölkung.
+ ° 1
+SSE.
+Maxim.
+■
+SSW.
+SW. Minim.
+W SW
+Regen oder Schnee.
+Niederechlagä'
+menge.
+NW.
+NNW. Wasserstand.
+meteorologische Beobachtungen in Riga und Dünamünde
+im Jahre 1884.
+Zum Vergleich sind in Vorstehendem die im Jahre 1884 
+aus den meteorologischen Beobachtungen gewonnenen Resultate 
+den für Riga berechneten Mittelwerten gegenübergestellt. In 
+Bezug auf die an die Monatsmittel der Temperatur ange­
+brachten Korrektionen zur Reduktion auf wahre Tagesmittel 
+verweise ich auf das Korrespondenzblatt XXVI, Bogen g.
+T e m p e ra tu r .
+Jan. Febr. März. April. Mai. jum .
+wahrscheinl. Mittel . — 4.6 — 4.5 — 1.3 4.2 10.2 16.2
+R i g a .......................... — 1.0 — 0.9 — 1.1 3.9 9.6 15.8
+Dünamünde . . . . — 0.7 — 0.9 — 1.2 3. 3 8.7 14.8
+Differenz zwischen d.
+wahrscheinl. Mittel
+u. dem aus 1884 . — 3.6 -3.6 — 0.2 0.3 0.6 0.4
+Juli. Aug. Septbr. Oktbr. Novbr. Decbr. Jahr.
+wahrscheinl. Mittel . 18.0 16.7 12.4 6.3 0.4 — 3.4 5.9
+R i g a .......................... 18.2 14.5 13.1 7.2 - -1 .7 — 1.0 6.4
+Dünamünde . . . . 18.0 15.2 13.7 7.8 - -1 .5 — 0.8 6.4
+Differenz zwischen d.
+wahrscheinl. Mittel
+u. dem aus 1884 . — 0.2 2.2 — 0.7 — 0.5 2.1 — 2.4 -— 0.5
+Das Minimum ‘fällt für beide Stationen auf den 30. No-
+vember, und zwar ist in Riga an diesem Tage — 15.8°, in 
+Dünamünde — 20.0° verzeichnet. Auch das Maximum hat 
+sich an beiden Orten an demselben Tage, dem 4. Juli, gezeigt, 
+und zwar betrug die Temperatur in Riga 28.8°, in Düna- 
+münde 25.8°.
+Die Differenzen zwischen den Mittelwerten in Riga aus 
+dem Jahre 1884 und den wahrscheinlichen zeigen, dass die 
+Wiatermonate dieses Jahres, mit Ausnahme des Novembers, 
+sehr mild gewesen sind, und es entfallen dementsprechend auf 
+Riga nur 61 Frosttage, das sind diejenigen Tage, an welchen 
+zu den drei Beobachtungsterminen die Temperatur kleiner 
+oder gleich Null ist, während die Frostzeit, in welcher das 
+Tagesmittel unter Null steht, für Riga etwa 128 Tage um­
+fasst. In Dünamünde ist auch in diesem Jahr eine geringere 
+Zahl Frosttage verzeichnet, als in Riga, nämlich 59.
+In den Monaten April, Mai, Juni und besonders im August 
+ist die Temperatur unter dem wahrscheinlichen Mittel geblieben 
+und daher ist auch das Jahresmittel nur um 0.5° höher als 
+das normale.
+L u f td ru c k .
+Jan. Febr. März. April. Mai. Juni.
+wahrscheinl. Mittel 700 +  59.8 58.6 57.3 58.2 58.4 58.1
+Riga..................... 700+ 53.862.466.262.057.756.7Dünamünde , . . 700 +  53,7 62.4 66.2 61.9 57.7 56.6
+Juli. Aug. Septbr. Oktbr. Novbr. Decbr. Jahr.
+wahrseheinl. Mittel 700 +  56.8 56.7 59.0 59.7 58.4 58.2 58.3
+Riga.....................700+ 59.961.963.957.463.955.060.1Dünamünde . . . 700 +  59.7 61.8 63.6 ' 57.1 63.7 54.9 59.9
+Das Maximum ist in beiden Orten am 15. Februar mit 
+781.0mm beobachtet worden, das Minimum am 23. Januar in 
+Riga mit 732.0mm, in Dünamünde mit 732.7mm.
+N ie d e rs c h lä g e .
+Jan. Febr. März. April. Mai. Juni.
+wahrscheinl. Mittel 29.1 20.7 25.8 27.4 44.3 54.6
+R i g a ..................... 76.3 46.2 18.3 23.6 65.5 76.1
+Dünamünde . . . 59.1 42.1 19.4 11.9 50.3 84.5
+Juli. Ang. Septbr. Oktbr. Novbr. Decbr. Jahr.
+wahrscheinl. Mittel 64.7 63.3 56.9 47.4 49.6 32.7 520.8
+R i g a ..................... 43.9 34.0 6.6 52.1 39.3 56.8 548.7
+Dünamünde . . . 26.4 •33.8 12.4 58.4 46.1 59.8 504.2
+Auch in diesem Jahr ergaben sich beim Vergleich der 
+Niederschlagsmengen in Riga und Dünamünde entsprechende 
+Resultate, wie in den früheren Jahren seit dem Bestehen der 
+Statiop Dünamünde, jedoch sind die Unterschiede dieses Mal 
+nicht so bedeutend. Die Niederschlagsmenge ist in Riga nur 
+um $% höher, als die in Dünamünde, während aus den 
+Jahren 1880—1883 der Ueberschuss 3 2 ^  betrug.
+Das Maximum ist in Riga am 5. Mai mit 24.0mm, in Düna­
+münde am 23. Juni mit 19.3mm gemessen. Die Zahl der Tage 
+mit Niederschlägen ist in Riga 148, in Dünamünde 183; für 
+letzteren Ort somit ungefähr 2 4 ^  mehr als in Riga (1883 23^"). 
+Gewitter sind für Riga 12, für Dünamünde 17 verzeichnet. 
+Starker Wind ist in Riga an 16, in Dünamünde an 31 Tagen 
+beobachtet worden, welche sich folgendermaassen auf die ein­
+zelnen Monate verteilen:
+Jan, Febr. März. April. Mai. Juni. Juli. Ang. Sept. Okt. Nov. Dec.
+Riga . . . . 3 — l 1 5 — — 1 —. 4 — 1
+Dünamünde . . 5 2  2 3 6 — — 1 1 8 — 3
+Wasserstand derDüna.Jan. Febr. März. April. Mai. Juni.
+Riga . . . . 5.31 5.08 3.33 4.54 5.86 4.64
+Dünamünde . . 5.38 5.07 3.53 3.32 4.54 4.59
+Differenz . . . — 0.07 0.01 — 0.20 1.22 1.32 0.05
+wahrscheinl. Mittel
+Riga . . . . 4.69 4.40 4.66 6.42 5.26 4.57
+Dünamünde 4.41 4.15 4.18 3.96 4.09 4.37
+Juli. Aug. Septbr. Oktbr. Novbr. Decbr. Jahr.
+Riga . . : . 4.28 4.25 3.78 4.61 4.47 4.60 4.56
+Dünamünde . . 4.52 4.32 3.96 4.88 4.72 4.68 4.46
+Differenz . . . - 0 .2 4  — 0.07 — 0.18 — 0.27 - -0.25 — 0.08 0.10
+wahrscheinl. Mittel
+Ri ga . . . . 4.68 4.79 4.61 4.40 4.58 4.65 4.81
+Dünamünde . 4.59 4.63 4.49 4.33 4.39 4.44 4.35
+Wie ersichtlich, ist in Dünamünde der Wasserstand in 
+acht Monaten höher gewesen, als in Riga, und es liegt die 
+Vermutung nahe, dass eine falsche Einstellung der betr. Pegel 
+zu diesen auffallenden Wasserständen geführt hat, jedoch 
+haben die in Folge dessen ausgeführten Prüfungsnivellements 
+eine falsche Einstellung derselben nicht nachweisen können 
+und sind daher die Ablesungen zunächst ohne Korrektionen 
+zu verwerten.
+Ad. W erner.
+Erdtemperatur
+in  F r i e d r i c h s h o f  b e i  R i g a .
+Die Beschädigungen, welche in den Jahren 1881—83 die 
+Glasschläuche und die in dieselben versenkten Thermometer 
+erlitten, machten die Anschaffung von vier neuen Instrumenten 
+notwendig. Diese wurden von Fuess bezogen und nach 
+Feststellung der Korrektionen in einem hölzernen Behälter 
+mit Abteilungen von verschiedener Länge untergebracht. Zu 
+grösserer Uebereinstimmung mit den Beobachtungen im 
+Centralobservatorium sind Tiefen von 0.2, 0.4, 0.8 und 1.6m 
+gewählt. Es ist hiebei zu bemerken, dass die Schläuche bis 
+zum 2. Juli nur am untern Ende mit Zinkblech verschlossene 
+Oeffnungen hatten, am 3. Juli aber auch an der Seite vor 
+dem Quecksilbergefäss in gleicher Weise mit Oeffnungen 
+versehen wurden.
+Von den älteren Instrumenten ist eines für 0.1m Tiefe, 
+ein anderes für 2.8m Tiefe (vom 10. Juli an) verwendet 
+worden*). Die übrigen sind, soweit brauchbar, fortbeobachtet; 
+es konnten indess wegen Raum-Mangels in die nachstehenden 
+Tabellen nur die Kolumnen 0.58“ und 1.10m aufgenommen 
+werden. Aus demselben Grunde sind die bisherigen Angaben 
+der Windrichtung, des Niederschlages und der Bewölkung 
+weggeblieben. F. B.
+*) Die Absicht, nach dem Vorgang des Centralobservatoriums bis 
+auf 3.2m hinabzugehen, vereitelte die allzugrosse Wasserhaltigkeit des 
+Bodens.
+Erdtemperatur
+um 7 Uhr Morgens in Friedriehshof bei Riga.
+Januar 1884.
+0.001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10 m 1,60 m 2.80 m
+1 — 0.32 — 0.20 0.02 0.92 1.49 2.34 3.15 4.57
+2 — 0.46 0.00 0.10 0.51 1.49 2.32 3.14 4.56 —
+3 — 0.12 0.02 0.09 0.71 1.50 2.25 3.10 4.56 —
+4 — 0.36 — 0.25 — 0.01 0.76 1.45 2.29 3.08 4.47 —
+5 — 5.94 — 1.85 — 0.76 0.71 1.47 2.25 3 09 4.36 —
+6 — 2.57 — 2.05 — 1.75 0.51 1.32 2.24 3.06 4.36 —
+7 -  1.16 — 1.40 — 1.75 0.31 1.15 2.19 2.96 4.34 —
+8 — 0.46 — 0.20 — 0.17 0.49 1.13 2.06 2.98 4.36 —
+9 -  5.58 — 3.45 — 1.76 0.26 1.12 1.94 2.87 4.31 —
+10 — 5.18 — 4.51 — 4.40 — 0.12 0.84 1.94 2.82 4.26 — ■
+11 — 0.26 — 0.48 — 0.81 0.04 0.82 1.84 2.83 4.26 —
+12 0.05 . 0.02 — 0.18 0.04 0.77 1.79 2.66 4.17 —
+13 — 0.01 0.04 — 0.07 0.1! 0.82 1.74 2.64 4.17 —
+14 — 0.36 0.02 — 0.08 009 0.75 1.74 2.57 4.11 —
+15 — — 0.02 — 0.60 0.11 0.80 1.74 2.54 4.09 —
+16 — 1.10 — 0.81 — 1,00 0.16 0.63 1.64 2.47 4.04 —
+17 — 1.76 — 0.44 — 0.30 0.16 0.86 1.63 2.50 3.95 —
+18 -  4.33 — 3.23 — 2.98 0.03 0.75 1.63 2.52 3.94 —
+19 — 4.78 — 3.04 — 3.42 — 0.20 0.65 1 12 2.47 — —
+20 0.05 — 0.15 — 0.63 — 0.07 0.67 1.58 2.56 391 —  .
+21 0.21 0.05 — 0.15 0.00 0.69 1.53 2.39 3.83 —
+22 0.05 0.05 — 0.05 0.03 0.69 1.53 2.38 3.86 —
+23 0.65 0.11 0.00 0.11 0.67 1.54 2.27 — —
+24 — 0.35 0.10 0.00 0.09 0.72 1.53 2.37 3.75 —
+25 — 4.38 — — 0.55 0.11 0.72 1.53 2.37 3.73 —
+26 — 0.15 — 0.20 — 0.54 0.08 * 0.70 1.53 2.32 3.75 —
+27 — 1.06 — 0.40 — 0.47 0.11 0.72 1.52 2.31 3.65 —
+28 — 0.96 — -0.30 — 0.25 0.11 0.74 1.48 2.29 3.65 —
+29 — 0.76 — 0.63 — 0.45 0.11 0.75 1.51 2.29 3.65 ____
+30 -  1.36 — 0.72 — 1.50 0.11 0.72 1.48 — 3.63 ----;
+31 0.25 0.01 — 0.15 0.12 0.72 1.50 2.28 3.57 —
+Mitt. — 1.42 — 0.80 — 0.79 0.21 0.91 1.77 2.64 4.06
+A
+Dat. n. St.
+Erdtemperatnr
+um 7 Uhr Morgens in Friedriehshof bei Riga.
+Februar 1884.
+0.001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10 m 1.60 m 2.80 m
+1 0.05 — 0.10 0.13 0.74 1.49 3.55
+2 0.05 — — 0.08 0.13 0.69 1.44 2.21 353 —
+3 — 1.46 — — 0.09 0.13 0.74 1.44 2.22 3.53 —
+4 — 0.12 — — 0.30 0.13 0.71 1.45 2.23 3.51 —
+5 0.05 — — 0.08 0.20 0.73 1.44 • — 3.46 —
+6 0.05 — — 0.01 0.14 0.74 1.43 — 3.43 —
+7 0.25 — 0.00 0.16 0.74 1.42 2.20 3.43 —
+8 0.10 — 0.00 0.18 0.74 1.42 — 3.43 —
+9 — 0.40 — 0.03 0.18 0.72 1.43 2.18 3.38 —
+10 0.96 — 0.01 0-20 0.74 1.43 2.17 3.38 —
+11 — 0.35 —  ' 0.00 0.21 0.74 1.43 2.18 3.35 —
+12 0.25 — 0.00 0.21 0.74 1.43 2.18 3.34 —
+13 0.13 — 0.02 0.31 0.75 1.43 2.16 3.34 —
+14 0.05 — 0.03 0,23 0.75 1.33 2.16 3.33 —
+15 0.05 —  ' 0.03 0.24 0.75 1.33 2.16 3.33 —
+16 — 0.36 — 0.04 0.29 0.76 1.33 2.15 3.28 —
+17 — 0.34 — 0.02 0.29 0.77 1.33 2.13 3.25 —
+18 — 0.56 — 0.02 4 0.23 0.79 1.33 2.16 3.28 —
+19 — 0.21 — 0.02 0.25 0.79 1.33 2.12 3.26 —
+20 — 1.56 — — 0.08 032 0.77 1.43 2.12 323 —
+21 — 0 76 — — 0.10 0.32 0.84 1.43 2.09 3.23 —
+22 — 1.14 — — 0.25 0.34 0.84 1.43 2.09 3.18 —
+23 — 2.95 — — 0.90 0.32 0.84 1.43 2.11 3.18 —
+24 — 1.76 — — 1.00 0.24 0.84 1.42 2.10 3.14 —
+25 — 0.36 — -  0.20 0.29 0.80 1.42 2.09 3.13 —
+26 — 0.06 — — 0.06 0.25 0.77 1.43 2.09 3.15 —
+27 — 6.12 — — 1.62 0.24 0.79 1.40 2.08 3.03 —
+28 — 5.32 — — 3.51 0.01 0.66 1.37 2.08 3.06 —
+29 — 7.34 — — 3.62 0.15 0.62 1.32 2.06 3.03 —
+Mitt. — 1.01 — 0.41 0.22 0.76 1.40 3.30
+Dat. n. St.
+Erdtemperatur
+um 7 Uhr Morgens in Friedriehshof bei Riga.
+März 1884.
+0.001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10 m 1.60m 2.80 m
+4 — 8.72 — 4.97 — 0.68 0.44 1.34 2.01 3.05
+2 — 4.94 — — 3.73 — 1.03 0.33 0.72 1.98 3.03 —
+3—7.14——4.25— 1.040.221.141.883.03—4—6.98——4.15— 1.090.141.071.883.03—5 — 8.58 — — 5.50 — 1.64 — 0.05 1.03 1.83 2.98 —
+6—7.84——5.10—1.75- 0.151.001.752.93—7 — 5.32 — — 3.24 — 1.51 — 0.13 0.95 1.70 2.93 —
+8—4.78——3.62- 1.42—0.210.921.682.93■—9 — 7.72 — — 3.74 — 1.09 — 0.15 0.85 1.63 — —
+10 — 5.98 — -  3.41 -  1.95 — 0.30 0.75 1.60 2.73 —
+11 — 9.54 — — 5.00 — 1.85 — 0.43 0.64 1.59 2.73 —
+12 - 9.40 — — 6.41 -  2.52 —  0.73 0.72 1.54 2.80 —
+13 — 5.62 — — 4.72 — 2.39 — 0.83 0.63 1.47 2.74 —
+14 — 2.71 — — 2.02 — 1.94 — 0.53 0.58 1.39 2.73 —
+15 — 8 38 — — 4.90 — 1.58 —  0.53 0 54 1.36 2.65 —
+16 — 2.35 — -  2.05 — 1.29 — 0.46 0.53 1.32 2.65 —
+17 0.05 — — 0.34 — 0.52 — 0.17 0.53 1.30 2.64 —
+18 — 0.25 — — 0.12 — 0.24 — 0.05 *0.54 1.30 2.63 —
+19 — 0.68 — — 0.08 — 0.12 0.00 0.55 1.30 2.61 —
+20 0.35 — -  0.01 — 0.08 0.14 0.52 1.27 2.56 _
+21 0.45 — 0.00 — 0.08 0.07 0.52 1.28 2.55 —
+22 0.05 '— 0.01 — 0.05 0.08 0.56 1.29 2.53 —
+23 0.45 — 0.03 — 0.07 0.13 0.53 1.28 2.53 —
+24 0.01 — 0.04 — 0.08 0.14 0.58 1.24 2.53 —
+25 0.01 — 0.04 — 0.08 0.15 0.58 1.30 2.53 —
+26 — 0.09 — •0.09 — 0.06 0.15 0.61 1.30 2.53 —
+27 0.03 — 0.10 0.09 0.15 0.62 1.30 2.53 —
+28 — 0 52 — 0.08 0.09 0.16 0.62 1.30 2.51 —
+29 — 0.40 — 0.08 0.08 0.17 0.62 1.30 — —
+30 — 0.28 — 0.09 o.io 0.17 0.62 1.30 2.51 —
+31 0.05 — 0.10 o.tö 0.18 0.62 1.30 2.51 —
+Mitt. — 3.44 — 2.15 — 0.83 — 0.07 0.71 1.45 2.71
+Dat. n. St.
+Erdtemperatur
+um 7 Uhr Morgens in Frfedriehshof bei Riga.
+April 1884.
+0,001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10m 1.60 m 2.80 m
+1 — 0.01 0.10 0.09 0.16 0.61 1.30 2.47
+i — 0.80 — 0.09 ' 0.10 0.18 0.61 1.30 2.45
+3 — 0.76 — 0.00 0.09 0.18 0.64 1.32 2.45 —
+4 — 0.68 — 0.09 0.09 0.18 0.65 1.31 2.45 —
+5 — 0.09 — 0.13 0.10 0.19 0.69 1.32 2.45 —
+6 — 0.29 — 0.18 0 .1 1 0.19 0.69 1.32 2.45 —
+7 — 0.36 — 0.20 0.10 0.22 0.71 1.32 2.44 —
+8 — 0.17 — 0.29 0 .1 1 0.22 0.61 1.32 2.53 —
+9 192 — 1.43 0.22 0.26 0.61 1.32 2.44 —
+10 — 0.13 ■ — 1,05 0.38 0 2 8 0 7 9 1.45 2.45 —
+11 3.15 — 2.54 0.76 0.38 0.84 1.55 2.52 _
+12 2.69 — 1.91 0 9 8 0.53 1 .0 0 1.77 2.56 —•
+13 2.51 — 2.56 1.64 1.35 1.33 2.08 2.64 —
+14 0.45 — 2-96 3.31 3.01 2.14 2.53 2.83 —
+15 — 1.06 — 2.24 3.45 3.55 3.98 3.08 2.93 — ■
+16 0.09 — 1.78 2.92 3.20 3.19 3.35 3.21 — .
+17 — 0.15 — 2 3 4 3.31 3.44 3.27 3.45 3.35 —
+18 — 0.37 --- 1.82 2.38 2.99 3.26 3.55 3.97 —
+19 — 1.95 — 1.11 2.25 2.73 3.16 3.51 3.61 —
+20 —  0.55 — 1.23 2.24 2.69 3.07 — 3.79 —
+21 0:31 — 2.12 2.87 3.08 3.09 3.42 3.65 —
+22 — 0.07 — 2.82 3.62 3.56 3.36 3;53 3.72 —
+23 — 0 36 — 2.84 4.05 4 03 3.61 3.69 3.74 —
+24 — 0.15 — 3 0 2 4.25 4.24 — 3.89 3.79 —
+25 0.92 — 3.23 4.38 4.43 4.04 4.04 3.93 —
+26 2.75 — 407- 4.66 4.60 4/19 4.16 4.04 — ■
+27 6.75 :— 5.60 5.46 5.16 4.43 4.33 4.13 —
+28 7.50 — • 7 03 6.45 5.89 4.79 ' 4.59 4.25 _
+29 7.76 — 6.84 6.58 6.20 5.27 4.93 4.37 —
+30 7.97 — 7.06 6.86 6.46 6.55 5.19 — —
+Mitt. 1.19 2.28 2.46 2.45 2.46 2.76 3.16
+Dat. n. St.
+EMtemperatiur
+um 7 Uhr Morgens in Friedrichshof bei Riga.
+Mai 1884.
+0.001 m 0.10m 0.20 m 0.40 m 0.58 m 0.80 m 1.10 m 1.60m 2.80 m
+1 7.99 7.92 7.67 6.96 5.87 5.46 4,66
+2 6.73 6.81 6.94 7.57 7.20 6.21 5.75 4.82 —
+3 4.82 6.53 _ 7.28 7.06 6.32 5.94 4.95 —
+4 9.72 8.18 6.83 6.90 6.83 6.40 6.03 5.17 —
+5 7.20 6.73 6.67 7.49 7.23 6.50 6.12 5.26 —
+6 8.39 8.68 8.47 8.11 7.63 6.67 6.17 5.36 —
+7 7.56 7.20 7.21 8.00 7.79 6.99 6.48 5.47 —
+8 5.59 6.84 7.45 8.36 8.03 7.12 6.66 5.60 -—
+9 8.01 8.77 8.38 8.58 8.23 7.34 6.84 5 .2 f —
+10 8.59 8.60 8.49 8.49 8.13 7.45 6.99 5.90 —
+1t 4.65 6.52 7.02 8.67 8.43 7.63 7.15 6.00 —
+12 5.15 6.15 6.15 8.38 8.29 7.73 7.28 6.10 —
+13 4T33 4.95 5.87 8.18 8.16 7.73 7.35 6 20 —
+14 8.01 9.24 8.91 9.02 8.59 7.76 7.40 6.32 —
+15 6.77 8.29 8.59 9.50 9.06 8.12 7.61 6.41 —
+16 7.14 7.80 8.67 8.80 8.89 8.26 7.77 6.49 —
+17 8.03 8.23 9.12 9.01 9.09 8.35 7.87 6.65 —
+18 11.70 10.56 10.49 9.73 9.67 8.55 8.12 6.75 —
+19 16.00 13.69 13.03 11.49 10.73 9.18 8.25 6.99 —
+20 11.54 11.72 12.71 12.43 11.82 9.77 8.77 6.99 —
+21 10.49 10.10 10.93 11.57 11.39 10.18 9.22 7.23 —
+22 6.57 7.61 8.88 10.00 10.50 10.07 9.32 7.43 —
+23 6.57 6.51 7.48 9.78 10.26 9.79 9.24 7.61 —
+24 10.76 10.05 10.09 9.81 10.06 9.61 9.15 7.73 —
+25 8-04 7.20 8.87 10.30 10.49 9.70 9.16 7.80 —
+26 8.10 8.56 9.46 10.11 10.38 9.76 9.25 7.83 —
+27 8.72 8.62 9.42 10.31 10.56 9.81 9.29 7.91 —
+28 8.13 8.46 9.79 10.68 10.83 9.93 9.41 7.95 —
+29 8.31 7.93 9.01 10.02 10.49 10.03 951 8.04 —
+30 8.15 7.76 8.89 .10.01 10.47 9.98 9.52 8.13 —
+31 9.38 9.51 10.39 10.84 10.95 10.03 9.53 8.19 —
+Mitt. 8.09 8.25 8.73 9.31 9.47 8.35 7.83 6.23
+в
+Dat. n. St.
+BHk-emperaltir
+um 7 Uhr Morgens in Friedrichshof bei Riga.
+Juni 1884.
+0.001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10m 1.60 m 2.80 m
+1 8.19 9.14 10.61 12.03 11.53 10.31 9.71 8.23
+2 10.86 11.07 11.84 12.36 11.83 10.59 9.91 8.31 _
+3 10.35 10.05 11.67 13.22 12.50 10.98 10.17 8.43 _
+4 13.78 12.48 13.06 13.51 12.81 11.27 10.47 8.58 _
+5 14.80 13.00 13.14 13.31 12.72 11.52 10.71 8.72 —
+6 14.03 14.98 14.92 14.51 13.61 11.83 10.92 8.91 _
+7 10.74 11.38 12.46 14.63 13.27 12.15 11.23 9.05 _
+8 1064 10.07 11.34 — 12.89 12.04 11.31 9.22 _
+9 13.65 12.68 13.26 13.79 13.23 13.99 11.34 9.35 —
+10 15.51 15.00 15.10 14.80 13.92 12.33 11.44 9 53 —
+11 13.42 14.19 15.13 15.42 14.44 12.73 11.78 9.58 _
+12 1377 14.21 15.31 15.99 15.01 13.14 12.10 9.70 _ .
+13 13.17 13.21 14.93 16.03 15.21 13.50 12.33 9.85 _
+14 11.85 12.49 14.23 15.89 15.20 13.65 12.62 10.03 —
+15 14.43 14.76 15.97 16.40 15.48 15,74 12.76 10.17 —
+16 10.37 11.39 13.45 15.60 15.13 13.91 12.96 10.34 —
+17 10.95 11.20 12.66 14.43 14.35 13.69 12.94 10.47 —
+18 13.78 13.90 14.35 15.12 14.61 13.52 12.86 10.59 —
+19 14.80 15.29 13.85 15.98 15.16 13.71 12.93 10.68 —
+20 16.16 14.89 15.44 15.94 15.26 13.96 13.08 10.75 —
+21 14.03 14.31 15.42 16.32 15.58 14.10 13.21 10.85 —
+22 15.33 15.11 15.89 16.53 15.87 14.30 13.37 10.94 __
+23 14.53 15.47 16.29 16.51 15.81 14.47 13.54 11.06 _
+24 14.47 14.49 15.34 16.14 15.66 14.53 13,66 11.21 —
+25 14.23 13.93 14.79 15.94 15.59 14.56 13.72 11.27 —
+26 13.38 1329 13.91 15.04 14.98 14.40 13.74 11.89 —
+27 12.03 11.62 12.83 14.73 14.74 14.18 13.63 11.95 —
+28 14.23 12.99 13.43 14.44 14.38 13.97 13.48 11.53 —
+29 13.10 13,68 14.56 15.49 14.98 13.96 14.42 11.55 —
+30 14.80 15.07 15.80 16.32 15.52 14.19 13.53 11.56 —
+litt. 13.18 13.18 14.03 15.05 14.37 13.24 12.33 10.14
+Dat. n: St.:
+Erdteuiperatnr
+um 7 Uhr Morgens in Friedrichshof bei Riga.
+Juli 1684.
+0.001 m 0.10m 0.20 m 0.40 m 0.58 m 0.80 m 1.10 m 1.60m 2.80 m
+1 15.74 17.00 17.56 17.56 16.42 15.57 13.74 11.56
+2 18.28 18.40 18.99 18.78 17.39 15.16 14Л4 11.66 —
+3
+4
+5 20.16 20.16 21.36 20.80 19.45 17.70 ■ 15.48 12.74
+6 19.78 20.69 20.97 20.14 19.44 17.43 15.77 12.73 —
+7 17.01 19.33 20.57 20.11 19.38 1754 16.00 12.85 —
+8 16.75 ■ 17.80 19.13 19.27 19.03 175 4 16.07 13.03 —
+9 17.01 18.32 19.52 19.35 18.97 17.42 16.08 13.16 —
+10 14.55 17.11 19.00 19.24 18.99 17.47 16.16 13.26 9.16
+11 13.95 16.72 18.69 18.95 18.79 17.41 16.16 13.36 9.24
+12 15.45 16.19 17.65 18.08 18.17 17.23 16.14 13.46 9.34
+13 16.81 16.32 17.79 17.90 17.90 16.97 16.03 13.55 9.37
+14 16.66 17.39 18.42 17.54 17.97 16.91 15.92 13.54 9.46
+15 15.30 17.27 18,52 18.27 18.18 16.85 15.92 13.55 9.54
+16 16.60 17.51 18,62 18.24 18.17 16.91 15.88 13.55 9.63
+17 13.80 16.08 17.99 18.18 17.82 16.91 15 94 13.56 9.71
+18 17.17 17.01 18.04 17.86 17.54 16.83 15.87 13.58 9.75
+19 14.72 15.80 17.36 17.64 17.43 16.77 15.84 13.61 9.82
+20 15-33 17.82 18.72 17.98 17.54 16.66 15.79 13.63 9.87
+21 11.04 12.56 15.02 16.67 16.91 16.64 15.77 13.74 9.93
+22 9.88 11.55 13.88 15 73 16.13 16.17 15.54 13.64 9.99
+23 10.89 12.46 14.23 15.50 15.81 15.77 15.15 13.57 10.04
+24 11.24 12-89 15.01 16.10 16.02 15.65 15.08 13.62 10.08
+25 16.10 16.53 17.28 16.93 16.50 15.74 15.06 13.44 10.15
+26 18-40 18.83 18.92 17.88 17.14 16.04 15x18 13.38 10.17
+27 15.53 15.90 16.86 17.18 16.90 16.33 15.36 13.43 10.23
+28 13.58 14.44 13.91 15.63 16.67 16.18 15.35 13.45 10.24
+29 11.46 12.98 15.01 16.29 16.34 16.02 15.26 13.46 10.27
+30 12.39 13.33 14.83 15.79 15.93 15.81 15.15 13.47 10.32
+31 14.17 14.79 15.32 15.36 15-53 15.55 15.04 13.45 10.33
+Bütt. 15.16 16.32 17.56 17.75 17.53 16.59 15.55 13.28
+An me r k u n g .  Die 4 neuen Thermometer-Behälter erhielten am 3. Juli 
+einen mit Zinkblech verschlossenen Ausschnitt vor der 
+Quecksilber-Kugel.
+Dat. n. St.
+Erätemperatut’
+um 7 Uhr Morgens in Friedriehshof bei Riga.
+August 1884.
+02
+R O.OOim 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10m 1.60 m 2.80 m
+Ö
+Я
+1 10.49 11.63 13.44 14.72 15.45 15.34 14.85 13.43 10.35
+2 13.42 13.44 14.30 14.52 15.14 14.96 14.64 1335 10.40
+3 14.78 14.54 14.84 14.72 15.22 14.86 14.48 13.25 10.43
+4 13.82 14.51 15.24 15.77 15.61 14.94 14.45 13.21 10.43
+5 15.51 15.40 15.84 15.62 15.86 15.06 14.48 13.15 10.46
+6 15.57 15.30 15.93 15.95 16.10 15.20 14.58 13.15 10.47
+7 15.43 16.31 16.96 16.69 16.70 15.46 14.68 13.15 10.50
+8 11.3« 13.50 15.38 16.22 16.51 15.67 14.85 13.16 10.52
+9 11.42 13.37 15.23 16.31 16.51 15.64 14.87 13.24 10.53
+10 12.79 14.80 16.28 16.70 16.64 15.66 14.93 13.26 10.54
+11 15.33 16.48 17.45 17.38 17.10 15.85 15.03 13.30 10.55
+12 16.54 16.92 17.63 17.37 17.30 16.14 15.20 13.35 10.60
+13 9.90 12.78 14.93 16.20 16.75 16.14 15.30 13.45 10.62
+14 10.17 12.46 13.89 14.91 15.77 15.72 15.14 13.49 10.64
+15 8.13 10.37 12.74 14.71 15.49 15.35 14.92 13.52 10.69
+16 10.81 12.18 13.89 14.92 15.49 15.39 14.72 13.46 10.73
+17 11.16 .12 .38 14.12 15.19 15.66 15.06 14.63 13.43 10.75
+18 12.45 13.94 15.24 15.56 15.86 15.12 14.57 13*36 10.77
+19 16.52 15.52 16.01 15.57 15.87 1516 14.59 13.35 10.77
+20 12.27 13.14 14.74 15.54 15.96 15.26 14.63 13.34 10.81
+21 10.51 13.10 14.94 15.62 15.93 15.23 14.63 13.33 10.84
+22 10.29 12.41 14.35 15.43 15.88 15.24 14.62 13.34 10.83
+23 12.75 13.57 14.48 15.02 15.60 15.14 14.58 13.33 10.84
+24 9.94 11.41 13.14 14.22 15.00 1489 14.48 13.31 10.84
+25 9.76 12.61 14.02 14.63 15.15 14.68 14.28 13.27 10.88
+26 9.26 11.26 12.83 14.02 14.84 14.65 14.26 13.24 10.90
+27 8.78 12.17 13.63 14.20 14.74 14.44 14.13 13.18 10.91
+28 7.62 10.71 12.74 14.12 14.76 14.45 14.06 13.15 10.91
+29 8.37 10.47 12.65 1355 14.70 14.35 14.03 13.08 10.92
+30 11.65 1307 13.73 14.12 14.97 14.26 13.95 13.05 10.93
+31 9.30 10.78 12.11 13.11 13.53 14.17 13.89 13.03 10.93
+Mitt. 11.52 13.25 14.60 15.25 15.65 15.15 14.59 13.28 10.69
+Erdtemperatur
+um 7 Uhr Morgens in Friedriehshof bei Riga,
+September 1884.
+w
+й 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10m
+Осв
+1 10.60 11.69 12.51 13.56 13.81 13.69
+2 7.76 10.11 12.01 13.14 13.54 13.49
+3 11.26 11,52 11.72 12.73 13.18 13,23
+4 11.66 12.25 12.32 13.06 13.08 13.05
+5 11.04 12.13 12.82 13.42 13.17 13.04
+6 10.84 12.36 13.01 13.42 13.49 12.86
+7 11.43 12.75 13.30 13.81 13.34 13.08
+8 11.63 13.03 13.51 13.98 13.57 13.14
+9 11.89 13.12 13.69 14.06 13.54 13.17
+10 11.81 13.44 14.01 14.32 13.68 13.26
+11 11.69 13.22 13.96 14.35 13.79 13.34
+12 13.47 14.10 — 14.28 13.81 13,38
+13 12.69 13.51 14.01 14.42 13.91 13.43
+14 12.88 13.23 14.05 14.45 13.92 13.46
+15 12.59 13.53 14.00 14.42 13.97 13.48
+16 12.29 13.08 13.51 14.12 13.90 13.47
+17 9.91 11.81 13.21 13.93 13.74 13.41
+18 11.26 12.89 13.21 13.78 13.56 13.30
+19 9.95 11.40 12.52 13.39 12.34 13.21
+20 10.86 11.98 12.33 14.11 11.22 13.03
+21 9.87 10.98 11.72 12.71 12.99 12.89
+22 10.66 11.28 11.52 12.45 12.71 12.73
+23 9.54 10.78 11.54 12.44 12.61 12,39
+24 11.40 12.15 11.97 12.56 12.51 12.47
+25 7.90 9.91 11.40 12.34 — 12.45
+26 10.15 10.96 11.09 12.03 12.27 12.28
+27 8.73 9.72 10.96 11.94 12.18 12.16
+28 7.10 9.07 10.46 11.54 11.96 12.02
+29 9.41 10.28 10.46 11.35 11.68 11.82
+30 11.37 11.79 11.22 11.76 11.63 11.71
+Miti. 10.79 11.60 12.48 13.26 13.07 12.95
+Erdteiiiperatur
+um 7 Uhr Morgens in Friedrichshof bei Riga.
+Oktober 1884.
+GQ О
+Я 0.001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10m 1.60 m 2.80 m
+cj
+1 4.86 7.72 10.09 10.61 11.91 11.82 11.75 11.60 10.72
+2 6.33 8.54 9.69 10.47 11.44 11.69 11.71 11.59 10.71
+3 7.83 8.41 9.37 10.10 11.14 11.50 11.55 11.53 10.67
+4 9.14 9.88 10.29 10.18 11.02 11.24 11.40 11.45 10.65
+5 9.30 10.05 10.59 10.41 11.20 11.26 11.32 11.36 10.62
+6 6.23 7.08 8.59 10.01 11.03 11.30 11.29 11.27 10.62
+7 4.57 7.23 8.80 9.68 10.67 — 11.19 11.24 10.60
+8 3.09 6.36 8.16 9.41 10.45 10.40 11.02 11.21 10.55
+9 5.21 7.44 8.47 9 10 10.14 10.67 10.84 11.08 10.53
+10 9.16 9.44 9.51 9.28 10.15 10.51 10.71 11.02 10.52
+11 7.44 8.83 9.31 9.31 10.17 10.50 10.53 10.90 10.50
+12 9.36 10.05 10.18 9.60 10.32 10.47 10.57 10.86 10.44
+13 4.71 6.81 8.18 9.12 10.16 10.51 10.59 10.76 10.42
+14 4.73 6.20 7.25 8.00 9.44 10.26 10.43 10.73 10.40
+15 4.53 5.56 6.23 7.39 8.90 9.89 10.19 10.65 10.35
+16 2.76 3.99 5.10 6.87 8.48 9.60 9.98 10.56 10.33
+17 3.00 4.52 5.40 6.42 7.99 9.20 9.68 10.45 10.32
+18 1.49 4.07 5.09 6.09 7.62 8.89 9.41 10.34 10.29
+19 — — 2.98 4.81 6.83 8.50 9.20 10.22 10.25
+20 4.51 5.05 4.49 4.50 6.21 7.94 8.82 10.06 10.22
+21 4.57 5.18 5.47 6.04 6.80 7.77 8.52 9.90 10.19
+22 1.29 3.57 4.51 5.39 6.81 7.82 8.43 9.75 10.15
+23 6.61 6.36 6.24 5.81 6.91 7.69 8.29 9.59 10.11
+24 2.67 5.85 6.92 6.67 7.50 7.84 8.27 8.47 10.05
+25 — 0.36 — 3.89 5.68 7.10 7.98 8.34 8.38 10.02
+26 4.57 — 5.19 5.26 6.52 7.62 8.15 9.34 9.95
+27 5.10 — 5.30 5.37 6.54 7.46 8.01 9.24 9.90
+28 4.53 5.21 5.35 5.45 6.64 7.41 7.93 9.15 9.84
+29 5.04 5.57 5.41 5.36 6.56 7.36 7.85 9.06 9.85
+30 — 0.78 — 3.28 4.72 6.24 7.30 7.78 8.97 9.75
+31 2.67 — 2.65 3.85 5.45 6.86 7.54 8.95 9.73
+Mitt. 4.81 6.84 7.45 8.66 9.39 9.72 10.31 10.30
+Anmerkung. Am19.Schnee.Am 19., 25., 26., 27., 30. u. 31. befindet sich das Queck­
+silber bei 0.10m Tiefe unter der Skala, welche nur bis 
++  3°.5 reicht.
+Erdtemperatur
+um 7 Uhr Morgens in Friedriehshof bei Riga.
+November 1884.
+0.001m 0.10m 0.20 m. 0.40 m 0.58 m 0.80 m 1.10 m 1.60m 2.80 m
+1 4.73 4.90 4.80 4.46 5.59 6.52 7.34 8.76 9.68
+2 - 0.22 — 3.44 4.06 5.80 6.63 7.29 8.66 9.62
+3 — 1.76 — 2.35 3.65 5.16 6.43 7.10 8.58 9.57
+4 — 0.26 — 1.89 — 4.55 6.02 6.86 8.43 9.53
+5 1.28 — 2.44 2.85 4.34 5.67 6.36 8.33 9.48
+6 2.05 3.40 3.57 3.44 4-68 5.56 6.39 8.15 9.43
+7 3.87 5.56 5.70 4.56 5.30 5.71 6.37 8.04 9.35
+8 1.65 3.20 4.18 4.62 5.59 6.05 6.49 7.94 9.31
+9 2.89 3.32 4.11 4.47 5.49 6.04 6.55 7.86 9.26
+10 5.63 5.97 5.93 5.07 5.78 6.05 6.54 7.84 9.21
+11 2.73 3.50 4.61 5.18 6.05 6.33 6.67 7.09 9.16
+12 2.32 3.63 4.46 4.77 5.76 6 33 6.70 7.58 9.12
+13 0.57 2.45 3.47 4.25 5.48 6.22 6.65 7.57 9.06
+14 0.15 1.38 2.36 3.36 4.90 5.98 6.54 7.52 9.02
+15 — 2.02 0.87 1.94 2.85 4.43 5.63 6.35 7.48 8.96
+16 — 0.36 0.46 1.25 2.24 3.85 5.28 6.10 7.41 8.93
+17 — 0.15 0.49 1.13 1.93 3.51 4.90 5.81 7.53 8.88
+18 0.01 0.56 1.13 1.76 3.31 4.61 5.61 7.43 8.85
+19 — 0.66 0.71 1.22 1.74 3.22 4.46 5.40 7.28 8.80
+20 — 6.02 0.47 1.04 1.60 3.10 4.29 5.21 7.13 8.75
+21 — 4.42 — 0.48 0.3! 1.26 2.90 4.14 5.11 7.05 8.68
+22 — 7.38 — 1.65 — 0.35 0.94 2.63 3.93 4.90 6.92 8.64
+23 — 9.59 — — 2.10 0.56 2.33 3.71 4.70 6.80 8.59
+24 — 6.18 — 1.29 — 1.00 0.22 2.01 3.99 4.51 6.66 8.53
+25 —11.15 — — 2.63 — 0.29 1.75 3.26 4.41 6.51 8.46
+26 —11.29 — — 6.11 — 0.57 1.5G 3.08 4.19 6.41 8.44
+27 — 9.99 — — 5.69 — 1.19 0.95 2.76 4.00 6.29 8.35
+28 —12.55 — 6.42 — 4.57 — 1.50 OM 2.45 3.71 6.1« 8.31
+29 — 8.58 — 6.13 — 4.61 — 2.02 0.41 2.25 3.51 6.00 8.26
+30 —14.31 — 7.64 — 4.38 — 1.91 0.19 2.05 3.30 5.80 8.17
+Mitt. — 2.63 1.00 2.41 3.78 4.88 5.69 7.36 8.95
+Anmerkung. Yom2.—5.istdasQuecksilberdesThermometersbei
+0.10m Tiefe unter -{- 3°.5. Yom 6. an wurde ein an­
+deree Instrument benutzt.
+Dat. n. St. j
+Erdtemperatur
+um 7 Uhr Morgens in Friedriehshof bei Riga.
+December 1884.
+0.001 m 0.10 m 0.20 m 0.40 m 0.58 m 0.80 m 1.10m 1.60m 2.80 m
+1 — 10.59 — 7.65 — 6.71 — 3.49 — 0.22 1.86 3.19 5.69 8.16
+2—6.74— 3.87—3.93—2.66— 0.231.663.015.598.063—6.78— 4.69—3.82—2.38—0.231.542.845.468.024 — 7.32 — 4.18 — 3.25 — 2.05 — 0.15 1.43 2.77 5.32 7.94
+5 — 0.76 — 1.98 — 2.44 — 2.02 — 0.16 1.36 2.68 5.22 7.86
+6 0.35 — 0.10 — 0.65 — 1.25 0.03 1.39 2.62 5.12 7.82
+7 — 0.13 0.03 — 0.04 — 0.99 0.12 1.35 2.58 5.07 7.75
+8 0.17 0.18 0.01 — 0.77 0.15 1.36 2.58 4.98 7.74
+9 0.93 0.3! 0.08 — 0.80 0 .1 1 1.35 2.50 4.88 7.75
+10 0.59 0.49 0.22 — 0.76 0.25 1.36 2.46 4.87 7.60
+11 0.95 0.63 0.21 — 0.71 0.29 1.37 2.48 4.79 7.53
+12 2.15 — 0.35 — 0.68 0 3 4 1.35 2.48 4.78 7.49
+13 — 1.36 — 0.43 1.23 — 0.68 0.39 1.43 2.49 4.69 7.44
+14 —  1.02 0.12 0 .1 1 — 0.67 0.43 1.44 2.48 4.69 7.47
+15 — 1.70 0.03 — — 0.67 0.44 1.44 2.48 4.68 7.34
+16 — 1.36 0.14 0.12 — 0.56 0.45 1.50 2.49 4.67 7.32
+17 — 0.48 0.10 0.10 — 0.57 0.48 1.51 2.55 4.59 7.23
+18 — 0.54 0.12 0 .1 1 — 0.57 0.55 1.54 2.59 4.59 7.21
+19 —  0.66 0.10 0.11 — 0.50 0.55 1.55 2.57 4.59 7.16
+20 — 0.15 0.08 0.10 — 0.49 0.65 1 54 2.57 4.57 7.11
+21 — 1.36 0.08 0 .11 — 0.48 0.67 1.56 2.57 4.57 7.06
+22 — 1.80 0.96 — 0 31 — 0.47 0.74 1.64 2.58 4.57 7.03
+23 — 5.10 — 3.73 — 1.50 — 0.42 0.79 1.66 2.60 4.58 6.98
+24 — 5.52 — 4.21 — 2.75 — 0.47 0.76 1.71 2.58 4.55 6.93
+25 —  1.56 — 1.16 —  0.85 — 0.47 0-85 1.74 2.63 4.56 6.88
+26 — 1.26 — 0.91 — 0.66 — 0.45 0.85 1.74 2.68 4.49 6.86
+27 — 0.54 — 0.30 — 0.30 — 0.48 0.85 1.74 2.62 4.47 6.82
+28 —  0.32 —  0.02 — 0.03 — 0.42 0.85 1.73 2.67 4.48 6.82
+29 — 1.92 — 1.40 — 0.69 — 0.42 0 8 5 1.75 2.63 4.47 6.73
+30 0.05 0 .0 0 — 0.06 — 0.40 0.87 1.75 2.60 4.46 6.67
+31 — 0 .1 1 0.08 0.02 — 0.40 0.89 1.85 2.62 4.46 6.64
+Mitt. — 1.74 — 1.04 — 0.80 — 0.91 0.43 1.55 2.62 4.79 7.33
+Dat. n. St.

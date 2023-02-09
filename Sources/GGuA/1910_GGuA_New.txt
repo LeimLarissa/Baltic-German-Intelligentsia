@@ -1394,7 +1394,7 @@ Vat. A. (Kameralbücher) Oollectoria 350, fol. 69v, 70.
 n. 19. Avignon, 1318 Aug. 2. Päpstlicher Auftrag, den 
 rückständigen Census in den oben genannten Provinzen ein­
 zusammeln. 
-. . . Cum nonnulli per . . . Eigen, civitates et dioceses 
+... Cumnonnulliper... Eigen,civitatesetdioceses
 et provinciam certum censum nobis et ecclesie Rom. solvere 
 teneantur, et ab solutione cessarint, mandamus, quatinus censum 
 hujusmodi petere, exigere et recipere curetis. 
@@ -1415,8 +1415,7 @@ die deutschen Bischöfe, ihre Gebiete zur Unterdrückung der
 Ketzerei in bestimmte Provinzen zu teilen und 4 genannte 
 Dominikaner oder andere desselben. Ordens als Inquisitoren 
 einzusetzen. 
-. . . Nos precipue cnpientes, quod negotium fidei in [Ale-
-mannie] partibus destructis erroribus heresumque vepribus 
+... Nosprecipuecnpientes,quodnegotiumfideiin[Ale-mannie] partibus destructis erroribus heresumque vepribus 
 fortius convaleseat, vobis ydoneos viros (ordinis fratrum 
 predicatorum) auctoritate nostra in . . . Rigen. civitatibus, 
 diocesibus et provincia constituendi, eisque injungendi, quod 
@@ -6231,11 +6230,11 @@ Schillinge mit undeutlicher Jahreszahl.
 69  5 
 70  16 
 71  28 
-7 2 10 
+7210
 74  2 
 75  45 
-7 6 17 
-7 7 55 
+7617
+7755
 78  20 
 7. Riga unter Polen: 
 Stephan Bathory, 1575—1586. 
@@ -8183,8 +8182,8 @@ den, gegen 2603 Personen im Vorjahre. Das ergibt ein Mehr
 von 281 Personen. 
 Es wurden verkauft: 
 Eintrittskarten zu 20 Kop. 1176 Stück = Rbl. 235. 20 
-„ H 10 „ 1055 „ = „ 105. 50 
-„ „ 30 „ 653 „ = „ 195, 9!) 
+„ H10„1055„=„105.50
+„„30„653„=„195,9!)
 2884 Stück 
 Führer zu 50 Kop.. . . 120 „ = „ 60. — 
 Summa Rbl. 596. 60 
@@ -8988,7 +8987,7 @@ HOF.
 SCHNITT A-B. 
 EMUPTTORs5 
 10 zo 30 +0 <50^ 
-m m s>m 
+mms>m
 JOSTE MAUERI 
 Ii  IimM JjCxVvtItL. JjAaHhRrHhUuNnDdEeRrTt 5^ii^/Är **<CW 
 NOCH VORHANDENE MAUERN?^=^.Y GMAI3P^# 
@@ -11797,7 +11796,7 @@ f — Inschrift eines Grenzsteines aus dem Fluss Tschernaja
 Retschka. 137. 
 f — Ein handschriftlicher Eintrag des Öselschen Bischofs Joh. 
 Orges. 137. 
-' f — Ein handschriftlicher Eintrag des Priesters DO. Hermann 
+'f— Einhandschriftlicher Eintragdes Priesters DO. Hermann
 Runnenberg. 150. 
 f — Die älteste Nachricht über eine städt. Bücherei in Riga 
 (1524). 178—80. 
@@ -11944,7 +11943,7 @@ und 1910/1 780
 „ „ ÖselschenRitterschaftprol909 
 und 1910 340 
 „ „ Stadt Riga pro 1910 780 
-„ „ „ Dorpat „ 1910 240 
+„„„ Dorpat„1910240
 ,, ,, „ Mitau ,, 1910 170 
 Pernau „ 1910 170 4,840.— 
 Schenkungen. 

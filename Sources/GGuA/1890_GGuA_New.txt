@@ -7747,7 +7747,7 @@ LAGEPLAN
 DER Feldgraben. 
 DEUTSCHOR DENS1H1RG 
 T1IIÄTII Ackerland. 
-I N 
+ I N
 LIVLAND .  
 (Nach der Gutskarte gezeichnet.) 
 Gebäude. Av 
@@ -7756,7 +7756,7 @@ Theile der ehem. 0rdtnsburt/.
 W. 0. Ohof, 
 ven OSS
 .  Schutt  u.G erolle.  ^ls 
-8 .  
+8. 
 Ga rl euland, 
 joo •"><) o wo 300 Meter. 
 Lt t i-t r-tn t I um.
@@ -7778,7 +7778,7 @@ m mm
 Mpi tmfm 
 TRIKATENSCIIER SEE 
 $// ̂ m M Heil schlag.  
-w m \ 
+wm\
 WM Alter\ V \ '\ 
 Brücktnkoi LIPSli'ALX 
 TAFh'L.lL. 
@@ -7804,7 +7804,7 @@ o so AO C~e nt.M^
 Erhaltene Mauer 
 Erhal tene.s Fund am.e n t .  
 Zerstörte Theile.  \  
-\ W A . KT • . * \ 
+\ W A. KT•.*\
 ßiigel 
 Vorbura s rburg'&Thor ? Wehrgang mit Zinnen. 
 es ho Wehrgang an 

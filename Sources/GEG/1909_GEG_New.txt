@@ -58,8 +58,8 @@ schen Lexikons (zu dem Nekrolog von Graf Manteuffel) XIII f.
 — Mitteilung über einige handschriftliche Notizen aus 
 dem Nachlass Dr. Schulz-Bertrams XLII 
 — Verzeichnis der Schriften K. A. Hermanns f . . . . IX—XII 
-— „ „ wichtigsten Schriften Iw. Sabjelinsf . XII 
-— „ „ „ „ Prof.0.Donnerst XXXI f. 
+—„„wichtigsten Schriften Iw. Sabjelinsf. XII
+—„„„„ Prof.0.Donnerst XXXIf.
 Nekrologe. 
 Friedrich Amelung XXI 
 Stadtrat Eduard Beckmann XXI 
@@ -646,7 +646,7 @@ cialstatistischer Atlas der Landgemeinden Finnlands; b) Hannes
 Gebhard, Den odlade jordarealen och dess Fördeling. 
 4) Von Pastor H. Lezius hier: Dr. Fr. Kruse, Ne-crolivonica. 20 Tafeln ohne Text. 
 5) Von P. von H a11er hier: a) A. Brückner, Katha­rina II; b) Крикмейеръ. Учебникъ Географіи; с) О. von 
-H а 11 e г, Die neuen Räumlichkeiten der Petersburger Universität. 
+ Hа11eг, Dieneuen Räumlichkeitender Petersburger Universität.
 6) Vom Verlage K. Sööt hier: a) P. Walter, Koda-w ere-Alatskiwi kihelkonna ajalugu; b) Jaan Lintrop, Iga-
 päewane elu. 
 7) Constantin v. Kügelgen: Bullingers Gegensatz der 
@@ -759,7 +759,7 @@ Baltikum im engsten Zusammenhang steht.
 734. Sitzung am 2. (15.) September 1909. 
 1. Zuschriften: Dr. Knorr, Kiel (Mitteilung vom 
 Ableben des korresp. Mitgliedes der G. E. G., Frl. Prof. Johanna 
-M e s t о r f) ; Akademiker Dr. W. R a d 1 о f f, St. Petersburg (Dank 
+ Mestоrf); Akademiker Dr. W. Rad1оff, St. Petersburg(Dank
 für die Gratulation der G. E. G. zu seinem 50-jährigen Dienst­
 jubiläum); Verein für hessische Geschichte und Landeskunde, 
 Cassel (Einladung zum 75-jährigen Jubiläum); Atelier für Kunst­
@@ -1285,7 +1285,7 @@ Verfassers).
 3. ' Akzession des Museums und der Münzsammlung: 
 2 schwedische Münzen und ein 5 Kopekenstück vom Jahre 
 1792 (gesch. von den Schülern Pfeiffer, Gielow und 
-S ö b b e r). 
+ Söbber).
 Redakteur A. Hasselblatt übergab als Darbringüng des 
 schwedischen Staatsarchäologen Professors Dr. 0. Montelius 
 in Stockholm eine auf einer Postkarte angefertigte 
@@ -2607,7 +2607,7 @@ deutschen Sprache stammenden aber leider nur diejenigen, deren
 „deutscher Ursprung sich nicht auf den ersten Blick verrät"; 
 die Hinweise auf die plattdeutschen Wörter verdankt das Ver­
 zeichnis, wie Ahrens anerkennend erwähnt, der Beihülfe Ed. 
-P a b s t's. Also auch diese an sich verdienstvolle Sammlung ist 
+ Pabst's. Alsoauchdieseansichverdienstvolle Sammlungist
 bei weitem nicht vollständig. Das Wiedemann'sche Ehstnisch­
 deutsche Wörterbuch (Petersb., 1869; 2. Aufl. 1893) enthält na­
 türlich auch alle aus den verschiedensten Sprachen aufgenom­
@@ -2989,7 +2989,7 @@ erkennen. Im Estnischen trifft die Verstümmelung zunächst
 durchgehende die Vorsilben deutscher Wörter wie in wicht, 
 Gewicht, würts, Gewürz; seil, Geselle, teil, Gestell, к ink, 
 Geschenk, water, Gevatter, 1 en ter, Geländer, wõlw, Gewölbe, 
-' / . 
+'/.
 tellima, bestellen, tarretama, erstarren. Diese Verkürzung 
 trifft auch andere, wichtigere Bestandteile des fremden Wortes: 
 täž, Etage, kibas, Schiffsequipage, kister, Register1); nur 
@@ -3114,7 +3114,7 @@ Bedrängnis; näper, Schnepper; päsmer, Besmer; besonders
 häufig wieder vor r: märk, Verstand; pärm, Hefe, nd. berm, 
 barm; wärk, Werg; wärk, Werk; wärwima, werben; 
 19 
-w ä 1 s к r, Feldscher ; wie umgekehrt auch statt ä e eingetreten 
+wä1sкr, Feldscher;wieumgekehrtauchstattäeeingetreten
 ist: heng, Hänge; ermel, Ärmel. 
 Die Unfestigkeit der Vokale macht sich auch im Übergang 
 //'' 
@@ -3131,7 +3131,7 @@ mundartliche Aussprache der einander nahe liegenden Laute ä
 rišt-keste, Taufschmaus, Taufköste, und den nebeneinander 
 liegenden Wörtern näpp, knäpp und nöpp knöpp, Knopf. 
 i entspricht regelrecht deutschem i: kiht, tihwt, pill, 
-p i к к i m a, tritt aber vor gedecktem Nasal auch gern für e ein : 
+piккima,trittabervorgedecktem Nasalauchgernfüreein:
 innel, hing, kink, kindral, und, wiederum durch die 
 deutsche Aussprache veranlasst, für ü: trikel, silt, wirts, 
 willi m a u. a. 
@@ -3218,7 +3218,7 @@ Feuerpfanne, nd. fürpanne, triwis-trikk, Teufelsdreck, nd.
 düwelsdreck. 
 Da im Verhältnis zu der grossen Masse von Wörtern mit 
 ï nur sehr wenige mit ei zu belegen sind, z. В. к e i z e r, Kaiser, 
-к 1 e i t (к 1 ë f) Kleid, mai, Mai, r e i ž, Reise, treial, Drechsler, 
+к1eit(к1ëf) Kleid,mai, Mai,reiž, Reise,treial, Drechsler,
 nd. dreier, trei, Streu, preili, Fräulein, in denen allen ei 
 entweder schon im mittelniederdeutschen stand oder in denen es 
 für neuhochdeutsches eu (äu) eingetreten ist, so geht aus dieser 
@@ -3368,14 +3368,14 @@ fl: lokk, Flocke, lör, Flor, le der, Flieder; plink, flink,
 plïder, Flieder; pleht, Flechte, plör, Flor; wlët, 
 Flöte, wlör, Flor; 
 fr: prï, frei, proua, Frau; rëde, Freitag, rilla, schw.frilla; 
-g : к a, r i m a, gären ; kiht, Gift, kört, Grütze, nd. görte ; in 
+g:кa,rima,gären;kiht, Gift,kört, Grütze,nd.görte;in
 neueren Fremdwörtern vor hellen Vokalen j : jeitsima, 
 geizen, jännitama, gängern, oder ganz geschwunden: ïs-
 kann, Giesskanne, ips. Gips, pïber-eil, Bibergeil; 
 gl: läž, Glas, läzin, Glacis; kläz, Glas, klants, Glanz; 
 gr: räw, Graben, rüz, Grus; krahw, Graf; 
 h: hämer, Hammer; 
-j : j tl n n e r, Jünger, j i h w e r, Jungfer, nd. juffer ; 
+j:jtlnner, Jünger,jihwer, Jungfer,nd.juffer;
 k: kärt, Karte, kërî, Kette; 
 kl: klär und lâr, klar; klih к und link, Klinke; lënsmit, 
 Kleinschmidt, lii wer, Klüwer; 
@@ -3392,7 +3392,7 @@ p (pf): pann, Pfanne, penning, Pfennig, paût, Pfand;
 pl: las ter, Pflaster; lõm und plõm, Pflaume; 
 pr: räm und präm, Prahm, räcf, Braten; 
 qu: s. kw; 
-r : r â d, Rat, r ï к, Reich; 
+r:râd, Rat,rïк, Reich;
 s: sahwt, Saft, sukk, Socke; 
 sk (sch): kapp, nd. schap, käü., Schiene, к öl, Schule, kütt, 
 Schütze; sahkerdama, schachern, sirm, Schirm; 
@@ -3466,7 +3466,7 @@ artigkeit des Lautbildes ist die mit grosser Konsequenz durch­
 geführte Dissimilation1) zweier Liquiden. So wird ein zweites 
 r  i n  1  v e r w a n d e l t :  t r e h t e l ,  t r e i a l ,  t r i p p e l ,  t r i k e l ,  
 trukel, trummal, wärwal, prüwel, wöbrual, wõr-kel; umgekehrt linr: ürispill, Eulenspiegel, tikerber 
-n d . s t i с к e 1 b e r e ; bei der Umbildung von almus, Opfergabe, 
+nd.stiскe1bere;beider Umbildungvonalmus, Opfergabe,
 aus Almosen in armus, hat die volksetymologische Anlehnung 
 an armas mitgewirkt (vgl. got. a r m a i о, Almosen). Nicht 
 selten ist auch ein Umspringen der liquiden Laute: plür und 
@@ -3478,7 +3478,7 @@ schon die Vorbilder für estnisch müzer, mozer, Mörser,
 kapral, Korporal, (vgl. käsper, nd. kerse- und kas-bere), 
 das r verloren gehabt haben; ihnen reihen sich noch manche 
 andere wie w õ s t e r, Vorsteher, k a d r u b, Gardsrobe, p a b e -
-r i t s, Berberitze und ähnliche an. Umgekehrt wird r aber auch 
+rits, Berberitzeundähnlichean. Umgekehrtwirdraberauch
 eingeschoben: parlast, karnalje, kortlet, lakart, Pla­
 kat, la m bort, Landbote, t-r ë r i ш a = treiima, drechseln, aus 
 nd. dreien, ponkras = kompras, Kompass, kirst, Kiste, 
@@ -3493,7 +3493,7 @@ scheinungen, wenn auch nicht in so häufigen Belegen vor; die
 lautliche Verwandtschaft von 1 (r) und d (cf. lacrima und Sâxpu) 
 lässt sich auch durch ein paar Fremdwörter belegen: täder fiir 
 täler (wohl vermittelst tälder), ordian, Orleans (Stoff), 
-к a r m i d i neben к a r m i 1 i, Karmin ; orlewang, Eau de 
+кarmidinebenкarmi1i, Karmin;orlewang, Eaude
 lavande. 
 Auch Nasale und Liquidae können wechseln :wärtelu. wär-, 
 ten, Spindel, kömel u. körnen, Kümmel, t a 1 d r e к u. t an d-
@@ -3564,7 +3564,7 @@ grob; m ei s tr i m, klüger; w i1d in e, filzen ; kuningana,
 Königin; atlane, von Atlas; mõrune, schwarzes Pferd; 
 kambrekene, Kämmerchen; kandiline, kantig; Portu-gïzlane, Portugiese; wardija, Aufseher; nõglafs, Nähfaden; 
 81 
-t а ш b i t s, Stampf keule ; к u 1 d e w, golden ; a i n a w, einzig ; 
+tашbits, Stampfkeule;кu1dew,golden;ainaw,einzig;
 prünikas, bräunlich; tubakas, Tabak; rakendus, Rech­
 nung; kauplus, Handlung; trtikkimus, Druckerei; junkur, 
 Amtmann (aus Junker, mit Anlehnung an die nom.-ag. auf -ur), 
@@ -3881,7 +3881,7 @@ und duftende Blumen (lill, röz, rüt, lipstok) zu ziehen. Uralt
 ist die Aufnahme unentbehrlicher Metalle (raud, kuld), doch muss 
 die sagenverherrlichte kunst des Schmiedes (sepp) schon bekannt 
 gewesen sein ; ebenso wichtig erscheint die Annahme von Mass 
-é i 
+éi
 und Gewicht (pund, käi, näel; am, number, toll, ku-
 p  i t s ) ,  d i e  e i n e n  g e r e g e l t e n  V e r k e h r  ( ü l i t s ,  k õ r t s ,  j ä r m a n ,  
 toll, mütnik, post; hür) erst ermöglichen. Bemerkenswert 
@@ -3916,8 +3916,7 @@ hunt und põld die eignen Wörter vazar (wasar), suiž
 (susi), nurm bewahrt haben, dass dagegen das Livische mit 
 dem Reval-Estnischen das Fremdwort tuba teilt, wofür im 
 Dörptschen tare gebräuchlich ist, dass dem Livischen die Wörter 
-h e r r a und proua fehlen, dagegen die dem Estnischen ab­
-gehenden Fremdwörter nabägos, finn. napakaira, althochd. 
+herraundprouafehlen,dagegendiedem Estnischenab­gehenden Fremdwörter nabägos, finn. napakaira, althochd. 
 nabagêr, Bohrer, tovroš, got. diurs, teuer, ristin, Mensch 
 (aus kristen?) aufgenommen hat. 
 Bekannt ist der örtliche Unterschied von s õ i r (aus d. russ.) 

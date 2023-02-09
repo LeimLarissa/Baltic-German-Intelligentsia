@@ -1750,7 +1750,7 @@ Untersuchung nicht mehr vorgenommen werden.
 *) Magazin ,d. lett.-lit. Ges„ Band XIV, Stück 2, S. 66—67. 
 2) A. Raison, Kurland. S.-B. 1870, S. 31—32, Neudruck S. 427—428. 
 3) Ebendort S. 33, Neudruck S. 429. 
-. . 4) St Petersborg 1892 S. 53, 188, 192, 413 und 477. 
+..4) St Petersborg1892 S.53,188,192,413und477.
 45 
 Als Referent zum X. Archäologischen Kongress in Riga 
 1896 eine „Karte der heidnischen Burgberge" in Liv-, Est-, Kur­
@@ -2137,7 +2137,7 @@ Schloss-Strasse
 10 5 0 10 20 80 40 60 
 1:2100 
 BÖRSE 
-< 9 0 6 - K.v. Löwis oF Menar. 
+<906- K.v. LöwisoF Menar.
 53 
 sich nicht gegen die Zinnenbesatzung der Hauptmauer durch 
 seinen Schild decken konnte, oder die ganze Zwingeranlage machte 
@@ -4906,7 +4906,7 @@ Marstallstrasse N* 24. 1895.
 Strasse 55. 1874. 
 393. Konrad Baron Vietinghoff zu Kroppenhof über Römershof. 1899. 
 394. Oskar Baron Vietinghoff zu Salisburg, Riga, Georgenstrasse 
-M 3 Q. 1. 1893. 
+ M3 Q.1.1893.
 395. Sekretär des Livl. Konsistoriums Arthur v. Villebois, Riga, 
 Kaisergartenstrasse 4. 1891. 
 396. Dr. med. Karl Vogel, Papierfabrik Ligat. 1902. 

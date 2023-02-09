@@ -1,4 +1,4 @@
-C J A ä / 
+ C J Aä/
 C$f .fr-Ik 
 // 
 der 
@@ -15,7 +15,7 @@ Präsident: L. Napiersky.
 Riga, den 15. März 1890. 
 Tarfu ÜHkooÜ 
 Raamatukc 
-3 V 65"3 
+3 V65"3
 \ 
 Inhaltsanzeige. 
 Seite. 
@@ -704,7 +704,7 @@ freundlichst zur Verfügung gestellt.
 5) Gestrichen, im Ex. der Ritt.-Bibl.: junckfrowenn. 
 2 
 ü, 
-\ L 
+\ L
 18 
 mihi der, „de nw sien", und ihre Nachfolger wachen, und 
 zwar sollen die Vormünder des bisherigen Convents auch 
@@ -882,20 +882,20 @@ guinen und die Franziskaner der 3. Regel gestellt hatten.
 Die bisher bekannten „Vormünder" der Beguinen sind 
 folgende: 
 Im Jahre 1460: Johan Geyßmer, Tideke Rellin. 
-„ — „ 1461: Dominicus Beker. 
-„ — „ 1464: Joh. Geißmer, Tideke Rellin. 
-„ — „ 1476: Joh. Geißmer, Berndt Sevenbergh. 
-„ — „ 1478: Joh. Geißmer, Peter Hinrikes, Gosschalck 
+„—„1461: Dominicus Beker.
+„—„1464: Joh. Geißmer, Tideke Rellin.
+„—„1476: Joh. Geißmer, Berndt Sevenbergh.
+„—„1478: Joh. Geißmer, Peter Hinrikes, Gosschalck
 Visch. 
-„ — „ 1492: Herman Dunker. 
-„ — „ 1495: Gerdt Hulscher, Gosswin Menningh. 
-„ — „ 1499: Dieselben. 
+„—„1492: Herman Dunker.
+„—„1495: Gerdt Hulscher, Gosswin Menningh.
+„—„1499: Dieselben.
 *) Vergl. Böthftihr, Einige Bemerkungen zu Sylvester Teget-
 meiers Tagebuch, Mitth. XIII, S. 78 ff. cf. Brotze, Sylloge, I, 125b. 
 22 
 Im Jahre 1511: Gerdt Hulscher, Wilhelm Titkenß. 
-„ — „ 1514: Wilme Titkens, Hans Becker. 
-„ — „ 1517: Dieselben. 
+„—„1514: Wilme Titkens, Hans Becker.
+„—„1517: Dieselben.
 ,, — „ 1523: Dieselben. 
 Ueberreste der St. Katharinenkirche, des ehemaligen 
 Franziskanerklosters zu Riga. 
@@ -4229,7 +4229,7 @@ ersten Hälfte des 15. Jahrhunderts eine Kapelle gestiftet.
 Die gottesdienstlichen Verrichtungen in derselben übernahmen 
 die Mönche des Klosters, wofür sie wohl gemäss der in 
 den Kämmereirechnungen erwähnten Stiftungsurkimde der 
-7 *  
+7* 
 100 
 Vicarie fler Schwarzen Häupter zu St. Katharinen ein Ho­
 norar erhielten; ob dasselbe in den ihnen jährlich über­
@@ -5809,7 +5809,7 @@ j| DernNussberg *eine ^ IonNatur f
 "Ankam m,. tiefer 
 * Graber,. §[j^iV0rbUr9 
 *<#/ W< 
-M S 
+ M S
 §0fWW / $  #är  B 
 wml-w ^ ckerthurm
 Vorburg thurm) 
@@ -5837,7 +5837,7 @@ Stelle d.ehAIünze
 TAFEL II. 
 Standriss von Schloss Wenden aufgenommen vom <Nussberge> ans. 
 1) 
-{ r - J> 
+{r- J>
 V 
 M Vorburg. Comturei. 1 Vorburg, WendetischtStadtmauer vom Schlosse bis mr Catharinenp forte. 
 VjO 300 Schwedische EUen 

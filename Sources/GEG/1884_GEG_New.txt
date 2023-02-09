@@ -2,7 +2,7 @@ Mzuuzsbenchje
 der 
 gelehrten estnischen GeftWast 
 zu 
-D o r p a t. 
+ Dorpat.
 1684. 
 o9c 
 Bibtioth 
@@ -14,10 +14,10 @@ Gedruckt auf Verfügung der gelehrten estnischen Gesellschaft.
 Dorpat, 12. Februar iss5. 
 Leo Meyer, Präsident. 
 •H, 
-W \ 
-' \ 
+ W\
+'\
 2M&<\ 
-( '  3£<f J %3ö 
+(' 3£<f J%3ö
 Inhalt. 
 Seite. 
 505. Sitzung. Jahresvers. 18. (30). Januar 1884 1 
@@ -60,7 +60,7 @@ l perintenbenten Samson . . 46—48
 — lieber Baeck'sMecklenburger auf auswärtigen 
 ^  p -  U n i v e r s i t ä t e n  . . . . .  4 8 — 5 1  
 — 3)er^ es^nlftb^^lyd. lettiicke Bückermarkt, im 
-H a u s m a u'N'^Prof. Dr. R., Brackels Geschichte 4 
+ Hausmau'N'^Prof. Dr. R., Brackels Geschichte4
 des Dorpater Kreises 1713 161—168 
 Anmerkung: die mit *** versehenen Vorträge sind ohne Auszug. 
 - IV — 
@@ -90,7 +90,7 @@ Sprache . . 218—219
 und Sprachen. Berlin 1884 285—286 
 Schlüter, Dr., Ueber Ähnlichkeit in estnischen 
 und deutschen Volksliedern . . 300—303 
-S t i e d a , Professor Dr. (Secretär), Die Such» 
+ Stieda, Professor Dr.(Secretär), Die Such»
 drudkerei in Oberpahlen . . 70—75 
 — Dr. med. P. E. Wilde u. feine livl. Ab­
 handlungen von der Arzneiwissenschast 75—99 
@@ -138,7 +138,7 @@ ist fast genau ein Drittel alter Jahresversammlungen
 unserer Estnischen Gesellschaft, die zu eröffnen ich 
 berufen gewesen bin. ' 
 l 
-— 2 — 
+—2—
 In wie hohem Grade aber ich dabei auch von 
 dem Gefühl lebhaftester Dankbarkeit gegen Sie alle 
 erfüllt bin, die Sie durch Ihre wiederholte Wahl 
@@ -170,7 +170,7 @@ ein ganz Besonderes, das sie von allen sonst ver-
 gleichbaren auswärtigen gelehrten Gesellschaften unter­
 scheidet, das ist ihre Beziehung zu dem estnischen 
 Volke und allem was ihm zu eigen gehört, und dabei 
-— 3 — 
+—3—
 handelt sich's natürlich vorwiegend um die estnische 
 Sprache. So bilden also den Hauptstoff, mit dem 
 wir uns in gelehrter oder können wir auch sagen 
@@ -203,7 +203,7 @@ sich's um einen angemessenen Stoff für den Vortrag
 vor der Jahresversammlung am achtzehnten Januar 
 handelt, wie sie uns heute wieder hier vereinigt hat. 
 l* 
-— 4 — 
+—4—
 Mehrere Male habe ich's in früheren Iahren ber 
 der gleichen Gelegenheit schon gewagt, die estnische 
 Sprache zu meinem Vortrage heranzuziehen, wenn 
@@ -235,7 +235,7 @@ die mehr oder weniger genau mit gothischen, wie wir
 sie aus dem vierten nachchristlichen Jahrhundert 
 kennen, übereinstimmen. 
 Auch in meinem heutigen Vortrage möchte ich 
-— 5 — 
+—5—
 einmal wieder in das weitere sprachwissenschaftliche 
 Gebiet eintreten, und, wenn ich auch von Allgemei-
 nerem ausgehe, doch auch das Estnische dabei nicht 
@@ -267,7 +267,7 @@ ten sein.
 Sluch über die ©ranze des deutschen Sprachgebie­
 tes hinaus begegnet man solchen mehr oder weniger 
 frappanten Zusammenklängen von Wörtern, bei denen 
-— 6 — 
+—6—
 doch ihre Bedeutungen sehr weit a'us einander gehen, 
 gar nicht selten und wird ihrer leicht noch immer 
 mehr finden, wenn man sich nur bemüht darauf auf-
@@ -322,7 +322,7 @@ unser imperativisches eßt und das lateinische est
 „ev ist", das man aber meistens in wenig guter 
 Weise mit gedehntem ä, also als ein ähst, sprechen 
 hört, unser da und das lateinische dä „gieb", unser 
-n i e und das lateinische ni „wenn nicht", unser w i e 
+nieunddaslateinischeni„wennnicht",unserwie
 und das lateinische vi „mit Gewalt", unser sind 
 und das optativische lateinische s i n t „sie mögen sein", 
 unser wir und das lateinische vir „Mann", unser 
@@ -330,7 +330,7 @@ Laus und das lateinische laus „Lob" und andere
 mehr. 
 Von zweisilbigen lateinischen und deutschen Wör-
 tern klingen so gut wie nur solche vollständig zusam-
-— 8 — 
+—8—
 mett, die in ihrer Schlußsilbe ein kurzes e enthalten, 
 da im Deutschen fast alle tonlosen Vocale kurzer 
 Endsilben zu jenem kurzen e abgeschwächt sind. So 
@@ -361,7 +361,7 @@ den Mund, durch das Angesicht" mit unserem Ohre,
 lateinisches fe 1 le „durch Galle" mit unserem Felle-Unser esset das imperativisch oder indieativisch ge-
 braucht werden kann, fällt äußerlich zusammen mi 
 dem conditionalen lateinischen esset „es wäre", 
-— 9 — 
+—9—
 unfer mordet ist im Lateinischen mordet „er beißt" 
 und so ließe sich noch vieles Andere aus dem Latei-
 ntfchen anführen. 
@@ -473,8 +473,7 @@ die mit französischem zusammen klingen, wie pä
 „Kops", dem das französische p ai x „Frieden" ent­
 spricht, oder pi „Zahn, Zacke, Zinke", dem das fran-
 zösische pis „schlimmer, schlechter" gleich klingt, oder 
-p ü ü „Feldhuhn, Rebhuhn", dem die verbalen franzö-
-fischen pus „ich konnte" und „du konntest" und 
+püü„Feldhuhn, Rebhuhn",demdieverbalenfranzö-fischen pus „ich konnte" und „du konntest" und 
 -put „er konnte" und das participielle p u „gekonnt" 
 gegenüber stehen, oder das dialektitch estnische p o 
 „Busen, Schooß", das im französischen peau 
@@ -590,7 +589,7 @@ einfachen Worten der ältesten Sprache oft einanber
 gerabezu entgegengesetzte Begriffe bezeichnet fetenr 
 wie bas altägyptische k e n sowohl „stark" als 
 „schwach" bezeichne, at sowohl „hören" als „taub", 
-s n e h sowohl „btnbett" als „trennen" Ich verstehe 
+snehsowohl„btnbett"als„trennen" Ichverstehe
 kein Altägyptisch unb kann bie vorgeführten altägyp­
 tischen Formen bähet nicht benrtheilen, traue aber,, 
 muß ich bekennen, boch ber an sie geknüpften Be­
@@ -715,7 +714,7 @@ also auf lateinisches a d i 11 6 s zurückkommt. Auch
 das ü hat im Französischen zwei ganz verschieden-
 artige Bedeutungen: es bezeichnet „oder" (o u) und 
 führt als solches auf das gleichbedeutende lateinische 
-a u t zurück oder es bedeutet „wo" (o ü), in welchem 
+autzurückoderesbedeutet„wo"(oü),inwelchem
 Fall ihm das zweisilbige lateinische ubi zu Grunde 
 liegt. Auch die vocalischen Formen ä, ö und ü sind 
 noch namhaft zu machen. Das ä ist verbales „du 
@@ -982,7 +981,7 @@ letzteren anbetrifft, so kann die gelehrte estnische" Ge­
 sellschaft nur auf die in ihren Verhandlungen 
 (Band 8, Heft 4, Seite 47—95) abgedruckte sehr 
 eingehende betreffende Abhandlung des Herrn Doctor 
-W e s k e hinweisen, die zunächst einer gründlichen 
+ Weskehinweisen,diezunächsteinergründlichen
 Widerlegung bedürfen würde, ehe von Seiten der 
 Wissenschaft auf neue ganz flüchtig hingeworfene 
 Muthmaßnngen über jene Wortform auch nur der 
@@ -1031,7 +1030,7 @@ Alterthumsverein in Oberlahn st ein und mit der
 Redaction des „ K ü n d j a " in Riga in Schriften-
 auswusch zu treten. 
 Zum ordentlichen Mitglied wird Herr Paul von 
-H ä ck e l in B e y t e n h o f, zum correspondirenden 
+ Häckelin Beytenhof,zumcorrespondirenden
 Mitglied Herr Professor Dr. Friedrich Müller in 
 Wien gewählt. 
 507. Sitzung 
@@ -1158,7 +1157,7 @@ der finnischen Sprache und Literatur in Helsingsors,
 in welcher Stellung er bis zum Jahre 1862 verblieb. 
 Als sein Hauptwerk darf man die Sammlung und 
 Zusammenordnung des finnischen Nationalepob K al  e-
-v a l a bezeichnen, das zuerst im Jahre 1835 in einem 
+valabezeichnen,daszuerstim Jahre1835ineinem
 Umfang von etwas über zwölftausend Versen erschien, 
 im Jahre 1849 aber in zweiter Auflage um mehr 
 als zehntausend Verse vermehrt. Sammlungen 
@@ -1576,7 +1575,7 @@ des Revisionsrathes Balck über „Mecklenbur-ger auf auswärtigen Universitäte
 bis zur Mitte des 17 Jahrhunderts", wobei auch 
 eine Liste derjenigen Mecklenburger gegeben wird, 
 die in den Jahren 1632—1650 auf der Universität 
-D o r p a t studirt haben. Die Namensliste dieser 
+ Dorpatstudirthaben. Die Namenslistedieser
 Studirenden ist nicht neu, erinnert uns aber doch in 
 sehr dankeswerther Weise daran, wie verhältnißmäßig 
 rege Beziehungen in der ersten Jugend der ersten 
@@ -2289,7 +2288,7 @@ lichen, verschaffte er sich von Seiten des Livländischen
 Gouverneurs in Riga die.Erlaubniß, eine Druckerei 
 anlegen zu dürfen. Der Gouverneur ertheilte nicht 
 allein die Bewilligung zur Druckerei, sondern auch 
-C e n s u r f r e i h e i t, doch unter der Bedingung, daß 
+ Censurfreiheit,dochunterder Bedingung,daß
 W il  d e nur seine eigenen Schriften drucken ließe 
 und daß diese Schriften Nichts wider die Religion, 
 den Staat und die Landesgesetze enthielten. 
@@ -2317,8 +2316,7 @@ ling sei nur eine Zeit lang dabei gewesen. Die Cor-
 rectur wurde von Dr. Wilde bei seinen eigenen 
 Schriften, von Pastor Hnpel bei den übrigen deut-
 schen und estnischen besorgt. Einigen Verdienst, schreibt 
-B a c m e i st e r, hatte die Druckerei von Trauer-, Hoch-
-zeits-und Gevatter-Briefen uudGelegenheits-Gedichten. 
+ Bacmeister,hattedie Druckereivon Trauer-, Hoch-zeits-und Gevatter-Briefen uudGelegenheits-Gedichten. 
 Im Jahre 1773 brannte die Druckerei ab, so daß 
 ein im Drucke befindliches Werk „Lange's lettisches 
 Wörterbuch" nicht beendigt werden konnte. Major 
@@ -2468,7 +2466,7 @@ nigsberg und Halle in Halle ein Doctordiplom für
 sein Buch „Der Landarzt" erhalten, aber das Diplom 
 verloren hätte. Dann erst begab sich W. nach Kur­
 land. weiter nach Riga, woselbst er „H o s m ei  st e r" 
-— i ( — 
+—i(—
 wurde und seineu „L andarz t" zu schreiben begann. 
 Von Riga aus wurde er durch Major Lauw nach 
 Oberpahlen berufen, um die Leitung des von Lauw 
@@ -3274,7 +3272,7 @@ gegangen seien und zum Theil noch existiren, nicht
 estnischen Ursprungs seien, und zwar so wenig wie 
 Laspar oder L asper oder L u g w e r (1, 30) 
 oder B uyafer oder Carlevere (1,11), oder 
-S o r s e l? e r e (1, 77) it. s. w. 
+ Sorsel?ere(1,77)it.s.w.
 Herr A m e lu  n g aus Reval machte folgende 
 Mittheilungen: 
 1) In Betreff der Anfästge der estnischen 
@@ -4065,7 +4063,7 @@ dessen Spiegel etwa V4 Werst vor seiner Mündung
 zur Zeit des Nivellements (1882) 1,625 Fuß über 
 dem Meere (0,06') lag und oberwärts dieser Stelle 
 zu 4,125 Fuß Höhe künstlich aufgestaut war. Die 
-i i 
+ii
 - 1-29 — 
 hier über die Stauung führende Brücke der Landstraße 
 erhebt sich nur 1,24 Fuß über den Stauungs-
@@ -4655,7 +4653,7 @@ Landenge zwischen der großen und kleinen Wiek bei
 Arensburg gilt. 
 Sobald die sich hebenden Silurschichten in die 
 Nähe des Meeresspiegels gelangt waren, begann deren 
-Z e r st ö r n n g durch Brandung. Die Panks Sworbes 
+ Zerstörnngdurch Brandung. Die Panks Sworbes
 entstanden auf diese Weise und bemerkt man an der 
 Basis des Kaugatoma-Pank, bei niedrigem Wasser, 
 eine 100 Schritt breite Mergelfläche, die gegenwärtig 
@@ -4980,7 +4978,7 @@ dungen aus 2 lithographischen Tafeln. Luckau
 N.-L. 1882; 
 Di e G e s c h i c h t e  d e s  E i s e n s  i n  t e c h n i s c h e r  
 und culturgeschichtlicher Beziehung von Dr. Lud 
-w i g Beck. Erste Abtheilung. Von der ältesten 
+wig Beck. Erste Abtheilung. Vonderältesten
 Zeit bis um das Jahr 1800 n. Chr. Mit 315 in den 
 Text eingedruckten Holzstichen. Braunschweig 1884. 
 Professor Grew ingk berichtete, daß er bei einem 
@@ -5520,7 +5518,7 @@ in dem fernen Wierland das Christenthum auszu­
 breiten 3). In Uexküll errichtete Meinhard einen 
 1 Convent oder ein Domstift, indem er mehre Brüder 
 vom Augustiner-Orden in seine Umgebung berief, 
-I — 
+ I—
 ' 1) Heinrich von Lettlands Livl. Chronik, übers. 6. Pabst 
 Revcil 1857. 
 2) H. v. L., 1, 8. - 3) H. v. L. 1, 13. 
@@ -6596,7 +6594,7 @@ Boletin, Bd. VI, Lies. 4. Buenos Aires 1884.
 Von dem Hrn. KreisrichterA. v. D ehn: Felliner 
 — 212 — 
 Anzeiger, Jg. VII (1883). — Von dem Hrn. Secr. 
-T r e f f n e r: Liefländischer Tafel-Kalender auf das 
+ Treffner: Liefländischer Tafel-Kalenderaufdas
 Jahr 1784 und 1785. Riga, bey G. Chr. Frölich. 
 —  V o n  d e m  H r n .  A k a d e m i k e r  D r .  F .  W i e d e m a n n  
 in St. Petersburg: dessen, Grammatik der Syrjä-
@@ -6674,7 +6672,7 @@ Fig. 42 auf Taf. III des Kat.
 Fundort. ? — Dargebracht von Frau Stein, 
 aus Illingen. 
 Vom Werro'fchen Ordnungsrichter, Baron May-
-d e l l-Wald'hof, wurden geschenkt folgende durch Herr 
+dell-Wald'hof,wurdengeschenktfolgendedurch Herr
 Mag. Klinge dargebrachte Gegenstände: 
 1) Ein Schädel und 
 2) eine Lanzenspitze aus Eisen (ähnlich Fig. 28 
@@ -6843,7 +6841,7 @@ Dialekt, den man in neuerer Zeit angefangen hat
 als die eigentlich typische Form des Syrjänischen 
 anzusehen, den l nsi schen Dialekt an der Lusa, 
 einem Nebenfluß des Jug, der der südlichste ist, den 
-p e t s ch o r i s ch e n an der Petschora: in der Gegend, 
+petschorischenander Petschora:inder Gegend,
 wo dieser iu das Gouvernement Perm hinüber geht, 
 und den südlichen permischen Dialekt. Die 
 zweite Dialektgruppe ist die ausgedehnteste, sie um­
@@ -6871,7 +6869,7 @@ Dialekt hat die umfangreichste Literatur. Der Dialekt
 von Jelabuga ist im Gouvernement Wjatka der 
 südlichste. Oestlich von ihm besteht der Sarapul-s ch e Dialekt, der an das Gouvernement Perm stößt. 
 Nördlich vom Jelabuga'schen Dialekt ist der G l a 
-s o w's ch e und westlich vom Jelabuga der Dialekt 
+sow'scheundwestlichvom Jelabugader Dialekt
 des westlichsten von Wotjaken bewohnten Kreises 
 Malmysh. 
 Der Präsident überreicht weiter noch ein Geschenk 
@@ -7558,7 +7556,7 @@ wasstuS. Hingegen kommt der Diphthong tri in der
 zweiten und dritten Silbe häufig vor, weil eine 
 Endung inen (estn. ine) oft angewandt wird und i 
 Pluralzeichen ist. Das n kann in U g a u n i a und 
-U n g a u n i a weiter nichts als ein Schreibfehler sein; 
+ Ungauniaweiternichtsalsein Schreibfehlersein;
 es stehet in den Namen unserer Chronik wiederholt 
 für ein n, z. B. in dem Wierländischen Ortsnamen 
 Tarwaupe bei'Gruber und Arndt, das nur für 
@@ -7954,7 +7952,7 @@ Winter eisfrei bleibenden Stelle eines Sees (was
 durch die Mündung eines Flusses oder BacheS in den 
 See verursacht wird) wohnte, Gen. deS Sing. W ä» 
 !use, Nomin. deS Plur. Wälused. Wäluste 
-k ü l a (tu Tarwast, am Wirzjärw, an einem Bache 
+küla(tu Tarwast,am Wirzjärw,aneinem Bache
 gelegen) heißt: Dorf der W ä l u s e r, (Stamm-
 Wäluse, vor t in Wälus verkürzt), Tam-mis te mo is, Gut der Tammised. Rebane 
 heißt der Fuchs, Genit. Rebase. Dasselbe Wort 
@@ -7969,7 +7967,7 @@ In der Endung n e wird das st kurz und leicht
 gesprochen und kann nur mit einfachem n richtig 
 geschrieben werden. Folglich ist Uggannia, wenn 
 es von Ugane gebildet worden, falsch geschrieben. 
-U g a u n i e n ist^ .also auch dann nicht richtig, 
+ Ugaunienist^.alsoauchdannnichtrichtig,
 wenn das erste n für u geschrieben ist] 
 In I. Hnrts „Alte Harfe" , Sammlung 
 Werroestnischer Volkslieder, Zweite Lieferung kommt 
@@ -8001,7 +7999,7 @@ Silbe ein Consonant ohne nachstehenden Vocal oder
 zusammengesetzte Consonanten mit oder ohne einen 
 nachstehenden Vocal folgen; z.B. estn. uba (Bohne), 
 Gen. u a , für älteres «an, Kuba (Dtube), Gen. 
-t u a für älteres t n a n, Jnessiv t u a s (in der 
+tuafürälterestnan, Jnessivtuas(inder
 Stube), nnga (Messer), Gen. n u a, Adessiv 
 nual (an dem Messer). Wenn zwischen u und a 
 ein Consonant ausfällt, so bleibtu unverändert, wenn 
@@ -8033,7 +8031,7 @@ aber nun wissen, daß in dem Worte Ugalane der
 Stamm Uga ist, so wissen wir, daß U a n d i "für 
 älteres Ugandi steht. Die Endung -ndi kommt 
 noch in mehren estnischen Ortsnamen vor, z. B. 
-W i l j a n d i (estn. Name der Stadt Fellin), von 
+ Wiljandi(estn. Nameder Stadt Fellin),von
 dem Stamm^wilja Getreide, Korn, Nomin wili, 
 P ii  g a n d i, von dem Stamme p i i g a, Magd. 
 Was der Stamm Uga bedeutet, weiß ich zur 
@@ -8127,7 +8125,7 @@ am 7. (19.) November 1884.
 Zuschriften hatten geschickt: das Conseil der Uni-
 versität zu D o r p a t, das estländische statistische 
 Comite in R e v a l, die Magyarische Akademie zu 
-B u d a p e st, die Commission für internationalen 
+ Budapest,die Commissionfürinternationalen
 Schriftenaustausch in St. Petersburg, die 
 Kais. Naturforscher-Gesellschaft in Moskau. 
 Der Präsident Professor Leo Meyer gab noch 
@@ -9125,7 +9123,7 @@ vorhergehenden -s-) und -ti aus -da entstanden, in-
 dem das d verhärtet und a zu e und i verdünnt 
 wurde. (Heber diese Casus noch mehr IL a, b.) 
 II. D a s  d a  a l s  F l e x i o n s s u f f i x .  A l s  
-s o l c h es findet man es in den Infinitiven des 
+solchesfindetmanesinden Infinitivendes
 Nomens und des Verbs, im Ela tiv und Ablativ, 
 endlich im Passivum der Verba. 
 a) Das d a iit den Infinitiven des 
@@ -9289,7 +9287,7 @@ verschoben. Ist es ein krankhaft veränberter,
 pathologisch beformirter Schäbel? Bei genauer Unter­
 — 299 -
 suchung nun ersieht man, daß der Schädel kein 
-e i n z i g e s der Kennzeichen trägt, welche pathologische 
+einzigesder Kennzeichenträgt,welchepathologische
 Schädel meist besitzen (Veränderungen in den Näh-
 ten :c.) Ich halte daher den Schädel nicht für 
 pathologisch. Die vom Normalen abweichende Fyrm 
@@ -9702,7 +9700,7 @@ Seiten der Archäologen Rußlands im Besonderen,
 so wie von Seiten aller wissenschaftlichen Teilneh­
 mer an den Kongressen wurde das anerkannt: die 
 Glieder des fünften archäologischen Kongreßes in 
-I I 
+ I I
 — 313 — 
 Tiflis beschlossen eine goldene Medaille mit dem 
 Portrait Uwarow's zur Erinnerung an die Congresse 
@@ -9819,7 +9817,7 @@ kensammlung hatte er bereits bei seinen Lebzeiten
 unserer gel. estn. Gesellschaft vermacht. Nach seinem 
 Tode wurde von der Wittwe die Sammlung hier­
 hergeschickt und dem Museum einverleibt. 
-\ " 
+\"
 > V-
 Verzeichnis der Mitglieder 
 am Schlusse des Jahres 1 8 84. 
@@ -9947,7 +9945,7 @@ dogmatischen Theologie.
 p5) Georg Rath les, Oberlehrer. 
 56) Dr. Wold. v. Rohland, Professor. 
 57) Karl- Seeler, Stud. jur. 
-_ - 58) C. Sabler, Stud. der vergl. Sprachforschung. 
+_-58) C. Sabler, Stud.dervergl. Sprachforschung.
 59) Dr. Wolsg. Schlüter, Oberlehrer und Bi-
 bliothekar. 
 60) E. v. Samson, Stud. jur. 
@@ -10471,7 +10469,7 @@ Ss> So®
  <*3t-
 SS 
 tf. * 00 «o  I-er.  SS c»" SS o CO OD 
-? ® ts ö =sg) c» er 
+?®tsö=sg)c»er
 (?> 
 3 
 o OS <*§- 5 a< 
@@ -10490,19 +10488,19 @@ tO -> l—l
 ö«05C0-<l05t— 00001§ l—o1—'105OStoCROCOOJSODOJOJOO CS06CRCR05051—oto^05üxto
 -«t-T6  S? s 00 «o  05 © © © © © © © © 6 ) (9) (f) © © © © © f f) © © ©  © © A 1—> ss 
 11 
-» '  
+»' 
  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  00 00 00 00 oo oo 
 oo oo 00 00 00 00 00 00 
 1—< 3 
 00 * 3 üx 
 Zg;s» -O
 « 
-I ̂ ey 
+ Îey
 o "o1 1 
-3 « s_ -fp so 
+3«s_-fpso
 P' -pS* g 
 © <cr 
-o s 
+os
 & •t? SS 
 — 339 — 
 aus archivalischen Quellen in den Jahren 

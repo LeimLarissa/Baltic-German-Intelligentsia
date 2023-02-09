@@ -16,7 +16,7 @@ Präsident: H. Baron Bruiningk.
 Eiga, den 3. Mai 1897. 
 &o£.A „ 
 :lcö3frj 
-^ i I 
+^i I
 i dP&C5"3lfx: 
 Inhaltsanzeige. 
 Seite. 
@@ -4706,7 +4706,7 @@ Ueber den Inhalt der beiden, von Herrn Konsul Kamarin
 im Beisein des Lehrers Steinberg am 8. September aufge­
 deckten Hügelgräber wäre Folgendes zu berichten: 
 Skeletthügelgrab 1 hatte im Durchmesser N — S 
-9 m 20 cm, 0 — W 7 m 70 cm. Der Hügel soll nicht höher 
+9m20cm,0— W7m70cm. Der Hügelsollnichthöher
 als die anderen, also etwa einen Meter hoch gewesen sein. 
 An verschiedenen Stellen waren Kohlenstücke, hin und 
 wieder auch Steine gefunden worden. In diesem Grabe 
@@ -4776,7 +4776,7 @@ Morgens an einem Hügel (Skeletthügelgrabe 3), der
 am nächsten östlich von Grab 2 lag und anscheinend un­
 berührt war. Auch standen darauf nur einige wenige ganz 
 kleine Fichten. Er war 80 cm hoch und fast kreisrund, 
-8 m 80 cm im Durchmesser. Längs dem Rande, von N nach 
+8m80cmim Durchmesser. Längsdem Rande,von Nnach
 NO hin, ragten aus dem Boden einige Steine im Durch­
 messer von 1—lVa Fuss hervor und, da auch während des 
 Grabens in SO drei grössere Steine neben einander, etwa 
@@ -4865,14 +4865,14 @@ Alter von 20—30 Jahren.
 Skeletthügelgrab 4, nördlich von Grab 1 belegen, 
 mit kleinen Bäumen bestanden, anscheinend unberührt, etwa 
 IVB Fuss hoch, flach verlaufend, in der Richtung N — S 
-6 m 10 cm, in der Richtung 0 — W 6 m 30 cm breit. Ein 
+6m10cm,inder Richtung0— W6m30cmbreit. Ein
 Fuss unter der Oberfläche trat ein Oberschenkelknochen 
 zu Tage. Bei weiterer Untersuchung ergab sich, dass das 
 Grab bereits früher zerstört worden war. Es wurden nur 
 Kohlenstücke, sonst keine Beigaben gefunden. 
 Skeletthügelgrab 5, nordöstlich von Grab 4. Höhe 
 60 cm, nach allen Richtungen flach verlaufend, Breite N — S 
-6 m 35 cm, O —W 5 m 30 cm. In SO und NW traten in 
+6m35cm, O—W5m30cm. In SOund NWtratenin
 einer Tiefe von etwa 70 cm grössere Kohlenlager auf. Etwa 
 72 cm tief stiess man an verschiedenen Stellen des Grabes 
 auf einzelne grössere Knochen, die mehrfach grün gefärbt 
@@ -4889,7 +4889,7 @@ zur Mauer gerichtet ist, lag eine durch den Graben ent­
 standene Aufschüttung, die die Form des Hügels nach S 
 hin nicht klar hervortreten liess. Höhe ungefähr 1 Meter, 
 Breite 0 —W 6 m 60 cm, Breite N — S, soweit festzustellen, 
-7 m 60 cm, vielleicht ursprünglich 1 Meter länger. Als 
+7m60cm,vielleichtursprünglich1 Meterlänger. Als
 Mittelpunkt des Hügels wurde eine Stelle angenommen, die 
 330 cm von Ost und West und 430 cm von N entfernt lag. 
 In einer Tiefe von 120 cm, etwa 140 cm vom Mittelpunkt 
@@ -7971,9 +7971,9 @@ A.1
 KON- GEHAEODS DER VORBURG. 
 VEN TS -  HAUPTTHOR 
 Nl M HOF. " YORBURGTHOR. 
-• i 
+•i
 il ^«  I N N E R E  VOIJLB UR G / \ I l /' \ 
-/ 1 
+/1
 Q MAUER DER INNEREN VorburL ö / i 
 AEUSSERE VORBURG UND STADT PERNAU. 
 ^BÜRG UND STADT 

@@ -23,9 +23,9 @@ Brucf von C. Mattiesen.
 Gedruckt auf Verfügung der Gelehrten Estnischen Gesellschaft. 
 Dorpat, den 28. Februar 1895. 
 JV» 1. Leo Meyer, Präsident. 
-' ; 
+';
 .} 4 
-V u ft 
+ Vuft
 V 
 Inhalt. 
 Zahres-Versammlung der Gesellschaft am 18. Januar 1 
@@ -47,8 +47,7 @@ Schriften . . . 218
 Verzeichniß der von der Gesellschaft herausgegebenen 
 (Schriften 227 
 Autoren ̂Register. 
-B o e h m , M., Ueber das v. Kügelgen'sche Wie-
-land-Portrait . .... 50— 52 
+ Boehm, M., Ueberdasv. Kügelgen'sche Wie-land-Portrait . .... 50— 52 
 Goertz, L., Ueber W. v. Bock's Cardina! 
 Lavigerie . . . 150—153 
 Hasselblatt, A.. Zum Präfidentschafts-
@@ -106,7 +105,7 @@ Halt zu machen und einen Rückblick auf die durch-
 messene Zeit zu Wersen pflegt. Dabei drängt sich 
 dann natürlich leicht die Frage zu: ist in dem ab-
 geschlossenen Zeitraum wirklich Werthvolles und Gu­
-— 2 — 
+—2—
 tes erstrebt worden, ist solchem Streben entsprechend 
 wirklich Werthvolles und Gutes erreicht worden? 
 Für uns müßte sich's dabei also sogleich darum han-
@@ -138,7 +137,7 @@ gestehen muß, daß ich in der Geschichte der balti-
 schen Welt nur schlecht bewandert bin und daß meine 
 Kenntniß der estnischen Sprache nur eine sehr man-
 gelhafte ist, und estnische Sprache und baltische Ge­
-— 3 — 
+—3—
 schichte bilden doch den wesentlichsten Theil unseres 
 wissenschaftlichen Arbeitsgebietes. 
 Unter meinen Vorgängern hat Dr. Friedrich Ro­
@@ -170,7 +169,7 @@ serer baltischen Welt schon lange entrückt ist, hat
 als Geschichtsforscher für das baltische Gebiet auch 
 einen glänzenden Namen. Ihm ging Theodor B eise 
 1* 
-- 4 — 
+-4—
 vorher, den man auch als gründlichen Kenner balti-
 scher Verhältnisse und namentlich baltischer Per-
 sönlichkeiten rühmen kann. Er hat nun schon seit 
@@ -233,7 +232,7 @@ herauszuheben und dann möglicher Weise auch noch
 Aelteres, als es die Müller'schen Predigten sind. 
 Wo sich's dann nicht mehr um zusammenhängende 
 Sprachdenkmäler, also um eigentliches sog. Schrift­
-— 6 — 
+—6—
 thum handelt, haben die Forscher auf dem Gebiete 
 estnischer Sprache dann noch sorgsam zu sammeln 
 und zu prüfen, was an einzelnen estnischen Wort-
@@ -257,15 +256,14 @@ daß unsere heutige Sitzung — und wir dursten
 ja die Jahresversammlungen der Gelehrten Estnischen 
 Gesellschaft in die volle Reihe unserer „Sitzungen", 
 immer mit hineinrechnen — schon die s e ch s h u n -
-d e r t st e ist, zu der sich die Mitglieder unserer Gesell-
-schaff vereinigt haben. Wir würden also auch in sofern 
+dertsteist,zudersichdie Mitgliederunserer Gesell-schaff vereinigt haben. Wir würden also auch in sofern 
 heute Anlaß zu einer Gedenkfeier haben. Aber wir 
 stehen von ihr ab, wie wir auch die 500. Sitzung, 
 die am 18. Mai des Jahres 1883 abgehalten wor-
 den ist, von jeglicher Feier abgesehen haben. Auch die 
 400. Sitzung, die am 7. Februar des Jahres 1872 
 stattgefunden hat, ist ohne alle Feier geblieben. Die 
-7 — 
+7—
 früheren Hunderte aber hat man gar nicht einmal 
 gezählt, ja von der 273. Sitzung an, die wie die 
 beutige auch zugleich eine Jahresversammlung, und 
@@ -297,7 +295,7 @@ einzelnen Menschen, da macht man Abschnitte mit
 Halbirung und feiert die Abrundung von 50 Jahren 
 oder man halbirt auch noch weiter und meint, daß 
 auch die Zahl 25 zu erwünschten Festen ein noch 
-— 8 — 
+—8—
 wohl brauchbares Maß abgebe. Warum aber gilt 
 uns 100 überhaupt für eine so besonders gestaltete, 
 für eine runde Zahl? In der unermeßlichen, im 
@@ -329,7 +327,7 @@ hat man auch alle größeren Zahlen gemessen.
 Wenn wir uns so nun aber gewissermaßen über 
 Jubiläums-Zahlen Rechenschaft gegeben haben, so 
 dürfen wir auch noch die Erwägung anschließen, 
-— 9 — 
+—9—
 warum wir gerade nach Jahren zählen. Es scheint 
 das sehr einfach und doch handelt sich's dabei wieder­
 um Etwas, das sich der gewöhnliche Mensch wobl 
@@ -895,7 +893,7 @@ mithin das 25- jährige Präsidentschafts-Jubiläum des Professors Dr. Leo
 M eyer fiel. 
 Vor Eintritt in die Erledigung des geschäftlichen 
 T heiles der Sitzung richtete der Secretär, Redacteur A. 
-H a s s e l b l a t t, folgende Worte an den Jubilar: 
+ Hasselblatt,folgende Worteanden Jubilar:
 „Hochverehrter Herr Präsident! 
 Heute vor 25 Jahren tagte an eben dieser Stelle 
 bie Gelehrte estnische Gesellschaft. Das Protocoll 
@@ -3383,8 +3381,7 @@ tirte den Darbringern ihren Dank.
 Der Konservator L. Goertz berichtete über eine 
 von stud. bist. Sitzka angestellte Untersuchung 
 eines Reihengrabes bei Kiwiwara unter 
-A y a k a r, für welche Arbeit Hrn. Sitzka vom Prä-
-sidenten der Dank der Gesellschaft ausgesprochen 
+ Ayakar,fürwelche Arbeit Hrn. Sitzkavom Prä-sidenten der Dank der Gesellschaft ausgesprochen 
 wurde. — Ebenso wurde dem stud. theol. G. Behr­mann für die von ihm dargebrachten Photogra-
 graphien estnischer Typen gedankt. — Weitere Spen­
 den für die Sammlungen waren von den Herren 
@@ -3622,8 +3619,7 @@ leisten können.
 — 118 — 
 Aufenthalt in Oese!*). 
 Am 22. Iuli Morgens früh traf ich mit Prof. 
-L o e \ ch (f e am Bord des Dampfschiffes „Leander" zu-
-fammen; auch Herr Dr. Joh. Bolteaus Berlin hatte 
+ Loe\ch(feam Borddes Dampfschiffes„Leander"zu-fammen; auch Herr Dr. Joh. Bolteaus Berlin hatte 
 sich als Theilnehmer an der Expedition eingestellt. 
 Um 8 Uhr fuhren wir beim schönsten Wetter von 
 Riga aus und langten nach einer glücklichen Fahrt 
@@ -4067,7 +4063,7 @@ ben leer, lieber eine ähnliche Steinkiste in einem
 Neuhosschen Grabe habe ich bereits oben berichtet. 
 Es wäre wichtig und interessant, nach weiteren Stein-
 kistengräbern im baltischen Lande zu spüren. 
-W a i n s e 1. 
+ Wainse1.
 Am Abend des 1. August verließen wir Au-
 tzeem und langten spät in der Nacht bei Herrn 
 v. Gersdorff in Hochrosen an, von wo aus die 
@@ -4170,7 +4166,7 @@ Handschaufeln, Lanzenspitzen u. dgl m.); von stud.
 bist. I. Sitzka eine Ergänzung zu seinen Funden 
 von Kiwiware und Alterthümer vom Gute Freihof 
 im Saaraschen Kirchspiel; von Professor P. v. Wi s-
-k o w a t o w Reste aus den Ausgrabungs-Ergebnissen 
+kowatow Resteausden Ausgrabungs-Ergebnissen
 zu Türsel. 
 Der Conservator des estnisch-e thnogra-
 phischen Museums, Lehrer C. Masing, 
@@ -4732,8 +4728,7 @@ Jahre 1879 zu unseren Ehrenmitgliedern.
 — 155 — 
 Dann überreichte der Präsident noch mehrere 
 durch Vermittlung des Herrn Arved v. O e t t i n-
-g e n-Ludenhof von einem Bauer käuflich er-
-wordene Münzen; ferner einen von Professor Dr. 
+gen-Ludenhofvoneinem Bauerkäuflicher-wordene Münzen; ferner einen von Professor Dr. 
 L. Stieda verfaßten und als Geschenk darge­
 brachten Aufsatz „über die Plomben von Drogi-
 tfchin", einen zum Druck bestimmten Aufsatz des 
@@ -7131,8 +7126,7 @@ tWol-^^It-
 i
 ÜMt.C|-iO.ts5tOt-
 i'COb i i 1 ^a* 
-O & O i l - ^ G O r fO^ OJTOt OOOQt sO
-O^CS ^ IO
+ O& Oil-^ G OrfO^ OJTOt OOOQtsOO^CS ^ IO
 Ohb
 O Di WO SC
 ODts5^tOsDts5- ^ Q O C OJ KC Oü
@@ -7144,8 +7138,7 @@ S to
 o00
 °'  er —N üs»r'  er  OT ^o  5o  O W ^
 o  HA*  
-o 3 » s.-tr y *-»-
- r© S o a< 
+o3»s.-try*-»- r© S o a< 
 _g. » 55 
 — 229 — 
 Schriften der Gelehrten estnischen 

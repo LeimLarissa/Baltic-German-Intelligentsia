@@ -135,7 +135,7 @@ einige Stellen aus Chroniken hingewiesen, durch welche die voi'liegende
 ' 1* 
 i 
 l 
-I . 
+ I.
 4 
 zirten bei Strafe verbot, ausgenommen in Ansehung derjenigen 
 Personen, deren öffentliche "Verehrung damals schon entweder 
@@ -1530,7 +1530,7 @@ Livoniae - Episcopi Doctoris circa( Ann., 1180." A. a. 0. S. 713.
 2) „Tertio deeimo Kai. Novemb.,; die Octob. 20 . . . b. Bertholdi Li-
 vonum Episcopi.". A. a. 0. S: 732, 733: 
 s) Öetti.nger, a. a. 0. 
-• • 4) Menologium Benedictinum, Sanctorum, .Beatorum atque Illustrium 
+••4) Menologium Benedictinum, Sanctorum,.Beatorumatque Illustrium
 eiusdem Ordinis virorum elogiis illustratum, Augustae, Vindelicorum, 
 1656.' Fol. 
 • 5) A; a.-0." S. 565,-727, 395. 
@@ -4130,7 +4130,7 @@ Stück­
 Hs. Rs. zahl. 
 Das Ordenakreuz durch i wU CT) f\r> CTT T TT 
 Doppelfaden gebüdet JHWHU v) Jl * RÖVTCLI8 8 
-„ . 2. * *) * - - - 4 
+„.2.**)*---4
 3. * * - . - - I 
 4- * - * -.... 10 
 5. * :: * ••• •   3 
@@ -4144,10 +4144,10 @@ mit ff. Varietäten:
 einfaches Kreuz 1. •¥ RQVKLIff wonara 12 
 „ 2. * 1 
 „ 3- * - * 5 
-„ " • 4, N 3 
+„"•4, N3
 M  ) >  *5- ' •**   H 9 
-„ " 6- * - H 4 
-» • • »* 7. * - - N 3 
+„"6-*- H4
+»••»*7.*-- N3
 „ 8. * .....v M 55 
 „ ,, sehr undeutliche 32 
 III. Hauptart, Hs. 4« Revalie — Rs. »J« Revalie, 
@@ -4156,7 +4156,7 @@ Hs. Rs.
 einfaches Kreuz 1. * RÖVTSLIÖ * RÖVffLIÖ 29 
 >> 2. 'i4 * 1 
 •-» „ 3. *b * 4 
-„ . „ 4. >b * . 1 
+„.„4.>b*.1
 *) Anmerkung. Der punktirte Strich (~ ) bedeutet die Wieder­
 holung desselben Textes, mit alleiniger Ausnahme der einzelnen, in den Linien 
 selbst abgeänderten Buchstaben. 
@@ -4179,13 +4179,13 @@ einfaches Kreuz amGISTRI * R8VTCLIÖ
 * 
 4-
 * 
-N * 
+ N*
 VI. Hauptart, Hs. 4< Magistri — Rs. 4* Moneta, 
 mit ff. Varietäten: 
 Hs. Rs. 
 einfaches Kreuz 1. 4« 01ÄGISTRI 4« monerns 
 „ 2. * N * 
-„ 3 * H 4- H 
+„3* H4- H
 ,, ,, sehr undeutliche 
 Endlich noch 6 Curiosa: 
 einf.Kr. 1. Hs. * (R0XIÖT7I nur einseitig 
@@ -4272,7 +4272,7 @@ Var. Hs. Rs. zahl.
 5« ^ gpygopygj * .. oa. . . . . 2 
 6. * oDI . . . . 1 
 7- * * ai . . . . 1 
-8 * * DKRTCPT 
+8** DKRTCPT
 Q
 Qapv . . . 2 
 9. ^ QpygQp 0 * DJRLRPTST 0ap . . . . 1 
@@ -4320,7 +4320,7 @@ V ar. Hs. Rs.
 4. 4« D *b oDI 2 
 5. 4« oD * oDI 1 
 6. 4« oDK * OÖTC1
-7 o ö *i* oD 1 
+7oö*i*oD1
 8. 4- - oÖ * oDI 1 
 sehr undeutliche 36 
 insgesammt 218 
@@ -6859,7 +6859,7 @@ seker pant myn erue dat belegen is tusschen Her hinrik vam
 dem broke vnd Kersten beltere verdermer weret sake dat 
 vnsser en van deme andrn walde gescheden wezen an der betalinge 
 Alzo dat my de Ersamen Brodere vorbenomet dat gelt nicht langh. 
-. . . en envolden . . don est ik dat gelt nicht langh bruken noch 
+...enenvolden..donestikdatgeltnichtlanghbrukennoch
 vorrenten en wolde So schal vnser en deme andern . . halff 
 to seggen vnd vord na der to segginge schall hinrik Arndes 
 vnd syne eruen de vorbn. Dortich olde mark myd der Rente 
@@ -10238,7 +10238,7 @@ w
 o-m %/0 % 
 4? % 
 1A"A %
-I +  ̂ %>•-• % # 
+ I+ ̂%>•-•%#
 DANSKERTHURM 
 ^# M aassstab: 
 % M. 10̂  

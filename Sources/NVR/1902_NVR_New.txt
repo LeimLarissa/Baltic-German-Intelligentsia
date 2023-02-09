@@ -296,7 +296,7 @@ Aires erwartete ihn wieder mannigfache durch seine Abwesen­
 heit aufgehäufte Arbeit. Zunächst folgte ein ausführlicher 
 Bericht über die von ihm besuchten wissenschaftlichen Kon­
 gresse und dann eine Reihe anderer Arbeiten. 
-— 6 — 
+—6—
 Das letzte mir zugegangene Heft meines nun verstorbenen 
 Freundes ist charakteristisch für die Vielseitigkeit seiner 
 Interessen, wie auch für die Vielseitigkeit, in welcher er sie 
@@ -363,7 +363,7 @@ und Fähigkeiten im weiten Reiche verwertet haben.
 In dieser Weise hat sich auch der Lebenslauf Johannes 
 Christoph Klinges abgespielt, der nach jahrzehntelanger 
 botanischer Forschung in der baltischen Heimat den Rest 
-— 8 — 
+—8—
 seines arbeitsreichen Lebens dem botanischen Garten zu St. 
 Petersburg gewidmet hat. 
 Als Sohn eines Kaufmannes am 20. März 1851 im dama­
@@ -3360,7 +3360,7 @@ weil der Flächeninhalt der ebenen Elementarfigur, des Dreiecks, von
 den gegenseitigen Beziehungen seiner Winkel nicht unabhängig ist, 
 wie die bekannte trigonometrische Formel für den Flächeninhalt 
 ^2 sin // sin y 
-F = : : lehrt, in welcher et ß y die Winkel, a die dem ersten 
+ F=::lehrt,inwelcheretßydie Winkel,adiedemersten
 2. sin ce 
 gegenüberliegende Seiteeines Dreiecks bedeutet. Schon Lambert (Anm.11) 
 und Legendre (S. 63) kannten den Zusammenhang des Flächeninhaltes 
@@ -3437,7 +3437,7 @@ allerdings leicht zu zeigen, dass jeder der bei C und B übrig
 bleibenden Restwinkel, folglich — a fortiori — zugleich auch 
 ihr Unterschied — kleiner gemacht werden kann als jeder 
 noch so kleine vorgegebene Winkel e. Tragen wir nämlich 
-A E G x H 
+ A E Gx H
 Fig. 6. 
 den vorgelegten Winkel e beim Punkte B derart ab, wie 
 Fig. 6 es zeigt, so muss infolge des 5. Postulates dessen 
@@ -6417,7 +6417,7 @@ Mittelwerte. lh. Mittag. Temperatur.
 Cels. + % pr. See. 0-10 Cels. Cels. - mm. FllS8. 
 1 —15.7 71.3 84 0 10 —12.0 —19.5 S. 0.2 4.6 
 2 —13.2 74.1 88 s. 2 10 —11.0 —16.6 5.0 
-3 — 14.2 76.1 82 sw. 3 10 —12.5 —16.8 5.0 
+3—14.276.182sw.310—12.5—16.85.0
 4 —10.6 74.8 82 SSW. 3 10 —8.5 —13.0 s. 0.6 5.0 
 5 —9.6 81.1 75 sw. 3 10 —8.5 —10.4 4.9 
 6 —8.4 80.5 75 sw. 2 10 —7.0 —10.0 5.0 
@@ -6512,7 +6512,7 @@ pr. See. 0-10 Cels. Cels. — mm. Fuss
 litt. —4.0 63.0 87 8.1 — —17.8 26.7 4.6 
 H cc £ Winde 55 W 32 32 £ 32 
 Häufigk. 9 3 — 1 — 1 — 4 34 13 2 4 6 7 
-4 5 
+45
 — 
 Meter pr. 5.5 8.0 7.1 6.0 4.0 
 Secunde. — 3.3 — 4.0 — 2.0 — 6.5 4.6 
@@ -6601,7 +6601,7 @@ Cels. Meter russ + pr. See. 0-10 Cels. Cels. — mm. Fuss.
 1 -2.5 55.6 88 S. 6 8 -6.5 S. 0.1 4.9 
 2 —4.8 58.0 84 SW. 6 3 — — 6.3 S. 2.2 5.6 
 3 —2.6 49.6 91 NE. 8 10 — —6.5 s. 3.5 4.7 
-4 — 1.9 56.7 79 SSW. 4 9 — —4.9 4.9 
+4—1.956.779 SSW.49——4.94.9
 5 -0.3 54.0 84 SSE. 6 10 — —3.6 4.6 
 6 0.7 51.8 91 SE. 2 10 — —0.9 s. 6.8 4 9 
 7 -3.1 58.2 75 WNW. 6 9 — —5.3 s. 0.2 5.2 
@@ -6819,7 +6819,7 @@ Mitt. 5.1 59.7 74 6.1 19.4 —2.5 72.6 7.7
 Schneegestöber am 18. 
 W 
 Winde W Ä W W za CQ 32 
-Z Ä £ 
+ ZÄ£
 Häufigk. 9 8 3 11 — 4 — 3 — 10 9 15 2 6 2 7 1 
 Meter pr. 
 Secunde. — 3.0 7.3 2.9 — 2.5 — 4.0 — 1.9 6.0 2.3 6.5 2.5 4.0 2.4 4.0 
@@ -6870,7 +6870,7 @@ Cels. + % pr. See. 0-10 Cels. Cels. - mm. Fuss.
 22 2.1 70.1 87 N. 2 — —1.1 R. 0.2 5.1 
 23 3.5 71.8 87 NNE. OAJ  
 10 
-0 — —0.6 4.9 
+0——0.64.9
 24 5.5 69.6 78 NNE. 8 0 — 2.9 5.0 
 25 3.9 67.4 78 NE. 8 8 — 0.7 4.4 
 26 7.2 68.2 76 ESE. 4 6 — 2.9 4.1 
@@ -7795,7 +7795,7 @@ Cels. + pr. 8ec. 0-10 Cels. Cels. - mm. Fuss.
 4 —3.6 61.3 91 NNE. 4 10 — 2.8 —4.5 SO. — 
 5 —6.5 67.2 94 SW. 2 4 —3.5 -8.0 — 
 6 —2.9 65.1 94 SW. 3 10 —0.6 —7.0 S°. — 
-7 — 1.7 56.5 98 SSW. 4 10 0.0 —7.5 S. 5.7 — 
+7—1.756.598 SSW.4100.0—7.5 S.5.7—
 8 1.9 44.6 97 WSW. 2 10 2.6 0.0 RS. 5.0 — 
 9 0.9 29.2 100 SW. 2 10 1.6 0.3 RS. 4.7 — 
 10 —0.7 34.2 99 sw. 2 8 —0.0 — 1.4 S. 3.8 — 
@@ -7856,7 +7856,7 @@ Cels. + pr. SPC. 0-10 Cels. Cels. - mm. FII-8.
 3 —2.1 50.7 84 SSE. 2 10 — —8.3 s. 3.2 5.4 
 4 —2.6 61.5 79 NNE. [O 10 — —3.4 5.7 
 5 —5.5 67.4 81 SSW. 2 4 — —8.3 5.5 
-6 — 2.5 65.2 82 SSW. 4 10 — —8.5 5.4 
+6—2.565.282 SSW.410——8.55.4
 7 —2.2 55.0 84 s. 8 10 — —8.5 s. 9.2 5.4 
 8 1.7 44.8 85 WSW. 6 10 — -0.6 RS. 5.6 5.7 
 9 0.9 29.4 87 s. 2 10 — -0.1 S. 4.3 5.9 

@@ -1,5 +1,5 @@
 ll.M 1 
-x / * 
+x/*
 der // 
 Gesellschaft für Geschichte und Altertumskunde 
 Ostseeprovinzen Russlands 
@@ -12,7 +12,7 @@ Gedruckt auf Verfügen der Gesellschaft für Geschichte und Alter­
 tumskunde der Ostseeprovinzen Busslands. 
 Präsident: Bernhard A. Hollander. 
 Riga, den 10. März 1904. 
-A „ 
+ A„
 ÄV3 05" 
 lnhal t sanzeige .  
 Seite. 
@@ -2219,7 +2219,7 @@ gespürett, volligh geschloessen doch sonder prejuditz dem Hause,
 vndt dasz es nur bloesz vor dieses mahll selbiges Beliebett ist, 
 nachmahls aber nicht mehr als ausz Bürgerlichem stände einzu­
 ziehen geschloessen, vndt wurde also He. Kordes sein meinung 
-1 u 2 sicher officiren alsz einen adjunctum von He. Excellentz 
+1u2sicherofficirenalszeinenadjunctumvon He. Excellentz
 söhn abgestimmett, undt so man über die Schrägen undt ge­
 genst gewonheitt dieses Hauses nicht gehen konte, ohnedem die 
 Motiven undt vhrsachen angeführett ist, was sonsten Bey diese 
@@ -2942,7 +2942,7 @@ BEFÄNGNISS
 4 \\ GRUNDRISS v\ #M,, 
 ^ N\ Ufe. 
 N 
-% \ \ 4(| 
+%\\4(|
 V  - v "  
 10 5 o 10 20 30 40 SO 60 TOM. 
 y*äJ±Uäk ' 
@@ -3323,12 +3323,12 @@ J_ WEHRGANG-ABSATZ. 1
 AELTESTE RIGASCHE STADTMAUER 
 IM KONVENT ZUM HEILIGEN GEIST 
 ! I FREIGELEGT UND NIEDERGERISSEN IM SOMMER 1903. __ _J —!_ 
-i i I 1 
+ii I1
 M////B///WWW TROTTOIR DER GR. 
 ALTES THOR DER PFLASTER IM HOFE DES KONVENTS ZUM HEILIGEN GEIST. \ SCHMIEDESTRASSE. 
 ORDENSBURG? 
 10 50 1 234 5 6 7 8 9 10METER, 
-' ' l ' ' > l » l I 
+''l''>l»l I
 GRUPPE II ^ MAASSTAB 1 : 100. 
 N° 103. HORIZONTALSCHNITT DURCH DIE SCHIESSLUKEN.  GRUPPE II 
 Jfe 105. 
@@ -3617,7 +3617,7 @@ Aufgenommsn von  Arch i tek t  A.Reinberg.
 '1903- X 70' 8" 
 (21,54m) 
 f-2'~) 5 (0,61m) 
-D B 3' 1" ^ (0,94"») f 9 SCHICHTEN 
+ D B3'1"^(0,94"»)f9 SCHICHTEN
 ^ 
 T 41/a" (0,72m) } 7 SCHICHTEN 
 L—M 
@@ -5860,7 +5860,7 @@ des Münzherrn 1045
 53 Begensburg Herzog Heinrich der Schwarze (1026 
 Transport 52 
 137 
-® i 
+®i
 Münzherr, mit Angabe der • * » «  
 Münzstätte. Jahreszahlen seiner Regierung. IM i©  
 Transport 52 
@@ -6238,8 +6238,7 @@ früheren Vortrage über die Geschichte der ehemaligen Sternwarte
 im Rigaschen Schlosse und zur Frage der Überführung der Her­
 zoglich Kurländischen Bibliothek aus Riga nach St. Petersburg. 
 Herr Ritterschaftsbibliothekar Karl von Löwis of 
-M e n a r sprach über die Ordensburg Tuckum. Derselbe berich­
-tete über die Ergebnisse der von ihm geleiteten Grabuntersu­
+ Menarsprachüberdie Ordensburg Tuckum. Derselbeberich­tete über die Ergebnisse der von ihm geleiteten Grabuntersu­
 chungen in Lindenberg. Derselbe sprach über einen Silberfund 
 in Loddiger. Derselbe erläuterte einen von ihm aufgenommenen 
 und gezeichneten Grund- und Aufriss des ältesten Teiles der 
@@ -7181,7 +7180,7 @@ Nikolaistrasse 4 I. 1888.
 188. Eduard Hoff, Riga, Nikolaistrasse 69. 1885. 
 189. Pastor Theodor Hoffmann, Riga, Gr. Jakobstrasse JV» 26. 1890. 
 190. Oberlehrer Staatsrat Bernhard Hollander, Riga, I. Weidendamm 
-K 3 Q. 7. 1882. Derzeitiger Präsident der Gesellschaft. 
+ K3 Q.7.1882. Derzeitiger Präsidentder Gesellschaft.
 191. Oand. oec. pol. Hans Hollmann, Riga, Domplatz K 9 Q. 3. 
 1899. 
 192. Gymnasialdirektor Mag. Rudolf Hollmann, Goldingen. 1903. 
@@ -7640,7 +7639,7 @@ v. Tobien, Riga, Ritterhaus. 1881.
 bard. 1903. 
 186 
 466. Ritterschaftsnotar Dr. Astaf v. Transehe - Roseneck, Riga, 
-' ' • I. Weidendamm IN? 6. 1890. 
+''• I. Weidendamm IN?6.1890.
 467. Livl. Landrat Eduard v. Transehe-Roseneck zu Taurup über 
 Römershof. 1892. 
 468. Generalleutnant George v. Transehe-Roseneck zu Roseneck, 
@@ -8131,7 +8130,7 @@ gesammelten Materialien zur Geseh&hte Rigas 171Ö—1740.
 201 
 Bruiningk, Hermann Baron. * Die Altäre der Domkirche 
 zu Riga im Mittelalter. 01, 8. 
-* — Di© Schutzheiligen der Kompagnie der Schwarzhäupter in 
+*— Di© Schutzheiligender Kompagnieder Schwarzhäupterin
 Riga. 01, 33. 
 — Mitteilungen über die Beteiligung der Gesellschaft an Ver­
 anstaltungen und Ausstellungen in Anlass der Jubiläums­
@@ -8434,7 +8433,7 @@ Jahre 1896 nach Riga berufenen Archäologischen Kongresses.
 — Vorschlag zur Fortsetzung der von Bunge herausgegebenen 
 „Urkundenregesten bis zum Jahre 1300" für das 14. Jahr­
 hundert. 94, 10. 
-* — Zu Sylvester Tegetmeiers Tagebuch. 98, 137. 
+*— Zu Sylvester Tegetmeiers Tagebuch.98,137.
 * — Einige Bemerkungen über die Ausstellung zum XI. Archäo­
 logischen Kongress in Kiew 1899. 99, 109, 112. 
 * — Livländische archäologische Funde in der Ferne. 01,19,125. 

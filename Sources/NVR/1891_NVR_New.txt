@@ -147,7 +147,7 @@ helle, aber nahe beieinander stehende Sterne zu einer
 Gruppe zusammen, der man alsdann einen Gesamtnamen 
 verlieh. Auf diese Weise entstanden die Sternbilder. Den 
 ersten Zeitpunkt anzugeben, wo man begann, sich die Sterne 
-— 3 — 
+—3—
 unter gewissen Figuren vorzustellen, ist nicht wol möglich, 
 doch nennen schon die ältesten schriftlichen Denkmäler solche 
 Sternbildernamen und ist derselbe sehr wahrscheinlicherWeise 
@@ -230,7 +230,7 @@ Gewissheit nimmt man es an, sie stammen von den Arabern,
 welche das sogenannte steinige Arabien bewohnten. Diese 
 führten ein Nomadenleben und ihre Hauptbeschäftigung war 
 die Viehzucht. Wenn sie — wie es in südlichen Gegenden 
-— 5 — 
+—5—
 noch heute geschieht — ihre Heerden bei Nacht hüteten, bot 
 sich ihnen Gelegenheit genug, den gestirnten Himmel, der 
 sich ihnen zudem in besonderer Pracht zeigen musste, zu 
@@ -271,7 +271,7 @@ renice]. Zu Anfang unseres Jahrhunderts zählte man sogar
 Ende des sechzehnten Jahrhunderts den übrigen hinzugefügt 
 worden war. Die Sternbilder des Altertums sind in sinn­
 reicher Weise in einen derartigen Zusammenhang gebracht, 
-— 6 
+—6
 dass die örtlich benachbarten auch durch die Sage enge Be­
 ziehungen zueinander haben. So viel Poesie aber auch sich 
 hierdurch mit den Sternbildernamen verband, so wenig hiervon 
@@ -312,7 +312,7 @@ auch minder heller Sterne eigene Namen hatten, so reichte
 dieser Namenschatz doch nicht aus, als man eine immer 
 grössere Anzahl Sterne für die Beobachtungen zu verwenden 
 begann. Daher wurde zu Anfang des siebzehnten Jahr­
-— 7 — 
+—7—
 hunderts die von Bayer vorgeschlagene Methode eingeführt, 
 nach welcher man die Sterne eines jeden Bildes nach ihrer 
 Helligkeit ordnete und der Reihenfolge nach mit den Buch­
@@ -353,7 +353,7 @@ die Sternbilder der Perseussage und endlich die Bilder des
 Zodiakus. 
 Der grosse Bär umfasst keineswegs blos die sieben be­
 kannten Sterne, von denen 4 in einem Trapez. 3 in einer 
-— 8 — 
+—8—
 krummen Linie angeordnet sind, sondern enthält auf einem 
 ziemlieh ausgedehnten Flächenraum 29 Sterne zweiter bis 
 fünfter Grösse. Eigentlich müsste das Sternbild „grosse 
@@ -394,7 +394,7 @@ Spuren dar, welche von den Gazellen beim Springen hinter­
 lassen waren. Bei den christlichen Arabern führten die 
 7 Hauptsterne des grossen Bären Namen, welche der biblischen 
 Legende entnommen waren. Das Viereck stellte nach ihnen 
-— 9 — 
+—9—
 die Todtenbahre des Lazarus dar, die drei Schwanzsterne 
 hiessen: Maria, Martha und die Magd, welche klagend an 
 der Bahre stehen. Letztere wurden auch mit einem Namen 
@@ -3153,11 +3153,11 @@ Cels. + p. See. 0-10 Cels. Cels.
 l'USS. 
 mm, 
 " Fuss. 
-1 — 3.2 69.3 79 SSW. 3 10 — 1.0 — 8.0 4.2 
+1—3.269.379 SSW.310—1.0—8.04.2
 2 1.0 65.6 76 SW. 5 10 0.5 0.0 4.8 
 3 -- 2.7 63.9 82 SSW. 1 Ii) — 0.3 —• 4.8 4.3 
-4 — 2.7 62.1 76 SSW. 2 0 — 1.0 — 6.0 4.3 
-5 — O.B 67.8 86 SSW. 1 10 — 0.4 - 1.1 4.3 
+4—2.762.176 SSW.20—1.0—6.04.3
+5— O.B67.886 SSW.110—0.4-1.14.3
 6 0.1 66.1 83 SSW. 6 10 1.6 — 2.7 R. 1.8 4.0 
 7 2.6 68.1 82 SW. 1 1 3.1 0.5 4.6 
 8 3.5 67.3 85 0 10 3.5 2.5 4.3 
@@ -3186,9 +3186,9 @@ mm,
 31 — 4.5 65.5 80 : N. 4 10 — 2.0 — 5.4 5.2 
 Mitt. — 1.2 55.7 80 8.9 3.5 — 12.3 35.7 4.72 
 Sturm am 15., 19. u. 20. 
-. a 1 a 
+.a1a
 Winde "A £ 1 K 53 CG n 1 £ 
-a : 09 
+a:09
 Häuflgk. 20 7 4 1 l — 1 2 - 10 27 11 2 — 2 — 5 
 Meter pr. 
 Secunde, - 3.0 3.0 2.0 3.o — 4.0 3.0 7.(5 3.7 3.3 2.0 — 5.0 — 5.2 
@@ -3213,10 +3213,10 @@ Mittelwerthe. lh- Mittag. Temperatur.
 § 
 700 mm. Mtr. russ. 
 Cels. + % \  p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 3.2 70.4 100 SSW. 8 10 4.2 
+1—3.270.4100 SSW.8104.2
 2 1,5 66.5 100 SW. 10 9 — — 4.7 
-3 — 2.5 64.8 100 S. 6 10 — — 4.1 
-4 — 2.8 63.1 100 S. 6 3 — — 4.2 
+3—2.564.8100 S.610——4.1
+4—2.863.1100 S.63——4.2
 5 0.1 69.1 100 S. 8 10 — — 0.1 4.2 
 6 0.4 67.1 100 SSE. 8 9 -— — R. 2.7 3.9 
 7 2.6 69.3 100 SW. 6 1 — — 0.3 4.5 
@@ -3249,7 +3249,7 @@ Sturui u. Schneegestöber am 11., 12., 15., 19., 20,, 21., 26., 29. u. 30
 Winde £ z ä* a M CG CG CG £ 
 CG CG £ S5 Z OL z 
 Häutigk. i 7 4 2 1 2 1 11 15 8 9 13 2 1 5 4 7 
-i ! 
+i!
 Meter pr. 
 Secunde. 6.3 6.0j 3.o | 2.0 5.o 6.0 8.7 9.3 5.5 7.3 6.8 4.o 6.0 6.0 7.5 8.9 
 111   DDDaaatttuuummm   nnneeeuuueeennn   SSStttyyylllsss...   
@@ -3278,7 +3278,7 @@ Cels. + p. See. 0-10 Cels. Cels. — mm. Fuss.
 3 2.7 56.9 73 WSW. 4 1 3.7 — 1.2 6.0 
 4 3.0 59.3 82 SW. 4 10 3.5 2.0 5.4 
 5 2.2 59.1 84 SW. 1 10 2.3 1.5 R.o 4.8 5.2 
-6 — 0.2 58.0 77 N. 6 10 1.9 - 1.5 S. 5.6 
+6—0.258.077 N.6101.9-1.5 S.5.6
 7 00 64.2 72 0 10° 2.5 — 3 5 5.2 
 8 0.4 63.7 71 N N W .  4 1 1.5 — 1.5 5.0 
 9 0.6 67.1 82 NNW. 1 30 2.0 — 3.0 4.9 
@@ -3329,12 +3329,12 @@ Station Diinamtinde. Monat Februar 1890.
 Mittelwerthe. lh- Mittag. Temperatur. 
 700mm. Mtr. russ. 
 Cels. mm. + 9* p. See. 0-10 Cels. Cels. - Fuss. 
-1 — 0.2 65.1 100 SW. 6 10 S. 0.9 5.7 
+1—0.265.1100 SW.610 S.0.95.7
 2 1.1 62.3 99 SW. 6 9 — — 5.4 
 3 1.9 58.3 100 W N W .  6 2 — — 6.0 
 4 2.4 60.4 100 WSW. 6 6 — — 0.4 5.4 
 5 1.7 60.3 100 WSW. 2 10 — — R. 3.6 5.3 
-6 — 0.1 59.4 100 NNW. 8 10 — — S. 0.5 5.5 
+6—0.159.4100 NNW.810—— S.0.55.5
 7 0.3 65.5 100 SW. 4 7 — — 5.3 
 8 0.8 65.1 98 N N W .  8 1 — — 0.1 5.2 
 9 1.1 68.6 100 NW. 6 3 — — 0.7 5.0 
@@ -3388,14 +3388,14 @@ NNW. WWaasssseerrssttaanndd..
 Station Riga. Monat März 1890. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 700mm. % Mtr. Cels. russ. + p. See. o-xo Cels. Cels. - mm. Fuss. 
-1 — 7.3 61.0 86 0 8° — 3.0 —12.5 4.0 
+1—7.361.08608°—3.0—12.54.0
 2 —10.2 66.8 81 0 0 — 6.8 —12.5 3.7 
 3 —11.3 65.9 78 0 0 — 6.0 — 17.0 3.6 
-4 — 4.2 59.1 78 SSW. 2 0 1.5 —11.4 3.6 
-5 — 4.5 49.8 66 SSW. 6 0 — 1.8 — 7.2 4.2 
-6 — 6.4 40.7 72 s. 6 10° — 4.7 —11.0 3.8 
-7 — 2.5 37.2 77 SW. 4 10 0.6 — 8.0 S. 1.6 4.2 
-8 — 0.5 40.1 73 SSW. 2 10 2.6 — 2.5 S. 1.2 5.0 
+4—4.259.178 SSW.201.5—11.43.6
+5—4.549.866 SSW.60—1.8—7.24.2
+6—6.440.772s.610°—4.7—11.03.8
+7—2.537.277 SW.4100.6—8.0 S.1.64.2
+8—0.540.173 SSW.2102.6—2.5 S.1.25.0
 9 0.7 54.3 75 SSW. 6 10 4.3 — 7.6 R.o 3.5 
 10 0.5 59.4 57 SSW. 8 5 3.5 — 2.5 S. 0.3 5.8 
 11 1.1 56.7 71 SSW. 14 10 2.5 — 4.0 s. 4.3 4.2 
@@ -3449,13 +3449,13 @@ Station Dünamünde. Monat März 1890.
 Mittelwerthe. lh> Mittag. Temperatur. 
 700 mm. Mtr. i russ. 
 Cels. + p. See. 0-10 Cels. Cels. - mm. | Fuss. 
-1 — 8.3 62.2 100 SE. 2 9 S. 0.5 4.0 
-2 — 8.3 68.1 100 NE. 6 3 — — 3.7 
-3 — 9.6 67.0 99 SSW. 2 0 — — 0.1 3.5 
-4 — 3.5 60.1 95 SW. 2 0 — — 3.6 
-5 — 4.3 50.7 94 SSW. 10 0 — — 4.1 
-6 — 6.3 41.6 99 SSE. 6 1 — — 0.3 3.7 
-7 — 1.9 38.3 93 SW. 8 3 — — S. 2.7 4.3 
+1—8.362.2100 SE.29 S.0.54.0
+2—8.368.1100 NE.63——3.7
+3—9.667.099 SSW.20——0.13.5
+4—3.560.195 SW.20——3.6
+5—4.350.794 SSW.100——4.1
+6—6.341.699 SSE.61——0.33.7
+7—1.938.393 SW.83—— S.2.74.3
 8—0.341.398SW. 610——s.0.95.1
 9 0.1 54.8 100 SE. 10 10 — — 0.5 3.5 
 10 1.0 60.4 85 SW. 12 5 — — s. 0.4 5.8 
@@ -3665,7 +3665,7 @@ Cels. russ« + p. See. 0-10 Cels. Cels. - mm. Fuss.
 31 10.3 46.4 67 SW. 8 9 14.0 6.5 R. 0.3 5.2 
 Mitt. 14.9 57.6 60 6.0 28.3 2.0 60.9 3.94 
 Gewitter am 2., 3., 6., 22., 23. u. 26. Sturm am 26. 
-W W K £ ps 
+ W W K£ps
 Winde Z Z co 
 3 
 co CO CO z 
@@ -4114,12 +4114,12 @@ Mitt. 17.9 57.2 95 3.4 — — 76.7 4.9
 Sturm am 27., 28. u. 31. Gewitter am 2., 12., 15., 18.. 24. u. 26. 
 S 
 Winde £ Z K 
-K K >;* 
+ K K>;*
 Z 02 
 ö 
 CO CG co 
-Z 3 CO 
-£ > 
+ Z3 CO
+£>
 Hänfigk. 2 7 3 3 3 1 1 4 6 5 8 17 10 4 2 8 9 
 Meter pr. 
 Secunde. — 3.3 43 5.3 3.7 4.o 3.0 4.0 4.3 8.4 7.5 7.0 6.4 7.0 7.0 2.6 4.1 
@@ -4183,10 +4183,10 @@ Sturm am 7., 27. u. 30. Wetterleuchten am 8.
 S £3 £ 
 Winde Z z W 32 32 £ CQ 32 32 £ 
 £ 
-£ £ 
+££
 Häufigk. 16 15 10 6 
 _ 
-— 1 — 6 12 16 3 1 — 1 3 
+—1—6121631—13
 Meter pr. 
 Secunde. — 3.i 2.4 1.2 — 1.0 — 1.2 2.8 3.4 2.7 ! 1.0 — 6.o 5.7 I 
 111   DDDaaatttuuummm   nnneeeuuueeennn   SSStttyyylllsss...   
@@ -4194,7 +4194,7 @@ Lufttemp.
 Still. 
 Barometer 
 NNE. bei 0° C. 
-1 i 
+1i
 Hygrometer. 
 ENE. 
 Wind. 
@@ -4433,9 +4433,9 @@ Cels. + p. See. 0-10 Cels. Cels. - mm. Fuss.
 30 — 0.8 65.0 96 SSW. 3 10 — 1.4 — 2.1 3.9 
 Mitt. 0.8 59.0 93 9.0 7.9 —20.5 42.5 4.38 
 Sturm am 20., 24. u. 25. 
-W £ 
+ W£
 Winde z z H a CD cö £ Z 
-z z 
+zz
 Häufigk. 17 1 6 5 4 5 12 2 4 12 17 2 2 — — — 1 
 Meter pr. 
 Secunde. — 1.0 3.7 5.2 4.8 4.4 3'
@@ -4528,13 +4528,13 @@ Mittelwerthe. lh- Mittag. Temperatur.
 Cels. + p. See. 0-10 Cels. Cels. - mm. Fuss. 
 1 1.3 65.9 97 SW. 2 10 1.7 — 1.0 4.5 
 2 0.8 65.1 98 SW. 3 10 1.3 — 1.5 4.3 
-3 — 1.6 60.0 82 SSW. 4 1 — 1.4 — 3.7 4.0 
-4 — 3.3 55.1 95 0 10 — 2.2 — 7.3 SO. 4.6 
-5 — 3.5 56.2 92 NNE. 3 10 — 2.0 — 6.3 3.9 
-6 — 3.6 60.1 82 NNE. 1 10 — 3.2 — 7.2 So. 4.2 
-7 — 0.4 58.2 88 NNW. 4 8 1.3 — 5.3 S. 0.7 4.9 
-8 — 2.5 62.7 79 NNE. 2 8 — 1.4 — 3.5 4.0 
-9 — 2.8 65.6 92 0 10 — 2.0 — 5.3 So. 4.2 
+3—1.660.082 SSW.41—1.4—3.74.0
+4—3.355.195010—2.2—7.3 SO.4.6
+5—3.556.292 NNE.310—2.0—6.33.9
+6—3.660.182 NNE.110—3.2—7.2 So.4.2
+7—0.458.288 NNW.481.3—5.3 S.0.74.9
+8—2.562.779 NNE.28—1.4—3.54.0
+9—2.865.692010—2.0—5.3 So.4.2
 10 — 5.5 68.1 85 SSW. 1 10 — 2.2 — 7.0 3.9 
 11 — 1.4 66.5 99 NNE. 1 10 1.3 — 7.8 S. 0.2 4.3 
 12 — 4.7 69.2 91 S. 1 10 — 2.2 — 7.2 3.8 
@@ -4561,8 +4561,8 @@ Mi//. — 5.5 67.3 88 7.9 1.7 —16.2 5.4 3.81
 Sturm am 19. u. 20. 
 a 
 Winde a 0Q & 
-1 z 
-a w 02 £ 
+1z
+aw02£
 Häufigk. 10 1 14 3 — 1 6 3 4 19 17 14 — — — — 1 
 Meter pr. 
 — 1.0 2.1 1.0 — 4.0 4.7 2.7 5.5 4.2 3.6 2.7 — — — — 4.0 Secunde. 
@@ -4591,13 +4591,13 @@ Mittelwerthe lh- Mittag. Temperatur.
 Cels. + % p. See. 0-10 Cels. Cels. - mm. Fuss. 
 1 1.8 67.2 100 SW. 6 10 — 4.5 
 2 1.1 66.7 100 SW. 6 10 — — 4.3 
-3 — 1.2 61.4 98 SSE. 6 0 — — 4.1 
-4 — 3.3 56.4 100 SSE. 4 10 — — 4.5 
-5 — 2.1 57.5 100 NE. 6 10 — — 0.5 3.9 
-6 — 2.3 61.4 93 NE. 4 9 — — S. 4.2 
-. 7 0.9 59.6 100 NNW 8 6 — — RS. 0.4 4.7 
-8 — 1.6 64.1 98 N. 6 9 — — SO. 4.0 
-9 — 1.3 66.9 100 SSE. 2 9 — — 8°. 4.2 
+3—1.261.498 SSE.60——4.1
+4—3.356.4100 SSE.410——4.5
+5—2.157.5100 NE.610——0.53.9
+6—2.361.493 NE.49—— S.4.2
+.70.959.6100 NNW86—— RS.0.44.7
+8—1.664.198 N.69—— SO.4.0
+9—1.366.9100 SSE.29——8°.4.2
 10 — 5.3 69.6 100 S. 4 9 — —• SO. 0.1 3.8 
 11 — 1.0 68.2 100 N. 4 9 — — RS. 0.5 4.2 
 12 — 4.6 70.8 100 S. 6 10 — — 3.7 
@@ -4730,12 +4730,12 @@ Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 Januar 1890. 
 0.10m 0.20 m 0.40 m 0.80 m 1.10m 1.60 m 2.80 m 
-1 — 6.1 — 3.5 — 0.9 1.4 2.4 4.2 6.6 
-2 — 0.4 — 1.0 — 0.7 1.3 2.3 4.2 6.6 
-3 — 1.4 — 0.7 — 0.7 1.3 2.3 4.1 6.6 
-4 — 3.8 — 1.9 — 0.4 1.2 2.2 4.1 6.5 
-5 — 0.4 — 1.0 — 0.5 1.2 2.2 4.0 6.5 
-6 — 1.5 — 1.0 — 0.4 1.2 2.2 4.0 6.5 
+1—6.1—3.5—0.91.42.44.26.6
+2—0.4—1.0—0.71.32.34.26.6
+3—1.4—0.7—0.71.32.34.16.6
+4—3.8—1.9—0.41.22.24.16.5
+5—0.4—1.0—0.51.22.24.06.5
+6—1.5—1.0—0.41.22.24.06.5
 7 0.1 — 0.2 — 0.2 1.2 2.2 4.0 6.4 
 8 0.5 —• 0.0 0.0 1.2 2.1 3.9 6.4 
 9 0.4 0.1 0.0 1.2 2.1 3.9 6.3 
@@ -4768,15 +4768,15 @@ Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 Februar 1890. 
 0.10 m 0.20 m 0.40 m 0.80 m 1.10m 1.60 m 2.80 m 
-1 — 2.7 — 0.6 0.1 1.2 1.9 3.4 5.4 
-2 — 0.1 — 0.1 0.1 1.2 1.9 3.3 5.4 
-3 — 0.4 — 0.1 0.0 1.2 1.9 3.3 5.3 
+1—2.7—0.60.11.21.93.45.4
+2—0.1—0.10.11.21.93.35.4
+3—0.4—0.10.01.21.93.35.3
 4 Ol 0.0 0.0 1.2 1.9 3.3 5.3 
 Vc  
 6 0.0 0.1 0.1 1.2 1.9 3.3 5.3 
-7 — 0.1 0.1 0.1 1.2 1.9 3.3 5.3 
-8 — 0.2 0.1 0.1 1.2 1.9 3.3 5.2 
-9 — 3.0 — 0.8 0.1 1.2 1.9 3.2 5.2 
+7—0.10.10.11.21.93.35.3
+8—0.20.10.11.21.93.35.2
+9—3.0—0.80.11.21.93.25.2
 10 — 1.8 — 1.3 0.1 1.2 1.8 3.2 5.2 
 11 — 1.7 — 0.6 0.0 1.2 1.8 3.2 5.2 
 12 — 1.9 — 1.1 4- 0.0 1.2 1.8 3.2 5.2 
@@ -4802,15 +4802,15 @@ Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 März 1890. 
 0.10m 0.20 m 0.40 m 0.80 m 1.10 m 1.60 m 2.80 in 
-1 — 2.9 — 1.7 — 0.7 0.6 1.3 2.9 4.8 
-2 — 7.4 — 4.5 — 1.7 0.5 1.3 2.8 4.8 
+1—2.9—1.7—0.70.61.32.94.8
+2—7.4—4.5—1.70.51.32.84.8
 3 —11.1 — 7.3 — 3.5 0.5 1.3 2.8 4.8 
 A 
-5 — 2.8 — 3.0 — 2.7 0.2 1.2 2.7 4.7 
-6 — 8.5 — 5.9 — 3.1 0.2 1.1 2.7 4.7 
-7 — 5.9 — 5.2 — 3.4 *0.2 1.0 2.6 4.7 
-8 — 2.2 — 2.2 — 2.0 0.1 0.9 2.6 4.6 
-9 — 5.2 — 2.4 - 1.6 0.1 0.9 2.6 4.6 
+5—2.8—3.0—2.70.21.22.74.7
+6—8.5—5.9—3.10.21.12.74.7
+7—5.9—5.2—3.4*0.21.02.64.7
+8—2.2—2.2—2.00.10.92.64.6
+9—5.2—2.4-1.60.10.92.64.6
 10 0.1 — 0.5 — 0.9 0.1 0.9 2.5 4.6 
 11 — 2.8 — 1.5 — 0.5 0.1 0.9 2.5 4.6 
 12 — 0.3 — 0.2 — 0.4 0.1 0.9 2.5 4.6 
@@ -5070,7 +5070,7 @@ Q
 5 5.3 6.5 8.4 10.6 11.0 11.5 11.2 
 6 3.7 4.8 7.7 10.2 10.8 11.4 11.1 
 7 5.4 6.6 8.0 9.7 10.4 11.2 11.1 
-8 — 4.8 7.4 9.5 10.0 11.1 11.1 
+8—4.87.49.510.011.111.1
 9 1.6 3.0 6.0 9.1 9.8 10.9 11.0 
 10 1.0 2.3 6.1 8.4 9.3 10.7 11.0 
 11 1.8 2.3 4.3 7.7 8.8 10.5 109 
@@ -5135,15 +5135,15 @@ Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 Dezember 1890. 
 0.10 m 0.20 m 0.40 m 0.80 m 1.10 m 1.60m 2.80 m 
-1 — 0.5 — 0.7 — 0.3 2.4 3.6 6.2 8.3 
+1—0.5—0.7—0.32.43.66.28.3
 2 0.0 — 0.1 — 0.1 2.3 3.5 6.0 8.3 
-3 — 0.6 — 0.1 — 0.1 2.3 3.4 5.9 8.2 
-4 — 2.9 — 1.9 — 0.5 2.2 3.3 5.8 8.2 
-5 — 2.3 — 1.5 — 0.2 2.2 3.2 5.7 8.1 
-6 — 3.5 — 2.7 — 0.2 2.1 32 5.6 8.0 
-7 — 2.8 — 23 — 0.3 2.0 3.1 5.5 8.0 
-8 — 0.9 — 0.8 — 0.2 2.0 3.1 5.4 8.0 
-9 — 30 — 1.4 — 1.2 2.0 2.9 5.4 7.8 
+3—0.6—0.1—0.12.33.45.98.2
+4—2.9—1.9—0.52.23.35.88.2
+5—2.3—1.5—0.22.23.25.78.1
+6—3.5—2.7—0.22.1325.68.0
+7—2.8—23—0.32.03.15.58.0
+8—0.9—0.8—0.22.03.15.48.0
+9—30—1.4—1.22.02.95.47.8
 10 — 2.2 — 1.4 — 0.4 2.0 2.9 5.3 7.7 
 11 — 3.3 — 2.6 — 0.5 2.0 2.8 5.2 7.7 
 12 — 1.5 — 1.1 — 0.3 1.8 2.8 5.1 7.6 

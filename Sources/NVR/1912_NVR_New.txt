@@ -78,7 +78,7 @@ Pflanzengeographie 5
 Pflaum, H.. Dr. phil., Professor 4. 10. 14. 25. 27. 28 
 Pneumatik des Vogelkörpers 29 
 Radioaktive Umwandlungen 8 
-— V — 
+— V—
 Seite 
 Reliefkarte des nordöstlichen Livlands 29 
 Schneider, G., Dr., Professor 9. 15. 20. 27. 29 
@@ -221,7 +221,7 @@ plaren gefunden, in 3 m Tiefe hatte er eine helle Färbung. An einer
 Stelle blieb die Dredsche immer leer. An den Arbeiten beteiligte sich 
 auch stud. Max Brandt. Es wurden zahlreiche Muscheln. Schnecken und 
 1* 
-— 4 — 
+—4—
 Krebse gesammelt. Auf der landwirtschaftlichen Ausstellung in Arensburg 
 erhielten die von der biologischen Station ausgestellten Geräte, Naturalien 
 und Bücher den I. Preis, die grosse silberne Medaille. Der Leuchtturm­
@@ -265,7 +265,7 @@ dieser Schichtgrenze; bis hierher oder etwas tiefer reicht meist das untere
 Ende der Nordlichtdraperien, dessen Spektrum deutlich die Stickstofflinien 
 zeigt, während im Spektrum der höheren Teile die Wasserstoff'linien vor­
 wiegen. Darauf folgt in etwa 200 km Höhe die nächste Schichtgrenze, 
-— 5 — 
+—5—
 entsprechend dem Übergange der Wasserstofl'atinosphäre in eine hypo­
 thetische Geokoroniumatmosphäre (nach Wegener). Auch diese Schicht­
 grenze wird durch einige optische Beobachtungen belegt. Uber ihr entstehen 
@@ -309,8 +309,7 @@ ganze Zahl sein kann, so hat jedes ungerade Quadrat die Form
 4n2 -f- 4n -f 1 = 4n (n -f- 1) -f 1, 
 wo entweder n oder n f 1 gerade ist. Jedes ungerade Quadrat hat 
 also die Form 8n -|- 1. 
-— 6 -
-4. Die Summe dreier ungeraden Quadrate hat die Form 
+—6-4. Die Summe dreier ungeraden Quadrate hat die Form 
 8 (n, -f- n.» -f- n;t) -)- 3 = 811 -J- 3, 
 kann demnach nie ein Quadrat ergeben. Es gibt also auch zu 3 ungeraden 
 Kantenzahlen keine ganzzahlige Diagonale. 
@@ -356,7 +355,7 @@ p (2n -f p)2 = (2n)2 + p (4n -f- p)
 (33) 71* = 38* + 33.109 = 38* + 3.11. 109 f 
 37 71* = 34" + 37.3.5.7 f 
 41 71* = 30' + 41 .101 = 30*+ |^4 45»: 
-2 2 
+22
 45 712 == 262 4 45 . 97 = 262 4 32. 5 . 97 = 26"' 4 66 4 3 : 
 422 + 5l2: 
 49 712 = 222 4 49 . 93 = 222 4 72. 3 . 31 f 
@@ -381,7 +380,7 @@ die Summe dreier Quadratzahlen zerlegen lässt.
 122 44243g2 
 132 = 122 + 424 32 
 (4224i62 +72 
-+ ( 22 4 92 
++(22492
 172 _ 1024 jl2f4 1s 
 4|  8 2  + 9 2  302 4 3Ü2 4 72 
 ] 1 382 4 92 
@@ -391,8 +390,7 @@ I 62 4 172
 422 4 22 4 212 
 \ 18'-'4 142 4 32 (  4 2 2  4 I I 2  
 232 = I 222 4 32 2 2 
-6 2
-J 38 4 21
+62J 38 4 21
 4  472 = / 182 4-I 182 4 132 342 4 272 
 ' 62 4 432 
 242 4 162 4 32 62 4 382 4 272 
@@ -406,8 +404,7 @@ J 38 4 21
 62+ ' 222 4" 212 ^ + > 36
 2 + 372 
 I 142 4 272 824 512 
-- 8 -
-11. Die 4. Potenz jeder Primzahl c von der Form 4n -f- 1 lässt sich 
+-8-11. Die 4. Potenz jeder Primzahl c von der Form 4n -f- 1 lässt sich 
 auf zweierlei Art in die Summe dreier Quadrate zerlegen. 
 Aus c2 = a2 -f- b2 folgt c4 = (a2 -f~ h2) c2 = a2 c2 + a2 4" un<^ 
 durch Vertauschung von a und b 
@@ -448,7 +445,7 @@ Oberlehrer Greve demonstrierte ein Exemplar einer Waldmaus
 (Mus sylvaticus wintoni B. H., abgebildet im Korrespondenzblatt L1V, 34) 
 mit einem auffälligen braunen Fleck auf der Brust, — ein Geschenk von 
 stud. E. Reinwaldt. 
-— 9 — 
+—9—
 Prof. Dr. Guido Schneider sprach, anknüpfend an die naturwissen­
 schaftlichen Museen derjenigen Städte, welche ehemals zur Hansa gehört 
 oder wenigstens in näherer Beziehung zu ihr gestanden haben, über die 
@@ -1898,7 +1895,7 @@ Die nachfolgende Tabelle enthält eine Ubersicht über das gesamte
 mir zur Verfügung stehende Material. 
 bO Wa sser-
 3 
-b o st»r ad a) 
+bost»rada)
 Neuer Stil. iE ® Mess­
 engl. Fuss 
 CO C instrument. Riga, 
@@ -2118,7 +2115,7 @@ den eisfreien Strom:
 IIa. 
 a = 391 mit einem wahrscheinlichen Fehler + 55 
 b = 465 „ „ „ „ ± 114 
-c = 93 „ „ „ „ ± 32 
+c=93„„„„±32
 Für den eisbedeckten Strom findet man: 
 IIb.  
 a = 131 mit einem wahrscheinlichen Fehler + 63 
@@ -2502,7 +2499,7 @@ weit hinauf. Die Spitzen der Krallen waren weiss, die Kopfform gedrungen.
 57 — 
 mit deutlich abgesetzter Stirn, kurzschnauzig. Trotzdem dass der Bär 
 6 Tage lang gejagt worden war, ehe er sich wieder ins Lager legte, hatte 
-• # 
+•#
 1. Ur. spelaeus aus Ungarn. — 2. Ur. arctos L., Gouvernement Smolensk. — 
 3. und L Ur. arctos L. aus dem Europäischen Russland. — 5. Ur. arctos L., 
 zweijährig. (Alle 8/io nat. Grösse.) Seitenansicht. 
@@ -3227,9 +3224,9 @@ C. In dem letzten Kasten war eine andere Gruppe von Anodonten
 untergebracht, die ihre Aufstellung nach folgendem Schema gefunden hatte: 
 © 
 I 
-© © © © 
+©©©©
 ©v- © © -© 
-© © 
+©©
 Nr. 6 wurde von einer Muschel eingenommen, die der erhobene 
 flügeiförmige Schild und der gerundete Unterrand, sowie die hellfarbige 
 a) Meine frühere abweichende Ansicht musste ich bei genauerem Studium des 
@@ -3915,7 +3912,7 @@ auf Rubus fruUcosus L. R. saxatilis L.
 auf Rosa canina L. und Gartenrosen.t 
 61. Puccinia absinthii DC. 
 auf Artemisia absinthium L. — Woldeuhof, 9./VIII 1908. 
-- J 62. Puccinia acetosae (Schum.), VI—IX, häufig, 
+- J62. Pucciniaacetosae(Schum.), VI—IX,häufig,
 auf Rumex acetosa L. 
 63. Puccinia aegopodii (Schum.), VI—VII, zerstreut, 
 auf Aegopodium podagraria L. 
@@ -3987,7 +3984,7 @@ auf Hieracium pilosella L. H. umbellatum L.
 auf Hypochoeris maculata L. — Nido, 17.<VIII 1907. 
 "t_ 't_j 91. Puccinia iridis (DC.), VII—IX, 
 auf Iris germanica L. — Garten. 
-I j . Q2. Puccinia junci (Strauss), 
+ Ij. Q2. Pucciniajunci(Strauss),
 auf Juncus bufonius L. 
 93. Puccinia leontodontis Jacky, VI—IX, häufig, 
 auf Leontodon autumnalis L. L. hispidus L. 
@@ -4176,18 +4173,18 @@ und Kurland gefunden worden sind.
 Von Fr. Perle. 
 o \/ Puccinia graminis Pers. II,III2) auf Seeale cereale L., kult. 47 Proben, L. K.3) II, III auf Triticum vulgare L., kult 27 „ K. 
 11, III „v/Avena sativa L., kult 70 „ L.K. 
-— — II, III „ Hordeum sativum Jess., kalt. . . 26 „ L. K. 
-— — II, III „ v Triticum repens L 10 „ L. K. 
+—— II, III„ Hordeumsativum Jess.,kalt...26„ L. K.
+—— II, III„v Triticumrepens L10„ L. K.
 II, III „ \Agrostis alba L 4 „ L.K. 
 II, III „ V „ vulgaris With 2 „ L. K. 
-— — II „ Vlnleum pratense L 2 „ L. K. 
+—— II„ Vlnleumpratense L2„ L. K.
 II „ Festuca elatior L 2 „ K. 
 III „ Elymus arenarius L 2 „ L. 
-— — II, III „v Calamagrostis arundinacea Rth. .1 „ L. 
+—— II, III„v Calamagrostisarundinacea Rth..1„ L.
 II, III „ Bromus inermis Leys 2 „ L.K. 
-— — I „\Berberis vulgaris L 4 „ L.K. 
+—— I„\Berberisvulgaris L4„ L.K.
 — coronifera Kleb. II, III auf Avena sativa L., kult. 160 „ L. K. 
-— — I auf Rhamnus cathartica L. 5 „ L.K. 
+—— Iauf Rhamnuscathartica L.5„ L.K.
 C_3 — glumarum Eriks, et Uenn. II auf Festuca elatior L. 1 „ K. 
 — simplex Eriks, et Henn. II, III auf Hordeum sativum 
 Jess., kult 8 „ K. L. 
@@ -4196,7 +4193,7 @@ II auf Seeale montanum L 1 „ L.
 — — III „ Bromus mollis L 1 „ L. 
 I „ Auchusa officinalis L. 4 „ L. K. 
 — coronata (corda) Kleb. II, III auf Carex flava L. 1 „ L. 
-— — II, III auf 1 Calamagrostis arundinacea Rth. 1 „ L. 
+—— II, IIIauf1 Calamagrostisarundinacea Rth.1„ L.
 II, III Agrostis vulgaris W 1 „ L. 
 I auf Rhamnus frangula L 7 „ L.K. 
 — triticina Eriks. II, III auf Triticum vulgare L. . 2 „ K. 
@@ -4214,9 +4211,9 @@ III auf Bromus secalinus L 1 L. 53
 — agrostidis Plowr. I auf Aquilegia vulgaris L. . . 5 n K. 
 — festucae Plowr. II, III auf Festuca ovina L. . . 1 V L. 
 — Bromina Eriks. II, III auf Bromus mollis L. . . 1 n L. 
-— — II, III auf Bromus inermis Leys 1 n L. 
+—— II, IIIauf Bromusinermis Leys1n L.
 — poarum Niels. I auf Tussilago farfara L. . . . 5 r> L. 
-— — II auf l'oa pratensis L 1 n K. 
+—— IIaufl'oapratensis L1n K.
 © — pliragmitis (Sclium.) Kotrn. 1 auf Rumex acetosa L. 3 r> K. L. 2 n L. 
 — caricis (Schum.) Rebt. I auf Urtica dioica L. . . 4 « L. K. 
 — centaureae Mart. II, III auf Centaurea jacea L. . 2 n K. 
@@ -4228,7 +4225,7 @@ III auf Bromus secalinus L 1 L. 53
 — menthae Pers. II auf versch. Menthaarteü . . . 2 v> L. K. 
 — variabilis Grev. II, III auf Taraxacum officinale Web. 3 r> L. K. 
 — violae (Schum.) D. C. I auf Viola canina L. . . 2 r> L. K. 
-— — I auf Viola silvestris L 1 w L. 
+—— Iauf Violasilvestris L1w L.
 — sessilis Schneid. I auf Majanthemum bifolium Schm. 1 r> K. 
 — aegopodii (Schum.) III auf Aegopodium podagraria L. 4 r> L. K. 
 — tragopogonis {Pers.) Corda II, III auf Tragopogon 
@@ -4236,9 +4233,9 @@ pratensis L 2 n L. K.
 — trailii Plowr. I auf Rumex acetosa L 1 n K. 
 — suaveolens (Lk.) Rostr. II, III auf Cirsium arvense L. 10 n L. K. 
 — ribesii-caricis Kleb. I auf Ribes grossularia L. 7 n • K. L. 
-— — I auf Ribes nigrum L 2 r> K. 
-— — I „ „ alpinum L. . . 3 » L. 
-I „ „ rubrum L 4 y> K. L. 
+—— Iauf Ribesnigrum L2r> K.
+—— I„„alpinum L...3» L.
+ I„„rubrum L4y> K. L.
 — ribis D. C. III auf Ribes rubrum L 1 » L. 
 — pimpinellae(Str.)Mart. II auf l'impinellasaxifraga L. 2 r> L. 
 — pruni-spinosae Pers. auf Prunus 1 » K. 
@@ -4265,7 +4262,7 @@ idaeus L 5 „ L. K.
 Uromyces trifolii (Alb. et Schw.) II, III auf Trifolium 
 hybridum L 2 „ L. K. 
 — geranii (D. C.) 11, III auf Geranium palustre L. 1 „ L. 
-— — II, III auf Geranium pratense L 1 „ K. 
+—— II, IIIauf Geraniumpratense L1„ K.
 — alcliemillae (Pers.) II, III auf Alchemilla vulgaris L. 3 „ K. 
 pisi (Pers.) II auf Pisum sativum L 1 „ L. 
 — poae Babenh. I auf Ficaria verna L 1 „ L. 
@@ -4305,7 +4302,7 @@ Cercospora concors auf Solanum tuberosum L. . . K.
 Claviceps purpurea (Fr.) Tal. auf Molinia aquatica Wib L. 
 — — auf Seeale cereale L., kult 
 „ Hordeum vulg., kult 
-— — „ Festuca elatior L 1 L. 
+——„ Festucaelatior L1 L.
 Exobasidium vaccin. (Fuck.) Woron. auf Vacc. vitis 
 idaei L 1 K. 
 llelminthosporium Link. gram, auf Hordeum, kult. 39 L. K. 
@@ -5656,7 +5653,7 @@ Entworfen voil K.R. lvupffer. " " der Elbe.
 Maßstab 1:2 250 000 
 0 10 20 Östliche * des Gagelstrauchs. ff 'S SOtanuUr 
 Südöstliche " von Cor ans suerica. 
-0 - 10 "o Wald u.Moor. —.—...Südliche " der zweifarbigen. Weide 
+0-10"o Waldu.Moor.—.—...Südliche"derzweifarbigen. Weide
 1 10 - 25% » » " V V Abgesonderte Standorte " " " 
 0-0-9-« Siidüche Terbreitungsgrenze der Zwergbirke. 
 über 50 % • • Abgesonderte Standorte " " 
@@ -5665,7 +5662,7 @@ ttucW
 Vev^w« 
 ?\es 
 iHSOlW 
-^ 1 v, v w v; v 
+^1v,vwv;v
 _ .vw vjr.Xx UIS) 
 gräei* 
 Im 
@@ -5830,7 +5827,7 @@ Cels. pr. Sek. 0-10 Cels. Cels. Cels. - mm. +
 3 —10.3 65.4 82 0 10 —5.5 -13.5 — 15.8 s 3.4 
 4 0.9 49.3 69 NNW 12 4 2.0 — 8.5 —7.0 
 5 —9.3 55.9 60 NE 10 0 —0.5 —17.0 —4.6 
-6 — 18.5 71.7 68 NE 7 0 —16.6 —20.2 —22.6 
+6—18.571.768 NE70—16.6—20.2—22.6
 7 —12.9 62.1 81 SSE 6 10 —5.5 —21.0 —24.2 s 4.4 
 8 —8.1 62.0 76 NNE 14 10 —5.0 —9.5 —5.8 s 0.1 
 9 —9.2 66.5 82 S 2 10 -6.0 — 15.4 —16.8 s 2.3 
@@ -5895,9 +5892,9 @@ o —4.3 60.7 71 0 9 —- —60 s 1.9 4.8
 4 1.1 50 0 6'- NW 20 5 — —7.8 6.2 
 5 —8.2 56.2 65 N N E  10 ! 0 — - 15.3 5 3 
 6 —17.1 72.3 72 N N E  6 1 — - 18.0 \ 4.6 
-7 — 12.3 62.8 80 S 14 10 — —20.8 S 4.0 4 7 
+7—12.362.880 S1410——20.8 S4.047
 8 —8.2 62.7 M N 20 10 — -9.3 s 1.1 5.4 
-9 — 10.1 67.0 84 S 6 10 — — 16.0 s 2.6 47 
+9—10.167.084 S610——16.0s2.647
 10 - 2 8  64.2 88 N 2 10 — —7.0 4.9 
 11 — 13.7 70.1 63 SE 6 0 — — 17.0 4.3 
 12 — 13.2 76.5 67 SE 6 10 — —16.0 4.1 
@@ -5921,11 +5918,11 @@ Mitt. —6.4 56 9 75 7.3 —23.8 42.3 5.2
 1 
 Sturm am 1., 4., 5., 8.. 17., 18., 22. 
 Winde S K 
-£ £ £ 
-Z 5 a Cß Cß C€ Cfl 
+£££
+ Z5a Cß Cß C€ Cfl
 ! 32 Cß 
 Z 
-^ : Z 
+^: Z
 Häufigkeit 7 10 6 — — 3 — 12 3 18 6 4 3 1 6 5 ! -
 Meter pr. 
 Sekunde — 11.8 9.3 — 5.3 - 6.2 3.3 
@@ -5989,9 +5986,9 @@ W
 Winde H Z Z 
 £ 
 Z sa m a crx £ m £ 
-Z w a 02 
+ Zwa02
 £ 
-£ Z 
+£ Z
 Häufigkeit 17 12 2 7 2 — — 2 9 12 8 11 — 7 1 3 * — 
 Meter pr. 
 Sekunde — 2.5 4.5 2.1 7.0 — - 2.5 4.0 3.5 5.1 3.4 — 2.3 1.0 1.0 — 
@@ -6020,7 +6017,7 @@ Cels. russ. + pr. Sfk. 0-10 Cels. Cels. — mm. Fuss.
 5 1.2 48.7 90 0 10 — —0 1 RS 5.3 61 
 6 —0.4 52.3 90 w 2 10 — — 1.4 S 0.3 6.1 
 7 —2.1 60.2 75 NW 6 10 — —4.1 S 0.1 6.1 
-8 — 2.2 62.2 80 0 4 — — 5.0 s 0.8 5.8 
+8—2.262.28004——5.0s0.85.8
 9 —3.8 64.5 76 NNK 4 10 — —6.1 5.4 
 10 —1 4 66.7 78 SSE 10 0 — —83 s 0.1 5.3 
 11 1.0 64.3 84 S 4 10 — -1.6 5.1 
@@ -6046,14 +6043,14 @@ Cels. russ. + pr. Sfk. 0-10 Cels. Cels. — mm. Fuss.
 31 2.9 55.2  8» SW 4 10 — 0.7 R 0.6 40 
 Mitt. —0.4 62.1 77 6 8 — -8.3 9.1 
 Sturm am l.j Gewitter am 31. 
-a £ 
+a£
 Winde Z Z Z Z a -o 
 a 
 CO CO Z 
 £ 
-Z a a cc CO 
+ Zaacc CO
 £ 
-£ Z 
+£ Z
 Häufigkeit 7 8 1 3 6 — 1 15 6 20 3 3 3 4 1 5 7 
 Meter pr. 
 Sekunde — 2.5 4.0 6.7 5.7 — 4.0 6.8 7.3 6.0 3.3 4.0 2.0 2.5 6.0 3.6 t.O 
@@ -6073,15 +6070,14 @@ NNiieeddeerrsscchhllaaggss­­
 mmeennggee..  
 WWaasssseerrssttaanndd..  
 1 NNW. 
-0 0
-Station Riga. Monat April 1911. 
+00Station Riga. Monat April 1911. 
 Mittelwerte. in. Mitta O<r*  Temperatur. 
 sE  
 Wind. 
 «s 
 Cels. 700 mm 
 ileter 
-+ % pr. Sek. 0-10 Cels. Cels. Cels. mm. 
++%pr. Sek.0-10 Cels. Cels. Cels.mm.
 1 1.1 61.9 60 N 3 0 3.2 — 0 2  - 4.6 
 2 3.6 54 1 65 SW 8 0 7.2 —3.0 —6 8 R 4.8 
 3 3.7 4 3 «  76 SW 8 10 5 5 1.2 1.4 
@@ -6089,7 +6085,7 @@ ileter
 5—47 63.263NNE410-3.2—85—13.0
 6 —3.9 64 2 63 NE 5 10 — 2.2 —8.2 —10.8 
 7 07 62.1 86 NNE 3 2 3.3 — 40 -6.2 
-8 2 0 65.1 57 N 2 3 5 0 —0.6 —2.4 
+82065.157 N2350—0.6—2.4
 9 2.2 59.8 77 SW 4 10 5.0 —2.2 -3.8 
 10 0.8 57.0 78 N 5 8» 3.0 —0 5 — 16 
 11 2.0 55.8 70 W 4 10 4.8 -2.5 — 5 8 II 0.8 
@@ -6146,7 +6142,7 @@ CeU. + pr. Sf-k. 0-10 Cels. Cels. - mm. Fuss.
 5 —5.0 64.0 55 NNW 4 ! 0 — -7.5 s 0.1 4 7 
 6 -3.9 64.9 64 N 4 10 — —6.5 41 
 7 0.3 62.K 88 NNW 2 10 — — 3.1 43 
-8 0 7 65.4 M NNW 4 4 — —2.1 4 1 
+80765.4 M NNW44——2.141
 9 1.8 60.7 74 SW 2 10 — —3.1 4 3 
 10 08 57.8 76 NW 2 10 — — 1.1 40 
 11 1.3 56.3 71 SW 2 10 — —2.6 RS 0.7 4.3 
@@ -6172,7 +6168,7 @@ CeU. + pr. Sf-k. 0-10 Cels. Cels. - mm. Fuss.
 Mitt. 4.4 58.1 74 7.6 —7.5 19.0 4.7 
 Sturm am 4., 15., 17.; Gewitter am 21. 
 WTinde V3 
-X Z z £ 
+ X Zz£
 £ 
 Z CO Z £ z 5B £ 
 Häufigkeit 7 9 4 — — 1 — 1 9 6 11 13 7 5 4 3 10 
@@ -6243,7 +6239,7 @@ Gewitter am 6.; Sturm am 20. u. 31.
 H 
 Winde Z Z a a 
 a 
-Z a 02 x> cö Z •xi £ 
+ Za02x>cö Z•xi£
 Häufigkeit 15 12 12 13 2 5 10 2 3 6 5 2 1 2 3 
 Meter pr. 
 Sekunde — 2.4 48 2.5 1.5 1.2 4.4 2.5 3.3 1.7 2.6 4.0 4 0 — 3.5 6.3 
@@ -6272,7 +6268,7 @@ Wind.
 Cels. russ. + : * pr. Sek. 0-10 Cels. Cel9. — mm. Fuss. 
 1 10.9 58.6 73 S 2 10 6.7 R 1.5 5.2 
 2 11.0 63.2 79 SE 4 9 — 5.9 R 8.2 5.3 
-3 6 0 65.2 79 W 4 10 — 5.2 R 1.7 56 
+36065.279 W410—5.2 R1.756
 4 8.9 66.9 78 NNE 4 1 — 1.7 4.8 
 5 15.1 62 3 63 SE 14 9 — 8.2 R 0.5 4.8 
 6 18.4 62.9 61 SE 14 7 — 11.7 5.0 
@@ -6369,9 +6365,9 @@ Cels. mm. + pr. Sek. 0-10 Cels. Cels. Cels.
 30 19.3 60.4 61 S 7 5 22.7 9 5 8.0 
 Mitt. 148 59 4 67 4.3 30.0 3.0 — 1.5 77.2 
 Gewitter am 3., 7.; Sturm am 7, 8, 11., 15., 16 , 29. 
-W W Ed Eö 
+ W W Ed Eö
 Winde Z Efl Z z a CO Ed 
-Z Z w Ed 02 
+ Z Zw Ed02
 02 
 cc oi 02 £ £ Z 
 Häufigkeit 3 12 18 1 9 1 — 1 6 2 — 2 12 2 8 1 12 
@@ -6494,9 +6490,9 @@ mm.
 31 20.5 66.9 66 NNE 6 0 23.5 14.3 12.7 
 Mitt. 16.5 60.8 74 5.2 24.7 6.7 6.5 108.2 
 Sturm am 1., 2., 3., 10., 12., 15.; Gewitter am 1., 15., 17., 18. 20., 23., 25. 
-H W 
+ H W
 Winde Z Z Z W ts 02 £ 
-Z z w 02 02 £ 
+ Zzw0202£
 Häufigkeit 5 20 12 4 2 - 1 — 1 2 2 10 13 3 3 4 11 
 Meter pr. 
 Sekunde — 4.9 50 2.5 3.0 — 1.0 — 7.0 6.5 5.5 4.3 4.1 30 4.7 4.0 5.8 
@@ -6559,8 +6555,8 @@ Gewitter am 1., 20., 23.; Sturm am 9., 10.
  H £ 
 Z CO 
 cd Z 
-H W CO 
-£ z 
+ H W CO
+£z
 CO £ Z z 
 Häufigkeit 9 9 — 1 3 1 — 2 7 4 6 6 4 5 4 19 13 
 Meter pr. 
@@ -6624,7 +6620,7 @@ Cels. Cels. Cels. mm. -
 Mitt. 18.4 58.8 77 4.8 29.5 6.7 5.1 47.0 
 Gewitter am 7., 30.; Sturm am 15., 17. 
 _ 
-W £ 
+ W£
 Winde Z Z 
 a 
 z CS CG Z CO 
@@ -6653,7 +6649,7 @@ mmeennggee..
 Station Dünamünde. Monat August 1911. 
 Mittelwerte. lh- Mittag. Temperatur. 
 S®~  o 
-2 o 
+2o
 OE  O Wind. 
 S- • — 
 «3 
@@ -6721,8 +6717,8 @@ ci
 fc-. "S a.-fcD 
 ö. 2 CD 
 0 
-o e E 
-1 a 
+oe E
+1a
 s 
 S<x>  
 0) 3 g s B £ S I 
@@ -6732,7 +6728,7 @@ sg es 53 fco
 >> 03 
 c3 a 
 ffl -0 22 SS ffl i 
-S H 
+ S H
 700 mm Meter 
 Cels. + pr. Sek. 0-10 Cels. Cels. 
 Cels. mm. 
@@ -6771,7 +6767,7 @@ Gewitter am 4.; Sturm am 4., 5., 9., 10., 11.
 GS W Ed 
 Winde Z z Ed z H zn 
 fS 
-z K CO 
+z K CO
 CO cd 
 CO £ 
 Häufigkeit 3 8 1 1 2 1 3 3 16 6 11 17 4 5 3 6 
@@ -6823,7 +6819,7 @@ Cels. + °fo pr. Sek. 0-10 Cels. Cels. — mm. Fuss.
 30 87 57.3 84 SE 6 6 — 4.4 R 0.2 5.2 
 Mitt. 12.9 59.6 77 8.1 — 4.4 42.1 5.6 
 Gewitter am 4, 30.; Sturm am 4., 9., 10. 
-a a £ 
+aa£
 Winde Z z B* a Z CO CO 
 cd £ Z 
 a CO 1 * z 
@@ -6853,7 +6849,7 @@ Station Riga. Monat Oktober 1911.
 Mittelwerte. 1 h- Mitta ner'  Temperatur. MO  
 Cß 
 . t-
-a o 
+ao
 o 
 Wind. G0f3
   
@@ -6928,7 +6924,7 @@ Cels. + pr. Sek. 0-10 Cels. Cels. - mm. Fuss.
 1 9.0 61.8 79 SSE 8 8 29 R 10.5 5 2 
 2 10 2 58.3 88 SE 8 10 — 7 9 R 3.0 4.8 
 3 10.6 59.2 97 ESE 4 10 — 6.9 R 7.5 5.7 
-4 8 1 65 2 86 0 3 — 4.2 5.4 
+4816528603—4.25.4
 5 9.0 65.2 84 w 6 10 — 62 R 2.4 5.8 
 6 7.6 71.0 88 0 10 — 6.2 R 0.1 50 
 7 7.6 68.0 84 SSE 2 1 — 1.9 R 0.5 4.8 
@@ -6958,14 +6954,14 @@ lb 8.3 72 2 92 0 10 — 7.7 4 6
 31 4.0 61.5 80 SSE 16 10 — —0.6 4.6 
 Mitt. 7.2 60.2 85 8.3 —0.6 130.7 5.0 
 Sturm am 9., 10., 11., 14., 29., 31. 
-w £ 
+w£
 Winde Z fS 
 £ 
-Z z z &3 CO 
+ Zzz&3 CO
 £ 
 z CO CO 
-£ Z z Z 
-£ z 
+£ Zz Z
+£z
 Häufigkeit 10 6 — 1 4 10 17 11 2 1 2 9 8 8 4 
 Meter pr. 
 — 15.3 — — - 2.0 3.0 6.2 7.1 5.5 6.0 12.0 6.0 6.7 10,0 12.0 11.0 Sekunde 
@@ -6990,7 +6986,7 @@ NNiieeddeerrsscchhllaaggss­­
 mmeennggee..  
 WWaasssseerrssttaanndd..  
 Station Riga. Monat November 1911. 
-© 1 
+©1
 © 
 CD Mittelwerte. lh- Mittag. Temperatur. 
 VJ j
@@ -7000,15 +6996,15 @@ CO CO 'S ®
 U* 
 a t-. fcC 
 © d. ® o -*a->3  a e ä 
-1 a © 1 = 
+1a©1=
 0a®0M003S -Oo
-£ ® 
+£®
 ©  O © 
 a I® S Wind. T© a 6 o 'S .52 T3 a © © 
-a 0 ci © 
+a0ci©
 Hbc  (S 03 ' S  fl bß 
 3 pq ja 
-© s © CO s s w 
+©s© COssw
 c3 CG 
 Q 700 mm Meter 
 Cels. pr. Sek. 0-10 Cels. Cels. Cels. 
@@ -7068,11 +7064,11 @@ o3
 700 mm Meter russ. 
 Cels. + pr. Sek. 0-10 Cels. Cels. - mm. Fuss. 
 1 6.4 55.6 84 SSE 8 1 3.9 R 4.2 5.3 
-2 5 4 62.4 71 W 8 3 — 2 9 5.5 
+25462.471 W83—295.5
 3 4.1 62.5 89 ESE 12 3 — 2.9 5.1 
-4 4 3 58.1 91 SSE 8 8 — 1 2 R 0.5 5.3 
+44358.191 SSE88—12 R0.55.3
 5 6.8 45 9 94 SSE 8 10 — 4.2 R 3.9 5.0 
-6 7 3 37.3 79 SW 16 10 — 49 R 3.1 7.5 
+67337.379 SW1610—49 R3.17.5
 7 7.2 49.0 79 SW 12 5 — 6 4 R 4.1 6.8 
 8 6.2 60.4 91 SW 12 10 — 4.4 R 0 1 6.4 
 9 4.3 64.5 80 SSE 6 1 — 0.8 5.4 
@@ -7099,7 +7095,7 @@ Cels. + pr. Sek. 0-10 Cels. Cels. - mm. Fuss.
 30 —27 73.5 59 SSE 2 10 — —4.6 4.7 
 Mitt. 3.3 58.2 84 7.1 — —8.3 53.7 5.4 
 Sturm am 1., 4., 5., 6., 7., 9., 12., 13., 15., 16., 18. 
-a a £ 
+aa£
 Winde °-3 Z Z 5? W CO 
 £ 
 02 z w CO 
@@ -7132,8 +7128,8 @@ Wind. £
 Q 700 mm Meter 
 Cels. + pr. Sek. 0-10 
 Cels. Cels. Cels. mm. 
-1 — 6.5 74 9 91 ESE 4 2 —2.6 —86 —9.3 
-2 - 62 78.1 92 S 8 10 —5.8 —8.1 —8.8 
+1—6.574991 ESE42—2.6—86—9.3
+2-6278.192 S810—5.8—8.1—8.8
 3 —3.4 76.9 89 ESE 4 10 —1.2 —6.4 — 6.5 
 4 —5.3 76.9 89 SSE 5 10 —5.0 —6 6 —7.2 
 5 —5.2 75 3 85 ESE 5 10 —4.4 —65 —6.5 S 0.7 
@@ -7167,7 +7163,7 @@ Mitt. —1.9 63.3 93 9.3 2.4 —11.8 - 9.4 36.1
 Sturm am 8., 9. 
 W 
 Winde K Z Z £ 
-Z Z 
+ Z Z
 ta 
 CO CO £ W CO £ Z Z 
 —— 
@@ -7355,7 +7351,7 @@ einzelnen Sitzungen vorgelegt und unter einigen Abänderungen von der
 Kommission angenommen. 
 Die Versammlungen fanden im Laboratoriumsgebäude des Polytech­
 nikums im Auditorium für Physik an den genannten 3 Tagen von 10—1 Uhr 
-— 9 — 
+—9—
 und 4—7 Ubr statt. Ausserdem wurden zwischen und nach den Sitzungen 
 noch zahlreiche Führungen und Demonstrationen für die Mitglieder ver­
 anstaltet. Demonstrationen fanden statt in den chemischen, physikalischen 
@@ -7442,7 +7438,7 @@ Frau. Paterson, V., Dr. med.
 Kirsch, A., Fischereiinstruktor, und Petersen, W., Mag. zool- Realschul­
 Frau. — Dorpat. direktor. — Reval. 
 Kiwull, E., Dr. med. — Weuden. Pfab, A., Frau. 
-— 4 
+—4
 Pflaum, H., Dr. phil., Professor, Stamm, Joh., Madg., und Frau-
 und Frau. Dorpat. 
 Pirang, H., Dozent. Stange, Frl. 
@@ -7513,7 +7509,7 @@ der die Pflege der Naturkunde sich zur besonderen Aufgabe gestellt hatte
 und zugleich das Ziel anstrebte, einen Zentralpunkt für Est-, Liv- und 
 Kurland zu bilden. Wie heute, fand auch der damalige Aufruf bereit­
 willigen Widerhall vom steil aufsteigenden Glint bis zur Heiligen Aa. 
-— 6 — 
+—6—
 Nun aber bildeten sich in erfreulicher Weise neue Zentren in anderen 
 Städten des Baltikums und erstanden zahlreiche immer mehr spezialisierte 
 Vereine, welche es sich zur Aufgabe machten, die Ergebnisse wissenschaft­
@@ -7557,8 +7553,7 @@ Darauf erfolgte eine Begrüssung der Versammlung durch Dr. med.
 hrkenntnis, dass sich hier das ganze Baltenland vertreten finde auf dem 
 Gebiet der ganzen Naturwissenschaft, erhebe sich zum Bewusstsein der 
 uns und unsere Arbeit umspannerden, allumfassenden Kraft — des Lebens. 
-— 7 -
-Anmerkung. Im Verlaufe der Tagung der I. baltischen Naturforscher-Versammlung liefen noch folgende an denselben gerichtete tele­
+—7-Anmerkung. Im Verlaufe der Tagung der I. baltischen Naturforscher-Versammlung liefen noch folgende an denselben gerichtete tele­
 graphische und schriftliche ßegrüssungen von folgenden Gesell­
 schaften und einzelnen Personen ein: von der Iivländischen 
 ökonomischen Sozietät, von der kurländischen Ärzte­gesellschaft, vom Verein praktischer Ärzte in Mitau, 
@@ -7600,7 +7595,7 @@ Einer dieser Lippfische ist z. B. nur 7 Zentimeter lang, spitzt er sein Maul,
 so erreicht er eine Länge von 8 Zentimetern. Er besitzt also die Gabe, 
 mit Hilfe seines grossen Maules sich ganz erheblich zu vergrössern. Dieses 
 erreicht er mit Hilfe desselben Mechanismus, den wir dazu benutzen, unsere 
-- 8 — 
+-8—
 Dampfmaschinen zu treiben. Sie führen den Namen „Schubkurbel". l ,er 
 Unterkiefer ist eine drehbare „Kurbel", der Oberkiefer eine „Schubstange", 
 diese gleitet in einem „Führungsgleise", das zwischen den Augen des Fisches 
@@ -7749,7 +7744,7 @@ möglich gehalten hat. Die theoretische Betrachtung so schnell bewegter
 Massenteilchen hat zu einer Erweiterung des Massenbegriffs geführt, sowie 
 zu einer Verallgemeinerung des bereits von den Begründern der Mechanik 
 aufgestellten Prinzips der Relativität. 
-4 — 7 Uhr. 
+4—7 Uhr.
 Unter dem Vorsitz von Mag. zool. W. Petersen-Reval, bzw. Ober­
 lehrer C. Greve. 
 4. Dr. Konrad Guenther-Freiburg i. Br. sprach über Natur­

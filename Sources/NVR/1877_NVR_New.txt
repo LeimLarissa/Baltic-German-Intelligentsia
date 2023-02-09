@@ -350,8 +350,7 @@ und, je weiter davon entfernt, einen desto kleineren Theil
 seiner Lichtseite zuwendet, so thun dies auch die in der 
 Nähe des Kopfschattens liegenden Halme und Erdklümpchen. 
 Zugleich werfen dieselben, je näher sie dem Kopfschatten 
-- 6 -
-stehen, desto mehr ihre Schatten in eine zum Beobachter 
+-6-stehen, desto mehr ihre Schatten in eine zum Beobachter 
 entgegengesetzte Richtung, so dass sie für ihn nichts be­
 schatten; während bei mehr seitlicher Beleuchtung wir nicht 
 nur die einzelnen Körperchen nur theilweise beleuchtet sehen, 
@@ -761,13 +760,13 @@ CQ
 700 mm. 
 Cels. + * 0—10 0-10 Cels. Cels. R-S mm. 0—10 Fuss engl. 
 1  —11.4 70.3 86 SW. 1 10 — 5.2 -16.4 4 3.5 3.4 
-2 - 5.2 69.3 86 W. 1 10 — 1.5 — 9.1 6 3.4 3.4 
+2-5.269.386 W.110—1.5—9.163.43.4
 3 —12.8 67.6 84 S. 3 6 - 2.7 —16.4 7 2.9 3.1 
 4 -10.1 58.4 89 S. 2 10 — 6.1 —16.6 S. 7 2.8 3.0 
-5 — 6.1 60.2 85 0 10 — 1.1 —10.1 S. 8 3.3 3.1 
-6 — 4.6 63.1 87 N. 2 9 — 0.9 — 6.4 9 33 3.3 
+5—6.160.285010—1.1—10.1 S.83.33.1
+6—4.663.187 N.29—0.9—6.49333.3
 7 —11.7 69.7 82 N. 2 6 — 5.7 -13.9 10 3.0 3.0 
-8 — 6.9 64.3 85 S. 3 10 — 0.3 —10.9 s. 2.0 8 34 3.2 
+8—6.964.385 S.310—0.3—10.9s.2.08343.2
 9 —12.2 65.3 71 N. 2 7 - 6.5 -14.5 3.9 10 2.8 2.7 
 10 —11.0 68.3 83 S. 3 10 - 4.6 —16.4 SR. 3.7 6 3.6 3.7 
 11 —10.2 67.3 74 S. 3 8 — 4.7 -13.3 1.6 7 3.0 2.9 
@@ -950,7 +949,7 @@ der inneren Fläche sind. Man darf
 gen betrachten, und es sei r der Halbmesser des inneren, 
 r -{- d der des äusseren Bogens, d der Abstand derselben. 
 Man hat nun 
-« B 71. cc 
+« B71.cc
 360 2^I.+  d)> alsoB = 1^(r + d), 
 cc bO  , . 71. cc 
 360 ~ W 0 J ~~ 18Ö 
@@ -965,8 +964,7 @@ da die Röhre flach ist, d verkleinert, also cc und somit auch
 die Krümmung der Röhre vergrössert. 
 — 21 — 
 Wetter und Sturm. Einem mehrfach geäusserten 
-W u n sche entsprechend, hebt Oberlehrer Gottfriedt noch­
-mals die Hauptpunkte aus seinem am Stiftungstage gehaltenen 
+ Wunscheentsprechend,hebt Oberlehrer Gottfriedtnoch­mals die Hauptpunkte aus seinem am Stiftungstage gehaltenen 
 Vortrage hervor. Die Beschaffenheit der Witterung hängt 
 wesentlich vom Barometerstande ab, um aber dieselbe beur-
 theilen zu können, bedarf es einer Uebersicht über den gleich­
@@ -1521,14 +1519,14 @@ b1ß  :3
 PQ « Q 
 a Cels. 700 mm. mm. + 0—10 0-10 Cels. Cels. R—S Fuss engl. 
 1 —11.1 66.7 72 S. 2 9 — 6.9 — 18.0 s. 4.10 
-2 - 0.3 51.5 100 S. 2 10 + 1.7 — 2.7 R. 4.45 
-3 — 0.6 44.5 84 W. 2 8 + 0.7 — 2.6 S. 7.5 4.65 
-4 — 1.4 45.9 96 SW. 1 10 0.0 — 4.0 s. 2.4 4.50 
-5 — 6.4 53.3 99 N. 2 10 — 5.1 — 8.5 s. 1.5 4.70 
-6 — 7.7 61.9 89 N. 1 10 — 6.7 — 9.4 0.1 4.40 
-7 — 3.6 65.3 95 NE. 4 10 — 2.6 — 4.2 s. 4.00 
-8 — 5.6 66.9 75 E. 2 1 — 2.4 — 7.9 3.85 
-9 — 8.2 67.6 82 SE. 2 8 — 7.9 — 8.7 0.4 3.60 
+2-0.351.5100 S.210+1.7—2.7 R.4.45
+3—0.644.584 W.28+0.7—2.6 S.7.54.65
+4—1.445.996 SW.1100.0—4.0s.2.44.50
+5—6.453.399 N.210—5.1—8.5s.1.54.70
+6—7.761.989 N.110—6.7—9.40.14.40
+7—3.665.395 NE.410—2.6—4.2s.4.00
+8—5.666.975 E.21—2.4—7.93.85
+9—8.267.682 SE.28—7.9—8.70.43.60
 10 — 5.0 65.1 90 NE. 1 10 — 2.0 — 9.2 s. 4.05 
 11 — 5.4 65.6 79 SE. 3 8 — 2.9 — 9.0 s. 2.2 3.80 
 12 — 1.3 65.4 98 SE. 2 10 + 0.2 — 3.5 1.6 4.00 
@@ -1571,14 +1569,14 @@ s ou  es
 Q 700mm. 
 Cels. R-S mm. •h % 0—10 0-10 Cels. Cels. Fuss engl. 
 1 -12.1 65.3 53.0 S. 1 — 6.5 —17.7 2.6 
-2 — 9.6 63.9 68.3 S. 1 6 — 5.0 —17.0 2.6 
-3 — 5.5 58.5 87.3 W. 2 8 — 4.5 — 7.5 2.8 
-4 — 5.1 60.0 81.3 NW. 1 9 — 2.2 — 8.2 2.65 
-5 — 5.5 60.8 97.0 NW. 2 3 — 3.2 — 6.7 2.8 
+2—9.663.968.3 S.16—5.0—17.02.6
+3—5.558.587.3 W.28—4.5—7.52.8
+4—5.160.081.3 NW.19—2.2—8.22.65
+5—5.560.897.0 NW.23—3.2—6.72.8
 6 —12.8 69.6 65 0 S. 1 — 9.0 —15.7 2.55 
-7 — 11.5 69.8 60.0 S. 1 — 7.6 —19.1 2.7 
-8 — 3.8 64.8 76.0 S. 2 8 — 0.2 — 5.6 2.6 
-9 — 2.5 56.7 87.3 S. 4 9 — 1.2 — 4.2 R. 3.0 
+7—11.569.860.0 S.1—7.6—19.12.7
+8—3.864.876.0 S.28—0.2—5.62.6
+9—2.556.787.3 S.49—1.2—4.2 R.3.0
 10 — 1.2 56.4 87.0 SB. 2 10 -f- 0.2 — 2.0 S. 3.1 2.9 
 11 — 1.9 68.7 76.3 N. 1 10 — 0.1 — 3.0 3.1 
 12 — 0.3 65.7 80 0 W. 1 8 + 3.1 — 2.4 3.1 
@@ -2156,13 +2154,13 @@ ecäs
 Q 
 Cels. 700 mm + % 0—10 0-10 Cels. Cels. R—s mm. engl. Fuss. 
 1 3.4 57.3 89 N. 3 5 2.7 _ 3.9 4.4 3.9 
-2 — 3.9 59.1 87 NW. 2 6 — 1.2 — 5.7 4.2 3.9 
-3 — 1.8 56.4 71 S. 2 8 + 1.0 — 6.2 4.1 3.6 
-4 + 2.1 52.7 96 S. 2 10 + 3.2 + 1.0 R. 4.2 3.7 
-5 + 3.5 52.4 90 S. 2 10 + 5.5 + 2.2 7.4 4.4 4.1 
-6 + 2.9 56.8 83 S. 1 6 + 5.0 + 1.7 0.1 4.0 3.9 
-7 t 4.4 58.0 78 SE. 2 7 + 8.5 + 1.1 3.9 3.8 8 1.7 59.7 97 SE. 2 5 + 2.7 + 1.0 3.8 3.7 
-9 + 2.6 62.7 90 SE. 1 — + 4.1 + 0.5 3.8 3.7 
+2—3.959.187 NW.26—1.2—5.74.23.9
+3—1.856.471 S.28+1.0—6.24.13.6
+4+2.152.796 S.210+3.2+1.0 R.4.23.7
+5+3.552.490 S.210+5.5+2.27.44.44.1
+6+2.956.883 S.16+5.0+1.70.14.03.9
+7t4.458.078 SE.27+8.5+1.13.93.881.759.797 SE.25+2.7+1.03.83.7
+9+2.662.790 SE.1—+4.1+0.53.83.7
 10 4.2 62.5 79 N. 1 3 + 6.7 + 2.0 3.8 3.7 
 11 + 0.5 59.5 73 NW. 3 — + 1.4 0.0 4.1 3.9 
 12 + 0.3 52.2 88 NW. 4 6 + 1.5 — 1.5 42 3.8 
@@ -2208,11 +2206,11 @@ M  t  t  e  1 w e  r t h  e .  Lufttemp. stand.
 700mm. 
 Cels. •b 0—10 0-10 Cels. Cels. 
 R-S Fuss engl. 
-1 + 1.2 60.6 90 N. 3 2 + 3.6 — 0.2 5.0 4.4 
-2 + 3.0 63.5 67 N. 2 4 4- 5.1 + 1.7 5.0 4.3 
-3 + 7.7 65.8 59 S. 1 5 -j-11.0 -j- 4.5 5.0 4.2 
+1+1.260.690 N.32+3.6—0.25.04.4
+2+3.063.567 N.244-5.1+1.75.04.3
+3+7.765.859 S.15-j-11.0-j-4.55.04.2
 4 -f- 8.2 65.5 70 N. 1 1 12.6 5.1 5.0 4.1 
-5 + 11.4 65.6 57 N. 1 4 14.6 8.0 5.1 4.0 
+5+11.465.657 N.1414.68.05.14.0
 6 +12.5 65.5 55 S. 1 5 16.5 9.9 5.2 4.0 
 7 14.1 65.2 55 S. 1 5 17.6 11.7 5.2 3.9 
 8 15.1 62.6 60 SB. 3 4 18.5 13.1 5.1 3.8 
@@ -3423,19 +3421,18 @@ d. bc u Ü
 a> 
 S bjo C 
 0) a
-r P Ii
-j  a 
+r P Iij  a 
 <X> a> d v __ c3 s rFCl  a r* 
-a ä o 'S bß 
+aäo'Sbß
 o To "5 a a; S 
 s- S3 £ £ *1 o> S c3 
 o c3 bD C pqä  hp ® s i :3 w Q 
 P 700miu. Cels. •h % 0—10 0-10 Cels. Cels. R-S in in. Fuss engl. 
-1 + 1.2 60.6 90 N. 3 + 3.6 — 0.2 5.0 4.4 
-2 + 3.0 63.5 67 N. 2 4 + 5.1 + 1.7 5.0 4.3 
-3 + 7.7 65.8 59 S. 1 5 +11.0 + 4.5 5.0 4.2 
-4 + 8.2 65.5 70 N. 1 1 +1 2.6 + 5.1 5.1 4.1 
-5 + 11.4 65.6 57 N. 1 4 +14.6 + 8.0 5.1 4.1 
+1+1.260.690 N.3+3.6—0.25.04.4
+2+3.063.567 N.24+5.1+1.75.04.3
+3+7.765.859 S.15+11.0+4.55.04.2
+4+8.265.570 N.11+12.6+5.15.14.1
+5+11.465.657 N.14+14.6+8.05.14.1
 6 +12.5 65.5 55 S. 1 5 +16.5 + 9.9 5.2 4.0 
 7 +14.1 65.2 55 S. 1 5 +17.6 +11.7 5.3 3.9 
 8 +15.1 62.6 60 SE. 3 4 +18.5 +13.1 5.1 3.8 
@@ -3476,11 +3473,11 @@ Mittelwerth e. Lufttemp.stand.
 Cels. 4 - % 0—10 0-10 Cels. Cels. R—s Fuss engl. 
 1 +13.6 63.9 68 N. 2 1 +15.8 + 12.1 4.8 4.8 4.4 
 2 +13.7 66.2 73 N. 2 4 15.9 9.8 5.0 4.75 
-3 + 12.4 65.6 68 NW. 3 — 13.9 10.6 4.8 4.35 
-4 + 17.8 62.3 65 NW. 1 4 20.9 14.5 4.5 4.2 
+3+12.465.668 NW.3—13.910.64.84.35
+4+17.862.365 NW.1420.914.54.54.2
 5 +20.8 53.6 72 S. 3 8 25.4 17.5 R. 8.4 4.3 4.3 
 6 +18.4 51.8 71 W. 3 1 22.2 14.6 5.0 4.7 
-7 + 16.4 57.3 74 W. 2 6 18.4 15.4 4.6 4.5 
+7+16.457.374 W.2618.415.44.64.5
 8 +13.7 54.3 83 W. 3 — 17.1 9.6 R. 4.1 5.0 4.85 
 9 +13.6 52.7 69 SW. 4 5 16.7 11.7 0.4 4.7 4.85 
 10 +11.1 55.7 79 NW. 5 4 13.1 10.1 0.5 49 4.75 
@@ -3754,7 +3751,7 @@ Zunächst gab der Vortragende einen kurzen Ueberblick
 über die Forschungen, welche zuerst eine Niveauveränderung 
 des Landes gegen das Meer an den Gestaden des baltischen 
 Meeres ausser Zweifel stellten. Er führte an, wie namentlich 
-- — 91 — 
+-—91—
 Celsius als das Resultat vielseitiger Beobachtungen im Jahre 
 1743 es aussprach, dass die Ostsee in einem Jahrhundert um 
 45" sinke, und Linn£ sich dieser Ansicht angeschlossen; wie 
@@ -3896,7 +3893,7 @@ Samenkapseln von Spirolobium australe, D'Orbg.;
 1 Cygnus nigricollis, Gmel., 9 
 1 Anas cyanoptera, Vieill., 
 1 Larus roseiventris, Gould., 9 
-F r o stwirkungen. Oberlehrer Schweder legt eine 
+ Frostwirkungen. Oberlehrer Schwederlegteine
 gläserne Hohlkugel von 10cm Durchmesser vor, welche mit 
 Wasser gefüllt starker Kälte ausgesetzt war. Durch die Aus­
 dehnung des gefrierenden Wassers war die Kugel in 102 
@@ -4001,7 +3998,7 @@ Dennoch enthielt der Rückstand noch Oel, welches durch
 ferneres Extrahiren ausgeschieden wurde. Die beiden Rück­
 stände ergaben 
 nach 1-tägiger Digestion 1,26# und 1,09#, 
-n 2 „ „ 2,07# „ 1,97#, 
+n2„„2,07#„1,97#,
 Y) ^ » V 2,74# „ 2,62#, 
 V  ̂ V r> 2,83# „ 2,71#, 
 also einen Gesammtölgehalt von 37,00 und 36,86#, im Mittel 
@@ -4093,7 +4090,7 @@ Met. Jahr 60,3 + 5,48 5,6 72 50 8 29 0 13 3 5 542,3 Häufigkt.
 M. Stärke 3,4 3,4 3,2 3,1 4,2 4,3 4,0 4,0 
 Kal.-Jahr 60,8 Häufigkt. 71 113 96 119 97 + 5,2 5,4 71 50 6 31 0 13 4 489,7 136 196 87 180 5 
 M.Stärke 3,5 3,4 3,2 3,0 4,0 4,3 4,0 4,0 
-- - - - - . 
+-----.
 Lufttemp. 
 nach Cels. 
 Bewölkung. 
@@ -4104,8 +4101,7 @@ Hagel.
 Niederschlag 
 Mm. 
 Still. 
-0 0
-OC 
+00OC 
 — 100 — 
 Station Riga. Monat Juli 1875. 
 OD Wasser­M i t t e l w e r t h  e .  Lufttemp. a xi bb stand. £ o 
@@ -4547,7 +4543,7 @@ Rechenschiebers. Er zeigt, wie sich die in folgenden Sehe-
 — 111 — 
 maten enthaltenen Rechnungen leicht und mit ziemlicher Ge­
 nauigkeit ausführen lassen: ab, a2, ]/a, —, —, — — 
-7 c c c c c ' 
+7ccccc'
 ]/—, a3, ya2. Schliesslich zeigt er die bequeme Anwen-
 dung des Rechenschiebers zur Maassverwandlung. 
 In der sich an den Vortrag anschliessenden Discussion 
@@ -4677,18 +4673,18 @@ Mittelwerth c. Lufttemp.a
 £» bb stand. O 
 CO cJ CO 3 
 a 
-V & 
+ V&
 9<-D4  ü 
 bD u 
 ra<x>bcmt~ 3£<D63H3
 a 
-a E ä O a> 03 
+a Eä Oa>03
 :3 
 <V ® 
-a £ •s £ °K a T3 bc £ o Cj To o> 
+a£•s£°Ka T3bc£o Cj Too>
 tf £ is c3 <x> s 03 S 3 S cä 03 bc 
-3 « w 
-• s S z •3 
+3«w
+•s Sz•3
 PQ Q 
 "3 PS 
 Q 700 mm Cels. + 0—10 0-10 Cels. Cels. R—S mm. engl. Fuss. 
@@ -4738,18 +4734,18 @@ a i-S S M 03 •p ss3- To *e3t  o '3
 bc a 
 P t-, es s £ s g £ es eS W a> am •p 
  
-M Q 
+ M Q
 700 mm. 
 Cels. 4- % 0—10 0-10 Cels. Cels. R-S mm. Fuss engl. 
-1 + 8.9 56.2 73 N. 1 4 +10.6 7.7 0.5 4.8 4.6 
-2 + 6.7 64.3 73 N. 1 1 10.5 4.6 4.3 4.3 
-3 + 5.3 64.4 75 S. 2 0 0.5 1.6 3.5 3.5 
-4 + 6.2 58.1 100 SE. 1 1 9.8 1.7 R. 3.8 3.8 
+1+8.956.273 N.14+10.67.70.54.84.6
+2+6.764.373 N.1110.54.64.34.3
+3+5.364.475 S.200.51.63.53.5
+4+6.258.1100 SE.119.81.7 R.3.83.8
 5 +10.1 59.0 99 S. 4 9 12.4 6.9 R. 1.1 4.0 4.0 
 6 +12.2 56.0 93 SW. 4 10 12.7 11.4 R. 1.5 4.6 4.5 
 7 +10.3 55.5 83 SW. 4 7 13.7 8.2 R. 5.3 5.3 
-8 + 8.5 53.2 93 SW. 6 9 9.1 7.6 R. 5.9 6.2 5.8 
-9 + 7.4 62.9 83 N. 3 8 8.1 5.9 7.5 5.2 5.1 
+8+8.553.293 SW.699.17.6 R.5.96.25.8
+9+7.462.983 N.388.15.97.55.25.1
 10 + 6.4 65.1 83 NE. 2 6 8.1 5.1 4.8 4.7 
 11 + 6.3 63.4 91 SE. 1 10 7.6 4.7 4.5 4.3 
 12 + 6.2 62.5 93 SE. 2 4 8.7 3.1 4.0 3.9 
@@ -5954,14 +5950,14 @@ Mittelwerth e. Lufttemp.stand.
 700 min 
 Cels. % 0—10 0-10 Cels. Cels. R—s mm. engl. Fuss. + 
 1 1,1 65.8 86 W. 1 10 + 0.2 3.3 3.4 3.6 
-2 + 0.4 67.8 91 O. 0 10 4- i.i — 0.3 R. 3.4 3.4 
-3 + 1.0 69.9 91 0. 0 10 -f 2.0 — 0.0 3.2 3.2 
+2+0.467.891 O.0104-i.i—0.3 R.3.43.4
+3+1.069.9910.010-f2.0—0.03.23.2
 4 2.1 70.1 85 s. 2 10 — 0.5 — 3.2 3.0 2.9 
-5 — 4.3 65.6 91 s. 3 10 - 2.6 — 6.1 2.7 2.8 
-6 — 2.5 56.7 97 s. 4 10 — 1.4 — 3.7 2.5 2.9 
+5—4.365.691s.310-2.6—6.12.72.8
+6—2.556.797s.410—1.4—3.72.52.9
 7 0.0 48.6 97 s. 3 10 -f 0.7 — i.i 2.0 2.4 
-8 + 1.8 45.4 99 s. 3 10 4- 2.1 + 1.4 R. 1.7 3.4 3.0 
-9 + 2.3 42.6 93 S E.- 4 9 -f- 2.5 + 2.2 R.S. 0.8 2.7 2.6 
+8+1.845.499s.3104-2.1+1.4 R.1.73.43.0
+9+2.342.693 S E.-49-f-2.5+2.2 R.S.0.82.72.6
 10 + 1.0 44.9 88 SW. 4 10 + 2.3 0.1 4.8 3.6 3.5 
 11 + 2.0 32.9 94 S. 1 10 -f 2.7 + 1.1 34 3.8 4.0 
 12 + 2.3 39.9 71 NW. 2 10 4- 2.7 + 1.9 2.6 45 4.4 
@@ -6017,12 +6013,12 @@ Q 700nun.
 Cels. 4- % 0—10 0-10 Cels. Cels. R-S mm. Fuss engl. 
 1 —13.7 65.5 67 S. 2 6 — 9.8 —16.2 3;4 3.3 
 2 -16.1 60.3 65 S. 2 4 —13.5 —18.6 3.3 3.2 
-3 — 10.9 59.7 72 NE. 1 7 — 8.7 — 12.7 2.6 2.5 
+3—10.959.772 NE.17—8.7—12.72.62.5
 4 -15.1 61.2 73 E. 2 6 —14.5 —15.5 2.4 2.2 
 5 —15.8 64.2 76 E. 2 1 —15.5 —16.0 1.5 1.3 
-6 — 7.4 61.7 83 E. 1 10 — 3.9 —12.9 S. 3.3 3.2 
-7 — 1.6 50.3 87 W. 4 10 — 05. — 2.7 s. 3.4 4.0 4.0 
-8 — 4.6 50.2 72 NE. 3 7 — 1.7 — 8.2 s. 2.3 3.7 3.5 
+6—7.461.783 E.110—3.9—12.9 S.3.33.2
+7—1.650.387 W.410—05.—2.7s.3.44.04.0
+8—4.650.272 NE.37—1.7—8.2s.2.33.73.5
 9 -12.1 64.3 64 NE. 2 6 —11.2 —13.1 0.1 2.6 2.5 
 10 — 9.1 55.7 84 SW. 5 10 — 8.7 — 9.4 s. 0.8 40 4.1 
 11 — 9.2 47.4 72 SW. 1 5 — 4.6 —13.1 3.9 3.2 3.2 
@@ -6061,9 +6057,9 @@ Cels. 0-10 0-10 Cels. Cels. R-S in in. Fuss engl.
 2 —29.7 62.4 64 SE. 1 2 -24.1 —32.5 4.2 3.95 
 3 -25.7 64.2 60 SE. 1 5 —18.9 —32.4 4.5 4.4 
 4 —15.7 69.3 67 NE. 1 10 —14.6 —17.7 S. 3.6 4.3 4.2 
-5 — 13.1 75.8 79 E. 1 8 -10.1 —14.9 s. 4.2 3.9 
-6 — 14.0 83.4 77 E. 1 1 —10.3 —16.1 4.5 3.2 
-7 — 17.2 84.6 75 SW. 1 0 —15.9 —18.3 4.3 3.25 
+5—13.175.879 E.18-10.1—14.9s.4.23.9
+6—14.083.477 E.11—10.3—16.14.53.2
+7—17.284.675 SW.10—15.9—18.34.33.25
 8—15.782.0820.10—14.5—16.64.33.4 
 9 —13.8 78.4 91 SW. 1 10 -13.1 —14.7 3.5 3.4 
 10 —15.3 74.0 80 s. 1 1 —13.7 -16.8 3.9 3.2 
@@ -6188,7 +6184,7 @@ benutzt wird, finden sich also ausser Nitrobenzol noch Nitro-
 toluol und andere Nitroverbindungen beigemengt, welcher 
 Gehalt wesentlich für die Fabrikation der Farben ist. 
 Das Anilin öl. Im Grossen gewinnt man nun das 
-A n i linöl aus dem Nitrobenzol nach dem von Hofmann und 
+ Anilinölausdem Nitrobenzolnachdemvon Hofmannund
 Bechamp angegebenen Verfahren, indem man 1 Theil 
 Nitrobenzol mit 1 Theil Essigsäure und IV* Theil Eisen-
 feilöpänen reducirt. — Schon ohne äusseres Erwärmen er­
@@ -6957,14 +6953,14 @@ P fdt f  c3 s •£ 1 S £ a w •3 (5 M Q
 700 mm. 
 Cels. 4- % 0—10 0-10 Cels. Cels. R—s mm. Fuss engl. 
 1 -f 0.3 67.0 94 SW. 3 3 + 1.4 — 1.3 R.S. 4.5 4.5 
-2 + 2.7 66.0 87 W. 2 2 + 5.7 + 1.1 R. 4.3 4.3 
+2+2.766.087 W.22+5.7+1.1 R.4.34.3
 3 4- i.i 64.7 89 W. 2 9 + 2.3 — 0.4 4 25 4.4 
-4 — 2.1 59.5 83 S. 2 10 — 1.7 — 2.3 4.4 4.3 
-5 — 1.2 57.2 88 SE. 1 10 — 0.9 — 1.5 1.3 4.05 4.1 
-6 — 1.1 61.5 88 SE. 2 10 — 0.7 — 1.4 3.7 3.7 
-7 — 3.9 64.8 78 E. 3 10 — 2.7 — 5.6 3.45 3.45 
-8 — 6.4 67.0 73 E. 3 1 — 4.1 — 9.2 3.2 3.2 
-9 — 7.9 68.5 76 E. 2 3 — 6.4 — 9.6 3.5 3.45 
+4—2.159.583 S.210—1.7—2.34.44.3
+5—1.257.288 SE.110—0.9—1.51.34.054.1
+6—1.161.588 SE.210—0.7—1.43.73.7
+7—3.964.878 E.310—2.7—5.63.453.45
+8—6.467.073 E.31—4.1—9.23.23.2
+9—7.968.576 E.23—6.4—9.63.53.45
 10 — 6.8 63.0 68 SE. 3 1 — 4.1 —10.1 3.5 3.4 
 11 — 8.3 62.7 68 SE. 2 4 — 5.9 —11.3 3.85 3.75 
 12 — 8.9 63.0 73 E. 2 6 — 6.2 —11.0 3.4 3.3 
@@ -6985,7 +6981,7 @@ Cels. 4- % 0—10 0-10 Cels. Cels. R—s mm. Fuss engl.
 27 — 3.2 49.2 83 SE. 1 9 — 0.6 — 5.9 3.85 3.8 
 28 — 1.8 48.7 90 NW. 1 10 — 0.1 — 3.3 S. 2.0 4.3 4.3 
 29 — 2.6 53.7 84 E. 2 10 — 0.6 — 3.9 R. 3.8 3.75 
-i • 
+i•
 — 3.9 756.3 81.1 7.5 30.9 3.75 3.73 
 Am 1., 2., 23. Nebel; Graupeln am 19. 
 !• i!,( u.-: ... •> .4 
@@ -6998,9 +6994,9 @@ Station Eiga. Monat März 1876.
 Mittelwerth e. Lufttemp.Wasser­stand. 
 cL u<D  bc o 
 £ fcc Ta3 <D >> ni 3  
-s ä 8 d 
+sä8d
 :=S 
-£ o CS $ To '5 '5 
+£o CS$ To'5'5
 bß S
 3 *-4 CS SS ci 03 
  
@@ -7009,15 +7005,15 @@ cö 0) n
 700 mm 
 Cels. 
 + 0—10 0—10 Cels. Cels. R—s mm. engl. Fuss. 
-1 — 0.5 56.1 87 10 SE. 2 -f 0.6 — 2.1 
+1—0.556.18710 SE.2-f0.6—2.1
 10 0.7 4.0 2 4.1 + 1.6 54.6 89 SE. 3 + 2.8 
 10 4- 0.4 3.55 3.55 3 -f 1.1 55.0 79 SW. 3 + 1.7 4- 0.6 R. 0.4 3.9 3.9 
 4 -j- 0.5 55.2 85 SW. 6 10 4" 1.4 — 0.7 S. 3.45 3.45 
 5 -f 2.7 50.0 93 SW. 5 10 4- 3.7 + 1.7 R. 6.0 3.85 3.8 
-6 + 2.7 43.5 87 SW. 5 10 4- 3.5 + 1.8 S. 4.2 4.25 
-7 + 1.9 31.3 86 W. 4 10 -f 2.9 4- l.i 4.1 4.7 4.8 
-8 — 0.3 36.3 86 W. 4 10 4- 0.6 — l.i S. 4.9 5.15 5.15 
-9 — 1.5 41.0 83 S. 3 8 — 0.3 — 2.2 S. 5.6 4.6 4.4 
+6+2.743.587 SW.5104-3.5+1.8 S.4.24.25
+7+1.931.386 W.410-f2.94-l.i4.14.74.8
+8—0.336.386 W.4104-0.6—l.i S.4.95.155.15
+9—1.541.083 S.38—0.3—2.2 S.5.64.64.4
 10 -f- 1.5 34.8 86 S. 7 9 -f 3.9 4- 0.2 s .  4.7 4.55 4.6 
 11 4- 3.2 39.0 80 S. 4 8 + 5.8 4- 0.7 4.7 4.4 
 12 -f 1.9 38.0 91 S. 4 9 4- 3.7 — 0.2 4.7 4.5 
@@ -7052,7 +7048,7 @@ Station Riga. Monat April 1876.
 Mittelwerthe. Lufttemp.a,astand.
 gog  
 u<x>  
-J O 
+ J O
 öfSc a ß <o  £ 
 ä af>c o 
 tf 
@@ -7060,13 +7056,13 @@ tf
 Cels. + % , 0—10 0-10 Cels. Cels. R-S mm. Fuss engl. 
 1 4- 1.5 62.5 83 W. 3 5 + 2.5 +0.3 7.8 4.05 
 2 4- 4.2 66.7 75 SE. 4 0 + 8.1 +0.7 8.2 3.7 
-3 + 7.3 66.5 81 S. 2 1 +11.3 +3.4 9.6 4.0 
-4 + 7.0 66.7 84 s. 2 7 +11.9 +3.7 10.6 4.25 
-5 + 7.7 63.6 85 W. 3 9 +12.1 +5.2 9.4 4.45 
-6 + 7.2 53.3 79 w. 5 6 + 9.3 +5.1 9.0 4.65 
+3+7.366.581 S.21+11.3+3.49.64.0
+4+7.066.784s.27+11.9+3.710.64.25
+5+7.763.685 W.39+12.1+5.29.44.45
+6+7.253.379w.56+9.3+5.19.04.65
 7 4- 2.2 54.8 88 N. 6 6 + 2.9 +1.3 R. 9.2 4.95 
-8 + 3.3 59.1 70 sw. 3 10 4" 5.5 —0.2 8.75 4.45 
-9 + 9.6 49.5 76 sw. 4 6 413.9 +4.9 8.5 4.7 
+8+3.359.170sw.3104"5.5—0.28.754.45
+9+9.649.576sw.46413.9+4.98.54.7
 10 + 7.5 45.1 88 w. 9 8 + 8.2 +6.8 R. 8.6 5.7 
 11 410.1 41.5 69 sw. 6 10 4*14.8 +6.4 R. 1.7 8.2 4.8 
 12 4 3.5 48.8 63 sw. 7 4 4- 7.6 +1.5 0.2 8.8 5.6 
@@ -7110,8 +7106,7 @@ Naturforscher - Vereins
 zu Riga. 
 XXII. Jahrgang. JV? II. 
 Inhalt: Jahresbericht. — Wissenschaftliche Vereine im Tauschver­kehr. — Meteorologische Beobachtungen. 
-. . . 11 3! i tn M !•; -
-3ister Jahresbericht 
+...113!itn M!•;-3ister Jahresbericht 
 vom 1. Juli 18*75 bis zum 1. Juli 1876 
 des Naturforscher-Vereins zu Riga, 
 vorgetragen vom Director G. Schweder. 
@@ -7141,7 +7136,7 @@ Die Zahl der Mitglieder und namentlich die der ordent­
 lichen Mitglieder ist also auch in diesem Jahre wieder ge­
 stiegen. Dem Berufe nach vertheilen sich die ordentlichen 
 Mitglieder in folgender Weise: 
-. . 54 
+..54
 Aerzte und Pharmaceuten . . . . 39 
 Kaufleute . . 35 
 Beamte, Advocaten .... . . 19 
@@ -7660,7 +7655,7 @@ c3
 S 
 700 nun 
 Cels. + 0—10 0—10 Cels. Cels. R—f> mm. engl. Fuss. 
-1 + 5.2 57.3 61 NE. 2 5 + 6.8 + 3.7 5.1 3.5 
+1+5.257.361 NE.25+6.8+3.75.13.5
 2 8.7 55.5 85 SE. 2 7 +10.7 + 6.4 R. 2.3 4.8 3.4 
 3 6.8 55.5 81 W. 4 10 +10.2 + 4.9 0.2 5.3 4.1 
 4 5.4 61.7 73 W. 3 6 + 7.7 + 3.1 0.5 5.1 4.0 
@@ -8137,7 +8132,7 @@ Körpers in Cubikcentimetern, eine zweite Ablesung an der
 Aräometerscala sein absolutes Gewicht in Grammen. Der 
 Quotient beider Zahlen ist das specifisehe Gewicht des 
 Körpers. 
-» J 
+» J
 Dr. Berteis und Oberlehrer Gottfricdt bezweifeln die 
 Genauigkeit der mit diesem Apparat gewonnenen Resultate. 
 Gorilla. Docent Thoms verliest einen Aufsatz von 
@@ -8396,7 +8391,7 @@ Haarhygr.
 Still. 
 Wind. 
 1 NNE.j 
-1 • 
+1•
 Bewölkung 
 1  
 Maxim. 

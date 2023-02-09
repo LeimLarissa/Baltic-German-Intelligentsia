@@ -273,7 +273,7 @@ Weltgebäudes. 1867: Die Cardioide. 1870: Verzeichnis
 der Säugetiere und Vögel der Ostseeprovinzen (zusammen 
 mit Dr. Buhse). 1870: Synopsis der Vögel der Ostsee­
 provinzen. 1873: Der Hagelsturm des 10. Mai 1872. 1881: 
-— X — 
+— X—
 Verzeichnis der Wirbeltiere der Ostseeprovinzen. 1881: 
 Die Vögel der Ostseeprovinzen nach ihren Merkmalen. 
 1894: Die Wirbeltiere der baltischen Gouvernements. Im 
@@ -405,7 +405,7 @@ aus folgenden 15 Personen:
 Präses: Staatsrat G. Schweder, Gymnasialdirektor emer. 
 Vicepräses: Prof. Th. Grönberg, Direktor des Poly­
 technikums. 
-— 3 — 
+—3—
 Sekretär: H. Pflaum, Oberlehrer. 
 Schatzmeister: Dr. med. L. Zwingmann. 
 Bibliothekar: Dr. phil. B. Meyer. 
@@ -445,7 +445,7 @@ Mitteilungen betrug 52 (gegen 48), die Zahl der Redner 15
 Dr. Alex. Berteis: 
 Über die Entstehung des Erdöls. 
 1* 
-— 4 — 
+—4—
 Dozent Dr. ßucholtz: 
 Über die Atmung der Pflanzen. 
 „ Trüffeln. 
@@ -485,7 +485,7 @@ Kaufmann A. Richter:
 Über die Meteoriten von Borgä. 
 „ einen angeblichen Meteoritenfall. 
 „ die Saturnbedeckung vom 31. Mai/13. Juni c. 
-- 5 — 
+-5—
 Über die Phase der partiellen Sonnenfinsternis vom 
 15./28. Mai c. 
 Direktor Schweder: 
@@ -525,7 +525,7 @@ mus und allgemeine Naturwissenschaft je 1
 Mehrere Disciplinen, wie Chemie, Physiologie, Geographie, 
 waren im abgelaufenen Jahre in den behandelten Themen nicht 
 speciell berücksichtigt worden. 
-— 6 — 
+—6—
 Ausser den 20 allgemeinen Sitzungen wurde noch 1 Sitzung 
 der ornithologischen Sektion (Präses: Direktor Schweder, 
 Schriftführer: Dr. Ischreyt) abgehalten, auf welcher Dr. Ischreyt 
@@ -564,7 +564,7 @@ allgemeinen Sitzung freigestellt (s. o.).
 Am 1. Mai 1900 fand eine Sitzung zur Erinnerung an 
 das 55jährige Bestehen des Vereins statt. Vorträge hielten 
 Direktor Schweder über das Jahrhundert der Naturwissen-
-- 7 — 
+-7—
 Schäften und die Bestrebungen des Naturforschervereins seit 
 seiner Gründung und Oberlehrer Pflaum über die Bewohn­
 barkeit der Sterne. Nach dieser Sitzung fand ein geselliges 
@@ -602,7 +602,7 @@ Kontinents. Ferner wurden Auszüge aus den Protokollen
 der allgemeinen Sitzungen bald nach stattgehabter Sitzung 
 veröffentlicht in der „Düna-Zeitung", „Rigaschen Rundschau" 
 und im „Rigaer Tageblatt". 
-— 8 — 
+—8—
 F. Äussere Thätigkeit des Vereins. 
 Eine Anzahl von Einladungen zu Jubiläen und sonstigen 
 Veranstaltungen, die an denVerein gelangt waren, wurden teils 
@@ -641,7 +641,7 @@ H. Naturaliensammlung.
 Die Sammlungen des Vereins waren in der Zeit vom 
 29. August 1899 bis zum 7. Mai 1900 allsonntäglich dem 
 Publikum ausgestellt, mit Ausnahme einer kurzen Zeit, während 
-— 9 — 
+—9—
 welcher eine Änderung in der Aufstellung der Naturobjekte 
 stattfand. Wie bereits im voraufgehenden Jahresberichte er­
 wähnt war, ist der bisher von der Bibliothek eingenommene 
@@ -7075,7 +7075,7 @@ lagerten Mergeln, lokal Kalkstein. Die Mergel besonders reich an
 Korallen, Brachiopoden etc. Mächtigkeit mindestens 30 m. 
 H = Estonus-Schicht: meist dolomitische mergelige Kalke mit zahl­
 reichen Korallen, Pentamerus estonus Eichw. etc. Mächtigkeit? 
-G 3 = Raikiillsche Schicht: fossilarme Plattenkalke, zuweilen dolo- 91 
+ G3= Raikiillsche Schicht:fossilarme Plattenkalke,zuweilendolo-91
 mitisch, vielfach als Baustein gebrochen; nur oberer Horizont reich 
 an Korallen. Mächtigkeit? 
 2  =  B o r e a l i s - S c h i c h t :  K a l k s t e i n e  u n d  D o l o m i t e ,  g r ö s s t e n t e i l s  a u s  z u ­
@@ -7109,7 +7109,7 @@ ganz aus Encriniten zusammengesetzt. 61
 Wassalem als fester marmorartiger Kalkstein entwickelt, der 
 zu Treppenstufen. Kreuzen, Ornamenten etc Verwendung findet. 
 1 = Eigentliche Jewesche Schicht: mergelige kieselige Kalke. 
-C 3 = Istfersche Schicht: harte graue kieselreiche Kalksteine, z. T. 
+ C3= Istfersche Schicht:hartegrauekieselreiche Kalksteine,z. T.
 eisenschüssig, mit mergeligen Zwischenlagen; ÜbergangsbilduDg 
 zwischen D und C2 darstellend und, was Estland betrifft, nur im 
 östlichen Teile desselben entwickelt. Fossilreich. 
@@ -7406,7 +7406,7 @@ Riga-Tuckumer Eisenbahn verlässt, um sich zur Kronsmühle
 .V 
 nach Uiffn 
 \  r r r r i  —  — i  r  
-0 I 2 3 4 .1 10 l.i #lkm. 
+0 I234.110l.i#lkm.
 M/ias/tsMh /•' 005000. 
 Über den artesischen Brunnen in der Westbatterie bei Reval. 
 Bull. d. 1. classe phys.-math. Acad. sc. Petersbg. T. IX, p. 59. 1851. 
@@ -8119,7 +8119,7 @@ Die vollständig strukturlose, stark glänzende „Kohle" brennt mit russender
 Flamme und schmilzt dabei. Sie steht, einer schriftlichen Mitteilung 
 des Herrn Prof. Karpinsky zufolge, dem Albertit, Asphalt der Auvergne 
 u. a. nahe (Aualyse Alexejews [unveröffentlicht]: C = 77,23, H = 8,95, 
-N = 1,10, 0 = 7,52, Asche — 5,20, Spec. Gew. bei 19,3° C = 1,118) und 
+ N=1,10,0=7,52, Asche—5,20, Spec. Gew.bei19,3° C=1,118)und
 dürfte es „keinem Zweifel unterliegen, dass sie eine durch Oxydation 
 erhärtete flüssige Bitumensubstanz ist". 
 Nebenbei sei hier bemerkt, dass Anthracit in Form kleiner schwarzer 
@@ -8265,10 +8265,10 @@ A. Schamarin2) im Jahre 1870 veröffentlicht worden. Einige
 Daten seien aus der letzteren hier wiedergegeben. 
 Das untersuchte Material enthält im Mittel 42,24^ org. 
 Substanz von folgender Zusammensetzung: 
-C = 70,52 
-H = 7,21 
-N = 0,29 
-0 = 21,98 
+ C=70,52
+ H=7,21
+ N=0,29
+0=21,98
 100,00 
 100 g Brandschiefer, bei starker Rotglühhitze der trocknen 
 Destillation unterworfen, ergeben im Mittel 18,95 (Extreme 
@@ -10184,7 +10184,7 @@ Sturm am 24.
 Winde +3 Z W 
 £ 
 CO co CO 
-£ Z 
+£ Z
 Z 
 Uäufigk. 5 8 7 5 2 o9  11 2 9 5 2 4 12 4 1 2 11 
 Meter pr. 
@@ -10365,7 +10365,7 @@ Mittelwerthe. lh- Mittag. Temperatur.
 litt 20.8 61.1 61 4.2 28.8 9.8 15.5 4.4 
 Wetterleuchten am 18. und 19. 
 Winde H Z W CO OQ cö £ 
-K i 
+ Ki
 Hänfigk. 21 8 — 7 3 12 — 3 1 8 — 20 — 1 — 6 3 
 Meter pr. 
 Secunüe. — 2.5 — 2.0 3.0 2.0 — 2.3 5.0 2.2 — 3.0 — 2.0 — 3.0 4.3 
@@ -10503,7 +10503,7 @@ Wind.
 ESE. 
 Bewölkung. 
 SSE. 
-I - • • 
+ I-••
 Minim. 
 WSW 
 RReeggeenn  ooddeerr  SScchhnneeee..  

@@ -122,7 +122,7 @@ Segewold unternahm, hatten zum Resultat das Auffinden von
 geschichte der Tuberaceen." Hedwigia, 1901, p. 129: „Pseudogenea 
 Vallisumbrosae nov. gen. et sp." 
 1 
-— 2 — 
+—2—
 Sammlungen des Naturforschervereins zu Riga vorhanden1), 
 teils in der floristischen Litteratur des Baltikums beschrieben 
 waren. Es erweist sich also, dass auch bei uns die Zahl der 
@@ -159,7 +159,7 @@ In Laubwäldern mit Eichen, Linden, Rüstern und wilden
 !) Dieselben wurden mir durch die Güte des Herrn Docenten 
 K. Kupffer, dem ich hiermit meinen besten Dank ausspreche, zur 
 Durchsicht übergeben. 
-— 3 — 
+—3—
 Apfelbäumen. — Im Herbst inwendig marmoriert, im 
 Frühjahr weisslich." — Weiumann, C., Hyrneno- et Gastero-
 mycetes. Petropoli 1836, p. 544, citiert Grindel (1. c.). — 
@@ -199,7 +199,7 @@ im Sinne von Ed. Fischer (Rabenhorsts Kryptogamenflora,
 Bd. I, Abt. 5, p. 45) eine Sammelspecies ist, die noch ein­
 gehender Untersuchung bedarf, so glaube ich richtig zu gehen, 
 1* 
-— 4 — 
+—4—
 wenn ich meinen Filz als besondere Form albidum mihi 
 beschreibe. 
 Die Fruchtkörper sind recht unregelmässig höckerig, 
@@ -272,7 +272,7 @@ dagegen die Abbildung bei Tulasne 1. c.) Die gelbliche Farbe
 des Fruchtkörpers und die Sporangiengrösse (50—60 u. lang 
 und 40—46 fi. breit; Membran c. 7 dick) stimmen mit der 
 Beschreibung Ed. Fischers (1. c.) gut überein. 
-— 6 — 
+—6—
 6. Endogone tactiflua Berk. 
 Gefunden in Kemmern (Livland) am 29. August 1900 
 unter Kiefern, halbunterirdisch. Zum Vergleiche lagen mir 
@@ -310,7 +310,7 @@ von weitem bemerkbar macht. Die Höhlungen des Frucht­
 körpers sind etwas grösser als angegeben. Sie sind bis 3 mm 
 im Durchmesser gross. Die Sporen sind rundlich-eiförmig 
 15: 10/i. Die Angaben Hesse's (Hypogaeen Deutschlands I, 
-_ 7 — 
+_7—
 p. 116) — 13—17 : 7—10 /n., Tulasne's (Fungi hypogaei p. 63) 
 — 16:8—9 fi., Schroeters (Schles. Kryptog.-Flora Bd. III, 
 1. Hälfte, p. 710) — 13—17 : 7—9 fi., Winters (in Rabenhorsts 
@@ -348,7 +348,7 @@ die Güte Direktor G. Schweders erhielt, ist zu ersehen, dass
 Rh. rubescens in unsern sandigen Dünenwäldern vorkommt und 
 als „Trüffel" genossen wird. Es scheint mir aber nicht richtig 
 zu sein, wenn Buhse am Schluss seiner Mitteilung (1. c.) her­
-— 8 — 
+—8—
 vorhebt, dass dieser Pilz schon 1853 für Neubad in Livland 
 unter dem Namen Rh. virens angegeben wird. Letztere Angabe 
 Major Wangenheiras (Korr.-Bl. VII, 1853, p. 60) bezieht 
@@ -387,7 +387,7 @@ gefundenen Rh. lut., wofür ich an dieser Stelle bestens danke.
 p. 20). Doch hält er diesen Pilz für ungeniessbar und nennt ihn Schweine­
 trüffel, aus Bilderlingshof, 1890. Ersteres ist offenbar nicht richtig, da 
 die Exemplare vom Dünamarkt das Gegenteil beweisen. 
-— 9 — 
+—9—
 plare junger Fruchtkörper, welche ich teils in Kemmern 
 (9. August 1900), teils in Segewold gefunden habe. Bei der 
 Schwierigkeit Hymenogasterarten, deren Sporengrösse und 
@@ -561,7 +561,7 @@ der baltischen Lepidopterenfauna hochverdienten Herrn Direk­
 tor W. Petersen in Reval zu benennen und ihm den Namen 
 Bryotropha peterseni 
 beizulegen. 
-. T C. A. Teich. 
+. T C. A. Teich.
 Riga, 4. Januar 1901. 
 Ober einige bemerkenswerte Varietäten und Aberrationen 
 meiner Sammlung. 
@@ -909,7 +909,7 @@ werden kann), so sieht man doch unmittelbar, in aller Strenge,
 dass die allendliche Abtragung des Winkels y an B schliess­
 lich bei B den Winkel EBN, wobei BN die Verlängerung 
 der Seite CB ist, ergeben muss, so dass also völlig strenge 
-a ß y — 2 B sein muss. 
+aßy—2 Bseinmuss.
 Ist nun der Satz, in jedem ebenen Dreiecke ist die Summe 
 der drei Winkel immer gleich zwei Rechten, bewiesen worden, 
 unabhänging von der Theorie der Parallellinien, so kann 
@@ -939,9 +939,9 @@ oder x = 1 + ̂V  wobei y <L 10 ist. Jetzt hat man
 lOIö = 1,6 und 
 10»= (1,6)10= 109,951232 
 Nach unserem Täfelchen liegt y zwischen 2 und 3, man 
-z 2 z z 
+z2zz
 kann also setzen y = 2-f ̂  oder a: =l-{- Xö+iÖÖ^'^lOÖ' wo 
-z < 10 ist. Demnach hat man 
+z<10ist. Demnachhatman
 10v = 102+n> =1 02. 10TÖ = 109,951232 
 oder 10" = (1,099512)10 = 2,581485 
 d. h. z muss zwischen 0 und 1 liegen, man muss also 
@@ -3470,7 +3470,7 @@ Mittelwerte. lh- Mittag. Temperatur.
 6 —6.9 63.6 67 N. 6 10 — —12.5 3.8 
 7 —8.8 74.8 70 0 10 — —11.3 3.4 
 8 —15.8 76.0 70 SE. 6 1 — —17.8 2.7 
-9 — 13.8 72.3 70 SSE. 6 6 — —17.3 2.5 
+9—13.872.370 SSE.66——17.32.5
 10 —9.7 66.1 60 S. 12 10 — —12.8 s. 0.2 2.8 
 11 —10.7 70.0 64 SSE. 6 10 — —12.5 3.3 
 12 —15.7 75.t 72 SE. 2 1 — — 18.8 3.6 
@@ -3569,7 +3569,7 @@ H
 Winde z Z W CO £ 
 K CO 
 02 CO 
-Z £ Z Z £ z 
+ Z£ Z Z£z
 Häufigk. 7 12 — 14 2 3 3 1 5 19 8 8 — — — — 2 
 Meter pr. 
 Secunde. — 3.9 — 3.0 4.0 5.0 6.7 2.0 6.2 2.3 4.2 2.2 — — — — 5.0 
@@ -3720,7 +3720,7 @@ Cels. + pr. See. 0-10 Cels. Cels. — mm. Fuss.
 6 -8.8 58.8 75 NNW 4 2 — —11.3 s. 0.6 4.2 
 7 —12.4 58.0 77 N. 2 0 — —14.8 3.7 
 8 —10.0 64.5 73 WSW. 2 0 — -17.0 s. 0.7 3.9 
-9 - 2.3 63.7 83 WSW. 2 . 10 — -8.5 s. 0.3 3.8 
+9-2.363.783 WSW.2.10—-8.5s.0.33.8
 10 —1.7 65.0 87 WSW. 6 10 — —5.5 4.2 
 11 —0.1 67.3 80 SW. 6 3 — —6.0 4.0 
 12 0.9 63.9 85 SW. 6 10 — -0.5 R. 1.1 4.0 
@@ -3776,7 +3776,7 @@ Station Riga. Monat April 1900.
 Mittelwerte. lh- Mittag. Temperatur. 
 700 mm Meter russ. 
 Cels. + pr. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 1 —1.5 1 57.9 91 N. 8 0 0.0 —3.6 S. 2.0 4.5 
+11—1.5157.991 N.800.0—3.6 S.2.04.5
 2 —0.5 59.0 78 SSW. 4 10 3.2 —3.2 4.0 
 3 —0.9 65.9 88 N. 2 8 1.6 —5.2 4.2 
 4 3.4 65.5 80 ENE. 4 8 6.0 —0.7 4.5 
@@ -3935,7 +3935,7 @@ russ.
 Mitt. 9.2 60.4 67 — 5.0 27.3 —2.6 15.2 5.2 
 Sturm am 9. 
 Winde a
-m Z a Ji 
+m Za Ji
  a £ £ Z 
 Häufigk. 4 19 5 1 18 4 20 2 3 1 11 5 
 Meter pr. 
@@ -4120,7 +4120,7 @@ Cels. + # pr. See. 0-10 Cels. Cels. - mm. Fuss.
 30 17.2 58.2 74 NNE. 2 6 — 14.4 4.6 
 Mitt. 14.6 58.9 70 5.1 — 8.7 41.3 4.4 
 Gewitter am 27. 
-i & £ Winde H 02 GQ CQ £ Ä £ 
+i&£ Winde H02 GQ CQ£Ä£
 Häufigk. 10 23 12 2 1 4 2 5 1 — — 2 1 3 3 4 17 
 Meter pr. 
 Secunde. — 5.3 3.7 6.0 4.0 2.5 5.0 5.6 4.0 — — 5.0 2.0 4.7 4.0 5.0 7.3 
@@ -4431,7 +4431,7 @@ Sturm am 3., 6., 7., 15., 26.; Gewitter am 20., 25.
 Winde Z W 
 £ 
 ce gq Z 
-K £ £ 
+ K££
 Häufigk. 6 7 2 — 1 — — 1 — 7 7 40 — 3 — 6 10 
 Meter pr. 
 Secunle. — 3.9 12.0 — 5.0 — — 1.0 — 2.0 4.9 3.1 — 2.7 — 3.2 5.5 
@@ -4797,8 +4797,8 @@ Mitt. -1.3 56.3 88 8.7 6.5 —23.8 57.0 4.3
 Sturm am 9., 21., 22., 29. 
 W 53 W £ £ £ Winde £ Z ta CO CO 
 co 55 Z 55 CO CO CO H CO CO 55 W CO CO £ 
-Z Z 
-£ £ z 
+ Z Z
+££z
 Häufigk. 7 1 6 11 2 1 2 1 5 12 36 3 1 1 3 1 
 Meter pr. 
 Secunde. — 3.0 4.2 2.9 3.5 2.0 5.0 2.0 — 3.2 5.9 2.9 3.0 3.0 4.0 3.0 3.0 

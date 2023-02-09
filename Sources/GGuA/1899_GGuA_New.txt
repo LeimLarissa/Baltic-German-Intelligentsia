@@ -1,4 +1,4 @@
-, ~ > 
+,~>
 > "i 
 der 
 Gesellschaft für Geschichte und Alterthumskunde der 
@@ -2582,7 +2582,7 @@ gewesen sei. Wenn das richtig sei, so müssten sich auch
 Wege dorthin aus dem Innern der Insel nachweisen lassen; 
 einer derselben sei wahrscheinlich in die Nähe des Gutes 
 Piddul zu legen, dessen Name wohl nicht von dem est-
-r " 1 
+r"1
 61 
 nischen Worte „Piddal" = Hospital, sondern von dem 
 Worte „pidu", das im Altestnischen „Landstrasse, Heer-
@@ -3957,7 +3957,7 @@ ich ergänzen nach der wahren Worterklährung, und unter­
 streichen, die aber vollkommen zu sehen werde ich in ihren 
 Zügen vor Augen legen. Die Züge aber und die Ergänzung 
 der Buchstaben ist folgende. 
-S ^ E 
+ S^ E
 Das ist Sigillum Rigense, das Rigische Siegel mit den 
 zwei Kreuzstäben so von den Bischöffen gebraucht worden. 
 IMtnfura + fJurßenflum + fUflenßmn + 
@@ -6729,7 +6729,7 @@ GRAB 1.
 KQMJUEN 
 KOHLEN 
 100 50 Q t 3 MTR. 
-* 1 1 1 1 1 1 •• I I ± 
+*111111•• I I±
 158 
 allen aus dem Grabe gehobenen Steinen, drei Arbeiter 
 konnten ihn nur mit grosser Mühe umwälzen. Dann folgten 
@@ -6911,7 +6911,7 @@ seit einiger Zeit die Abfälle der Fabrik (essigsaurer Kalk)
 ausgeschüttet, die darauf bis zu einigen Fuss Höhe lagern, 
 zum Nachgraben wenig einladend. Ich gab jedoch den 
 Versuch nicht auf und liess an einer Stelle, wo noch ein 
-I L  
+ I L 
 162 
 sehr schmaler Streifen des grünen Rasens zwischen den 
 Schutthaufen zu sehen war, einen Graben ziehen, auch liess 
@@ -10133,7 +10133,7 @@ Riga. 1900.
 506. Jeannot v. Blanckenhagen zu Drobbusch. 1900. 
 507. Dr. med. Alexander Keilmann, Riga. 1900. 
 (Geschlossen am 18. April 1900.) 
-V e r z e i c h n i s s 
+ Verzeichniss
 der im Jahre 1899 in den Sitzungen der Gesellschaft ge­
 haltenen Vorträge und verlesenen Zuschriften, 
 Die beigefügte Zahl giebt die Seite der Sitzungsberichte an. 
@@ -10251,7 +10251,7 @@ Silberne Schüssel in der Kaiserlichen Eremitage.
 r-'' T':- IS** j ,f~~>> 
 "j /*e.s ( -jS"--^- r 
 SCHULE 
-r • 
+r•
 BILSTEINS //HOF 
 4 28.3 m -x-_18m J 
 -132, 5 m | V BADSTUBE 

@@ -121,7 +121,7 @@ dor Meuschen, 20. Fabrikdirektor Georg Danziger, 21.
 Architekt Heinr. Scheel, 22. Zahnarzt Viktor Soldtner, 
 23. Ing. Wilhelm Bergner, 24. Stud. Adam Mikutowicz. 
 l 
-— 2 — 
+—2—
 Zu Ehrenmitgliedern wurden aufgenommen: 1. Wirkl. 
 Staatsrat Heinrich Hellmann, Direktor der Stadtrealschule, 
 bei Gelegenheit seines Amtsjubiläums; 2. Kreislehrer A. Teich, 
@@ -160,8 +160,7 @@ Direktoriums statt, auf denen die üblichen geschäftlichen An­
 gelegenheiten verhandelt wurden. Die durchschnittliche Fre­
 quenz betrug 7—8 Mitglieder. Ausserdem nahm der Konser­
 vator an der Mehrzahl der Sitzungen teil. 
-— 3 -
-e. Allgemeine Versammlungen. 
+—3-e. Allgemeine Versammlungen. 
 Die Zahl der allgemeinen Versammlungen, welche in der 
 Zeit vom 30. August 1904 bis zum 9. Mai 1905 abgehalten 
 wurden, beträgt 19 (gegen 20 im Vorjahre). Die durchschnitt­
@@ -202,7 +201,7 @@ Insekten (2 Mitteilungen).
 (2 Vorträge). 
 Variationskurven (mit Experimenten). 
 l* 
-- 4 — 
+-4—
 Mag. Ludwig: 
 Über die Heilpflanzen des Rigaer Krautmarkts. 
 Dozent Dr. Lutz: 
@@ -281,7 +280,7 @@ gonnene Werk hat edle Früchte zum Besten der Wissenschaft
 und der Heimat getragen; es sei zu hoffen und zu wünschen, 
 dass der Verein auch die gegenwärtige Zeit, da es in Stadt 
 und Land stürmt, mit Glück überwindet und sich dabei seinen 
-— 6 — 
+—6—
 idealen Zielen immer mehr nähert. — Von besonderem In­
 teresse war eine Reihe von Mitteilungen, welche der Redner 
 über die Geschichte der Entstehung des Vereins auf Grund 
@@ -983,7 +982,7 @@ gesehen oder sie für Naturspiele oder gar für missglückte
 Schöpfungsversuche gehalten, kam die richtige Auffassung, 
 dass es sich hier um Knochen elefantenartiger Tiere handle, 
 erst zur Anerkennung, als um 1800 an der Lenamündung ein 
-I — 24 — 
+ I—24—
 ganzer Mammutkadaver blossgelegt und sein Skelett nach Pe­
 tersburg gebracht war. Erst 1816 wurde das Mammut als 
 Elephas primigenius von den lebenden Elefanten artlich 
@@ -3814,7 +3813,7 @@ Experiment zu tun haben) von oben bis unten immer mehr
 beschleunigt wird, sodass die Gewalt, mit welcher es auf­
 schlägt, seine „aktuelle Energie" stetig zunimmt1), ist bei der 
 x) Im luftleeren Räume gilt bekanntlich die berühmte Gleichung 
-m v 2 
+mv2
 —2~ = p s, deren linke Seite die „aktuelle Energie" darstellt und wo 
 m die Masse, v die erlangte Geschwindigkeit, p das Gewicht und s die 
 Fallhöhe des fallenden Körpers bedeutet. 
@@ -4511,9 +4510,9 @@ gische Interpretierung der Schichtenbezeichnungen des Bohr­
 journals findet sich unter II. Zum besseren Vergleich sind den 
 Tiefen in Fuss die in Metern beigegeben. 
 I. 
-0 — 4' ( 0 — 1,2 m) schwarze Erde 
-4 — 6' ( 1,2— 1,8 m) weisser Sand 
-6 — 8' ( 1,8— 2,4 m) blauer Lehm (in hartem Zustande) 
+0—4'(0—1,2m)schwarze Erde
+4—6'(1,2—1,8m)weisser Sand
+6—8'(1,8—2,4m)blauer Lehm(inhartem Zustande)
 8—18' ( 2,4— 5,5 m) Romanstein 
 18—22' ( 5,5— 6,7 m) harter Bruchstein 
 22—24' ( 6,7— 7,3 m) harter Romanstein 
@@ -4706,7 +4705,7 @@ von der Poststation Risti und machte dieselben Wahr-
 '"'M'ror 
 ObDJ  
 15 10 5 0 1S 30 45 60 75 hm 
-| | | l | 
+|||l|
 Massstab /• 1500000. 
 •—- VerbreitungHgrenze der Erschütterungen | 
 XT , i i\ a j» } des wormser Bebens, «-o^ VerbreitungHgrenze der Detonationen j 
@@ -5294,8 +5293,7 @@ selbst liegen mir keine Beobachtungen vor; wohl aber wird
 im Jahrgang 1877 der Annalen des physikalischen Zentral-
 Observatoriums für den 16. Oktober 7 Uhr morgens verzeichnet: 
 für Reval Wind SW 6 m, Riga S 4 m, Windau S 3 m, Libau 
-S 3 m. In Reval herrschte vom 13. Oktober an konstant SW-
-Wind. Hiernach kann es keinem Zweifel unterliegen, dass 
+ S3m. In Revalherrschtevom13. Oktoberankonstant SW-Wind. Hiernach kann es keinem Zweifel unterliegen, dass 
 auch in der Hapsaler Gegend bei Eintritt der seismischen 
 Vorgänge Südwest- bis Südsüdwestwind herrschte und dass 
 die gegenteiligen Angaben der Berichterstatter nicht wörtlich 
@@ -5882,7 +5880,7 @@ erwähnten Örtlichkeiten erleichtern.
 Benutzte üitercifur. 
 Baer, K. E. v., Beiträge zur Kenntnis des Russ. Reichs, 1872, p. 73. 
 — Bull, de l'Acad. Imp. de Sc. de St. Pet., T. III, 1838, p. 355. 
-— » » n „ » 1861, p. 370. 
+—»»n„»1861,p.370.
 — Icones ad Zoographiam Rosso-Asiaticam, Petrop., fasc. II. 
 — Isis, 1839, p. 646. 
 — L'Institut, VI, N. 257, 1838, p. 391. 
@@ -5891,20 +5889,20 @@ Baer, K. E. v., Beiträge zur Kenntnis des Russ. Reichs, 1872, p. 73.
 — „ (YI), Y, Sc. nat. III. 1840, p. 58. 
 Brandt, Bull, de l'Acad. de St. Pet. IY, p. 304. 
 — Bull, de l'Acad. de St. P6t. V, p. 585. 
-— , „ VI, p. 111. 
-— „ „ „ , phys. math. IY, 1845, p. 167. 
-— » , , , , V, 1847, p. 92. 
+—,„ VI,p.111.
+—„„„,phys.math. IY,1845,p.167.
+—»,,,, V,1847,p.92.
 —  »  „  ,  »  » V I , 1 8 4 8 ,  p .  4 6 .  
 — Bull, de la Soc. Imp. des Nat. de Moscou, 1866, p. 583. 
-— » » • „ , 1867, livr. 1. 
+—»»•„,1867,livr.1.
 — Isis, 1836, p. 309. 
 — Mel. biolog. de l'Acad. de St. Pet. T. YI, liv. 3, p. 269. 
-— » „ T. VI, 1867, p. 571. 
+—»„ T. VI,1867,p.571.
 — Mem. de l'Acad. de St. Pet. (VII), XVII, 1871, N. 7, p. 3. 
 — Symbol. Sirenolog. fasc. I, 1846, pp. 86, 88. 
-— » „ (Mem. de l'Acad.) Ser. YI, T. II, Sc. math., p. 103. 
+—»„(Mem.del'Acad.) Ser. YI, T. II, Sc.math.,p.103.
 ( yi ) Ser. YI, T. V, 1849. 
-— » „ (Mem. de l'Acad.) Ser.VI,T. VII, Sc.nat.V, 1849, p.l. 
+—»„(Mem.del'Acad.) Ser.VI,T. VII, Sc.nat.V,1849,p.l.
 Brehm, A., Thierleben, Säugethiere III, 1891. 
 Büchner, Eug., Mem. de l'Acad. de St. Pet., S6r. VII, T. XXXVIII, 
 N. 7, 1891. 
@@ -5938,8 +5936,8 @@ Norden skj öld, Die Umsegelung Asiens und Europas auf d. Aega, II,
 Nord mann, Zur Kenntniss d. Knoehenbauers d. Rh.stellen,Helsing-fors 1861. 
 Pallas, Zoographia Rosso-Asiatica, Petrop. 1811. 
 — Neue Nordische Beiträge. Bd. I, p. 273. 
-— „ v) „ , » n, p. 297. 
-— „ „ , „ VI, p. 168. 
+—„v)„,»n,p.297.
+—„„,„ VI,p.168.
 IleKapcKiii, IIcTopifl Hmii.Ana^.IlayEt,I,1870,CTp.590.
 Pennant, Arktische Zoologie, Bd. I, 2, p. 173. 
 Rapp, W., Die Oetaceen zool.-anatom. dargestellt, p. 27. 
@@ -6276,7 +6274,7 @@ Granne: spelze nicht oder nicht viel der Spitze der Deckspelze, in
 — 165 — 
 3. M. 4. K. 5. Dr. T. 
 lang kriechend und 
-— — 
+——
 sprossend. 
 dünn, an der Basis etwas 
 gekniet aufsteigend, auf­
@@ -6304,7 +6302,7 @@ beide gerade, meist lang
 nelt; schmal lanzettlich; Ver- in die Spitze verschmä­
 am Kiel etwas rauh. 
 hältnis der Länge : Breite > lert, weich, aussen mit 
-4 : 1, sehr lang und all­ Härchen bestreut. 
+4:1,sehrlangundall­ Härchenbestreut.
 mählich zugespitzt. 
 2/3 der unterenHüllspelze 
 mit 5 zur Spitze ver­ Rücken glatt; zart, häutig, 
@@ -6513,7 +6511,7 @@ fläche mehrere cm tief vertikal, dann bogenförmig ab­
 biegend und horizontal lang hinkriechend. 
 Halm: 60—220 cm, meist 120—180, meist stark verzweigt 
 (im Frühsommer oft noch unverzweigt), glatt, zuweilen 
-1 — 2,5 cm unter der Rispe etwas rauh, mit (3—)4—5 
+1—2,5cmunterder Rispeetwasrauh,mit(3—)4—5
 (—6) Halmknoten. 
 Rispe: schlaff, in der Blüte (fast regelmässig) ausgebreitet, 
 mit relativ kurzen (5 cm) Ästen, die dünn und rauh 
@@ -9155,8 +9153,8 @@ Alectorolophus major Bchb 209
 — pratensis L 214. 215. 216. 217. 218 
 — -pratensis L. X ventricosus Pers 215. 220. 221 
 — ventricosus Pers 214—215. 216. 218. 220 
-— — a ruthenicus Weinm. pr. sp 215 
-— — ß exserens Griseb. ap. Ledeb 215 
+——aruthenicus Weinm.pr.sp215
+——ßexserens Griseb.ap. Ledeb215
 Arctostaphylus uva ursi (L.) Spr 204 
 [Arnica montana L.J 203 
 [Artemisia abrotanum L.] . . . . *  2 1 0  
@@ -9196,22 +9194,22 @@ Calaviagrostis Adans 157—202
 P. B. a) Orthoatherae Tgs. b) Ankylatherae Tgs. II. Tri-
 nerviae Tgs 161—162 
 [ — acutiflora DC. = C. varia Host.] 189 
-[ — — v. montana Meinsh.] 189 
-[ — — v. tenella Meinsh.] 189 
+[——v.montana Meinsh.]189
+[——v.tenella Meinsh.]189
 — acutiflora (Schrad.) Rchb. — C. arunditiacea Roth X epi-
 geios Roth 159. 162. 189. 190. 191. 192 
 — arundinacea Roth . . . 159—162. 166. 178. 186. 187. 
 190-193. 197. 200. 201 
-— — v. brachyclada Tgs 189 
+——v.brachyclada Tgs189
 — arundinacea Roth X epigeios Roth . . . . 1 5 9 .  1 6 2 .  189—191 
-— — f. intermedia 191 
-— — f. perarundinacea 191 
-— — f perepigeios 191. 192 
+——f.intermedia191
+——f.perarundinacea191
+——fperepigeios191.192
 — — lusus subbiflora Tgs 189 
 —  a r u n d i n a c e a  R o t h  X I n n c e o l a t a  R o t h  162. 184—187. 221 
-— — f. intermedia Tgs 186. 187 
-— — f. perarundinacea Tgs 186. 187 
-— — f- perlanceolata Tgs 186. 187 
+——f.intermedia Tgs186.187
+——f.perarundinacea Tgs186.187
+——f-perlanceolata Tgs186.187
 — — lusus subbiflora Tgs 186 
 — — subf. colorata Tgs 186 
 — — subf. viridis Tgs 186 
@@ -9227,9 +9225,9 @@ Seit«
 [Calamagrostis deschampsioides Trin.] 161 
 — epigeios Roth 159—162.166.167.171.178.181.187.190.191.193.196 
 — epigeios Roth X lanceolata Roth 162, 221 
-— — f. perepigeios Neum 221 
+——f.perepigeios Neum221
 —• epigeios Roth X neglecta P. B. (?). . • • 162. 192. 193 196 
-— — a strigosa (Wbg.) 196 
+——astrigosa(Wbg.)196
 [ — epigeios Roth X purpurea Trin.] 162 168 
 — epigeios X silvatica 189 
 [ — flexuosa Rupr. = gracilescens Blytt] 174 176 
@@ -9238,25 +9236,25 @@ Seit«
 [ — gracilescens Blytt] 161. 166 167 
 [ — Halleriana DC. = C. gracilescens Blytt.] 176 
 [ — Halleriana (Gaud.) P. B. — C. villosa Mutel] 161. 167. 176. 184 
-[ — — v. Langsdorfs (Trin.)] 184 
+[——v. Langsdorfs(Trin.)]184
 — Hartmanniana Fr. — C. arundinacea Roth X lanceolata Roth 
 159. 162. 184—187. 190—193 
-— — ß laxior Blytt ~ C. arundinacea RotfuX purpurea Trin. 187 
+——ßlaxior Blytt~ C.arundinacea RotfuXpurpurea Trin.187
 — Hübneriana 173 
 — — intermedia 173 
 — lanceolata Roth 159—162. 163—172. 176-184. 186. 188. 193 
-[ — — f. ramosa, robusta, simplex, stricta] 172—175 
-— — v. canescens Aschs. nebst f. viridis Tgs 172 — 175 
-— — v. geniculata Tgs 172—175 
-— — v. gracilis Lange 172—175 
-— — v. grandiflora aut. 172—175 
-— — v. grandiflora Harz 172—175 
-— — v. hirta Sanio 172—175 
-— — v. hypacrathera Tgs 172—175 
-[ — — v. parviflora Harz] 172—175 
-— — v. ramosa (Host) Beck 172—175 
-— — v. rufescens Salewsky 172—175 
-— — v. vilnensis Bess 172—175. 185 
+[——f.ramosa,robusta,simplex,stricta]172—175
+——v.canescens Aschs.nebstf.viridis Tgs172—175
+——v.geniculata Tgs172—175
+——v.gracilis Lange172—175
+——v.grandifloraaut.172—175
+——v.grandiflora Harz172—175
+——v.hirta Sanio172—175
+——v.hypacrathera Tgs172—175
+[——v.parviflora Harz]172—175
+——v.ramosa(Host) Beck172—175
+——v.rufescens Salewsky172—175
+——v.vilnensis Bess172—175.185
 —  —  v i r i d i s  T g s  171. 175 
 — lanceolata Roth X neglecta P. B 162. 192. 193. 195 
 — lanceolata Roth X purpurea Trin 162. 180. 192 
@@ -9266,7 +9264,7 @@ f—LangsdorffiiTrin.]....1 61. 162. 1801). 181. 184. 185* )
 [ — litorea P. B. — C. pseudophragmites Bau/mg.] . . 162. 166. 167 
 [ — montana DC. — C. varia (Schrad.) Host] 161 
 — neglecta (Ehrh.) P. B. 159-162.166.188.192.193.196.197.199—202 
-— — v. borcalis Laest. (?) 195. igß 
+——v.borcalis Laest.(?)195.igß
 — neglecta (Ehrh.) P. B. X purpurea Trin. 162. 192. 193. 194 
 — Neumaniana Tgs. = C. epigeios Roth X lanceolata Roth 1622) 
 — phragmitoides Htn. = C. purpurea Trin 161. 174. 183 
@@ -9277,7 +9275,7 @@ Calamagrostis phragmitoides b flexuosa Rupr 174
 [ — pseudophragmites (Schrad.) Rchb.] 176 
 —  p u r p u r e a  T r i n .  159 —1 62. 166 —1 68. 175. 176. 177—184. 
 187. 192. 193. 202. 220 
-— — f. colorata Tgs. u. f. viridis Tgs 181 
+——f.colorata Tgs.u.f.viridis Tgs181
 — silvatica DC. — C. arundinacea Roth 161 
 — sp. f. colorata, pallens, viridis Torges 172. 1733) 
 [ — strigosa Htn.] 161 
@@ -9294,26 +9292,26 @@ Carex acutiformis Ehrh. v. spadicea (Roth) Neum 233
 — brizoides L. ß brunnescens Kiikenth 229 
 — caespitosa L 230 
 — canescens L 229 
-— — v. laetevirens Aschs 230 
-— — v. subloliacea Laest 229 
-— — v. tenuis Lang 230 
+——v.laetevirens Aschs230
+——v.subloliacea Laest229
+——v.tenuis Lang230
 — Davalliana Sm. f. Sieberiana (Opiz) Beck 229 
 — evoluta Hartm. = C. lasiocarpa Ehrh. X riparia Ehrh. . . 233 
 — flliformis aut. nec L. = C. lasiocarpa Ehrh 233 
 — flava L 230. 231 
 — flava L. X Hornschuchiana Hoppe 231. 232 
-— — a subflava KRK. 231 
-— — b sub-Hornschuchiana KRK 231 
+——asubflava KRK.231
+——bsub-Hornschuchiana KRK231
 — flava L. X lepidocarpa Tausch 232 
 — flava L. X Oederi Ehrh 232 
-— — f. congesta Neum., dispersa Neum, subflava Neum., 
+——f.congesta Neum.,dispersa Neum,subflava Neum.,
 stib-Oederi Neum • . . . . 232 
 — Hornschuchiana Hoppe 231 
-— — v. remota Peterm 230 
+——v.remota Peterm230
 — Hornschuchiana Hoppe X lepidocarpa Tausch 232 
 — Hornschuchiana Hoppe X Oederi Ehrh 232 
-— — f. sub-Hornschuchiana KRK. 232 
-— — f. sub-Oederi KRK. 232 
+——f.sub-Hornschuchiana KRK.232
+——f.sub-Oederi KRK.232
 — lasiocarpa Ehrh 233 
 [ — lasiocarpa Ehrh. X riparia Curt.] 233 
 —  l e p i d o c a r p a  T a u s c h  231 
@@ -9392,7 +9390,7 @@ Luzula campestris (L.) DC. 237. 238
 — intermedia Figert = L. camp. (L.) DC. X multifl. Lej. . 23821) 
 [ — maxima DC. = L. silvatica (Huds.) Gaud.] 236 
 — multiflora Lej 237. 238. 239 
-— — v. pallescens Hoppe 239 
+——v.pallescens Hoppe239
 ( — nemorosa E. Mey) 237 
 —  p a l l e s c e n s  B e s s  239 
 [ — silvatica (Huds.) Gaud.] 236 
@@ -9433,11 +9431,11 @@ Rubus chamaemorus L 188. 207
 (Sambucus nigra L.) 205 
 Scirpus caespitosus L 228 
 — eupaluster Lindb. fil 227. 228 
-— — v. nulliseta Lindb. fil. und typica Lindb. fil 227 
+——v.nulliseta Lindb.fil.undtypica Lindb.fil227
 — mamillatus Lindb. fil 227 
 [ — paluster L.J 227 
 —  u n i g l u m i s  L i n k  228 
-— — v. nulliseta Linbb. fil. und typica Lindb. fil 228 
+——v.nulliseta Linbb.fil.undtypica Lindb.fil228
 Scorzonera humilis L 203 
 Sedum acre L 206 
 Selinum carvifolia L 206 
@@ -9454,13 +9452,13 @@ Trifolium pratense L 210
 — spadiceum L 210 
 Triticum acutum DC. — Tr. junceum L. X repens L 225 
 — caninum L. v. gracilius Lange 224 
-— — v. subtriflorum (Pari.) Aschers, et Graebn 224 
+——v.subtriflorum(Pari.) Aschers,et Graebn224
 [ — glaucum Desf.J 224 
 [ — junceum LJ 225. 226 
 — junceum L. X repens L 225 
 — pungens Pers. = Tr. junceum L. X repens L 225 
 — repens L 225. 226 
-— — f. subhirsutum Schreb 224 
+——f.subhirsutum Schreb224
 Ulmaria filipendula (L.) A. Br 206 
 — 247 — 
 Seite 
@@ -9781,7 +9779,7 @@ Stationen verzeichneten den Beginn und das Maximum des
 Hauptbebens zu den angegebenen Zeiten: 
 Beginn Maximum 
 des Hauptbebens. des Hauptbebens, 
-h m s h m s 
+hmshms
 Potsdam2) 11 30 27 .... 11 30 49 
 Leipzig3) 11 31 16 .... 11 31 30 
 Dorpat4) — — — 11 31 36 
@@ -9797,7 +9795,7 @@ Ber. über. d. Verh. d. Ges. d. Wiss. Leipzig. Math.-phys. Cl. Bd. 56,
 — 257 -
 Beginn Maximum 
 des Hauptbebens. des Hauptbebens. 
-h m s h m a 
+hmshma
 Göttingen1) 11 30 14 .... 11 32 30 
 Strassburg2) 11 33 15 .... 11 34 20 
 Laibach2) 11 34 15 .... 11 34 20 
@@ -9813,7 +9811,7 @@ und Irkutsk durch die Seismometer vermerkt.
 Aus Skandinavien liegen genauere, aber nicht durch selbst­
 registrierende Apparate festgestellte Zeitbestimmungen von 
 folgenden Orten vor (nach Kolderup, Svedmark, Stolpe): 
-h m s 
+hms
 Wenersborg und Göteborg 11 27 — 
 Udevalla 11 27 30 
 Ghristiania ca. 11 27 35 
@@ -11668,7 +11666,7 @@ Mittelwerte. lh- Mittag. Temperatur.
 70U mm # Meter Cels. + pr. Sek. 0-10 Cels. Cels. Cels. - mm. 
 1 1.3 63.9 95 WNW. 8 10 2.0 0.4 — 1.0 
 2 —1.4 69.2 85 0 10 1.5 —2.0 — 4.2 
-3 — 1.7 74.1 82 0 10 —1-0 —2.0 —2.0 So. 
+3—1.774.182010—1-0—2.0—2.0 So.
 4 —4.3 74.2 85 s. 2 10 —1.8 -5.4 —3.8 
 5 —6.4 73.6 84 s. 2 10 —4.5 —7.0 —7.8 
 6 —8.2 72.3 85 s. 2 10 -7.0 —9.0 —8.6 So. 
@@ -11729,7 +11727,7 @@ Mittelwerte. lh- Mittag. Temperatur.
 Cels. russ. + % pr. Sek. 0-10 Cels. Cels. — mm. Fuss. 
 1 1.3 64 4 93 WNW. 6 10 0.2 4.4 
 2 —1.3 70.1 78 ENE. 2 10 — -2.1 3.8 
-3 — 1.5 74.5 78 NNW. 2 10 — —2.9 S. 0.2 3.8 
+3—1.574.578 NNW.210——2.9 S.0.23.8
 4 -4.5 74.5 87 SSE. 4 10 — —5.8 3.2 
 5 —6.8 74.0 82 SSW. 2 10 — —7.8 3.4 
 6 —8.6 72.7 85 S. 2 10 — - 9.5 s. 0.2 3.5 
@@ -11846,7 +11844,7 @@ Station Ustj-Dwinsk. Monat Februar 1904.
 Mittelwerte. lh- Mittag. Temperatur. 
 700 mm % Meter russ. Cels. + pr. Sek. 0-10 Cels. Cels. - mm. Fuss. 
 1 —6.2 66.5 78 ESE. 4 10 —7.3 3.9 
-2 — 6.6 66.7 83 0 10 — —9.0 S. 0.2 3.8 
+2—6.666.783010——9.0 S.0.23.8
 3 —5.3 57.8 89 SSE. 8 10 — —10.0 S. 1.8 3.5 
 4 0.6 53.2 96 SW. o 10 — —4.4 S. 0.4 4.3 
 5 —3.4 58.0 79 ENE. 4 5 — —6.3 4.2 
@@ -11965,7 +11963,7 @@ Station Ustj-Dwinsk. Monat März 1904.
 Mittelwerte. lh- Mittag. Temperatur. 
 cL s 
 S <D 
-0 s 
+0s
 ä! c 3 z— to 
 700 nun 
 Cels. 0/ Meter russ. + To pr. Sek. 0-10 Cels. Cels. - mm. Fuss. 
@@ -11973,7 +11971,7 @@ Cels. 0/ Meter russ. + To pr. Sek. 0-10 Cels. Cels. - mm. Fuss.
 2 —2.7 71.9 *5 ESE. 4 10 - —5.5 S. 2.5 3.8 
 3 —7.3 73.9 69 ESE. 10 0 —11.0 3.6 
 4 —8.3 77.6 (»9 ESE. 6 0 — -13.3 ; 3.6 
-5 — 9.7 75.7 77 0 3 — —14.8 3.5 
+5—9.775.77703——14.83.5
 6 —8.4 73.3 82 NNE. 4 3 — -13.0 S. 0.7 3.4 
 7 —7.4 69.0 85 NE. 4 8 — — 10.5 s. 0.6 3.3 
 8 —6.7 69.4 75 S. 4 8 — 10.3 3.4 
@@ -12001,7 +11999,7 @@ Cels. 0/ Meter russ. + To pr. Sek. 0-10 Cels. Cels. - mm. Fuss.
 30 o 4 65.6 64 SE. 14 0 — — 6.0 2.4 
 31 _3:4 67.7 61 ESE. 12 0 — -7.5 2.4 
 Mitt, —3.0 69.5 78 4.0 — —14.8 6.6 3.5 
-H £ 
+ H£
 Winde Z Z 02 £ Z Cß 
 £ 
 Hänfigk. 15 — 2 5 3 1 17 23 8 6 3 4 — — — 1 5 
@@ -12089,7 +12087,7 @@ Mittelwerte. lh- Mittag. Temperatur.
 700 mm 
 Cels. Meter russ. + % pr. Sek. 0-10 Cels. Cels. — mm. Fuss. 
 1 —3.1 69.5 67 SE. 6 3 —7.0 3.0 
-2 — 1.5 67.1 77 SSE. 12 0 — —6.8 S. 0.5 3.1 
+2—1.567.177 SSE.120——6.8 S.0.53.1
 3 1.2 68.3 90 SSE. 2 10 — —1.9 S. 0.3 3.5 
 4 3.9 61.5 90 SSE. 10 8 — -0.1 RS. 9.7 3.0 
 5 2.4 58.4 94 SSW. 2 8 0.2 S. 3.4 3.6 
@@ -12327,7 +12325,7 @@ Cels. + pr. Sek. 0-10 Cels. Cels. Cels. mm. -
 30 12.7 53.1 90 WNW. 6 7 16.0 10.3 7.6 R. 3.2 
 Mitt. 13.7 56.8 69 4.7 26.0 6.0 3.8' 90.3 
 Gewitter am 3., 19., 26. 
-^ • 
+^•
 Winde z zZ
 w 
   Z zK  CQ 
@@ -12381,7 +12379,7 @@ Gewitter am 3.
 Winde Z i 55 Ed CB co £ 
 Häufigk. 4 8 3 2 
 o 
-— 2 — 2 4 — 7 9 8 11 9 10 13 
+—2—24—7981191013
 M eter pr. 
 Sekunde. — 5.2 4.0 5.0 — 3.0 — 5.0 7.0 — 4.9 5.8 5.7 4.2 5.8 8.4 9.5 
 D 
@@ -12411,7 +12409,7 @@ Mittelwerte. lh- Mittag. Temperatur. e no
 *-4—i cbD "o i 
 CO 3t-24  
 5 rO©  
-S o p 
+ Sop
 g bß 
 5 
 c3 P5 
@@ -12516,7 +12514,7 @@ pr. Sek. 0-10 Cels. Cels. — mm. Fuss.
 31 16.6 67.4 80 N. 4 3 — 10.9 4.8 
 Mitt. 15.4 59.2 79 6.0 — 8.2 65.4 5.5 
 Gewitter am 3., 25. 
-K K 
+ K K
 Winde Z Z 5} cc -Jl 02 £ * Z £ K s cc Z 
 Häufigk. 6 13 1 1 2 — — — 2 5 7 6 6 9 8 16 11 
 Meter pr. 
@@ -12902,12 +12900,12 @@ pr. Sek. 0-10 Cels. Cels. mm. Fuss.
 Mitt. 7.2 62.9 89 7.6 — —3.1 46.5 4.7 
 W 
 Winde W 
-W H £ 
-Z z z H CO H 
-W £ 
+ W H£
+ Zzz H CO H
+ W£
 rjl CO CO CO 
-& & z £ £ Z 
-K W CO CO CO CO £ Z z 
+&&z££ Z
+ K W CO CO CO CO£ Zz
 Häufigk. 12 6 4 I 2 3 3 10 7 15 12 3 4 5 3 2 
 Meter pr. 4.7 
 Sekunde. — 8.3 6.0 8.0 3.0 2.0 3.0 5.4 5.7 5.0 6.7 2.0 6.0 8.4 12.0 10.0 
@@ -12972,7 +12970,7 @@ pr. Sek. 0-10 Cels. Cels. Cels. - mm.
 Mitt. 0.4 55.3 87 8.3 8.0 —9.2 —11.5 80.4 
 Sturm am 4., 5., 11. 
 Winde £ 53 ES W 02 c/5 
-X & 
+ X&
 Häufigk. 17 1 3 6 2 l — 2 3 18 9 19 3 — 2 3 1 
 Meter pr. 
 Sekunde. — 4.0 4.7 2.7 3.0 2.0 — 4.0 5.3 4.4 3.7 3.7 5.3 — 100 7.0 14.0 
@@ -13038,7 +13036,7 @@ pr. Sek. 0-10 Cels. Cels. — mn^ Fuss.
 30 —4.2 47.3 92 0 .0 — —7.0 S. 4.0 5.5 
 Mi«. 1.0 55.4 88 9.0 - —9.3 77.4 5.3 
 Sturm am 2., 3., 4., 8., Gewitter am 4. 
-. £ 
+.£
 Winde Z W GG £ m cn £ z 
 z 
 Uänfigk. 4 3 4 2 1 4 1 1 4 20 6 10 5 13 3 2 7 
@@ -13133,7 +13131,7 @@ Mittelwerte. lh- Mittag. Temperatur.
 700 unu 
 Cels. Meter 
 rus-, 
-+ % pr. S-k. 0-10 Cels. Cels. - mm. F 11*8 
++%pr. S-k.0-10 Cels. Cels.-mm. F11*8
 1 —11.7 57.8 83 ESE. 2 3 —14 0 5.1 
 2 -8.2 60.2 91 S. 12 10 — -16.5 S. 1.5 5.2 
 3 -0.2 55.5 97 SSW. 4 10 — —2.9 s. 4.5 5.7 
@@ -13141,7 +13139,7 @@ rus-,
 5 2.2 53.1 100 SSW. 6 10 — 0.4 R. 3.0 5 2 
 6 4.7 47.2 95 SSW. 8 10 — 2.4 R. 0.2 5.6 
 7 4.6 34.8 91 SW. 14 10 2.7 R. 6.6 5.4 
-8 2 3 44.4 97 WSW. 2 3 — 0.9 R. 04 5.7 
+82344.497 WSW.23—0.9 R.045.7
 9 0.1 51 2 100 0 10 — — 0.9 RS. 2.4 5.3 
 10 — 1.1 58.6 87 WSW. 2 0 — —5 0 5.5 
 11 0.3 53.5 91 S. 6 10 —-4.6 5.2 5.2 
@@ -13199,7 +13197,7 @@ Dat. Januar Februar März April Mai Juni Juli August Sept. Oktob. Novemb. Dezemb
 1 1.2 -5.9 -7.9 -3.7 9.5 14.2 10.8 17.3 11.4 11.2 —0.0 -12.4 
 2 —1.4 —6.2 -2.7 —1.9 10.8 16.6 12.5 18.9 12.5 11.2 3.6 —9.5 
 3 —1.7 —5.3 -6.9 0.9 10.5 17.7 14.7 19.9 13.1 9.3 2.1 —0.5 
-4 — 4.0 0.4 -8.5 3.2 8.3 9.4 16.1 19.6 13.6 9.7 4.8 —0.1 
+4—4.00.4-8.53.28.39.416.119.613.69.74.8—0.1
 5 —6.3 —3.4 —9.7 2.9 7.5 9.9 13.9 17.8 13.4 10.4 2.8 2.0 
 6 —8.0 —4.3 -9.1 3.3 3.7 10.3 15.9 20.5 13.5 10.7 3.5 3.8 
 7 —9.1 -0.3 —7.7 4.3 5.3 9.6 16.2 20.8 12.0 10.9 2.2 3.9 
@@ -13391,7 +13389,7 @@ geringste Pegelhöhe, nämlich 2.4', trat ein am 9. Januar und
 am 30. und 31. März. Am 9. Januar herrschte ein starker 
 Südsturm, am 30. und 31. März wehten heftige Südostwinde. 
 Ad. Werner. 
-R e g e 1 n } 
+ Rege1n}
 für die 
 Benutzung der Bibliothek des Naturforscher-Vereins 
 zu Riga. 

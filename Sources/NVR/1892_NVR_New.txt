@@ -118,7 +118,7 @@ groben Steinzellen. Am 30. Juli wogen die Früchte im
 Durchschnitt 4,5 Grm., ihre Länge betrug 2,3 Cm., die der 
 Kerne l,o Cm. Das Gewicht stellte sich am 14. August auf 
 1 
-— 2 — 
+—2—
 5,i Grm., der Längsdurchmesser war um 0,i Cm. gewachsen. 
 Am 28. August war das Durchschnittsgewicht von 5,7 Grm. 
 und am 14. September von 6,9 Grm. erreicht. Wenn auch 
@@ -202,7 +202,7 @@ Periode 9,5 18,5 19,2 11,0 59,5 29,3
 Vergleicht man die beiden Tabellen miteinander, so lässt 
 sich aus den Zahlen der letzteren für die Lufttemperatur 
 1* 
-_ 4 — 
+_4—
 eine Relation mit dem Sinken und Steigen der unlöslichen 
 Trockensubstanz, der Extrakt- und Zuckermengen der Früchte 
 konstatieren. Multiplicirt man ferner die Zahlen der „relativen 
@@ -243,7 +243,7 @@ wenn das Reservelager im Mutterorganismus entsprechend
 erschöpft ist, worüber wahrscheinlich, je nach der Grösse 
 des Organismus des Gewächses und der Zahl der Früchte, 
 eine mehr oder weniger geraume Zeit verstreichen kann. 
-— 5 — 
+—5—
 Ich fand z. B., als ich die Mittel der meteorologischen Beob­
 achtungen der drei jedem Untersuchungstermine vorausge­
 gangenen Tage zum Vergleich heranzog, keine engere Be­
@@ -284,7 +284,7 @@ Aschengehalt, aber auch die freie Säure rapide steigen; nun
 ändert sich das Verhältnis, die Produktion an Säure über­
 wiegt relativ die der Asche, — sie hat ja auch eine wesent­
 liche Rolle zu spielen, mitzuwirken an der Umwandlung der 
-— 6 — 
+—6—
 Stärke in Zucker, der in stetem Wachsen begriffen ist, wäh­
 rend die Säure, erst mit dem Stärkemehl wachsend, dann 
 dieses überwiegend, es stetig in Zucker umwandelt. Obgleich 
@@ -324,7 +324,7 @@ eine lösliche Modifikation übergeht und damit auch einSteigen
 der unbestimmten Extraktivstoffe bedingt. Freilich ist dieses 
 nur eine Annahme, die erst auf experimentellem Wege zur 
 Geltung kommen könnte. 
-_ 7 — 
+_7—
 Der Stärkemehlgehalt hält gleichen Schritt mit der 
 Trockensubstanz und diese muss dann auch im Gegensatz 
 zum Wassergehalt stehen. Mit dem Wachsen der Gesamt­
@@ -402,7 +402,7 @@ wissen wir jedoch weit mehr. Aller Wahrscheinlichkeit nach
 entstammt er jenem Meteorstrom, der sich aus dem soge­
 nannten Bielaschen Kometen gebildet hat. Demnach wäre 
 er dann ein Teil jenes Weltkörpers oder jenes Komplexes 
-— 9 — 
+—9—
 von Körpern, der von irdischen Beobachtern aus einer Ferne 
 von Millionen Meilen bereits vor mehr als einem Jahrhundert 
 beobachtet worden ist! Es sei gestattet, an dieser Stelle 
@@ -443,8 +443,7 @@ Neapel. Die wahre Entfernung beider Kometenköpfe von
 einander betrug Mitte Januar 45, Mitte Februar 49, 
 Ende März 43 Erdradien, schwankte also zwischen 274000 
 und 310000 Kilometern. Im Jahre 1852 war die Stellung 
-- 1 0 -
-des Kometen zur Erde weit weniger günstig, indess gelang es 
+-10-des Kometen zur Erde weit weniger günstig, indess gelang es 
 doch, denselben wiederaufzufinden. Am 25. August fand Seechi 
 den einen, am 15. Septbr. den andern Kometenkopf; dieser 
 war im Vergleich zu 1846 um das Achtfache vom ersteren 
@@ -1596,7 +1595,7 @@ nicht zu viele Glieder hat. Z. ß. gegeben die Temperatur t,
 verlangt die kontinuierliche Registrierung von t2. — Der zweite 
 Satz lautet: Falls beliebige Variable t, u, v gegeben werden, 
 so kann jede beliebige Funktion derselben von der Form: 
-+ + 
+++
 II = qp(t) X i f j  00 x x ( v ) -  • • • selbstthätig registriert werden, 
 vorausgesetzt, dass die Funktion II innerhalb der zu registrie­
 renden Grenzen reell und stetig ist, dass ihr Krümmungs­
@@ -1752,7 +1751,7 @@ der Richtung SSO bei sternklarem Himmel eine Sternschnuppe,
 die während des Fluges in drei Lichtpunkte zerfiel, welche 
 wenig divergierend ihren Lauf neben einander fortsetzten. 
 Ort des Aufleuchtens a = 4h , d — 22°; Ort des Verlöschens 
-a — 6h 30m; d = 15°. Die Helligkeit der beiden äusseren 
+a—6h30m;d=15°. Die Helligkeitderbeidenäusseren
 Sternschnuppen war die eines Sternes zweiter Grösse. 
 13. Januar 1892. 
 An Naturalien waren eingegangen: von Herrn A. v, Grüne-
@@ -2730,13 +2729,13 @@ Mittelwerthe. lh- Mittag. Temperatur.
 Cels. russ. + p. See. 0-10 Cels. Cels. - mm. Fuss. 
 1 1.4 62.6 100 NNW. 2 9 1.5 — 0.5 R°. 3.6 
 2 1.0 61.0 85 WKW. 4 10 ; 1.3 — 0.7 3 9 
-3 — 6.6 67.1 90 S. 1 2 — 1.4 — 8.8 3.3 
-4 — 5.4 55.1 97 SSW. 3 10 - 4.0 — 9.0 S. 2.1 3.6 
-5 — 7.9 54.1 90 NE. 2 10 — 6.5 —10.2 3.8 
+3—6.667.190 S.12—1.4—8.83.3
+4—5.455.197 SSW.310-4.0—9.0 S.2.13.6
+5—7.954.190 NE.210—6.5—10.23.8
 6 —15.4 67.1 80 NE. 2 0 —10.8 —16.5 2.4 
 7 —15.3 69.1 81 E. 4 9 —13.0 —17.5 2.3 
-8 — 9.3 64.6 88 SE. 8 10 — 6.0 —15.0 S. 5.2 2.4 
-9 — 3.7 62-3 97 SSE. 3 10 — 4.0 — 5.3 s. 4.0 3.2 
+8—9.364.688 SE.810—6.0—15.0 S.5.22.4
+9—3.762-397 SSE.310—4.0—5.3s.4.03.2
 40 — 2.1 65.4 97 0 10 — 1.8 — 4.0 s. 3.2 3.7 
 11 — 3.9 69.1 91 0 10 — 3.0 — 5.3 s. 0.8 3.4 
 12 — 4.8 68.6 97 SSW. 3 10 — 4.5 — 5.3 s. 3.4 
@@ -2761,10 +2760,9 @@ Cels. russ. + p. See. 0-10 Cels. Cels. - mm. Fuss.
 31 — 1.4 65.9 90 SSW. 3 3 0.7 — 3.7 3.9 
 Mi ff. - 6.1 61.3 92 9.1 1.7 —17.5 j 36.9 3.6 
 Sturm am 14. u. 25. Schneegestöber am IL, 24.. 25., 26. u. 28. 
-i ^ . £ £ 
+i^.££
 Winde 55 !z a>/r,  VZ§  LÄ  3
-s ' m
-*  od £ C/2 £ Z Z I z z 
+s'm*  od £ C/2 £ Z Z I z z 
 Häufigk. 11 — ! 3 7 2 2 4 5 6 22 23 3 2 1 1 1 
 Meter pr. 
 Secunde. — — ; 3.0 3.2 4.0 3.7 3.8 3.6 4.7 2.5 2.0 4.0 2.o 
@@ -2791,20 +2789,20 @@ WWaasssseerrssttaanndd..
 O 
 OC 
 O» 
-i . 
+i.
 Station Dünamünde. Monat Januar 1891. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 700 mm Mtr. russ. 
 Cels. + p. See. 0-10 Cels. Cels. - mai. Fuss. 
 1 1.1 63.9 100 NNW 6 0 0.4 3.6 
 2 1.1 62.2 97 WNW. 8 9 — — R°. 4.0 
-3 — 6.1 68.8 99 SE. 4 1 —' — 3.3 
-4 — 5.4 56.6 100 SSE. 6 10 — — S. 2.8 3.7 
-5 — 7.7 55.6 100 ENE. 6 9 — 3.8 
+3—6.168.899 SE.41—'—3.3
+4—5.456.6100 SSE.610—— S.2.83.7
+5—7.755.6100 ENE.69—3.8
 6 —14.5 68.6 100 NE. 6 0 — — 2.4 
-7 — 14.5 70.8 100 E. 6 4 — — 2.4 
-8 — 8.7 65.9 100 SE. 15 10 — — 2.8 2.5 
-9 — 3.7 636 100 SSE. 6 10 — — S. 2.4 3.3 
+7—14.570.8100 E.64——2.4
+8—8.765.9100 SE.1510——2.82.5
+9—3.7636100 SSE.610—— S.2.43.3
 10 — 2.0 66.7 100 W. 2 10 —. — s. 3.3 3.9 
 11 — 4.2 70.7 100 SSW. 4 10 — — 1.0 3.4 
 12 — 4.5 70.0 100 s. 6 10 — — 3.4 
@@ -2831,8 +2829,8 @@ Miti. — 6.0 62.6 100 8.3 — — 39.9 3.6
 Sturm am 8., 14., 24. u. 25. Schneegestöber am 8., 11., 12., 19., 23., 
 25., 26. u. 28. 
 Winde Z Z 
-a S w co 53 ÖQ 
-Z Z H CO 0Q £ 
+a Swco53ÖQ
+ Z Z H CO0Q£
 Häufigk. 3 1 — 1 8 4 1 26 17 13 5 7 — 1 3 2 1 
 Meter pr. 
 Secunde. 8.0 — 6.o 4.4 5.o 1.0 8.9 5.7 6.2 5.6 7.7 — 2.0 6.7 5.0 6.0 
@@ -2860,13 +2858,13 @@ NNW.
 Station Riga. Monat Februar 1891. 
 Mittelw erthe. lh- Mittag. Temperatur. 
 700 mm. Mtr. russ. Cels. + p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 0.4 65.0 98 0 10 0.7 — 1.5 S. 6.5 4.1 
+1—0.465.0980100.7—1.5 S.6.54.1
 2 0.8 64.5 100 SSW. 1 10 1.5 0.0 RS. 2.2 4.0 
 3 1.2 57.7 98 SW. 3 10 1.7 1.0 RS. 4.7 
 4 0.4 54.7 88 WNW. 6 10 1.3 — 0.9 S. 0.6 4.9 
-5 — 2.3 62.7 89 NNE. 6 10 — 1.0 — 4.2 4.4 
-6 — 2.9 69.1 82 0 10 — 1.2 — 4.5 4.0 
-7 — 0.3 70.1 92 SW. 6 9 0.7 — 4.7 4.5 
+5—2.362.789 NNE.610—1.0—4.24.4
+6—2.969.182010—1.2—4.54.0
+7—0.370.192 SW.690.7—4.74.5
 8 1.6 67.2 96 sw. 6 10 1.7 1.0 R°. 4.6 
 9 1.1 68.1 100 0 10 1.5 1.0 * 4.1 
 10 — 0.6 64.7 90 SSW. 4 10 1.5 — 2.7 4.6 
@@ -2925,13 +2923,13 @@ B
 Cels. + # 
 Altr. russ. 
 p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 0.8 66.6 100 WNW. 2 10 S. 3.7 4.1 
+1—0.866.6100 WNW.210 S.3.74.1
 2 0.7 66.0 100 SW. 4 10 — — s. 1.8 4.0 
 3 1.2 58.6 100 SW. 8 10 — — RS. 1.5 4.7 
 4 0.4 56.1 100 NW. 10 9 — — s. 0.2 4.9 
-5 — 1.9 64.3 100 N. 12 10 — — 4.4 
-6 — 3.0 70.9 100 NW. 4 10 — — 4.1 
-7 — 0.2 71.6 100 SW. 10 9 — — 4.5 
+5—1.964.3100 N.1210——4.4
+6—3.070.9100 NW.410——4.1
+7—0.271.6100 SW.109——4.5
 8 1.6 68.5 100 SW. 8 10 — — R°. 0.3 4.7 
 9 1.1 69.5 100 SW. 4 10 — — 4.3 
 10 — 0.2 66.1 100 SW. 10 10 — — 4.7 
@@ -2984,15 +2982,15 @@ Station Riga. Monat März 1891.
 Mittelwerthe. lh- Mittag. Temperatur. 
 700mm. Mtr. russ. 
 Cels. + * p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 2.5 56.8 85 SSW. 14 10 — 1.0 — 8.0 3.9 
+1—2.556.885 SSW.1410—1.0—8.03.9
 2 3.3 42.9 94 SW. 10 10 4.5 — 0.5 5.6 
 3 1.8 46.1 86 SW. 8 9 3.0 — 0.5 So. 4.9 
 4 0.5 50.4 89 SSW. 4 9 3.0 — 1.7 S. 3.7 4.4 
 5 0.4 31.5 88 SW. 6 10 3.5 — 4.5 s. 1.7 5.4 
 6 0.2 40.1 76 w. 8 0 1.5 — 1.7 s. 2.7 5.6 
-7 — 0.8 40.0 79 SW. 14 6 2.5 — 2.7 s. 4.0 6.1 
-8 — 1.7 50.9 88 WNW. 8 8 1.7 — 4.3 s. 5.8 
-9 — 1.5 50-5 96 E. 2 10 0.7 — 5.0 s. 3.1 4.6 
+7—0.840.079 SW.1462.5—2.7s.4.06.1
+8—1.750.988 WNW.881.7—4.3s.5.8
+9—1.550-596 E.2100.7—5.0s.3.14.6
 10 — 2.9 55.2 94 NE. 1 10 — 1.2 — 5.0 s. 1.5 4.8 
 11 2.9 47.8 85 S. 4 8 5.5 — 2.3 4.9 
 12 3.9 50.7 90 SSW. 2 10 5.5 2.0 R. 0.7 5.4 
@@ -3017,7 +3015,7 @@ Cels. + * p. See. 0-10 Cels. Cels. - mm. Fuss.
 31 1.2 48.3 83 SW. 2 8 3.5 — 0.5 SO. 5.1 
 Witt. — 0.2 50.8 86 7.0 5.5 —10.8 28.5 4.8 
 Sturm am 1., 2., 5., 6. u. 7. Schneegestöber am 5. 
-3 £ 
+3£
 Winde Ä 3Q 
 H OD 
 £ 25 
@@ -3049,15 +3047,15 @@ Mittelwerthe. lh- Mittag. Temperatur.
 Cels. + p. See. 0-10 
 russ. 
 Cels. Cels. - mm. Fuss. 
-1 — 2.7 57.5 95 SSW. 18 8 Ro. 0.4 3.8 
+1—2.757.595 SSW.188 Ro.0.43.8
 2 3.4 43.4 100 SW. 15 10 — — 5.5 
 3 1.7 46.8 100 WSW 10 9 — — 4.9 
 4 0.2 51.6 99 SW. 10 8 — — S. 7.1 4.1 
 5 0.0 32.5 99 WSW. 8 9 — — S. 1.5 5.5 
 6 0.2 41.3 93 NW. 8 0 — — S. 5.1 5.6 
 7 0.1 41.3 96 W. 15 7 — — S. 3.6 6.2 
-8 — 2.1 51.8 98 NW. 12 10 — — S. 0.3 5.7 
-9 — 1.5 51.6 100 SE. 6 10 — — s. 2.4 4.6 
+8—2.151.898 NW.1210—— S.0.35.7
+9—1.551.6100 SE.610——s.2.44.6
 10 — 4.1 56.4 100 ENE. 4 10 — — s. 2.6 4.8 
 11 3.5 48.7 95 SSE. 8 4 — — Ro. 4.9 
 12 3.7 51.4 100 S. 6 10 — — RO. 0.6 5.4 
@@ -3110,12 +3108,12 @@ mmeennggee..
 Station Riga. Monat April 1891. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 700 mm. % Mtr. russ. Cels. + p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 0.6 51.3 79 SW. 2 10 1.7 — 3.5 S. 5.2 
-2 — 0.4 55.2 84 NNW. 4 10 2.0 — 4.1 S. 3.0 4.9 
+1—0.651.379 SW.2101.7—3.5 S.5.2
+2—0.455.284 NNW.4102.0—4.1 S.3.04.9
 3 1.0 58.6 79 N. 4 0 3.0 — 1.5 4.7 
-4 — 0.2 63.8 63 NNE. 4 0 2.5 - 3.0 4.4 
-5 — 1.1 66.8 60 ESE. 6 0 1.5 — 6.2 3.9 
-6 — 0.0 67.9 57 ESE. 6 1 2.5 — 3.3 3.8 
+4—0.263.863 NNE.402.5-3.04.4
+5—1.166.860 ESE.601.5—6.23.9
+6—0.067.957 ESE.612.5—3.33.8
 7 1.7 67.0 62 ESE. 6 4 5.0 — 2.0 3.7 
 8 3.7 67.8 65 ESE. 6 10 5.5 — 0.5 3.4 
 9 3.5 69.4 61 E. 5 9 6.1 — 0.3 3.4 
@@ -3167,11 +3165,11 @@ WWaasssseerrssttaanndd..
 Station Dünamünde. Monat April 1891. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 700 mm % Mtr. russ. Cels. + p. See. 0-10 Cels. Cels. - mm. Fus8. 
-1 — 0.9 52.5 99 NW. 6 10 So. 5.0 
-2 — 1.1 56.5 99 NNW. 4 7 — — S. 2.4 4.6 
+1—0.952.599 NW.610 So.5.0
+2—1.156.599 NNW.47—— S.2.44.6
 3 1.0 59.8 98 NNW. 6 0 — — 4.4 
-4 — 0.3 64.9 92 NE. 6 0 — — 4.0 
-5 — 0.9 68.4 78 E. 4 0 — — 3.7 
+4—0.364.992 NE.60——4.0
+5—0.968.478 E.40——3.7
 6 0.4 69.6 76 SSE. 6 0 — — 3.6 
 7 1.5 68.5 83 SE. 6 0 — — 3.5 
 8 2.7 69.2 89 SE. 4 9 — — 3.3 
@@ -3265,7 +3263,7 @@ Mitf. 11.9 56.2 70 5.5 27.5 — 1.3 62.3 5.0
 Sturm am 2.. 4., IL, 14., 15., 18. u. 23. Gewitter am 20., 23.. 24., 25. u, 27. 
 3 
 Winde '-J2 Z 
-3 i [2 cd 
+3i[2cd
 OQ z z Z K CQ £ z 
 Uäafigk. 10 15 7 3 — — 3 3 2 6 14 19 1 1 — 2 7 
 Meter pr. 
@@ -3658,9 +3656,9 @@ a>
 O 
 CO 
 Cs-Ol  
-s O 
-2 a 
-§ ® 
+s O
+2a
+§®
 sb>ß  
 03 
 700ram. russ; 
@@ -3729,7 +3727,7 @@ S0-5.  r—N
 o£ 
 ® 
  o_  
-s ® 
+s®
 700 mm. Mtr. 
 Cels. + % p. Soe (1-10 Cels. Cels. - mm. 
 russ. 
@@ -3997,9 +3995,9 @@ Mittelwerthe. lh- Mittag. Temperatur.
 2 5.7 71.8 95 W. 3 8 7.5 — 0.2 4.6 
 3 4.3 65.8 90 SW. 3 10 5.5 2.0 0.6 4.5 
 4 0.6 63.0 65 NE. 4 0 4.5 — 2.5 RS. 3.9 
-5 — 1.1 65.6 77 SW. 6 10 — 0.8 — 4.5 S°. 4.6 
+5—1.165.677 SW.610—0.8—4.5 S°.4.6
 6 0.9 63.7 73 NNE. 4 3 3.5 — 4.5 R. 1.5 4.5 
-7 — 2.1 68.9 77 SSW. 4 4 — 1.0 — 7.0 0.6 4.5 
+7—2.168.977 SSW.44—1.0—7.00.64.5
 S 4.3 63.8 95 WSW. 3 8 6.3 — 0.5 R. 4.7 
 9 2.6 64.0 98 S. 2 8 3.9 0.5 4.0 
 10 0.3 61.8 82 s. 4 3 1.1 — 2.5 3.5 
@@ -4060,7 +4058,7 @@ Cels. + % p. See. 0-10 Cels. Cels. - mm. Fuss.
 4 1.9 64.5 78 NE. 6 0 — — S. 0.5 3.6 
 5 2.1 67.0 94 WSW. 8 9 — — 4.4 
 6 2.1 65.6 89 NE. 6 8 — — R. 3.1 4.2 
-7 — 1.5 70.2 99 SSW. 8 4 — — 0.6 4.0 
+7—1.570.299 SSW.84——0.64.0
 8 5.7 65.3 100 W. 6 7 — — R. 0.3 4.5 
 9 2.7 65.4 100 SSE. 6 8 — — 3.9 
 10 0.7 63.2 95 SSW. 8 2 — — 3.5 
@@ -4113,9 +4111,9 @@ NNW. WWaasssseerrssttaanndd..
 Station Riga. Monat Dezember 1891. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 700mm. Mtr. 0-10 russ. Cels. + p. See. Cels. Cels. - mm. Fuss. 
-1 — 3.5 62.3 100 s. 2 10 — 1.5 — 5.0 3.9 
-2 — 0.4 60.9 100 SW. 1 10 — 0.4 — 2.5 0.2 4.1 
-3 — 0.2 62.6 100 0 10 — 0.0 — 1.0 3.9 
+1—3.562.3100s.210—1.5—5.03.9
+2—0.460.9100 SW.110—0.4—2.50.24.1
+3—0.262.6100010—0.0—1.03.9
 4 2.3 54.4 100 SSW. 5 10 3.9 — 0.5 R. 2.0 3.8 
 5 3.9 56.0 95 WSW. 3 10 4.1 2.6 0.2 4.5 
 6 6.0 47.3 99 SSW. 2 10 6.3 3.8 R. 5.0 4.5 
@@ -4171,9 +4169,9 @@ Station Dünamünde. Monat Dezember 1891.
 Mittelwerthe. lh- Mittag. Temperatur. 
 700 inm. Mtr. russ. 
 Cels. + /O p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 3.4 63.7 100 SSE. '3 10 3.7 
-2 — 0.7 62.4 100 SSW. 2 10 — — 4.1 
-3 — 0.4 63.9 100 SSE. 3 10 — — 3.8 
+1—3.463.7100 SSE.'3103.7
+2—0.762.4100 SSW.210——4.1
+3—0.463.9100 SSE.310——3.8
 4 2.8 55.5 100 SSW. 8 10 — — R. 3.4 3.9 
 5 4.6 57.5 100 SW. 6 10 — — 4.6 
 6 6.9 48.1 100 SW. 6 10 — — R. 8.1 4.6 
@@ -4259,8 +4257,8 @@ Dünamünde . . . + 62.6 66.1 51.8 62.8 57.6 60.0
 —"T 
 o 
 o 
-o o 
-o o 
+oo
+oo
 —c -r
 Juli. August. Septbr. Oktbr. Novbr. Dezbr. Jahr. 
 wahrscheinl. Mittel . 56.8 56.7 59.0 59.7 58.4 58.2 58.3 
@@ -4316,15 +4314,15 @@ Erdtemperatiir
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 Januar 1891. 
 0.10m 0.20 m 0.40 m 0.80 m 1.10m 1.60 m 2.80 m 
-1 — 0.6 — 1.4 — 1.7 0.0 3.6 
-2 — 0.3 — 0.7 — 0.9 0.0 3.5 — 
-3 — 4.8 — 2.2 — 0.8 0.0 1 « I 3.5 — 
-4 — 6.3 — 5.4 — 2.8 0.0 3.4 — 
-5 — 4.6 — 3.9 — 2.8 0.0 3.4 — 
-6 — 9.7 — 6.8 — 3.7 0.0 1.0 3.4 — 
+1—0.6—1.4—1.70.03.6
+2—0.3—0.7—0.90.03.5—
+3—4.8—2.2—0.80.01« I3.5—
+4—6.3—5.4—2.80.03.4—
+5—4.6—3.9—2.80.03.4—
+6—9.7—6.8—3.70.01.03.4—
 7 —13.0 —10.4 — 6.3 0.0 0.9 3.3 — 
 8 —10.8 — 9.9 - 7.0 — 0.3 0.8 3.3 — 
-9 — 5.2 — 6.0 — 5.2 — 0.8 0.5 3.3 — 
+9—5.2—6.0—5.2—0.80.53.3—
 10 — 3.6 — 3.4 — 3.9 — 0.6 0.6 3.2 — 
 11 — 3.1 — 3.1 — 2.5 — 0.3 0.6 3.1 — 
 12 — 3.6 — 3.3 — 2.3 — 0.3 0.7 3.0 — 
@@ -4354,13 +4352,13 @@ Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 Februar 1891. 
 0.10 m 0.20 m 0.40 m 0.80 m 1.10 m 1.60 m 2.80 m 
-1 — 2.0 — 2.0 — 1.5 — 0.4 0.2 2.4 
-2 — 1.2 — 1.4 — 1.3 — 0.3 0.2 2.3 — 
-3 — 0.1 — 0.5 — 0.8 — 0.3 0.3 2.3 — 
-4 — 1.4 — 0.6 — 0.7 — 0.2 0.3 2.3 — 
-5 — 1.1 — 0.5 — 0.4 — 0.1 0.3 2.4 — 
-6 — 2.2 — 1.6 — 0.7 — 0.7 0.3 2.4 — 
-7 — 4.2 — 3.1 — 1.3 — 1.3 0.3 2.3 — 
+1—2.0—2.0—1.5—0.40.22.4
+2—1.2—1.4—1.3—0.30.22.3—
+3—0.1—0.5—0.8—0.30.32.3—
+4—1.4—0.6—0.7—0.20.32.3—
+5—1.1—0.5—0.4—0.10.32.4—
+6—2.2—1.6—0.7—0.70.32.4—
+7—4.2—3.1—1.3—1.30.32.3—
 8 0.0 — 0.7 — 0.9 — 0.1 0.3 2.3 — 
 9 0.1 — 0.2 — 0.5 — 0.1 0.4 2.3 — 
 10 0.0 — 0.1 — 0.4 — 0.1 0.4 2.3 — 
@@ -4388,7 +4386,7 @@ Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 März 1891. 
 0.10 m 0.20 m 0.40 m 0.80 m 1.10 m 1.60m 2.80 m 
-1 — 6.9 — 4.9 — 2.7 — 0.3 0.4 2.1 
+1—6.9—4.9—2.7—0.30.42.1
 2 0.1 — 1.2 — 1.8 — 0.4 0.4 2.1 — 
 3 0.1 — 0.2 — 0.7 — 0.2 0.4 2.1 — 
 4 0.1 0.0 — 0.3 — 0.1 0.4 2.1 — 
@@ -4396,7 +4394,7 @@ März 1891.
 6 0.1 0.1 — 0.1 0.0 0.5 2.1 — 
 7 0.1 0.2 — 0.1 0.0 0.5 2.1 — 
 8 0.0 0.1 0.0 0.0 0.5 2.1 — 
-9 — 0.5 0.0 0.0 0.0 0.5 2.1 — 
+9—0.50.00.00.00.52.1—
 10 — 0.1 — 0.1 0.0 0.0 0.5 2.1 — 
 11 — 0.1 — 0.2 0.0 0.0 0.5 2.1 — 
 12 0.2 0.0 0.0 0.0 0.5 2.1 — 
@@ -4425,7 +4423,7 @@ Erdtemperatnr
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 April 1891. 
 0.10 m 0.20 m 0.40 m 0.80 m 1.10m 1.60 m 2.80 m 
-1 — 0.4 0.1 0.1 0.0 0.7 2.1 3.8 
+1—0.40.10.10.00.72.13.8
 2 0.1 0.0 0.1 0.1 0.7 2.1 3.8 
 3 0.1 0.0 0.1 0.1 0.7 2.1 3.8 
 4 0.0 0.1 0.1 0.1 0.7 2.1 3.8 
@@ -4720,15 +4718,15 @@ Erdtemperaftnr
 um 7 Uhr Morgens in Friedriehshof bei Riga. 
 Dezember 1891. 
 0.10m 0.20 m 0.40 m 0.80 m 1.10 m 1.60m 2.80 m 
-1 — 2.2 — 0.0 0.3 2.6 3.6 5.9 7.8 
-2 — 1.3 — 0.6 0.5 2.6 3.5 5.7 7.8 
-: 3 — 1.0 - 0.2 0.4 2.6 3.4 5.6 7.8 
-4 — 0.5 — 0.1 0.5 2.6 3.4 5.6 7.8 
-5 — 0.4 — 0.0 0.5 2.5 3.4 5.6 7.8 
-6 — 0.1 o.l 0.6 2.5 3.4 5.5 7.7 
-7 — 0.1 0.1 0.5 2.4 3.4 5.5 7.7 
-8 — 0.5 0.1 0.5 2.4 3.4 5.5 7.6 
-1 9 — 0.6 0.2 0.6 2.4 3.3 5.4 7.6 
+1—2.2—0.00.32.63.65.97.8
+2—1.3—0.60.52.63.55.77.8
+:3—1.0-0.20.42.63.45.67.8
+4—0.5—0.10.52.63.45.67.8
+5—0.4—0.00.52.53.45.67.8
+6—0.1o.l0.62.53.45.57.7
+7—0.10.10.52.43.45.57.7
+8—0.50.10.52.43.45.57.6
+19—0.60.20.62.43.35.47.6
 10 — 0.6 0.2 0.7 2.3 3.3 5.4 7.5 
 11 — 0.5 0.7 2.3 3.2 5.3 7.5 
 12 1.6 1.3 1.2 2.2 3.2 5.3 7.4 
@@ -4807,7 +4805,7 @@ Ausgegrabenes Schilf bei Treiden (Vgl. 18 19 10°, 2441.
 Ausgrabungen am Burtneeksee siehe Geologie. 
 Axolotl-Zucht 19 94 20 107, 21 23 50 108, 3137, 32 14, 33 25. 
 Azotometer 18 43. 
-B .  
+ B. 
 Badeschlamm von Kemmern und Arensburg 23169 
 Bakterien 18 39 114 3416. 
 Barometer, Aneroid u. a. siehe Meteorologie. 
@@ -4817,8 +4815,7 @@ Bäume, abnorme, siehe Monstrositäten.
 „ „ Schinzheimer Effe Ulmus campestris 231 
 „ Pflege derselben 22 2 
 Baumfluss s. g. i. d. Düna 16 5. 
-_ 4 -
-Behaarte Menschen siehe Monstrositäten. 
+_4-Behaarte Menschen siehe Monstrositäten. 
 Bekassinen, Meckern ders. 22 29. 
 Bergstürze 27 18 19. 
 Bernstein 17 '3, 19 25 26 21. 
@@ -4873,7 +4870,7 @@ Dichtigkeit der Erde, Bestimmung ders. 28 23.
 Dickhäuter, diluviale 25 18. 
 Dimorphismus im Tierreich 19 26. 
 Doppeltsehen 22 17 24. 
-— 5 — 
+—5—
 Düna, Bohrungen in ders. ) 
 Gefälle | siehe Geologie. 
 Dünen ) 
@@ -4929,11 +4926,11 @@ Fälschung von Nahrungsmitteln 18 4.
 Farbenblindheit 17 5 6, 23 135. 
 Farben, Abhängigkeit derselben von ihrer Intensität 25 35. 
 Farbiges Licht, dessen Photometrie 25 40. 
-— 6 — 
+—6—
 Farne Madeiras 23 86. 
 Faulen der Früchte 16 58. 
 Fauna der Ostseeprovinzen, siehe die einzelnen Klassen. 
-„ „ „ v. Seidlitz (angezeigt) 18119 19143 
+„„„v. Seidlitz(angezeigt)1811919143
 „ „ Hamburger Wasserleitung 3021. 
 „ lepidopterologica von W. v. Nolcken (angezeigt) 19 24 
 Faure — Element 25 29 
@@ -4961,7 +4958,7 @@ Flamme, Eigenschaften derselben 23 6°.
 Flammen, Natur schwach leuchtender 26 38. 
 Fliegen der Vögel 28 17 
 Flora der Ostseeprovinzen, Beiträge zu derselben 2033 1S1, 21 108. 
-„ „ „ desiderata aus derselben 2651. 
+„„„desiderataausderselben2651.
 „ Rigas 16 55, 1734, 18 97, 19 w. 
 v Phanerogamen: 
 „ Colchicum autumnale 19 110. 21105. 
@@ -5040,7 +5037,7 @@ Skeletten von L. Pfeiffer 22 101.
 Vögeln und Vogeleiern von G. Berg, O. Hauffe, v. Hertzberg, 
 O. v. Loewis, Sodoffsky 18 i*3, 191«8, 21» 22^ 19<>, 24« &2 •»&, 
 25«, 29 5, 33«. 
-— 8 — 
+—8—
 0. Diversen Naturalien. 
 C. Berg, H. v. Eitz, Dr. Felsko, Fräulein Grunwald, K. Lange, Ferd. 
 Müller, Müthel, N. Neese, W. v. Nolcken 198, 21102 22 93 231 5 17 
@@ -5094,8 +5091,7 @@ Infusorienerde betr. Anfrage 17 15.
 Insekten siehe Käfer und Lepidopteren. 
 „ Heerwurm 23124. 
 ,, Libellula 4-maculata 17 3. 
-— 9 -
-Insekten, Haftlappen derselben 28 u. 
+—9-Insekten, Haftlappen derselben 28 u. 
 „ Larven im Menschen 18166. 
 „ Selbstfänger 21 17 38. 
 „ Wanderheuschrecke 20 69. 
@@ -5197,7 +5193,7 @@ Meteorologie, Beobachtungen in Riga 1634.
 „ Instruktion für die Stationen 19 121. 
 „ Instrumente 17 12; Anemometer 27 22, 32 27. 
 „ Barometer 17 5, 18 14*, 22 2<>. 24^2. 
-„ „ 21 itß 289. 3228. 
+„„21itß289.3228.
 „ „ Erdthermometer 23 137. 
 „ „ Hygrometer, Regnaultsches 185. 
 „ „ Maximum- und Minimum-Thermometer 191G5. 

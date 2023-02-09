@@ -108,7 +108,7 @@ grosse Verdienste erworben, 40 Jahre hindurch zeigte er
 dieselben dem Publicum. Nachdem die Mineralien geordnet 
 waren, benutzte er sie zum Unterrichte der pharmaceutischen-
 Korr.-Bl. der N.-V. XXV. I. J 
-— 2 — 
+—2—
 Lehrlinge in der Mineralogie, welchen er, nebst dem bota­
 nischen Unterrichte, mit Exkursionen verbunden, Jahre lang 
 fortsetzte; Schreiber dieses denkt noch mit Vergnügen jener, 
@@ -226,7 +226,7 @@ messen.
 Der Lebensgang des Verewigten, in der Abgeschlossen­
 heit eines ländlichen Pastorats (Pussen in Kurland) zurück­
 gelegt, bietet kaum Stoff zu näherer Betrachtung. Anregung 
-— 5 — 
+—5—
 zur Naturbeobachtung hatte er schon auf dem Mitauer Gym­
 nasium und auf der Dorpater Universität erhalten, mehr noch 
 während eines zweijährigen Aufenthalts in Deutschland und 
@@ -1114,11 +1114,11 @@ und als Zeiteinheit die Zeitsekunde = S.
 Hieraus ergiebt sich als Einheit der Geschwindigkeit die­
 jenige, welche in der Zeiteinheit eine Strecke gleich der 
 Längeneinheit zurücklegt 
-V = £. 
+ V=£.
 s 
 Die Beschleunigungseinheit ist die Zunahme der Ge­
 schwindigkeit um eine Einheit in der Sekunde 
-V C 
+ V C
 Beschleunigungseinheit — ~g~ — gs* 
 Die Krafteinheit (Dyne) ist die Kraft, welche der Massen­
 einheit die Beschleunigung 1 erteilt, 
@@ -1662,12 +1662,12 @@ ten Lichtstärke des viereckigen Spalts. Vierordt bekam für
 die relative Lichtstärke des Sonnenspektrums, ziemlich überein­
 stimmend mit Frauenhofer, folgende Zahlen: 
 bei B 0,022 
-„ C 0,128 
-„ D 0,78 i 
+„ C0,128
+„ D0,78i
 zwischen D u. E l,oo 
 bei E 0,37 
-„ F 0,128 
-„ G 0,oo8 
+„ F0,128
+„ G0,oo8
 „ H' 0,0007 
 Der Vortrag wurde durch Experimente erläutert. 
 Deutsche See warte. Fabrikdirektor Seidler gab 
@@ -1982,8 +1982,7 @@ Horae entomologicae XIV.
 Tpyjua X. 
 109) Petersburg. Oöm.ecTBO ecTecTBOHcnH'iaTejiei. 
 TpyÄu VIII. 
-- s o -
-110) Petersburg. Medico-chirurgische Akademie. 
+-so-110) Petersburg. Medico-chirurgische Akademie. 
 Protokolle für 1879. 
 Dissertationen für 1881. 
 111) Philadelphia. American phil. Society. 
@@ -2438,7 +2437,7 @@ normale Bewegung. Es muss somit in der Ebene pOq eine
 Reihe von Punkten geben, bei denen die beiden entgegen­
 gerichteten Bewegungen sich aufheben und eine Geschwin­
 digkeit gleich Null ergeben. Der Ort eines solchen Punktes 
-T Q 
+ T Q
 P ist gegeben durch die Gleichung pr—qo oder ~~ wo­
 bei r die Entfernung des Punktes P von der Axe Op und 
 q die Entfernung desselben von der Axe Oq bedeutet. Die 
@@ -2461,14 +2460,14 @@ tirenden Drehung ihre ursprünglichen Geschwindigkeiten
 (niedergehend) verbleiben. 
 Für den Punkt B besteht daher die Relation (s. Fig. 2) 
 q.d—Q,e 
-, 0 d sin a 
+,0dsina
 oder —y. 
-q e sm p 
+qesmp
 und für den Punkt C : 0g =-p ./ 
 p g sin y 
 & f sin cc 
 Aus den Gleichungen folgt weiter 
-0 : q : p — sin cc: sin ß: sin y 
+0:q:p—sincc:sinß:siny
 d. h. genau die bekannte Relation, welche beim Parallelo­
 gramm zwischen der Diagonale und den beiden Seiten einer­
 seits und den von ihnen gebildeten Winkeln andererseits 
@@ -2516,7 +2515,7 @@ das Pendel gar keinen Einfluss ausübt, die erste Komponente
 (p) aber sich voll auf die Schwingungsebene des Pendels 
 überträgt, so folgt für die scheinbare Drehung der Schwin­
 gungsebene aus dem Parallelogramm unmittelbar (s. Fig. 3) 
-p — 0 sin (p q . e . d. 
+p—0sin(pq.e.d.
 Nachschrift. Nachdem die obige Mittheilung im Natur­forschenden Verein gemacht war, habe ich bei Durchforschung 
 der Literatur gefunden, dass der Beweis in ähnlicher Weise 
 von Dr. W. Schell in seiner Theorie der Bewegung und der 
@@ -2564,15 +2563,15 @@ Station Riga. Monat Januar 1881.
 Mittelwerth e. Lufttemp.
 700 mm Mtr. engl. 
 Cels. + p. See. 0-10 Cels. Cels. R—s mm. Fuss. 
-1 — 0.1 58.9 89 SW. 4 7 — 1.9 6.5 
-2 + 1.7 63.0 91 SW. 5 10 — — 1.3 R. 0.4 6.6 
-3 + 3.1 63.3 94 sw. 5 10 — + 2.5 0.5 6.7 
+1—0.158.989 SW.47—1.96.5
+2+1.763.091 SW.510——1.3 R.0.46.6
+3+3.163.394sw.510—+2.50.56.7
 4 4- 2.6 58.4 89 SW. 6 10 — + 2.5 R. 6.9 
-5 + 0.2 63.6 84 NW. 5 5 — — 0.9 6.6 
-6 — 0.8 72.1 82 NW. 3 3 — — 2.9 6.3 
-7 — 0.4 59.1 79 NNW. 9 6 — — 2.9 1.0 7.3 
-8 — 5.0 56.9 84 NE. 6 10 — —11.5 S. 1.6 7.0 
-9 — 4.6 55.0 80 SW. 5 10 — — 11.1 S. 3.7 5.8 
+5+0.263.684 NW.55——0.96.6
+6—0.872.182 NW.33——2.96.3
+7—0.459.179 NNW.96——2.91.07.3
+8—5.056.984 NE.610——11.5 S.1.67.0
+9—4.655.080 SW.510——11.1 S.3.75.8
 10 — 5.5 38.9 89 NW. 3 8 — — 7.9 s. 0.4 6.0 
 11 —11.7 47.4 75 NW. 3 10 — -14.7 s. 1.0 6.3 
 12 —15.6 56.9 82 NNE. 1 8 — -20.1 6.0 
@@ -2624,15 +2623,15 @@ Station Dünamünde. Monat Januar 1881.
 Mittelwerth e. Lufttemp.
 700 mm. Mtr. Fuss 
 Cels. •+• p. See. 0-10. Cels. Cels. E-S mm. engl. 
-1 + 0.2 58.7 91 SW. 7 6 6.0 
-2 + 1.8 62.8 90 SW. 11. 10 — — 0.5 6.3 
-3 + 2.4 62.7 93 SW. 6 10 — — 6.0 
-4 + 2.6 58.5 92 WSW. 6 7 — — 6.0 
+1+0.258.791 SW.766.0
+2+1.862.890 SW.11.10——0.56.3
+3+2.462.793 SW.610——6.0
+4+2.658.592 WSW.67——6.0
 5 4- 0.6 63.3 92 NNW.12 5 — — S. 0.7 6.1 
-6 + 0.0 72.2 93 NNW. 9 2 — — 5.4 
+6+0.072.293 NNW.92——5.4
 7 4- o.i 58.9 82 N W .  16 6 — — S. 2.0 6.6 
-8 — 4.0 56.8 82 N. 13 10 — — s. 0.4 6.6 
-9 — 4.3 54.8 85 WSW 10 9 — — s. 5.5 5.5 
+8—4.056.882 N.1310——s.0.46.6
+9—4.354.885 WSW109——s.5.55.5
 10 — 4.4 38.3 94 NNW. 14 8 — — s. 1.7 5.7 
 11 —11.6 47.3 77 NNW. 7 10 — — s. 1.5 5.4 
 12 —17.1 56.8 90 SSE. 5 8 — — s. 0.1 5.3 
@@ -2681,13 +2680,13 @@ Mittel w«rtb e. Lutttenp.
 700mm. % Mtr. Cels. + p. See. 0-10 
 Fuss 
 Cels. Cels. R-S mm. engl. 
-1 — 1.6 56.0 95 s. 2 10 - 2.5 | RS. 4.2 
-2 4 0.6 58.2 96 SW. 1 10 — — 2.5 i 2.6 4.7 
-3 — 0.5 61.1 93 SW. 1 10 — - 0.3 j S. 4.7 
-4 — 2.5 61.1 94 0 10 — - 4.1! s. 6.3 4.4 
-5 — 3.0 56.7 94 s. 4 10 — — 3.5! s. 4.0 
-6 — 5.6 52.9 93 s. 5 8 — — 8.3!! 4.0 
-7 — 7.4 55.5 93 N. 1 8 — —13.3! s. 1.8 4.7 
+1—1.656.095s.210-2.5| RS.4.2
+240.658.296 SW.110——2.5i2.64.7
+3—0.561.193 SW.110—-0.3j S.4.7
+4—2.561.194010—-4.1!s.6.34.4
+5—3.056.794s.410——3.5!s.4.0
+6—5.652.993s.58——8.3!!4.0
+7—7.455.593 N.18——13.3!s.1.84.7
 8 —10.8 58.3 83 SE. 4 4 — — 16.1 s. 1.1 4.3 
 9 4" 0.3 47.0 93 S. 4 10 —. — 7.1 s. 1.3 4.0 
 10 — 0.1 43.5 93 SW. 3 10 _ — 0.3 5.1 4.7 
@@ -2711,11 +2710,11 @@ Cels. Cels. R-S mm. engl.
 28 —11.2 65.0 73 SW. 3 5 ! —16.7 3.9 
 — 5.2 62.1 88 7.2 —16.7 22.7 4.2 
 Am 7. und 9. Graupeln; am 14. und 26. Schneegestöber. 
-3 3 
+33
 Winde . . . £ a 55 W CO £ 55 CG £ 
 "A 55 
 H CO 
-K s CO CO CO £ 
+ Ks CO CO CO£
 Häufigkeit . . 22 2 2 6 1 3 4 4 18 6 12 — 1 3 
 Stärke in Mtr.) 
 — 2.5 3.5 2.2 1.0 3.o 2.3 1.3 3.o 3.2 3.0 — 4.0 1.7 pr. See. | ~~ 
@@ -2741,18 +2740,18 @@ o00  OD
 u SH ® 
 TS <a TS tn a 00 
 £ (ö 
-£ £ 
+££
 700mm. Mtr. Fuss 
 Cels. + p. See. 0-10 Cels. Cels. E—s mm. engl. 
-1 — 1.6 55.7 95 SSE. 5 10 R. 1.5 4.3 
-2 + 0.7 58.0 94 SW. 5 10 — — R. 2.6 4.6 
-3 — 0.8 60.4 93 WNW. 5 10 — — S. 0.6 4.5 
-4 — 4.0 60.8 94 E. 4 10 — — s. 9.0 4.1 
-5 — 3.5 56.7 91 S. 10 10 — — s. 0.1 4.5 
-6 — 6.5 53.1 89 SSE. 7 9 — — 0.7 3.9 
-7 — 8.1 55.7 96 NNW. 7 7 — — s. 2.5 4.4 
+1—1.655.795 SSE.510 R.1.54.3
+2+0.758.094 SW.510—— R.2.64.6
+3—0.860.493 WNW.510—— S.0.64.5
+4—4.060.894 E.410——s.9.04.1
+5—3.556.791 S.1010——s.0.14.5
+6—6.553.189 SSE.79——0.73.9
+7—8.155.796 NNW.77——s.2.54.4
 8 —10.7 58.4 81 SSE. 7 9 — — 2.0 3.8 
-9 + 0.3 47.6 92 SSE. 14 10 — — 2.0 3.9 
+9+0.347.692 SSE.1410——2.03.9
 10 — 0.2 43.5 93 SW. 5 10 — — 3.0 4.2 
 11 + 1.5 32.4 92 SSE. 11 10 — — RS. 2.5 3.9 
 12 — 1.7 44.4 82 SW. 5 10 — — 4.8 
@@ -2777,7 +2776,7 @@ Winde . . '-*3 w H ES CG z z cn CQ £ K CC cc £
 Häufigkeit. — — 9 3 1 17 24 7 2 12 3 — 1 2 3 
 Stärke in 
 Mtr.p.Sec. — — 9a 3.3 4.o — 5.0 7.0 6.9 7.0 6.7 4.0 — 6.0 12.0 5.3 
-B .  
+ B. 
 DDDaaatttuuummm   nnneeeuuueeennn   SSStttyyylllsss...   
 Lufttemp. 
 Barometer. 
@@ -2804,14 +2803,14 @@ tu I
 £ 
 700 mm Mtr. engl. 
 Cels. 4 % p. See. 0-10 Cels. Cels. R—S mm. Fuss. 
-1 — 4.0 55.3 91 s. 8 10 —14.0 s. 1.1 3.6 
-2 — 5.6 65.1 83 SW. 3 6 — — 8.6 s. 0.1 4.5 
-3 — 8.0 70.6 90 NE. 1 10 — —12.2 S. 0.4 4.0 
-4 — 4.9 65.8 89 0 10 — — 8.6 S. 3.5 
-5 — 6.0 65.5 81 NE. 1 8 — — 7.6 3.4 
-6 — 7.2 62.4 94 0 10 — —10.8 0.3 3.5 
-7 — 9.0 60.6 84 SSW. 2 7 — —12.1 S. 3.6 
-8 — 4.0 48.1 98 s. 4 10 — -14.6 RS. 12.4 3.2 
+1—4.055.391s.810—14.0s.1.13.6
+2—5.665.183 SW.36——8.6s.0.14.5
+3—8.070.690 NE.110——12.2 S.0.44.0
+4—4.965.889010——8.6 S.3.5
+5—6.065.581 NE.18——7.63.4
+6—7.262.494010——10.80.33.5
+7—9.060.684 SSW.27——12.1 S.3.6
+8—4.048.198s.410—-14.6 RS.12.43.2
 9 4- 0.5 47.6 99 SW. 3 10 — — 0.8 RS. 2.9 3.8 
 10 — 3.0 52.2 90 N. 1 10 — — 3.0 S. 4.0 
 11 — 6.7 55.3 90 NNE. 2 10 — — 7.5 3.7 
@@ -2841,7 +2840,7 @@ Glatteis; am 18. Nebel; am 24. Sturm.
 H 
 Winde . Exj S cd 
 5= 
-£ £ Z CO == Z 5 z SB 
+££ Z CO== Z5z SB
 Häufigkeit 27 7 3 4 l — — — 11 15 16 — 4 — — 5 
 Stärke in 
 Mtr.pr.Sec. 1.7 1.7 1,5 2.o — — 4.4 5.1 3.6 — 4.5 — — 4.0 ~ 
@@ -2865,14 +2864,14 @@ hß &
 cJ-}t c3 a  
 K 
 700 mm. % Mtr. Fuss Cels. + p. See. 0-10. Cels. CelSi • R—S mm. engl. 
-1 — 4.3 55.1 84 SSE. 11 10 S. 1.5 3.1 
-2 — 6.2 64.9 81 W. 6 5 — — 0.1 4.3 
-3 — 8.8 70.5 86 NE. 7 10 — — s. 1.6 3.5 
-4 — 5.5 65.7 89 NE. 7 10 — — S. 0.2 3.3 
-5 — 5.9 65.5 77 ENE. 6 9 — — S. 0.3 3.4 
-6 — 9.7 62.3 83 NNW. 2 8 — — S. 0.7 3.4 
-7 — 8.9 60.8 80 SW. 3 7 — — S. 0.2 3.4 
-8 - 3.6 48.0 91 SE. 12 10 — — SR. 7.7 2.9 
+1—4.355.184 SSE.1110 S.1.53.1
+2—6.264.981 W.65——0.14.3
+3—8.870.586 NE.710——s.1.63.5
+4—5.565.789 NE.710—— S.0.23.3
+5—5.965.577 ENE.69—— S.0.33.4
+6—9.762.383 NNW.28—— S.0.73.4
+7—8.960.880 SW.37—— S.0.23.4
+8-3.648.091 SE.1210—— SR.7.72.9
 9 -f 0.6 47.3 93 SW. 6 10 — — S. 1.7 3.8 
 10 — 3.1 52.3 84 NNW. 3 10 — — s. 0.2 3.4 
 11 — 7.0 55.6 88 NNW. 3 10 — — s. 0.1 3.7 
@@ -2922,15 +2921,15 @@ Station Riga. Monat April 1881.
 Mittelwerthe. Lufttemp.
 700imn. Mtr. Fuss 
 Cels. + p. See. 0-10 Cels. Cels. K-S mm. engl. 
-1 — 1.7 58.9 67 0 0 — 5.7 4.7 
-2 — 2.6 60.2 84 N. 1 7 — — 6.7 4.8 
-3 — 6.1 61.6 74 N. 2 3 — — 7.5 4.7 
-4 — 5.5 66.6 66 0 0 — —10.1 4.5 
-5 — 3.0 66.2 68 SSW. 1 0 — — 8.1 4.5 
-6 — 2.6 61.3 64 SSW. 1 0 — — 6.1 4.4 
-7 — 2.6 66.0 64 NB. 2 3 — — 5.7 4.3 
-8 — 4.7 74.1 55 N. 1 0 — — 9.7 4.4 
-9 — 2.0 73.9 64 SW. 1 0 — — 2.5 4.2 
+1—1.758.96700—5.74.7
+2—2.660.284 N.17——6.74.8
+3—6.161.674 N.23——7.54.7
+4—5.566.66600——10.14.5
+5—3.066.268 SSW.10——8.14.5
+6—2.661.364 SSW.10——6.14.4
+7—2.666.064 NB.23——5.74.3
+8—4.774.155 N.10——9.74.4
+9—2.073.964 SW.10——2.54.2
 10 + 0.8 73.1 67 SSW. 1 0 — — 5.5 4.3 
 11 + 2.2 72.8 66 0 0 — — 4.7 4.2 
 12 + 3.1 72.0 68 NNE. 1 1 — — 2.9 4.4 
@@ -2954,7 +2953,7 @@ Cels. + p. See. 0-10 Cels. Cels. K-S mm. engl.
 30 + 3.8 63.1 57 N. 1 2 — 1.5 8.2 
 -f 1.2 62.0 73 — 4 — —10.1 19.0 6.1 
 Graupeln am 21. und 22; Nebel am 27. 
-K W £ £ £ £ Winde . . . £ H CO H ce CO £ 
+ K W££££ Winde...£ H CO Hce CO£
 £ 5? S co 
 02 
 CO 02 £ £ £ 
@@ -2979,13 +2978,13 @@ Station Dünamünde. Monat April 1881.
 Mittelwerth e. Lufttemp.
 700 mm. # Mtr. F\1S8 Cels. + p. See. 0-10 Cels. Cels. R—s mm. engl. 
 1 1.2 62.5 73 WSW. 4 1 4.7 
-2 — 3.5 60.3 83 NW. 5 7 — — 4.9 
-3 — 6.8 62.2 86 N. 7 4 — — 4.7 
-4 — 6.4 66.8 72 NNE. 2 0 — — 4.3 
-5 — 2.9 66.4 81 WSW. 3 0 — — 4.3 
-6 + 0.1 61.4 70 SW. 4 0 — — 4.2 
+2—3.560.383 NW.57——4.9
+3—6.862.286 N.74——4.7
+4—6.466.872 NNE.20——4.3
+5—2.966.481 WSW.30——4.3
+6+0.161.470 SW.40——4.2
 7 3.7 65.6 76 NNE. 7 4 — — 4.2 
-8 — 5.2 74.1 71 NNE. 3 0 — — 4.1 
+8—5.274.171 NNE.30——4.1
 9 .— 2.5 74.1 75 NE. 2 0 — — 4.0 
 10 — 0.8 73.1 83 S. 3 0 — — 4.0 
 11 + 1.3 73.0 74 SSE. 2 0 — — 3.9 
@@ -3041,8 +3040,8 @@ Mittelwerth e. Lufttemp.
 5 4- 3.4 68.0 80 N. 2 5 — + 2.0 7.7 
 6 4- 5.2 70.3 93 NW. 1 7 — + 1.2 R. 4.9 7.5 
 7 +10.2 65.5 75 SW. 3 7 — + 3.3 R. 7.3 
-8 + 8.4 61.1 86 SW. 2 7 — + 4.4 R. 0.2 7.0 
-9 + 5.9 61.4 95 NW. 1 10 — + 5.4 R. 3.7 8.0 
+8+8.461.186 SW.27—+4.4 R.0.27.0
+9+5.961.495 NW.110—+5.4 R.3.78.0
 10 + 3.1 68.7 71 N. 6 5 — + 1.2 6.5 
 41 + 4.8 71.3 60 N. 1 7 — 0.6 6.3 
 12 + 7.7 69.9 60 SW. 1 1 — + 0.8 6.2 
@@ -3089,15 +3088,15 @@ NNW. WWaasssseerrssttaanndd..
 Station Dünamünde. Monat Mai 1881. 
 Mitteiwerthe. Lufttemp.
 700 mm. % Mtr. Fuss Cels. + p. See. 0-10. Cels. Cels. R-S mm. eugl. 
-1 + 5.4 60.3 80 SSE. 9 6 R. 3.6 4.6 
-2 + 8.9 56.1 82 SW. 6 9 — — R. 0.2 5.2 
-3 + 9.8 55.9 91 E. 7 9 — — R. 8.6 4.3 
+1+5.460.380 SSE.96 R.3.64.6
+2+8.956.182 SW.69—— R.0.25.2
+3+9.855.991 E.79—— R.8.64.3
 4 +12.4 54.8 88 SSW. 8 8 — — 4.7 
-5 + 2.9 68.1 86 NNW. 5 5 — — 0.1 4.3 
-6 + 4.9 69.8 89 NNW. 3 7 — — R. 2.9 4.3 
-7 + 9.6 65.3 75 WSW. 8 7 — — R. 0.4 4.7 
-8 + 8.1 61.4 80 WSW. 6 7 — — 3.8 4.8 
-9 + 5.1 61.5 97 NE. 5 10 — — R. 4.2 4.7 
+5+2.968.186 NNW.55——0.14.3
+6+4.969.889 NNW.37—— R.2.94.3
+7+9.665.375 WSW.87—— R.0.44.7
+8+8.161.480 WSW.67——3.84.8
+9+5.161.597 NE.510—— R.4.24.7
 10 + 2.9 68.0 76 N. 12 5 — — 0.1 46 
 11 + 4.3 71.1 74 NNW. 4 7 — — 4.4 
 12 + 6.5 69.2 74 NNW. 5 0 — — 4.3 
@@ -3123,7 +3122,7 @@ Mitteiwerthe. Lufttemp.
 + 9.6 62.7 80 — 4.7 — — 24.4 4.4 
 Gewitter am 3.; Nebel am 4., 9., 16. und 19. 
 Winde . W 55 Ä 5Z W CQ CO CO 
-Ä K £ CQ 
+Ä K£ CQ
 Häufigkeit 0 10 10 16 4 1 2 7 2 5 6 13 — 13 13 1 
 Stärke in 
 Mtr. p. See. — 8.2 5.6 5.6 2.0 8.o 4.0 6.9 5.0 9.6 9.0 5.5 — 6.0 6.2 6.0 
@@ -3294,7 +3293,7 @@ Mitteiwerthe. Lufttenp.
 +17.5 57.0 78 — 5.9 — +10.3 116.5 4.6 
 Gewitter am 17., 18., 20., 27. und 30. 
 3= 
-S £ £ £ Winde . Z z cd vn Z CG 1= K Z Z z 
+ S£££ Winde. Zzcdvn Z CG1= K Z Zz
 Häufigkeit 17 8 2 1 — — 2 — 11 8 20 l 2 — 5 16 
 Stärke in 
 Mtr. pr.Sec. — 2.8 4.0 1.0 — — 2.5 — 4.4 2.9 3.0 1.0 3.o — 4.C 3.8 
@@ -3321,7 +3320,7 @@ Cels. + p. See. 0-10. Cels. Cels. R—8 mm. eng).
 3 +20.2 62.7 72 N. 4 2 — — 4.1 
 4 +17.0 56.4 74 SSW. 8 9 — — R. 5.7 4.3 
 5 +18.0 53.0 73 NW. 9 6 — — 4.6 
-6 + 13.6 52.8 71 N.W 18 8 — — 0.1 6.0 
+6+13.652.871 N.W188——0.16.0
 7 +14.9 54.2 69 NW. 8 6 — — 4.8 
 8 +14.5 56.1 73 S. 4 8 — — R. 1.5 4.7 
 9 +14.3 57.3 79 SW. 3 8 — — R. 0.6 4.7 
@@ -3350,7 +3349,7 @@ Cels. + p. See. 0-10. Cels. Cels. R—8 mm. eng).
 +16.9 57.1 79 — 7.0 — — 74.3 5.0 
 Sturm am 6. und 12.; Gewitter am 8., 18., 20. u. 30.; Nebel am 21. 
 Wiude . K £ 2 K H K oo 00 OQ 00 
-z K U1 
+z K U1
 00- £ 
 OQ 
 Häufigkeit 0 13 3 5 2 1 1 15 7 1 9 7 1 1 20 7 
@@ -3409,10 +3408,10 @@ Cels. Fuss + p. See. 0-10 Cels. Cels. R-8 mm. engl.
 31 +12.5 62.0 91 0 7 + 9.8 5.0 
 +15.4 54.2 84 — 5.9 — + 7.0 121.1 5.4 
 Gewitter am 7., 10., 25., 28. und 29.; Nebel am 16., 18., 20. und 31. 
-H £ 
+ H£
 Winde . . . Z CO 0Q £ 
 Z co 
-£ Z Z 
+£ Z Z
 Häufigkeit . . 18 5 — 1 — 3 — 10 6 34 2 2 — 1 11 
 Stärke in Mtr. 
 pr. See. — 2.4 — 1.0 — 
@@ -3440,9 +3439,9 @@ jj
 700 mm. % Mtr. Fuss Cels. + p. See. 0-10 Cels. Cels. 11—s mm. engl. 
 1 +18.8 54.2 88 SSE. 8 8 • _ R. 8.2 4.8 
 2 +16.3 56.5 77 WSW. 7 7 — — 0.1 5.0 
-3 + 16.3 62.3 72 WSW. 7 3 — — 5.4 
+3+16.362.372 WSW.73——5.4
 4 +14.1 57.2 98 SW. 11 10 — — 2.4 5.5 
-5 + 15.8 59.3 79 NNW. 9 2 — — 5.8 
+5+15.859.379 NNW.92——5.8
 6 +18.1 61.0 84 S. 4 5 — — 5.1 
 7 +17.4 56.6 81 NW. 9 4 — — R. 0.5 6.0 
 8 +16.6 57.9 88 NW. 5 1 — — 5.6 
@@ -3476,7 +3475,7 @@ H
 Winde . W E4 £ & £ Ä K 
 £ 
 GQ CO Qß CQ £ & & 
-Ä W CO CQ GQ £ fc 
+Ä W CO CQ GQ£fc
 Häufigkeit 1 4 - 5 2 2 7 3 13 4 12 16 2 1 9 12 
 Stärke in 
 Mtr. p. See. — 2.5 — 5.8 2.0 3.0 6.6 8.7 8.7 5,o 8.9 7.9 6.0 2.0 6.0 7.o 
@@ -3550,7 +3549,7 @@ Haarhygr.
 NE. Wind. 
 ENE. 
 Bewölkung. 
-L . 
+ L.
 ESE. 
 SW. 
 RR::eeggeenn  ooddeerr  SScchhnneeee..  
@@ -3599,7 +3598,7 @@ MCS  s
 Gewitter am 4. und 13.; Stürm am 13. 
 Winde . . H E z H Z H w CS 5Q fcr* Ä m CQ QQ 
 CQ 
-K £ 02 £ 
+ K£02£
 Häufigkeit. 1 4 5 12 1 2 15 20 6 5 2 5 1 2 5 4 
 Stärke in j 
 Mtr.p.Sec. - 4.o 6.u 5.3 2.o | 9.0 6.7 6.6 6.7 11.6 3.o 7.6 8.o 4.0 4.4 5.0 
@@ -3624,19 +3623,19 @@ sä0C0O
 M 
 «5 "5 
 öS 
-£ £ 
+££
 700 mm 
 Cels. + % 
 Mtr. «ngl. 
 p. See. 0-10 Cels. " Cels. R—s ram. Fuss. 
 1 -j~ 8.8 66.2 94 SW. 3 9 -f 5.4 R. 2.9 4.0 
-2 + 7.4 68.2 79 NB. 3 6 — 4- 6.2 3.5 
-3 + 3.9 70.2 73 NE. 5 6 — 4- 0.8 3.2 
-4 + 4.1 76.5 75 E. 4 4 — + 0.9 3.1 
-5 + 3.8 79.3 79 NE. 1 1 — — 1.0 3.1 
+2+7.468.279 NB.36—4-6.23.5
+3+3.970.273 NE.56—4-0.83.2
+4+4.176.575 E.44—+0.93.1
+5+3.879.379 NE.11——1.03.1
 6 4- 4.3 77.5 88 0 3 — 4- o.o 3.1 
 7 4- 2.2 76.9 96 0 3 — — 1.2 3.2 
-8 + 6.3 72.4 89 SW. 2 5 — — 0.8 3.3 
+8+6.372.489 SW.25——0.83.3
 9 4" 7.4 63.4 81 SSW. 3 1 — 4- 0.4 3.4 
 10 4- 8.8 54.2 85 SW. 5 7 — 4- 1.6 R. 0.7 4.0 
 11 4- 8.1 56.9 87 SW. 4 8 — 4- 3.0 3.8 
@@ -3685,14 +3684,14 @@ Station Dünamünde. Monat October 1881.
 Mitte 1 w e rth e Lufttemp.
 700 iiiiu. % Mtr. Fuss Cels. p. See. 0-10 Cels. Cels. R-S -f- mm. engl. 
 1 -f- 9.5 66.0 93 NW. 9 10 0.6 4.4 
-2 + 7.7 68.4 83 ENE. 8 6 — — 0.1 3.3 
-3 + 4,6 70.2 77 ENE. 11 3 — — 3.2 
+2+7.768.483 ENE.86——0.13.3
+3+4,670.277 ENE.113——3.2
 4 4" 5.0 76.4 79 ESE. 7 1 — — 2.9 
 5 4" 5.2 79.6 82 SE. 4 1 — — 3.0 
-6 + 5.1 77.4 93 SE. 3 3 — — 3.2 
-7 + 2.5 76.8 99 SSE. 6 0 — — 3.2 
-8 + 6.7 72.6 89 SW. 4 4 — — 3.3 
-9 + 8.5 61.9 80 SSE. 7 0 — — 2.9 
+6+5.177.493 SE.33——3.2
+7+2.576.899 SSE.60——3.2
+8+6.772.689 SW.44——3.3
+9+8.561.980 SSE.70——2.9
 10 4" 9.5 53.9 85 SW. 15 7 — — R. 0.7 3.7 
 11 + 8.7 56.7 89 SW. 11 5 — — 4.1 
 12 + 9.0 51.5 88 SSW. 13 7 — — R. 1.6 3.2 
@@ -3718,7 +3717,7 @@ Mitte 1 w e rth e Lufttemp.
 + 63.3 89 — 6.2 — — 9.1 3.8 
 Nebel am 7.; Sturm am 15., 16. und 26. 
 Winde . mH  w Z W & £ GQ GQ OQ 
-W £ Z QQ Z 
+ W£ Z QQ Z
 Häufigkeit — — 1 15 17 1 4 11 9 9 10 14 — — 1 1 
 Stärke in 
 Mtr. p. See. — — lO.o 9.5 7.0 2.0 6.0 4.8 5.6 7.8 11.8 lO.o — — lO.o 1Ö.0 
@@ -3743,8 +3742,7 @@ OC
 Station Riga. Monat November 1881. 
 6 
 Mitteiwerthe. Lufttemp.
-o c
-ci3;  13 
+occi3;  13 
 CO 5 
 Os-J,  0h3l  
 U wO) O  
@@ -3756,15 +3754,15 @@ Q 700ium.
 Cels. + * 
 Mtr. Fuss 
 p. See. 0-10 Cels. Cels. R-S min. engl. 
-1 — 4.0 70.5 61 0 4 — 9.0 3.9 
-2 — 4.4 68.4 81 NE. 2 7 — — 7.6 s. 3.4 
-3 — 2.2 71.7 84 0 7 — — 9.4 0.1 3.6 
-4 + 0.6 74.2 72 w. 2 9 — — 2.2 s. 3.4 
-5 - 3.3 66.2 83 s. 4 9 — — 7.2 2.0 3.9 
-6 + 1.2 53.7 100 s. 1 10 — — 2.0 R. 4.0 4.0 
-7 + 1.8 57.1 100 0 10 — 1.4 R. 1.0 3.6 
+1—4.070.56104—9.03.9
+2—4.468.481 NE.27——7.6s.3.4
+3—2.271.78407——9.40.13.6
+4+0.674.272w.29——2.2s.3.4
+5-3.366.283s.49——7.22.03.9
+6+1.253.7100s.110——2.0 R.4.04.0
+7+1.857.1100010—1.4 R.1.03.6
 8 2.2 65.0 92 SW. 1 10 — + 0.8 3.8 
-9 + 3.5 62.5 97 SW. 4 8 — — 0.2 0.3 4.3 
+9+3.562.597 SW.48——0.20.34.3
 10 + 5.7 61.7 97 SW. 3 10 — + 4.2 R. 0.8 4.1 
 11 + 4.0 55.4 95 SW. 3 9 — + 0.8 R. 0.4 4.1 
 12 + 3.4 60.7 99 SW. 1 10 — + 1.8 R. 3.1 4.8 
@@ -3783,7 +3781,7 @@ p. See. 0-10 Cels. Cels. R-S min. engl.
 25 + 3.4 67.4 100 SW. 3 9 — + 0.6 5.0 
 26 -f- 1.3 59.4 100 s. 5 7 o.o 1.1 4.8 
 27 + 5.7 50.3 89 SSW. 6 10 
-1 + 0.6 R. 0.3 4.6 
+1+0.6 R.0.34.6
 28 + 7.1 52.9 99 SSW. 3 10 — -f 4.8 4.5 
 29 + 4.2 60.8 99 SSW. 4  6 — 4- 2.0 4.7 
 30 -f 5.0 68.8 100 SW. 1 10 4- 2.2 5.4 
@@ -3822,20 +3820,20 @@ z>
 0Q 
 05 
 c3 
-£ £ 
+££
 700 min. 
 Cels. öS Mtr. 
 iüiss 
 + Jo p. See. 0-10 Cels. Ce's u—s inin. engl. 
 1 3.7 70.2 66 SE. 7 8 3.3 
-2 — 3.9 68.5 87 ENE. 7 3 — — 3.3 
-3 + 0.1 71.2 90 NE. 8 7 — — 3.6 
-4 + 2.2 73.6 71 NW. 10 8 — — 3.8 
+2—3.968.587 ENE.73——3.3
+3+0.171.290 NE.87——3.6
+4+2.273.671 NW.108——3.8
 5 3.7 65.9 89 SSW. 8 9 — — S. 5.0 3.3 
-6 + 1.0 53.6 100 SSE. 1 10 — — RS. 9.6 3.8 
-7 + 1.0 56.8 100 SE. 2 10 — — 0.5 3.7 
-8 + 22 64.8 99 SW. 3 10 — — 3.7 
-9 + 4.2 62.6 100 WSW. 9 8 — — .4.7 
+6+1.053.6100 SSE.110—— RS.9.63.8
+7+1.056.8100 SE.210——0.53.7
+8+2264.899 SW.310——3.7
+9+4.262.6100 WSW.98——.4.7
 10 + 5.1 61.5 100 NW. 5 9 — — 0.1 4.0 
 11 + 4.5 55.2 93 WNW. 8 9 — — 0.6 4.6 
 12 + 3.6 60.5 100 WSW. 5 10 — • — R. 1.7 4.1 
@@ -3861,9 +3859,9 @@ iüiss
 Am 7., 8. und 10. Nebel; am 18. und 19. Sturm. 
 Winde . . Z E 
 53'! • E 
-z Z | E 
+z Z| E
 E CO cd £ £ £ 
-E j CG CO CO CO £ co Z 
+ Ej CG CO CO CO£co Z
 Häufigkeit. 2 — 2 5 ! — — 6 4 6 14 16 14 3 2 7 9 
 1i  
 Stärke in 
@@ -3884,15 +3882,15 @@ NNW.
 Station Riga. Monat December 1881. 
 Mitteiwerthe. Luftte«ip.
 700 mm % Mtr. engl. Cels. + p. See. 0-10 Cels. Cels. R—s min. Fuss. 
-1 + 2.4 74.1 97 NNE. 1 4 — 1.6 5.1 
-2 — 3.9 77.3 100 0 3 — — 4.6 4.9 
-3 — 4.4 76.7 100 0 10 — — 6.8 4.7 
-4 — 6.0 74.3 100 0 10 — — 6.8 4.5 
-5 — 2.7 69.9 100 SW. 1 10 — — 6.6 S. 0.9 4.7 
-6 + 1.0 68.5 100 SW. 1 10 — — 1.0 1.1 4.8 
+1+2.474.197 NNE.14—1.65.1
+2—3.977.310003——4.64.9
+3—4.476.7100010——6.84.7
+4—6.074.3100010——6.84.5
+5—2.769.9100 SW.110——6.6 S.0.94.7
+6+1.068.5100 SW.110——1.01.14.8
 7 -j- 0.4 67.7 100 0 10 — + 0.2 S. 0.2 4.6 
-8 — 2.3 65.1 89 s. 2 10 — — 4.3 4.0 
-9 . — 2.2 60.9 99 SSE. 4 10 — — 4.8 s. 0.2 4.0 
+8—2.365.189s.210——4.34.0
+9.—2.260.999 SSE.410——4.8s.0.24.0
 10 — 0.9 65.7 98 SSW. 3 7 — — 2.8 4.1 
 11 - 0.9 65.5 98 SSW. 1 10 — — 40 4.1 
 12 — 2.4 69.4 100 SE. 1 10 — — 4.6 s. 1.0 4.0 
@@ -3918,7 +3916,7 @@ Mitteiwerthe. Luftte«ip.
 — 1.8 64.6 94 — 8.2 - —13.4 10.7 4.3 
 Reif am 2., 3., 4. u. 5.; Nebel am 2., 6. u. 30.; Sturm, Schneegestöber 
 und Graupeln am 18. 
-W H & U 
+ W H& U
 Winde . Z 53 GQ £ 58=5 * 5Z5 CC W 
 Häufigkeit 31 2 1 — 1 1 3 1 21 6 21 2 — 1 — 2 
 Stärke in 3.o 2.0 1.0 2.7 6.0 5.0 3.7 3.3 4.0 - 2.0 4.0 
@@ -3941,15 +3939,15 @@ NNW. WWaasssseerrssttaanndd..
 Station Dünamünde. Monat December 1881. 
 Mitteiwerthe. Lufttemp.
 700 mm. % Mtr. Fuss Cels. + p. See. 0-10 Cels. Cels. R—s mm. engl. 
-1 + 2.0 74.3 93 ENE. 3 4 0.3 5.0 
-2 — 3.3 77.6 100 S. 1 1 — — 0.5 4.9 
-3 — 4.5 77.8 100 SSE. 3 10 — — 0.1 4.5 
-4 — 6.5 74.2 100 S. 4 10 — — 0.1 4.5 
-5 — 2.9 70.0 100 SSW. 5 10 — — 0.5 4.6 
-6 + 2.3 68.2 98 NW. 5 10 — — 0.1 4.7 
-7 + 0.3 67.7 100 SW. 3 10 —• — S. 0.1 4.5 
-8 — 2.3 65.1 91 SSE. 7 10 — — 3.9 
-9 — 2.4 60.7 100 SE. 7 10 — — S. 1.0 4.1 
+1+2.074.393 ENE.340.35.0
+2—3.377.6100 S.11——0.54.9
+3—4.577.8100 SSE.310——0.14.5
+4—6.574.2100 S.410——0.14.5
+5—2.970.0100 SSW.510——0.54.6
+6+2.368.298 NW.510——0.14.7
+7+0.367.7100 SW.310—•— S.0.14.5
+8—2.365.191 SSE.710——3.9
+9—2.460.7100 SE.710—— S.1.04.1
 10 — 0.7 65.4 100 SSE. 4 7 — — 4.4 
 11 — 1.1 65.5 100 SSE. 5 10 — — 0.7 4.2 
 12 — 2.2 69.0 100 SE. 4 10 — — S. 4.1 
@@ -4141,14 +4139,14 @@ um 7 Uhr Morgens in Friedriehshof bei Riga.
 März 1881. 
 0.00 m 0.001m 0.185 m 0.34 m 0.58 m 1.10m 1.60 m 1.80 m Wind. g « 
 1 —10.99 —10.74 — 8.51 — 6.76 — 4.53 0.00 1.80 2.35 E. 10 s. 
-2 — 4.12 — 4.25 — 4.05 — 3.57 — 3.68 — 0.05 1.74 2.34 W. 7 
+2—4.12—4.25—4.05—3.57—3.68—0.051.742.34 W.7
 3 —10.51 -10.34 — 6.91 — 5.21 - 2.08 — 1.74 2.33 NE. 7 
-4 - 7.47 — 7.51 — 5.34 — 4.47 — 3.20 — 0.04 1.72 — 0 7 
-5 — 6.80 — 6.58 — 4.40 — 3.63 - 2.89 — 0.05 1.71 2.26 0 
-6 — 9.31 — 8.95 — 6.14 — 4.59 — 2.70 — 0.05 1.68 2.24 NE. 7 
+4-7.47—7.51—5.34—4.47—3.20—0.041.72—07
+5—6.80—6.58—4.40—3.63-2.89—0.051.712.260
+6—9.31—8.95—6.14—4.59—2.70—0.051.682.24 NE.7
 7 —10.71 -10.34 — 6 60 — 5.22 — 4.12 — 0 07 1.67 2.21 SW. 10 s. 
 8 —10.67 -10.78 — 8.07 — 6.28 — 3.46 - 0.15 1 65 2.19 E. 7 
-9 — — — 2.06 — 2.91 — 3.02 — 0.20 1.62 2.17 — 10 s. 
+9———2.06—2.91—3.02—0.201.622.17—10s.
 10 
 11 - 4.55 — 4.90 — 2.08 — 1.71 — 1.21 — 0.07 1.61 2.15 0 7 
 12 — 6.24 — 6.53 - 3.80 — 2.84 — 1.40 — 0.05 1.61 2.14 0 7 
@@ -4181,15 +4179,15 @@ um 7 Uhr Morgens in Friedriehshof bei Riga.
 April 1881. 
 i 
 0.00 m 0.001m 0.185 m 0.34 m 0.58 m 1.10m 1.60 m 1.80 m Wind. s> PQ 
-1 — 5.24 — 2.04 — 0.28 — 0.31 0.09 1.53 1.98 0 0 
-2 — 4.96 — 2.75 — — 0.28 - 0.26 0.08 1.53 1.98 0 5 
-3 — 5.76 — 3.77 — — 0.44 — 0.24 0.13 1.53 1.98 NE. 5 
+1—5.24—2.04—0.28—0.310.091.531.9800
+2—4.96—2.75——0.28-0.260.081.531.9805
+3—5.76—3.77——0.44—0.240.131.531.98 NE.5
 4 —10.69 — 7.76 — - 1.14 — 0.30 0.13 1.54 1.97 0 0 
-5 — 8.01 — 6.41 — — 1.30 — 0.41 — 1.53 1.97 0 0 
+5—8.01—6.41——1.30—0.41—1.531.9700
 6—6.24—5.51——0.83—0.24014 1.541.96—0
 7—3.85— 267 ——0.44—0.280.151.541.96NW.0
-8 — 8.18 — 6.71 — — 0.96 — 0.25 0.17 1.54 1.96 NW. 0 
-9 — 7.34 — 5.79 — — 1.05 — 0.31 0.20 1.54 1.96 W. 0 
+8—8.18—6.71——0.96—0.250.171.541.96 NW.0
+9—7.34—5.79——1.05—0.310.201.541.96 W.0
 10 — 4.74 —  3 4 2  — — 0.54 — 0.26 0.21 1.54 1.96 w. 0 
 11 — 2.05 — 1.35 — — 0.29 - 0.22 0.22 1.54 1.96 w. 0 
 12 — 1-04 — 0.72 — — 0.23 — 0.26 0.23 1.53 1.96 w. 0 
@@ -4426,11 +4424,11 @@ P4
 2 6.08 6.03 7.25 8.02 8.96 10.00 10.65 10.62 NE. 5 
 3 0.73 0.68 6.18 7.35 8.85 9.84 10.53 10.50 NNB. 0 
 4 0.53 0.43 5.03 6.31 7.60 9.64 10.40 10.39 N. 0 
-5 — 0.88 — 3.87 5.42 7.51 9.36 10.25 10.30 E. 0 
-6 — 0.88 — 3.43 4.86 6.93 9.02 10-11 10.16 0 10 
-7 — 1.28 — 3.30 4.73 6.65 8.69 10.92 10.03 SE. 0 
-8 — 1.13 — 2.91 4.19 6.19 8.35 9.73 9.86 0 5 
-9 — 0.45 — 3.57 4.70 6.21 8.08 9.52 9.72 0 0 
+5—0.88—3.875.427.519.3610.2510.30 E.0
+6—0.88—3.434.866.939.0210-1110.16010
+7—1.28—3.304.736.658.6910.9210.03 SE.0
+8—1.13—2.914.196.198.359.739.8605
+9—0.45—3.574.706.218.089.529.7200
 10 5.73 5.43 5.26 5.70 6.34 7.87 9.32 9.55 s. 10 
 11 2.15 1.82 5.87 6.34 6.83 7.83 9.15 9.41 s. 0 
 12 2.23 1.92 5.79 6.35 7.11 7.85 9.03 9.28 s. 5 
@@ -4461,15 +4459,15 @@ um 7 Uhr Morgens in Friedriehshof bei Riga.
 November 1881. 
 0.001 ni 0.185 m 0.34 m 0.58 m 1.10m 1.60 m 1.80 m Wind. & 0.00 m 
 05 
-1 — 9.19 — 0.52 0.37 2.82 5.47 7.38 7.77 NE. 5 
-2 — 5.29 — — 017 0.45 2.55 5.19 7.19 7.65 SE. 10 
-3 — 6.54 — — 1.39 — 0.10 2.29 4.91 7.00 7.51 0 10 
-4 — 1.13 — — 0.04 0.35 2.01 4.70 6.84 7.35 w. 10 
-5 — 8.48 — — 1.21 — 0.18 1.91 4.50 6.68 7.21 SW. 10 
+1—9.19—0.520.372.825.477.387.77 NE.5
+2—5.29——0170.452.555.197.197.65 SE.10
+3—6.54——1.39—0.102.294.917.007.51010
+4—1.13——0.040.352.014.706.847.35w.10
+5—8.48——1.21—0.181.914.506.687.21 SW.10
 6 0.00 — — 0.04 0.20 1.75 4.30 6.49 7.04 — 10 R. 
 7 0.26 — 0.48 0.30 0.73 4.15 6.36 6.87 0 10 
 8 0.18 — 0.47 0.38 1.68 4.03 6.23 6.75 0 10 
-9 — 0.22 — 0.51 0.38 1.66 3.92 6.10 6.63 SW. 0 
+9—0.22—0.510.381.663.926.106.63 SW.0
 10 3.97 3.45 0 48 0.51 1.65 3.81 5.97 6.51 — 10 
 11 0.06 — 0.50 0.44 1.67 3.75 5.89 6.37 w. 0 
 12 0.28 - 0.50 0.49 1.67 3.71 5.70 6.30 0 10 

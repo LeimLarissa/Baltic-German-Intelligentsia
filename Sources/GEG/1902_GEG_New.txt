@@ -6,12 +6,12 @@ Gesellschaft
 )I: rr(-q J 0 
 . ---~._----
 Jurjew (Dorpat). 
-D r u c k von C. M a t t i e sen. 
+ Druckvon C. Mattiesen.
 1903. 
 (In Commission bei: K. F. Köhler in Leipzig, N. Kymmel in Riga, 
 J. Andcrson u .•J . Krüger in Jurjew (Dorpat). 
 Gedruckt auf Verfügung der Gelehrten Estnischen Gesellscha.ft 
-J u r j e w, den 30. April 1903. 
+ Jurjew,den30. April1903.
 N!1. Pl'ä8ident: Dr. W. Schlüter. 
 9t l 
 L/I,. . 
@@ -37,7 +37,7 @@ gehaltenen Vorträge und verlesenen Zuschriften.
 Seite. 
 ehr ist i an i, T. Bericht über Fredr. \Vestlings "Beitrag zur 
 livländ. Kirchengeschichte von 1621-1656" . . . 33 
-F e u e r eis e n, A. Über Arbeiten und Materialien zur Geschichte 
+ Feuereisen, A.Über Arbeitenund Materialienzur Geschichte
 Pernaus. . . . . . . . . . . . . . . . . .. 57 
 Über die Einführung lmd den Gebrauch des Gregorianischen 
 Kalenders in Dorpat . . . . . . . . . . . .. 69 
@@ -835,7 +835,7 @@ gute Bezeichnung zu sein schien. Deshalb bildete er auch 'Jbalticus"
 mit a in der ersten Silbe, und nicht dem barbarischen Worte zu 
 liebe etwa 'Jbelticus(', weil er als Gelehrter, der Etymologien liebte, 
 (vgl. Schonen von sc h ö n IV, 7; Ostrogard eo quod in 0 r i-
-e n t e posita quasi ho r tu s habundat omnibus bonis Sch. 116; 
+entepositaquasihortushabundatomnibusbonis Sch.116;
 Chungard von den Hunnen Sch. 116) natürlich mehr an das lateinische-
 als an das dänische Wort dachte. Nun bedeutet aber dänisch (auch 
 schwedisch bälte) belte 'J Gürtel", - es ist aller Wahrscheinlichkeit 
@@ -1156,7 +1156,7 @@ gewesen.
 670. Sitzung 
 der gelehrfen esfnisehen @esellsehaff 
 am 6. (19.) Februar 1902. 
-Z u s eh l' i f te n waren eingelaufen: Vom Direktorium der 
+ Zusehl'iftenwareneingelaufen: Vom Direktoriumder
 Universität, von der Ostsibirischen Abteilung der Kaiserl. Russischen 
 Geographischen Gesellschaft, von der Historischen und antiquarischen 
 Gesellschaft zu Basel, von Herrn Prof. Dr. Rudolf Virchow und 
@@ -1358,8 +1358,7 @@ ist. Unter solchen Verhältnissen war der Protestantismus
 von Anfang an nicht im Stande, den Einwohnern des I i v I ä n d i -
 s ehe n 0 r den s s t a at e s einen besseren Geist einzuflössen und 
 hierdurch dessen Lebenskraft zu stärken. Ans tat t sei ne Ex i-
-s t e n z zu ver I ä n ger n, hat er vielmehr seinen Sturz beschleu-
-nigt, denn er vermehrte die innere Unordnung im Ordensstaate und 
+stenzzuver Iängern,hatervielmehrseinen Sturzbeschleu-nigt, denn er vermehrte die innere Unordnung im Ordensstaate und 
 machte es ihm unmöglich, unter den alten Verhältnissen zu bf\stehen. '"' 
 Welcher wissenschaftliche Werth einem derartigen Ul'theil über 
 Livlands Reformationsgeschichte und Ziele und Aufgaben des .,liv-
@@ -1367,7 +1366,7 @@ ländischen Ol'denstaates" beizumessen ist, wird sich jeder von uns
 selbst sagen. Ebenso unangenehm berührt in einern Artikel wis-
 senschaftlichen Charakters eine Äusserung, wie diese: "Gustav Adolfs 
 Verdienste um die livländische Kirche pflegen sogar die Liv-
-I ä nd er anzuerkennen." (pg. 4) Sollte Westling neben so mancher 
+ Iänderanzuerkennen."(pg.4) Sollte Westlingnebensomancher
 in Betracht kommenden Publication auch die fast schwärmerische 
 Verehrung der Livländer für ihr e n Gustav Adolf wirklich unbe-
 kannt geblieben sein? 
@@ -2227,7 +2226,7 @@ kationen der baltischen historischen Gesellschaften an dieser Stelle
 einer besonderen Anzeige und Besprechung zu unterziehen, so mag 
 eine Ausnahme gestattet sein, wo es sich um die jüngste unserer 
 Schwestergesellschaften, die A i t e r t u m f 0 r s ehe n d e G e s e 11-
-B c h a f t z u Per n au, handelt. In einer Zeit, wo ernste Sammlung 
+ Bchaftzu Pernau,handelt. Ineiner Zeit,woernste Sammlung
 der Kräfte auf allen Gebieten Not thut, müssen Bestrebungen, den 
 historischen Sinn und das Gemeingefühl unter uns und vor allem 
 auch in unseren kleineren Städten zu erwecken und zu pflegen, un-
@@ -2613,7 +2612,7 @@ stadt u. ihren habenden privilegien zu' wieder nichtes attentiren. U Petersbg.
 PriviI. Sa.mml. , , , . ' 
 3) Rechtsgeschichte Liv- Est- und Kurlands, 198 (1895). 
 4) Pern. Sitz.-Ber. 1897/8, 10.' 
-, . 5)' Die den Grafen Heinrich betreffenden biographischen Daten sind 
+,.5)' Dieden Grafen Heinrichbetreffendenbiographischen Datensind
 d~hin zu ,.berichtigen, dass er nicht. 1651. sondern bereits am 3. Okt. 1649 
 Gouverneur von Riga und des Wendischen u. Pernauschen Kreises wurde 
 (Loenbo.m) Anecdoter Qm - - Swenska män IlI. (1775). ' 
@@ -3093,10 +3092,8 @@ XIX. Bande der "Verhandlungen" der Gesellschaft vor.
 An Büchern waren als Geschenke der Verfasser eingegangen: 
 H ara 1 d Bar 0 n T 011 "Über den .Aufenthalt Ihrer Kaiser-
 lichen Hoheit der Grossfürstin Olga Nikolajewna in Reval 1832." 
-E d u ar d Bar 0 n Toll "Geologische Forschungen im Ge-
-biete der Kurländischen Aa". 
-J 0 h an n R i P k e "Zur Geschichte der Schliessung der est-
-ländischen Ritter. . und Domschule" (18~7). 
+ Eduard Bar0n Toll"Geologische Forschungenim Ge-biete der Kurländischen Aa". 
+ J0hann Ri Pke"Zur Geschichteder Schliessungderest-ländischen Ritter. . und Domschule" (18~7). 
 1. I. Z m i g rod ski "naMSlTH B. A. JKYKoBcKaro" (1902). 
 An Münzen waren als Geschenk des Herrn A. Walter 2 Sil-
 bermünzen eingegangen. 
@@ -3134,8 +3131,7 @@ Zum Schluss sprach Herr Magrd. A. Feuereisen über das Denkel-
 buch der Stadt Pernau (s. unten). Auf Grund der Aufzeichnungen 
 desselben knüpfte der Vortragende daran eine Dar s tell u n g der 
 bisher. bei dem Mangel sonstiger Quellen~ ganz unbekannten re-
-f 0 r m at 0 r i s ehe n Be weg u n gin Per n a u, die ihren Höhe-
-punkt im Bildersturm vom 15. März 15:!6 erreichte, wobei jedoch neben 
+f0rmat0risehen Bewegungin Pernau,dieihren Höhe-punkt im Bildersturm vom 15. März 15:!6 erreichte, wobei jedoch neben 
 den religiösen Momenten auch Fragen socialer Natur mitgespielt 
 zu haben scheinen. 
 Über das Denkelbuch der Stadt Pernau. 
@@ -3755,7 +3751,7 @@ Bestandteil von Ortsnamen wie Woorenorm, Kanawari, Waiwara,
 neben denen auch Kanawere, Waiwera, Waifer vorkommen, mit 
 altem w 00 r i = -wer e in Zusammenhang. Gegen den etwaigen 
 Einwand, dass der anzunehmende lautliche Übergang von 
-w 0 0 r i in wer e nicht den sonstigen Sprachgesetzen entspreche, 
+w00riinwerenichtdensonstigen Sprachgesetzenentspreche,
 führt er mit vollem Recht die Thatsache an, dass in Ortsnamen 
 die lautlichen Verstümmelungen viel stärker erscheinen als in dem 
 übrigen Wortmaterial, worur er eine Anzahl von Belegen giebt 
@@ -3789,8 +3785,7 @@ estnischen Rahkawere zu erklären, die Spitze ab.
 Dazu kommt, dass aller Wahrscheinlichkeit Wesen berg doch 
 die Überset1.ung eines echten älteren estnischen Namens ist. Ganz 
 sicher ist dies freilich auch nicht. Die feste Burg Wierlands 
-k 0 n nt e auch nach dem gleichnamigen Orte Wesenberg in Hol-
-stein, von dem vermutlich das im 13. Jahrhundert auch in Estland 
+k0nnteauchnachdemgleichnamigen Orte Wesenbergin Hol-stein, von dem vermutlich das im 13. Jahrhundert auch in Estland 
 mehrfach vorkommende Holsteinsehe Vasallengeschlecht "de W e-
 senberghe" seinen Namen führt, zuerst deutsch genannt sein. 3). 
 Dann wäre der es tn i sc be Name Übersetzung. In beiden Fällen 
@@ -3831,8 +3826,7 @@ erläuterte Sammlung aller estnischen Ortsbezeichnungen vorliegen wird. "
 Zum Schluss der Sitzung machte Herr Pas tor Li p p auf 
 Grund einer Notiz in der "St. Peterburger Zeitung' (1902, ~ 120 
 vom 30. April) darauf aufmerksam, dass 'der Dichter J u 1i  u s 
-G r 0 s s e gestorben sei, und bob dessen in jeher Notiz nicht" er-
-w~bntes Verdienst um die Bekanntmachung des Kalewipoeg her-
+ Gr0ssegestorbensei,undbobdesseninjeher Notiznicht"er-w~bntes Verdienst um die Bekanntmachung des Kalewipoeg her-
 vor, dessen Inhalt er durch eine dicbterische Bearbeitung dem 
 deutschen Publikum zugänglich gemacht hahe. Der Präsident 
 stellte ein~n ausführlichereu Hinweis auf Grosses Verdienst in der 
@@ -4862,11 +4856,11 @@ lich Hartmann, Vaterländ. Mus. Taf. VII, 54 baus Al1atzkiwwi.
 aus Kerrafpr, Dorpat etc, cfr. R K LXXXIII. 
 8 Huf eis e n fi bel n mit gerollten Enden oder Knopfenden, 
 einfache unschöne Formen. 
-2 S p ir a 1 f i 11 ger r i n g e , und mehrere Fragmente von solchen . 
+2 Spira1fi11gerringe,undmehrere Fragmentevonsolchen.
 . ) Bruchstücke, wahrscheinlich von Fibeln. 
 129 
 Aus Eisen! 
-5 M e s s e r an den Stielen mehrfach Holzreste. 
+5 Messeranden Stielenmehrfach Holzreste.
 3 viereckige S c h n alle n. 
 1 Ring. 
 2 grosse Nä g e J. 
@@ -6142,8 +6136,7 @@ stud. theol. Oscar B ruh n s; Hr. Harald von Den ff er; Biblio-
 thekarsgehilfe Meinhard Ha n 8 e n; Direktor der Taubstummenan-
 stalt zu Fennern , Pastor Constantin Hör s ehe I man n ; stud. 
 chem. August Lu t her; stud. theol. Karl Mal m; Lehrer Peter 
-o r g; Frau Prof. Dr. Emma R u s s 0 W; Oberpastor Victor W i t t -
-r 0 c k; Redakteur Rudolf Z ö p ff e1. 
+org; Frau Prof. Dr. Emma Russ0 W; Oberpastor Victor Witt-r0ck; Redakteur Rudolf Zöpffe1.
 Somit betrug die Zahl 
 der Ehrenmitglieder 22 gegen 23 im J abre 1901. 
 J, Corresp. Mitglieder 59 " 57" " " 
@@ -6197,7 +6190,7 @@ Ab delegirungen . . . . 96 29
 Saldo . . .. '. 472 47 
 Summa 1211 81 
 Verzeichniss der Mitglieder 
-a m S e h 1 u s s e des J a h res 1902. 
+am Seh1ussedes Jahres1902.
 Ehrenmitglieder. 
 Im Inlande. 
 1) Mag. Nik. An der so n, Professor in Kasan (1~92). 
@@ -6209,7 +6202,7 @@ witza in Wolhynien (1876).
 6) Dr. Richard Hausmann, Prof. emer. (1871, resp. 1896). 
 7) Dr. Jakob H u r t. Pastor in Petersburg (1887). 
 8) Dr. Georg Alexander, Herzog zu Mecklenburg-
-S t r e li t z, in St. Petershurg (1888). 
+ Strelitz,in St. Petershurg(1888).
 9) Dr. Friedrich Baron' M e y e n,d 0 r ff, Livländischer Land-
 marschall (1887). 
 10) Rudolph Raison, Pastor emer. in Lassen Kurland(1887). 
@@ -6941,7 +6934,7 @@ Sitzungsberichte pro 1861.
 1901. 326 S. 8 
 1902. 188 S. 8J  
 187 
-S c h l' i f t end erG eIe h r t e n e s t n i s c h enG e s e 11 s c h a f t. 
+ Schl'iftenderGeIehrtenestnischenGese11schaft.
 M 1. Erneuerte statuten. Verzeichniss der Mitglieder. Verzeichniss 
 der gelehrten Vereine etc., mit welchen die Gesellschaft 
 Schriften-Austausch unterhält. Verzeicbniss der von der Ge-
@@ -6996,8 +6989,7 @@ Als nach dem Vorgange von Re t z i u s die Reihe jener Finnen-
 stämme, die als sprachlich zusammengehörend gelten, hinsichtlich 
 ihrer körperlichen Eigenthümlichkeiten Gegenstand wissenschaftlicher 
 Untersuchung wurden, führte schon die Prüfung der K ö r per-
-g r ö s se zu dem überraschenden Ergebnisse, dass nicht Gleichartig-
-keit, sondern wesentliche Unterschiede an den Gemessenen verschiedener 
+grössezudemüberraschenden Ergebnisse,dassnicht Gleichartig-keit, sondern wesentliche Unterschiede an den Gemessenen verschiedener 
 Volksstämme jener Gruppe hervortreten. Je mehr Messungen man 
 machte, desto auftaUender wurden die Differenzen, und man fragte 
 sich mit Recht. wo denn da der Einfluss der Rasse bleibe? 
@@ -7239,12 +7231,11 @@ Klafterweite
 Körpergewicht 
 (8) 
 Speciell für die anthropologische Untersuchung d e.r Pro-
-p 0 r t ion end e s w e i b li ehe n Rum p fes und der verschie-
-denen M am m a f 0 r m e n ist folgendes Beobachtungsblatt be-
+p0rtionendesweibliehen Rumpfesundderverschie-denen M am m a f 0 r m e n ist folgendes Beobachtungsblatt be-
 stimmt, welches von mir nach Untersuchungen entworfen ist, die 
 ich vor einigen Jahren im Vereine mit meinem Kollegen Dr. med. 
 E. Ht>erschelmann an Frauen verschiedener Rassen angestellt habe: 
-B e 0 b ach tun g s b 1 at t für den w ei b 1i ch e n Tor s o. 
+ Be0bachtungsb1attfürdenweib1ichen Torso.
 Namen: ................................................................. . 
 Nationalität: ...................... Alter: 
 Nullipara oder Multipara? 
@@ -7261,7 +7252,7 @@ Mamilla: knopfförmig zerklüftet Maasse:
 flach eingezogen H mm 
 düten-(zapfen-) förmig mit Querfurche J . 
 fingergliedförmig A . 
-M • 
+ M•
 DM .• 
 Mamillarreflex: lebhaft, mässig, träge, fehlend. U . 
 S 
@@ -7276,10 +7267,10 @@ rücksichtigt ausser den officiellen Maassen, d. i. S t a n d h ö h e und
 B ru s turn fan g, folgende anthropologische Merkmale: 1) Fa I' b e 
 der Iris, :l) Farb'e und Beschaffenheit (Form) der 
 Ha are und 3) die wie h ti g s t e n K 0 p f m aas se: g r ö s s te 
-L ä n g e und g r ö s s t e B I' e i ted e s H i r n s c h ä deI s. In 
+ Längeundgrösste B I'eitedes HirnschädeIs. In
 den besonderen Bemerkungen finden Anomalien: Polydactylie, Poly-
 thelie, Polymastie, Rypertrichose und sonstige anatomische Form-
-A b ge kür z t e san t h r 0 polo gis c h 'e s B e 0 b ach tun g s b 1 a t t. 
+ Abgekürztesanthr0pologisch'es Be0bachtungsb1att.
 M ..................... . Ort: .................... . 
 Geburtsort: Datum: tim I90 .... 
 Vorname: Familienname: ...................... ............. .... ... Nationalität: 
@@ -7374,9 +7365,9 @@ Um über das Zahlenmaterial schnell eine bessere Orientirung
 der k. Anthropologischen Gesellschaft zu Moskau und vielfach auch 
 in Frankreich angenommenen Grundsätzen und unterscheiden: 
 Tabelle I. 
-U e b e r sIe h t des B e 0 b ach tun g s m a t e r 1 ale s. 
+ UebersIehtdes Be0bachtungsmater1ales.
 GrÖsse. Anzahl. GrÖsse. Anzahl. GrÖsse. Anzahl. GrÖsse. Anzahl GrÖsse. Anzahl. 
-a b a+b a b a+b a b a+b a b a+b a b a+b 
+aba+baba+baba+baba+baba+b
 1022 - 1 +0= 1 1500 - 7 + 0 = 7 1600 - 200 + 13 = 213 1700 - 215 + 52 = 267 1800 - 20 + 5 = 25 
 1506 - 5 + 0 = 5 1606 - 124 + 12 = 136 1706 -- 173 + 32 = 205 1806 - 14 + 7 = 21 
 1378 - 1+0= 1 1511 - 16 ++  1 = 17 1611 - 129 ++  19 = 148 1711 - 194 + 38 = 232 1811 - 20 + 3 = 23 1517 - 10 0 = 10 1617 - 137 11 = 148 1717 - 138 + 26 = 164 1817 - 11 + 2 = 13 
@@ -7422,7 +7413,7 @@ winnen? Wir wollen die Ergebnisse Charusin's (dessen Material
 Tabelle 111. 
 Regionale Differenzen der Körpergrösse bei den Esten. 
 GrÖsse. Südesten. Nordesten·1 Differenz. 
-I I 
+ I I
 ! 
 - 1600mm 2.39 % 8.38% I , =F 1.01 % 
 1600 - 1650 I " 24.80 .. 18.68 .. =F 6.12 .. i 
@@ -7484,7 +7475,7 @@ Tabelle IV.
 Terminale Varietäten der Körpergrösse. 
 Die K lei n e nun te r den Süd e s t e n. 
 1- Anzahl. GrÖsse. Häufigkeit in 0/0.11 
-a I b I a + b 1I 11 
+a Ib Ia+b1I11
 11 
 iI1000mm-1100mm1,I +0-10.0140/0
 I 1100 - 1200 - I I " " - - -I I 
@@ -7593,17 +7584,16 @@ lands und der Inseln. -Ein einigermaassen aus g es p 1'0 C ben e s
 Tabelle IX. 
 Die Lage des Maximums der Körpergrösse. 
 1600 I 1620 1640 1660 1680 I 1700 1720 I 1740 I 1760 I 1780 
-I / / 1620 1640 1660 1680 1700 1720 I 1740 /1760 j 1780 I 
+ I//162016401660168017001720 I1740/1760j1780 I
 1800 
-I I 
+ I I
 645 816 I 720 I 998 75~ I 868 643 I 316 282 126 
 I 
 =9.3% =11.7 %1=10.3 % =14.3 % =10.8 %1=12.5 % =9.2 0/°1=4.5 % =4.1% =1.8% 
-I I 
-M a x i m um ist zwischen 1660-1680 mm nachweisbar. was wohl 
+ I I
+ Maximumistzwischen1660-1680mmnachweisbar.waswohl
 darauf hinweist, dass hier das ar i t h met i s ehe :M i t tel der 
-K ö I' per I ä n g e e s t n i s ehe I' R e k r u t e n zu suchen ist. Dies-
-seits und jenseits des Maximum macht sich zunächst ein Ansteigen, 
+ Kö I'per Iängeestnisehe I' Rekrutenzusuchenist. Dies-seits und jenseits des Maximum macht sich zunächst ein Ansteigen, 
 dann ein erneutes Fallen der Häufigkeitsskala bemerkbar. 
 Ziehen wir das Facit aus vorstehenden Untersuchungen über 
 die Körpergrösse estnischer Wehrpfiichtiger, so können als völlig 
@@ -7680,7 +7670,7 @@ gründen an der Hand von Merkmalen, die viel weniger labil und nicht
 in gleichem Maasse, wie die Körpergrösse, den Einflüssen des phy-
 sischen Milieu unterworfen scheinen. Wir werden genöthigt sein, 
 uns vor allem und im wesentlichen auf die E n t w i c k e I u n g der 
-S c h ä deI f 0 r m e n zu stützen. Wenn aber Mittelzahlen überhaupt 
+ SchädeIf0rmenzustützen. Wennaber Mittelzahlenüberhaupt
 etwas beweisen, so sind jene, die man über Körpergrösse finnischer 
 Volksstämme beigebracht hat, ausserordentlich geeignet, den oben 
 angedeuteten Satz zu befestigen; weisen sie doch eine Variabilität der 
@@ -7692,8 +7682,7 @@ hinzu, dass unsere Zahlen nicht der wirklichen für den E s t e n s t a m m
 maassgebendenKörpergrösse entsprechen, da sie an Individuen des 21. Lebens-
 jahres, die noch nicht ihre volle Körperentwickelung erreicht haben, ge-
 wonnen wurden. N ach uns e ren E r fa h run gen n im m t der 
-E s te no c h bis zu sei n e m 29. Leb e n s j a h r e an K ö r per -
-g r Ö s s e zu. Bei Vergleichung von Dur c h s c h n i t t s wer t h e n 
+ Estenochbiszuseinem29. Lebensjahrean Körper-grÖssezu. Bei Vergleichungvon Durchschnittswerthen
 ist dieser Umstand jedenfalls zu beachten. 
 2) Die Esten. Eine anthropologische Studie. Russische Zeitschrift 
 für Anthropologie. Moskau 1901. 
@@ -8190,7 +8179,7 @@ Gesch. u Altertumsk." 3auHcKH HMn. O,l\eccxaro O()~ecTBa HCTopiH H
 8) Rig. Sitz.-Ber.: 1899, 114. 
 4) Herr Prof. Hau sm an n hat mir, nach Abschluss meines Manu-
 scripts, folgende Zusammenstellung übe r F i bel fun dei n Süd - Ru s s-
-1 a n d freundliehst zur Verfügung gestellt. die ich im Wortlaut wiedergebe: 
+1andfreundliehstzur Verfügunggestellt.dieichim Wortlautwiedergebe:
 "Armbrustftbeln mit umgeschlagenem Fuss sind in Süd-Russland 
 nicht selten. Auf der Ausstellung in Kiew im Jahre 1899 waren 
 ·mehrere zu sehen, die der Katalog 78, 48- 60 und 79, 55-62 ver-
@@ -8404,7 +8393,7 @@ klang bildet das russische LI (cf. auch Standard Alphabet p. 50 f.),
 und so ,erhalten wir eine mit a beginnende, durch offene zu ge-
 schlosseneren O's bis zum bI fortschreitende Reihe, welche Genetz 
 folgendermassen beziffert: 
-a - 08 0 2 - - ot - y (-hI). 
+a-0802--ot-y(-hI).
 Das hI weist er dem Russischen, das Öl dem Werroestnischen, 
 ö 2 dem Revalestnischen und 03 keinem besonderen Idiom zu. 
 Indessen ist hier doch zu summarisch verfahren worden. Die 
@@ -8466,7 +8455,7 @@ z. B. pölema für früheres palama
 söna " " sana 
 köik " " keik 
 löin löin u. s. w. . 
-" " 
+""
 (41) 
 Schliesslich erwähnt er das Nichtvorhandensein des ö im Fin-
 nischen, wohl aber das Vorhandensein desselben in einigen übrjgen 
@@ -8682,7 +8671,7 @@ nigen zu rechnen, die zwischen kund ö noch eine Liquide bilden,
 da die Domination, d. h. der die Bildung des dem Vokal vorange-
 henden und ihm folgenden Consonanten modificirende Einfluss 
 des Vokals, nebenbei bemerkt, der einzige U n t e r s chi e d 
-z w i s c h e n V 0 kaI e nun deo n so na nt e n, den es giebt (vrgl. 
+zwischen V0kaIenundeonsonanten,denesgiebt(vrgl.
 meinen Nachweis im Organ für Taubst.bildung 1899, Heft 6), -
 da die Domination, sage ich, durch jede Liquida hindurch wirkt, 
 so dass diese nur als eine kurze Unterbrechung der Combination 
@@ -8724,7 +8713,7 @@ Zweck erfüllt.
 Tabelle der ('i-Wörter und ihrer Varianten. 
 Der beginnende I S~mme a11e_1' -li Davl'n verändern das ö in der ersten Silbe in 
 Consonant. Worte1' auf o. a I ä e ü I Summe. 
-k - --------l u 500 +-~~----l-1'- 3+0 ~ --;--~:;::"-~~ i- 141-0 = 14 1+0 = 1 - --1- 2+0 ~-··-;--l 30+0 = 30 
+k---------lu500+-~~----l-1'-3+0~--;--~:;::"-~~i-141-0=141+0=1---1-2+0~-··-;--l30+0=30
 kl I 26 + 1 601 - - 'I -
 kr 46 + 5 2+0 = ~ 1+0 = 1 :>+0 = 3 
 p 310 + 19 ~ 3+0 = 3 31-0 = 3 10+0 = 10 1+0 = 1 17+0 = 17 

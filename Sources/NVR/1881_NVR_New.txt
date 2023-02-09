@@ -2,8 +2,7 @@ des
 Naturforscher-Vereins
 zu Riga.
 Von der Censur erlaubt. Riga, den 7. October 1881.
-I n h a l t .
-Seite.
+ Inhalt.Seite.
 Ingenieur Dr. Stiemer: Ueber die Verbreitung der Kohlen 
 und die Ansichten betreffs des Ursprungs derselben
 nach Lindley und H u tto n ..............................................1.
@@ -40,8 +39,7 @@ Lerchen, Ankunft derselben .....................................................
 M eteorologisches....................................................................................  35. 39.
 Milch, Fettgehalt derselben ................................................................. 49.
 Monströse Kanarienvögel......................................................................  45.
-N a tu r a lie n ............................................. 29. 30. 33. 37. 39. 44. 45. 52. 55.
-Ornis von Liv-, Est- und K u r la n d .................................................. 32.
+ Naturalien.............................................29.30.33.37.39.44.45.52.55.Ornis von Liv-, Est- und K u r la n d .................................................. 32.
 Petroleum, Entstehung d esse lb en ......................................................  47.
 Petzholdt, A., Dr. Prof. emer.................................................................  41.
 Phylloxera.............................................................................................. 39.Pneumatometer.................................................................................... 52.Photographieen, positive mit negativen wechselnd......................... 55.
@@ -246,8 +244,7 @@ fault, ihr Holz im Zustande hochgrädiger Auflösung. Es sind
 dieses vereinzelte gestrandete Stücke, da man weder Wurzeln, 
 noch Wipfel des Baumes in der Nähe ermitteln konnte, wäh­
 rend in der Kohlenschicht selbst und den darunter befind­
-— 6 —
-liehen Schichten die zu dem Fallholz gehörigen Stöcke, nebst 
+—6—liehen Schichten die zu dem Fallholz gehörigen Stöcke, nebst 
 Wurzeln vorhanden sind.
 Ich selbst habe in dem Kohlenbergwerk zuKöflach inSteyer- 
 mark das Stammende mit Wurzeln einer Conifere gesehen, 
@@ -367,8 +364,7 @@ welche nach ihrem Wurzelende sich verdicken, zu den Mono­
 kotyledonen, diejenigen, welche keine merkliche Veränderung 
 in dem Umfange hatten, zu den Dikotyledonen. Die vege­
 tabilen Reste zahlloser Generationen auf dem Boden, der sie
-_ _  9 —
-trug, aufgehäuft, müssen ein günstiges Terrain für die Baum- 
+__ 9—trug, aufgehäuft, müssen ein günstiges Terrain für die Baum- 
 Vegetation abgegeben haben. Die Wurzeln der Bäume 
 mussten sich auf der darunter liegenden Kohlenschicht aus­
 breiten, wie wir in den Torfmooren, in welchen der hohe 
@@ -1125,8 +1121,7 @@ nachfolgende Dekade hinzu, so ergiebt sich als Mittel für:
 K&rlabad: Bilderlingshof:
 vom 3.—12. Juli . . .  — 0,419
 „ 13.—22. „ . . .  0,470 0,483
-„ 2 3 — 1. August. . 0,473 0,495
-* 2.—11. „ . . 0,470 0,508
+„23—1. August..0,4730,495* 2.—11. „ . . 0,470 0,508
 я 12.—20. „ . . 0,487 —
 Zu bemerken ist noch, dass am 12. August n. St. eine
 von den Karlsbader Fischern weit ab vom Lande gefüllte
@@ -1186,8 +1181,7 @@ nach der zweiten =  1,00380, was einem Salzgehalt von
 0,50# entspricht; als Minimum fand er 0,42%, als Maximum 
 0,60#.
 19. August 1881.
-S i t z u n g s b e r i c h t e .
-22. S e p t e m b e r  1880.
+ Sitzungsberichte.22. S e p t e m b e r  1880.
 Na t u r a l i e n  waren eingegangen und wurden vorgelegt:
 Säge eines Sägehais aus den chinesischen Gewässern, von 
 Herrn H a s e n j ä g e r  aus Mühlgraben; 
@@ -1369,7 +1363,7 @@ lende Materie“, indem er besonders die gegen iOrookes*
 Hypothese gerichteten Angriffe hervorbob. Redner erinnert 
 an die von ihm im vorigen Semester der Versammlung vor* 
 geführten Experimente mit evacuirten Glasröhren, die, nach 
-C r o o k e s ’ Angabe verfertigt, seine Beobachtungen zeigen 
+ Crookes’ Angabeverfertigt,seine Beobachtungenzeigen
 sollten. Die Erscheinungen sind folgende: 1) Das Leuchten 
 beginnt erst in grösserer Entfernung von der mit der Kathode 
 befestigten Aluminiumplatte. Cr ooke s  ist der Ansicht, dass 
@@ -1663,8 +1657,7 @@ stets an den Tag gelegt haben, gestorben seien. Die An­
 wesenden ehren das Andenken der Verstorbenen durch Er­
 heben von den Sitzen.
 Oberlehrer He l l m a n n  hält einen Vortrag über Gol d­
-s t e i n ’s Arbeit: „Eine neue Form elektrischer Abatossung.“
-Die umfassenden Arbeiten von P l u c k e r  und H i t t o r f ,  
+stein’s Arbeit:„Eineneue Formelektrischer Abatossung.“Die umfassenden Arbeiten von P l u c k e r  und H i t t o r f ,  
 Hi t tor f ,  Wiede mann 2 und eine grosse Zahl kleinerer 
 Notizen, welche zufälligen Beobachtungen ihren Ursprung 
 verdanken, beschäftigen sieh mit der Leitung der Elektrieität 
@@ -1822,8 +1815,7 @@ die Füllung stattfand, in einem Pyknometer und durch därauf
 folgende Wägung eines ändern Therles der (vorher abge­
 hobenen) Flüssigkeit allein für sieh in demselben Pyknometer. 
 Die Ghindgleichung lautet:
-G =  °g .-1 4-N-----s- s worin
-" V' '• •■• •• '
+ G= °g.-14-N-----s-sworin" V' '• •■• •• '
 G =  Gewicht des Pyknometers -j* Gewicht des Niederschlages 
 -f- Gewicht der Flüssigkeit. : ;
 g =  Gewicht des Pyknometers 4- Gewicht der Flüssigkeit. :
@@ -1832,8 +1824,7 @@ N =  Gewicht des Niederschlages.
 s =  specif. Gewicht der Flüssigkeit.
 Aus dieser Formel erhält man
 x  « ( o —g). ,
-ö s
-Diese Methode empfiehlt sich namentlich für technische 
+ösDiese Methode empfiehlt sich namentlich für technische 
 Zwecke, wo es weniger auf absolute Genauigkeit als auf 
 schnelle Bestimmung ankommt. Sie soll bereits in einzelne 
 Fabriken Eingang gefunden haben.
@@ -2128,8 +2119,7 @@ bestimmen, da nach S eid litz  der Margus madens bei uns
 nicht vorkommt.
 Herr Direktor B erg sprach über die g eo g rap h isch e  
 V erb re itu n g  der T h ie re  und über d ie S äu g e th ie re  
-J a p a n s .
-Redner führte aus, dass die Thiere im Allgemeinen un­
+ Japans.Redner führte aus, dass die Thiere im Allgemeinen un­
 abhängiger von der Bodenbeschaffenheit seien als die Pflanzen, 
 da dieselbe nur mittelbar auf die Verbreitungsbezirke der 
 Thiere, insoweit sie Pflanzenfresser sind, einwirkt.
@@ -2394,8 +2384,7 @@ Sitzungsberichte 1879, 1880.
 Jahresbericht II—X.
 75 St. Louis. Academy of science.
 Transactions IV, 1. 1880.
-— 6 0 -
-Тб) Lyon. Soci£t£ d’agriculture, d’histoire naturelle et 
+—60-Тб) Lyon. Soci£t£ d’agriculture, d’histoire naturelle et 
 d'arts utiles. Annales 1877, 1878, 1879.
 77) Lyon. Academie des sciences, belles lettres et arts.
 Meraoires Classe des lettres XVIII, XIX.
@@ -2557,8 +2546,7 @@ Konservator A. S punde■, Lehrer,
 Mitglieder am 1. Juli 1881.
 (Die Nummer vor dem Namen ist diejenige, unter welcher das betreffende 
 Diplom ausgestellt ist.)
-A . E h r e n m i t g l i e d e r .
-1. 658. Albedinsky, Gen.-Gouverneur von Warschau seit 1867
+ A. Ehrenmitglieder.1. 658. Albedinsky, Gen.-Gouverneur von Warschau seit 1867
 2. 605. Berg, Karl, Dr. phil., Prof. in Buenos-Ayres „ 1881
 3. 21. Bubse, Fr., Dr. phil., in R i g a .....................Stifter „ 1881
 4. 679. Dechen, Geh. Oberbergrath in Bonn . . „ 1870
@@ -2590,11 +2578,9 @@ D orpat..............................................................  „ 1870
 20. 601. Schuwalow, Graf P., Botschafter in London „ 1865
 21. 625. Schweinfurth, G., Dr. phil..............................  „ 1872
 22. 286. Suworow-Rimniksky, Fürst A., General in
-P e te r sb u r g .................................................... „ 1848
-23. 636. Toepler, Aug., Professor in Dresden . . „ 1868
+ Petersburg....................................................„184823. 636. Toepler, Aug., Professor in Dresden . . „ 1868
 24. 626. Tolstoi, Graf D., wirkl. Geheimrath in
-P e te r sb u r g .................................................... „ 1867
-25. 627. Trautvetter, Direktor des botanischen Gar­
+ Petersburg....................................................„186725. 627. Trautvetter, Direktor des botanischen Gar­
 tens in Petersburg . ...............................  „ 1867
 26. 506. Vesselofsky, best. Sekretär der Akademie
 der Wissenschaften in Petersburg. . . „ 1870
@@ -2699,8 +2685,7 @@ Polytechnikum..................... ............................................�
 87. 872. Koch, Jul., B e a m t e r ...................................... ................. „ 1879
 88 . 773. Kottkowitz, Gymnasiallehrer . . . . .  „ 1873
 83. 850. Kröger, Joh. Ad., Advokat ............................................ „ 1877
-9 8 . 898. Kröpsch, W., K aufm auu................................. ................. „ 1881
-91. 732. Krolme, H., Kaufmann...................................... ..................„ 1872
+98.898. Kröpsch, W., Kaufmauu..................................................„188191. 732. Krolme, H., Kaufmann...................................... ..................„ 1872
 92. 888. Kuphaldt, G., S tadtgärtner..............................................„ 1880
 93. 241. Lange, B. v.. Dr. med., wirkl. Staatsrath . „ 1846
 94. 881. Lange, F., Dr. med............................................ ..................,, 1880
@@ -2792,8 +2777,7 @@ in Dorpat.......................................................... Stifter „ 
 175. 841. Loewis of Menar, W. v., auf Fanten (Livl.) „ 1876
 176. 205. Manderstierna, General in Warschau . . „ 1845
 177. 106. Mercklin, Dr. med., wirkl. Staatsrath in
-P e te r sb u r g ..................................... Stifter „ 1845
-178. 860. Nordstroem, Dr. med., Staatsrath in Dubbeln „ 1878
+ Petersburg..................................... Stifter„1845178. 860. Nordstroem, Dr. med., Staatsrath in Dubbeln „ 1878
 179. 128. Rautenfeldt, H. v., auf Ringmundshof (Livl.) „ 1848
 180. 878. Rautenfeldt, H. v., auf Lindenruh (Livl.) . „ 1879
 181. 851. Schmemann, Förster auf Sesswegen (Livl.) „ 1877
@@ -2863,8 +2847,7 @@ haltenen Monats- und Jahresmittel stelle ich dieselben in Ver­
 bindung mit den wahrscheinlichen Mitteln zusammen. Die 
 wahrscheinlichen Mittel beziehen sich nur auf Riga und sind 
 aus einer 27—30jährigen Periode berechnet.
-T e m p e r a t u r .
-Jan. Febr. Jtfärz. April, - Mai. Jaul.
+ Temperatur.Jan. Febr. Jtfärz. April, - Mai. Jaul.
 1) Dünamünde 80 — — — — -(-10.0 -{-14.7
 2) Riga 80 — 4.5 — 3.3 — 1.6 + 5 .6  +11 ,3  +16.1
 3) Mittel 5 1 -8 0  — 4.6 — 4.5 — 1.3 +10.2  +16 .3
@@ -2885,14 +2868,12 @@ Luftd'riic k.Jan. Febr. Mär«. April. Mai. Juni.
 1) Dünamünde 80 — — — — 759.9 758.0
 2) Riga 80 762.0 759.7 761.1 759.0 760.0 758.1
 3) Mittel 51—80 759.8 758.3 757.4 757.8 758.1 758.1
-J u li Aug. Septbr. Octbr. Nov. Decbr. Jahr.
-1) Dünamünde 80 757.2 759.3 761.0 752.6 755.8 751.2 —
+ Juli Aug. Septbr. Octbr. Nov. Decbr. Jahr.1) Dünamünde 80 757.2 759.3 761.0 752.6 755.8 751.2 —
 2) Riga 80 757.2 759.4 761.2 752.7 756.1 751.1 758.:
 3) Mittel 51—80 756.8 756.8 758.8 759.3 758.4 758.0 758.:
 Der relativ höchste und niedrig ste Barometerstand war ir
 Riga am 12. März mit 781.6mm und am 27. Februar mit 729.4mm
-R e l a t i v e F e u c h t i g k e i t .
-Jan. Febr. März. April. Mai. Juoi.
+ Relative Feuchtigkeit.Jan. Febr. März. April. Mai. Juoi.
 1) Dünamünde 80 — — — - — 77 77
 2) Riga 80 80 75 72 70 64 64
 3) Mittel 51—80 85 84 81 76 73 69
@@ -2900,8 +2881,7 @@ Juli. Aug. Septbi Octbr. Nov. Decbr. Jahr.
 1) Dünamünde 80 79 84 85 86 92 90 —
 2) Riga 80 71 78 84 88 91 90 77
 3) Mittel 5 1 -8 0 72 76 80 85 88 87 80
-N i e d e r s c h l ä g e .
-Jan. Febr. Mär*. April. Mai. Juni.
+ Niederschläge.Jan. Febr. Mär*. April. Mai. Juni.
 1) Dünamünde 80 — — — — 44.6 54.2
 2) Riga 80 30.8 25.8 9.1 32.5 31.7 70.6
 3) Mittel 51—80 29.8 20.2 25.3 28.3 41.5 48.1
@@ -2951,8 +2931,7 @@ Cels. 700 mm % Mtr. •+■ p. Sec. 0-10 Cels. Cels. R—  s mm. engl. Fuss.
 Am 4. Gewitter.
 H
 W inde.................... и
-Z Ä OQ
-Häufigkeit . . . 19 9 1 3 — — 9 1 23 1 2 1 21 —
+ ZÄ OQHäufigkeit . . . 19 9 1 3 — — 9 1 23 1 2 1 21 —
 Stärke in Mtr.p.Sec. — 2.0 1.0 2.7 — — 3.1 2.0 3.7 4.0 5.5 3.0 3.8 —
 Datum neuen Styls.
  1Lufttemp.
@@ -2973,14 +2952,12 @@ WNW
 NW.
 NNW. Dünamünde.
 Station Riga. Monat Juli 1879.
-M i t t e l w e r t b e . Lufttemp. W asser­stand.
-aä
+ Mittelwertbe. Lufttemp. Wasser­stand.aä
 ЫЭ
 S
 Cels. 700 mm. 
 Mtr. 
-+ % p. Sec. 0-10 . Cels. Cels. R— s mm. Fuss eugl.
-1 +15.1 55.9 80 SW. 4 8 +16.8 +12.0 5.0 5.0
++%p. Sec.0-10. Cels. Cels. R—smm. Fusseugl.1 +15.1 55.9 80 SW. 4 8 +16.8 +12.0 5.0 5.0
 2 +17.5 55.6 66 N. 1 3 +19.2 +  9.6 5.1 4.7
 3 +18.3 51.0 68 S. 5 9 +23.0 +11.8 R. 27.5 4.9 4.6
 4 +17.4 50.2 70 SW. 3 8 +20.0 +  9.8 R. 2.1 4.8 4.7
@@ -3086,30 +3063,25 @@ W SW Niederschlag.
 NW.
 NNW, Dünamiinda.
 Station Riga. Monat September 1879.
-M i t t e l w e r t h e . Lufttemp. Wasser-stand.
-03
+ Mittelwerthe. Lufttemp. Wasser-stand.03
 bo
 Й
 Cels. 700 шш. Mtr.4 - % p. Sec. 0-10» Cels. Cels. R—s mm. Fues engl.
 1 +12.9 61.7 76 sw. 3 6 __ +  9.7 R. 5.1 5.6
 2 +13.7 62.4 73 W SW 5 4 — +  9.5 8.6 5.9 5.6
-3 + 12.5 54.7 94 SW. 5 9 — +10.3 R. 2.2 6.4 6.4
-4 +15.0 54.5 80 SW. 5 9 — +12.5 6.0 6.0
+3+12.554.794 SW.59—+10.3 R.2.26.46.44 +15.0 54.5 80 SW. 5 9 — +12.5 6.0 6.0
 5 +11.7 59.3 65 sw. 5 2 — +  8.7 6.5 6.3
 6 +11.3 63.7 64 — 0 1 — +  5.3 6.0 5.3
 7 +10.9 65.2 67 — 0 0 — +  3.9 5.1 5.0
 8 +15.3 61.3 66 s. 2 0 — +  5.9 4.8 4.8
-9 + 19.7 57.8 74 s. 2 1 — +14.9 4.6 4.6
-10 +16.5 55.2 69 s. 4 3 — +12.9 4.5 4.6
+9+19.757.874s.21—+14.94.64.610 +16.5 55.2 69 s. 4 3 — +12.9 4.5 4.6
 11 +12.7 57.8 90 ss.w. 2 10
-— +  9.9 R. 0.5 4.6 4.5
-12 +14.1 60.2 79 3 9 — +10.5 4.5 5.4
+—+ 9.9 R.0.54.64.512 +14.1 60.2 79 3 9 — +10.5 4.5 5.4
 13 +14.3 65.4 74 s. 3 7 — +  9.9 4.9 4.9
 14 +16.8 63.0 77 s. 1 — +10.1 4.8 4.7
 15 +16.9 58.8 82 ss.
 4
-3 7 — +12.9 R. 11.1 4.6 4.8
-16 +13.2 60.4 76 w. 2 7 — +  9.0 5.1 5.0
+37—+12.9 R.11.14.64.816 +13.2 60.4 76 w. 2 7 — +  9.0 5.1 5.0
 17 +11.9 67.3 89 N. 2 5 — +  8.9 4.9 4.8
 18 +13.9 69.1 73 SE. 3 6 — +  8.7 4.7 4.5
 19 +13.6 66.2 73 ESE. 3 6 — +  8.1 4.5 4.3
@@ -3150,8 +3122,7 @@ Station Riga. Monat October 1879,'
 Mittelwert hc.Lufttemp.,Wasser­cь
 stand.
 gо
-3 Ф
-tоto ÖS' S «- Ыjj* )сйЗ 'S © s cQ3S ü ж -
+3Фtоto ÖS' S «- Ыjj* )сйЗ 'S © s cQ3S ü ж -
 Q
 700 mm Mtr. 
 Cels. + % p. Sec. 0-10 Cels. Cels. lt—s mm. engl. Fusš.
@@ -3198,13 +3169,11 @@ wsw; Regen oder Schnee.
 WNW
 Station Riga. Monat Nojy5ömherl87&.
 a>
-M i t t t l w e r t b f c Luftteap. ■ m® Wasser­
-в«stand.CQCиQ Яei.ф§ S Ь
+ Mitttlwertbfc Luftteap.■m® Wasser­в«stand.CQCиQ Яei.ф§ S Ь
 SUС -Ф 
 T3
 <x> Ф J5* Š
-О я
-•3 ОЯ « я
+Оя•3 ОЯ « я
 S Bi Ь
 фС iя
 -4я-» h4
@@ -3213,17 +3182,12 @@ ffi ■■3
 eJ & Q
 CeU* 700 mm. Mt r.° 4- % p. 8ec. 0-10.' Cels. Cels. R—S mm. Fu89 engl.
 1 -f- 0.7 62.1 82 S. 4 9 __ — 2.1 RS. 1.2 4.3 4.3
-2 +  3.4 51.9 93 SW . 1 40 — 4- i.o R. 6.2 4.4
-4- 4.83 2.9 48.8 87 W. 4 40 — 4- 1.9 RS. 7.5 5.3 5.6
-4 — 4.4 55.6 65 NE. 4 10 — — 2.5 S. 4.7 4.7
-5 4-+ 0.4
+2+ 3.451.993 SW.140—4-i.o R.6.24.44- 4.83 2.9 48.8 87 W. 4 40 — 4- 1.9 RS. 7.5 5.3 5.6
+4—4.455.665 NE.410——2.5 S.4.74.75 4-+ 0.4
 58.4 86 S. 3 10 — — 3.1 S. 6.2 4.5
-- — 4.96 4.3 44.9 86 SW. 3 10 4- 1.7 в . 9.1 5.5 5.5
-7 +  3.4 57.6 90 s. 4 10 — 4- 2.7 R. 0.3 5.5
-4- 5.38 5.2 53.9 77 w —sw. . 6 10 4- 3.5 R.
+-—4.964.344.986 SW.3104-1.7в.9.15.55.57+ 3.457.690s.410—4-2.7 R.0.35.54- 5.38 5.2 53.9 77 w —sw. . 6 10 4- 3.5 R.
 0.7 6.8 6.5
-9 +  5.9 62.6 81 6 9 — 4- 1.9 R. 0.3
-10 +  6.5 55,5 90 sw.
+9+ 5.962.68169—4-1.9 R.0.310 +  6.5 55,5 90 sw.
 6.2 5.7
 6 10 — 4- 5.5 R. 7.3 6.2 6.1
 41 4- 2.7 55.3 85 SW. 2 5 — 4 - 0.9 6.0 5.4
@@ -3266,10 +3230,8 @@ SW. Niederschlag.
 Riga.
 i1NNW.
 Station Riga. Monat J>eeember 1879.
-M i t t e l w e r t ! ) « . Lnftteap. W asser­stand.
-3̂
-ä В
-* 3<a& 'S вöS а53я ■■a
+ Mittelwert!)«. Lnftteap. Wasser­stand.3̂
+äВ* 3<a& 'S вöS а53я ■■a
 а
 700mm. Mtr.
 Cels. + % p. See. 0-10 Cel*. Cels. Rt-S mm. Fues engl.
@@ -3277,12 +3239,10 @@ Cels. + % p. See. 0-10 Cel*. Cels. Rt-S mm. Fues engl.
 2 -1 7 .4 56.4 78 0 . 10 — —21.3 4.9 4.2
 3 —17.6 55.4 77 0 6 — —22.5 5.0 4.2
 4 —16.5 55.0 77 s w . 2 6 — —19.9 5.0 4.3
-5 — 8.0 53.1 77 SW. 2 9 — —14.5 5.1 4.1
-6 —16.0 62.4 73 NE. 1 2 — —19.3 4.4 3.4
+5—8.053.177 SW.29——14.55.14.16 —16.0 62.4 73 NE. 1 2 — —19.3 4.4 3.4
 7 —18.8 71.4 75 NE. 1 3 — —22.7 3.9 3.3
 8 -1 2 .6 73.8 75 SW. 2 5 — —21.9 4.6 4.0
-9 ~  0.3 64.9 77 SW. 4 10 — — 9.7 5.0 4.9
-10 — 0.5 59.6 87 SW. 2 10 — — 2.5 S. 1.7 4.9 4.7
+9~ 0.364.977 SW.410——9.75.04.910 — 0.5 59.6 87 SW. 2 10 — — 2.5 S. 1.7 4.9 4.7
 11 — 3.2 58.7 83 SW. 2 10 — — 4.1 S. 0.3 4.8 4.6
 12 — 4.5 61.9 83 NE. 2 10 — — 61 4.7 4.1
 13 —10.2 72.8 77 s w . 1 6 — —11.7 4J0 4.2
@@ -3304,11 +3264,9 @@ Cels. + % p. See. 0-10 Cel*. Cels. Rt-S mm. Fues engl.
 29 — 2.8 50.8 80 SSW  10 10 — — 8.3 1Л 4.1 4.0
 30 +  1.9 46.0 86 SW. 5 10 — 4 - l . i R. 0-7 4.2 4.8
 31 4- 0.8 47.5 86 SW. 2 9 — — 0.6 4.7 4.9
-' — 4.5 «3.0 80 3.2 7.6 — —22.7 5.6 4J) 4.6
-Nebel am 1., 7., 15., 16. und 21. ß e if  am 1. Rauhfmst am 4. Glatte ie 
+'—4.5«3.0803.27.6——22.75.64J)4.6Nebel am 1., 7., 15., 16. und 21. ß e if  am 1. Rauhfmst am 4. Glatte ie 
 am 30. Sturm am 20. uud 29.
-£ £
-Winde . . . . +3 Z z H H £ £ CQ £GQ z z H со
+££Winde . . . . +3 Z z H H £ £ CQ £GQ z z H со
 82 a j £ Zcq
 CQ £ £ z
 Häufigkeit . . . 13 4 4 6 1 3 1 8 43 2 3 — 5 —
@@ -3326,20 +3284,12 @@ Station Riga« Monat J&tiu&r 1880.
 Mitte Iwerth«.Luftteap.Wasser-fscabetand.3о
 aa >43
 CD .2
-' S
-Ф Š
-Cо3% :S
+' SФŠCо3% :S
 Q;
 Cels. 700mm. Mtr.+ p. Sec. 0-10. Cels. Cels. R-S mm. F h s s engl.
-1 — 1.2 55.2 89 0 . 7 _ — 4.0 S. 4.5 4.9
-2 — 0.2 58.7 90 S. 4 10 — — 1.8 4.7 4.4
-3-f 2.350.083SW.410—+ 1.64.95.44 +  1.2 55.1 84 NW. 3 9 — — 0.6 5.6 5.6
-5 +  0.2 62.1 85 0 . 7 — — 1.5 5.4 5.4
-6 0.8 66.2 88 SW. 2 10 — — 0.8 S. 23 4.9 5.3
-7 +  l.o 62.0 84 NW . 6 10 — — 0.2 5.3 5.7
-8 +  l . i 58.5 79 N. 12 10 — — 0.4 6.0 5.7
-9 — 2.6 65.4 74 N. 6 10 — — 4.0 4.6 5.0
-10 — 5.3 74.0 74 NE. 2 10 — — 7.0 S. 0.4 4.9 5.0
+1—1.255.2890.7_—4.0 S.4.54.92—0.258.790 S.410——1.84.74.43-f 2.350.083SW.410—+ 1.64.95.44 +  1.2 55.1 84 NW. 3 9 — — 0.6 5.6 5.6
+5+ 0.262.1850.7——1.55.45.46 0.8 66.2 88 SW. 2 10 — — 0.8 S. 23 4.9 5.3
+7+ l.o62.084 NW.610——0.25.35.78+ l.i58.579 N.1210——0.46.05.79—2.665.474 N.610——4.04.65.010 — 5.3 74.0 74 NE. 2 10 — — 7.0 S. 0.4 4.9 5.0
 11 — 2.8 73.1 83 SW. 3 10 — — 5.6 RS. 1.4 4.8 5.3
 12 — 0.6 70.9 87 SW . 2 10 — — 2.4 S.- 0.4 5.0 5.0
 13 +  0.9 60.8 88 SW. 1 10 — +  0.0 5.3 5.0
@@ -3379,29 +3329,20 @@ Bewölkung.
 ENE.
 Maxim.
 Minim.
-| s s w ; Regen oder Schnee.
- 1 SW.
+|ssw; Regenoder Schnee. 1 SW.
 WSW
 Riga.
 Station Riga. Monat Februar 1880.
-M i t t e l w e r t b e . Lufttevp. . Wasser­stand.
-ПaЗ>
+ Mittelwertbe. Lufttevp.. Wasser­stand.ПaЗ>
 hcö
 □
-ß а
-3 c
-=Ö
+ßа3c=Ö
 ä
 3
 Q
 Cels. 700mm. Mtr. + p . Sec. 0-10 Cels. Cel». R-S mm. Fuss engl.
-1 — 2.0 69.2 69 SSW . 4 3 _ — 4.6 4.8 4.6
-2 — 0.6 64.5 80 SW. 2 6 — — 4.9 4.9 4.9
-3+ 2.264.685SW.310—+ 0.1R.4.74.94+ 2.665.888SW.28—+ 1.74.74.75 +  1.9 62.8 85 SW. 4 8 — 4- 0.1 5.1 5.1
-6 +  0.3 57.3 78 SW. 3 10 — — 1.1 S. 0.3 5.0 5.1
-7 — 1.0 67.0 78 SW . 3 8 — — 2.7 4.7 4.7
-8 — 1.8 62.0 84 SSW . 4 10 — — 3.5 4.4 3.9
-9—2.157.969ssw. 38——5.1--4.34.410 — 3.5 59.9 72 S. 1 4 — — 5.3 4.4 4.3
+1—2.069.269 SSW.43_—4.64.84.62—0.664.580 SW.26——4.94.94.93+ 2.264.685SW.310—+ 0.1R.4.74.94+ 2.665.888SW.28—+ 1.74.74.75 +  1.9 62.8 85 SW. 4 8 — 4- 0.1 5.1 5.1
+6+ 0.357.378 SW.310——1.1 S.0.35.05.17—1.067.078 SW.38——2.74.74.78—1.862.084 SSW.410——3.54.43.99—2.157.969ssw. 38——5.1--4.34.410 — 3.5 59.9 72 S. 1 4 — — 5.3 4.4 4.3
 11 — 5.9 59.4 60 SSE. 1 2 — — 8.3 4.3 4.4
 12 — 3.1 63.6 82 0 10 — — 8.9 4.3 4.4
 13 — 1.0 66.7 74 0 10 — — 4.9 4.4 4.4
@@ -3424,8 +3365,7 @@ Cels. 700mm. Mtr. + p . Sec. 0-10 Cels. Cel». R-S mm. Fuss engl.
 759.7 75 3.8 7.5 ___ —19.7 25.8 4.4 4.3
 Am 4. Abends Nebel.
 Winde . . . И
-z И й Ф
-£
+zИйФ£
 QQ £ Ä £OQ £ & Ä
 Häufigkeit . . 15 3 4 1 1 6 1 9 11 29 2 1 1 1 2
 Stärke in Mtr. 
@@ -3453,26 +3393,18 @@ CO
 ':  CÖI  
 3
 ä ■5; S» s *»
-& £
-, a> Ф ® H3+» S a Š
+&£, a> Ф ® H3+» S a Š
 •ОV ö
-: я
-К "H.
+:яК "H.
 ng bß
 S3 I ЗФ
 e <&
-I s нД И s r &
-Д % f§-
-"es ' M
+ IsнДИsr&Д%f§-"es ' M
 Ö Cel8. 700 mm M tr. + % p. Sec. 0-Ю Gel»; Cele. R—S mm. engL F u s s .'
-1 + 3.0 46.1 74 SW. 3 10 _ — 2.2 6.0 4.8
-2 3,9 44.0 76 SW . 7 10 — +  23 R 1А 5.4 4.4
+1+3.046.174 SW.310_—2.26.04.82 3,9 44.0 76 SW . 7 10 — +  23 R 1А 5.4 4.4
 3+3.539.686SW.410—-f 1J3R.4.16.2i£4+2i237.482SW.510—+ 0.7RS.0L56.05£5 0.9 48.9 77 NW. 5 10 — — 2.1 6.0 5.7
-& — 3.0 60;4 79 N. 3 5 — — 5A 5.3 5.3
-7 + 1.8 53.4 86 SW. 5 10 — — 4J2 Sw 03 5.6 5.2
-8 4.7 70.6 54 N. 15 3 —u . — 6.2 5.5
-9 — 0.3 68.5 69 SW . 4 7 — — 3.9 5.8 6.1
-10 2.6 58.0 71 SW. 3 5 — — 1.4 5.6 5.5
+&—3.060;479 N.35——5A5.35.37+1.853.486 SW.510——4J2 Sw035.65.28 4.7 70.6 54 N. 15 3 —u . — 6.2 5.5
+9—0.368.569 SW.47——3.95.86.110 2.6 58.0 71 SW. 3 5 — — 1.4 5.6 5.5
 11 2,5 66.3 77 N. 9 5 — — 4.8 “Sv 5.2 5Л
 12 — 8.8 81.0 56 N. 6 0 — —12.0 4j9 4.6
 13 __ 5.1 77.3 72 NW . 2 6 — — 9.6 4.7 4,6
@@ -3496,33 +3428,25 @@ SO 4,2 62.7 65 NE. 4 4 — — 6.4 ■s. 0A 4,2 4,1
 31 + 0.8 65.1 70 S. 2 4 — —  5.2 3.7 3.8
 1.6 761.1 72 4,0 6.0 — —15.4 — 9.1 4.8 4.6+
 Am 7. Graupeln, аш 25. Mondring, am 28. Schneegestöber.
-Я й &
-Winde . . . . . 3̂ Я Eö CB И & 0D £ £zu Щ £ zя CQ ad m02 OB £ Z z
+Яй&Winde . . . . . 3̂ Я Eö CB И & 0D £ £zu Щ £ zя CQ ad m02 OB £ Z z
 Häufigkeit . . . 5 23 1 3 1 1 1 4 31 4 2 1 12 4
 Stärke in Mtr.p. Sec. __6.0 5.0 4.3 IjO 3.0 2.5 3.7 2u) 5.0 2.0 3.2 4.8
-i 7 Л
-Haarbygr.
+i7ЛHaarbygr.
 Bewölkung.
 Maxim.
 WNW]
 Dünamiinde.
 Station Riga. Mouafc April 1B8jO.
 Mi11e1wert fcfeLuftttittp.Wasser­stand.d.
-S d
--ь®э bß
+ Sd-ь®э bß
 ä3ä
 M
 Cels. 700 mm. Mt r.4 - % p. Sec. 0-1Q. Cels. ,Cels. s mm. Fass engl.
 1 2.5 60.8 76 SE. 3 7 — — 1.9 : ; 3,9 3.8
-2 +  0.8 61.6 88 SE. 4 40 — ■ 4- o .i 0.4 i 3.7 3.4
-3 — 0.9 55.0 94 ■ENE. 4 40 — ■ — S. 1.9 3.0 2.8
-4 +  0.4 55.0 77 SW . 4 10 — — i 3.6 3.5
-5 4 - 3.0 52.6 85 S. 2 10 — — R. 4.7 3.0 2.9
-6 4- 5.4 52.9 79 SSW . 5 7 — — 3.S 3.4
+2+ 0.861.688 SE.440—■4-o.i0.4i3.73.43—0.955.094■ENE.440—■— S.1.93.02.84+ 0.455.077 SW.410——i3.63.554-3.052.685 S.210—— R.4.73.02.96 4- 5.4 52.9 79 SSW . 5 7 — — 3.S 3.4
 7 4- 3.1 58.4 75 S. 3 10 — 4- 1.7 3.S 3.0
 8 4- 5.2 59.7 65 SE. 4 10 — 4- 2.1 3.6 3 А
-9 4 - 4.6 60.0 68 N N W .l 10 — 4- 2.5 ; 4.0 3.6
-10 4- 4.7 61.9 72 S-. 1 10 — 4 -  2.3 4.5̂ 3S
+94-4.660.068 N N W.l10—4-2.5;4.03.610 4- 4.7 61.9 72 S-. 1 10 — 4 -  2.3 4.5̂ 3S
 11 4- 5.1 63.8 71 N. 2 7 — +  1.1 4.4 3.5
 12 4- 3.9 65.2 67 NE. 1 0 — ' +  0.1 0.8 3.8
 13 4- 3.8 68.6 57 N . 1 0 — — 1.3 i 6.9 3j6
@@ -3547,8 +3471,7 @@ Cels. 700 mm. Mt r.4 - % p. Sec. 0-1Q. Cels. ,Cels. s mm. Fass engl.
 Am 3. Schneegestöber, am 5. Nebel, am 17. Reif, am 27. und
 29. Graupeln.
 W ind© ..................... 53 H »£ Ä H Ä p4 P0Oö OB
-Й Ä H S OQ
-Häufigkeit. . . . 16 6 1 6 3 — l 8 10 ,4 20 2 7 6
+ЙÄ H S OQHäufigkeit. . . . 16 6 1 6 3 — l 8 10 ,4 20 2 7 6
 Stärke in Mtr. p; Sec. — 3j) 2л 2.2 3.3 — 2.0 2.7 2.5 4.2 3.1 3v0 3.6 2л
 Datum neuen Styls.
 Barometer.
@@ -3565,8 +3488,7 @@ W SW
 NW.
 NNW. Dünamünde.
 Station Riga. Monat Mai 1880.
-M i t t e l w e r t h e . Lüfttemp. n s
-0h2
+ Mittelwerthe. Lüfttemp.ns0h2
 r®s
 О
 ®a
@@ -3579,9 +3501,7 @@ engl.
 5 +12.7 59.9 74 s. 2 8 —. - 8 .2 R. l . i 5.9
 6 +13.9 52.7 84 ssw. 2 10 — -10.2 R. 8.9 6.2
 7 +12.6 51.0 80 sw. 2 10 — - 9 .2 R. 4 9 6.2
-8 +  8.8 58.2 69 s. 1 10 — . - 2 .8 R; 4.8 6.1
-9 +  5.7 61.2 85 NE. 2 10 —• - 5.6 R. 3.2 6.0
-10 +  7.0 60.2 78 NE. 5 10 — - 4.5 R. 1.1 5.9
+8+ 8.858.269s.110—.-2.8 R;4.86.19+ 5.761.285 NE.210—•-5.6 R.3.26.010 +  7.0 60.2 78 NE. 5 10 — - 4.5 R. 1.1 5.9
 11 +12.5 63.6 73 NE. 4 8 — - 6 .7 R. 5.4
 12 + 17 .0 65.9 65 NE. 3 7 — -10.2 R. 0.7 5 5
 13 + 18 .4 66.4 56 NE. 2 8 —— -13.6 R. 5.114 +17.6 64.5 57 N. 2 7 -12.7
@@ -3605,8 +3525,7 @@ engl.
 31 +14.5 65.0 63 NE. 4 8 _ +  9.6 4.8
 +11.3 760.0 64 3.1 6.6 — -  1.9 31.7 5.5
 Am 12. Gewitter, am 18. Graupeln.
-И £
-Winde . . . . Z zm z- H 0P26 02 OQИ £
+И£Winde . . . . Z zm z- H 0P26 02 OQИ £
 Häufigkeit . . . 4 11 21 1 2 1 2 10 11 19 3 — 8 —
 Stärke in Mtr.p.Sec. — 4.2 3.0 6.0 3.5 1.0 1.5 2.0 3.0 3.3 6,0 — 3.2 - •
 Datum neuen Styls.
@@ -3627,11 +3546,8 @@ m
 Tg» M i 11 e 1 щ с r t  b e. Lufttemp. "a9CG 03
 a Ä kta» s Wras* В 0Qs> V 00£ 1. cS
 pS
-s * £
-а"сз Cels. 700mm. л/% Mtr. Fuss+ p. Sec. о-го Cels. Cels. R—s mm. engl.
-1 +  4.0 64.3 75 NNW . 8 1 _ 5.0
-2 +  7.7 64.9 59 SSE. 5 2 —г- > ~т- 4,3
-3 +10.3 64.3 74 SSE. 3 3 -- ; ■ ■ 4.2
+s*£а"сз Cels. 700mm. л/% Mtr. Fuss+ p. Sec. о-го Cels. Cels. R—s mm. engl.
+1+ 4.064.375 NNW.81_5.02+ 7.764.959 SSE.52—г->~т-4,33 +10.3 64.3 74 SSE. 3 3 -- ; ■ ■ 4.2
 4 4-14.1 63.9 55 SSE. 2 0 --  .— 4,2
 5 4-12.9 60.4 82 SSE. 3 4 — . 0.7 4.1
 6 4-12.8 53.2 94 SSE 2 9 -- v — R. *5.0 4.2
@@ -3685,8 +3601,7 @@ Mittel w« H-Iie.luftteai|fc~ьЙсsаä:3’Sh awa 03->fc>o T SJ-я3 s tn
 1 jj %
 no3
 '0* к
-Я % £
-Cels. 700mm. Mt r. 0-10 Cels. СёЪ. K-S mm. Kuai»+ * jn Sec. engl.
+Я%£Cels. 700mm. Mt r. 0-10 Cels. СёЪ. K-S mm. Kuai»+ * jn Sec. engl.
 1 -16.1 67.3 39 NE. 4 1 __ +  9.2 4.3
 2 -14.4 66.0 51 NNE. 3 2 — +  8.8 4.6
 3 hl6.8 60.4 50 NW. 1 0 —r +  8.8 4.5
@@ -3778,8 +3693,7 @@ mm. Fuss.
 30 +16.0 53.3 93 W. 3 8 *— R. 2.0 4.4
 +14.7 758.3 77 6.0 3.8 — — 54.2 4.3
 Am 4. Gewitter, am 6. Nebel und Sturm.
-. a К я
-Winde . . . . . Z Z Z zZ и со
+.aКяWinde . . . . . Z Z Z zZ и со
 Я02 .С0О2И 02 &
 £
 z 1z
@@ -3816,8 +3730,7 @@ Cels. 700 mm. Mtr. Fuss° -f- p. Sec. 0-10. Cels. Cels. R -S mm. entji.
 3 +20.6 59.6 69 NW. 1 2 — +14.5 R. 3.1 4.4
 4: +20.4 59.3 75 NE. 3 9 —■ +*5.9 R. 16.2 4j3
 5 +22.6 56.6 76 S. 4 ■ 7 -t- +16.1 R. 4.3 4.4
-6 + 2 0 s4 60*3 67 SW. 3 5 — +16.1 4.3
-7' +17.8 62.2 63 0 4 — ■ +11.3 4.7
+6+20s460*367 SW.35—+16.14.37' +17.8 62.2 63 0 4 — ■ +11.3 4.7
 S +20.2 60.6 63 N. 1 2 — +13.1 4*5
 9 +21.6 59.8 54 N. 1 1 —— +15.3 4.510 +24.7 61.2 54 0 3 +15.9 4.4
 11 +24.0 62.4 68 sw. 3 6 — +19.1 R. 2.4 4.3
@@ -3876,8 +3789,7 @@ engl.
 4 +19.1 59.7 92 SE. 8 8 — R. 8.6 4.3
 5 +21.6 56.6 82 S. 5 5 — ■— 0.7 4:5
 6 +19.5 60.4 77 SW. 6 5 — ' — 0.1 4;9
-7 + 17.4 62.3 77 SSW. 3 4 ■ 4.7
-8 +19.5 61.0 79 N. 4 3 — 4.3
+7+17.462.377 SSW.34■4.78 +19.5 61.0 79 N. 4 3 — 4.3
 9 +20.6 60.1 68 NW. 3 1 —  : — 415
 10 +22.3 61.5 72 NNE. 4 3 — — 4:4
 11 +23.1 62.4 72 SSW. 5 7 — .• — R. 1.9 4.6
@@ -3924,12 +3836,10 @@ jwsw
 Riegen oder Schnee.
 NNW.
 Station Riga. Monat August 1880.
-M i 11 e 1 w e r t b e. Lufttemp. bC
--2
+ Mi11e1wertbe. Lufttemp.bC-2
 &> »
 s Л2§■ as+-r
-ä I a>ЯA Z
-Cels. 700mm. Mtr. + p.. Sec. 0-10 Cels. Cels. R—3 mm.
+ä Ia>ЯA ZCels. 700mm. Mtr. + p.. Sec. 0-10 Cels. Cels. R—3 mm.
 Fuss
 engl.
 1 +14.8 49.1 86 SW. 4 9 __ +13.2 R. 13.3 5.0
@@ -3969,8 +3879,7 @@ PS
 Winde К H £. . .
 Z 25
 и 00 я £ 02 £
-2 Z ZК И 02 02 £ Z
-Häufigkeit . . 31 12 4 18 — 3 — 1 — 2 7 5 — 7 3
+2 Z ZКИ0202£ ZHäufigkeit . . 31 12 4 18 — 3 — 1 — 2 7 5 — 7 3
 Starke in Mtr.) 
 pr. Sec. j — 2.8 2.0 2.0 — 2.0 — 2.0 — 4.0 3.1 2.4 — 2.7 з!з
  I Datum neuen Styls.
@@ -3985,13 +3894,11 @@ SSW.
 Regen oder Schnee.
 NNW. Wasserstand.
 Station Dünamünde. Monat August 1880.
-M i 11 e 1 w e r t & e. Liitttea^
-bC
+ Mi11e1wert&e. Liitttea^bC
 JS
 '<s3Й
 'S П<Зo:
-i %
-Q Cels. 700 mm /%>/ Mtr. engl.+ p. Sec. 0-10 Cels. Cels. в—s mm. Fuss.
+i%Q Cels. 700 mm /%>/ Mtr. engl.+ p. Sec. 0-10 Cels. Cels. в—s mm. Fuss.
 1 +14.8 48.6 91 SW. 6 8 _, _ ■_s. R. 6J6 5.0
 2 4-16.5 51.8 76 SW. 9 6  ̂ — r ■ —  ; R. 2.5 5;2
 3 4-17.2 52.7 88 NE. 5 5 —  ' --- o;i 5.0
@@ -3999,8 +3906,7 @@ Q Cels. 700 mm /%>/ Mtr. engl.+ p. Sec. 0-10 Cels. Cels. в—s mm. Fuss.
 5 +20.3 50.7 87 NE. 6 7 R. ■ 4.5 4.6
 6 4-21.0 52.1 82 SE. 4 7 . --- --- 0.4 4.9
 7 4-18.6 50.6 90 SE. 11 8 — ' - -T- R. 1.4 4.6
-8 + 21.2 52.7 72 SSE. 9 1 ----Л i--- . • 4.7
-9 +22.9 541 75 SE. 6 2 Г-r .. -- 4.8
+8+21.252.772 SSE.91----Лi---.•4.79 +22.9 541 75 SE. 6 2 Г-r .. -- 4.8
 10 +19.6 61.5 99 NNE. 6 - 7 --  > -- 4.9
 11 + 20.3 63.1 98 N. 5 . 7 -- R. 3.0 4.8
 12 4-21.2 61.4 99 N. • 5 5 -- -- R. 0.1 4.7
@@ -4027,8 +3933,7 @@ Q Cels. 700 mm /%>/ Mtr. engl.+ p. Sec. 0-10 Cels. Cels. в—s mm. Fuss.
 Am 5. und 11. Gewitter; am ö., 7., 8. Sturm; am 10. Nebel.
 ...
 Wrinde . . S3 ££5 s5 S да "53Й 00СО сСоО
-& £ $
-Я со
+&£$Я со
 Häufigkeit . 0 19 9 25 4 3 3 4 5 2 2 5 1 2 9
 Stärke in 
 Mtr. pr. See. 6.8 6.7 5.3 4.0 4.5 З.з 7.0 8.8 1.0 8.5 6.8 6.0 7.0 7,с
@@ -4090,8 +3995,7 @@ W in d e ..................... Z z к
 Щ
 z Ик СЯ К
 53
-и К со
-со 02 &
+иКсосо 02 &
 z_ ш 0со2 0Q
 Häufigkeit. . . . 24 9 2 — 2 5 2 22 3 16 1 4
 Stärke in Mtr. p.Sec. — 3.3 — 3.0 1.0 2.8 4.5 2.8 2.7 3.2 Lo 3.2
@@ -4108,8 +4012,7 @@ Niedersehlag.
 L. Wasserstand.
 Station Düiiamünde. ’ Monat September 1880.
 Mitte 1wert JieLvfttemp.Рч
-a a
--2 оЗ
+aa-2 оЗ
 i—4 a
 Cels. 700 mm. Mtr. + p. Sec. 0-10 Cels. Gels. R—s mm.
 Fusš
@@ -4150,9 +4053,7 @@ m
 Winde . . 55 z m
 H
 S3 Й И to
-H H ¥
-Ä H и 03
-CO
+ H H¥Ä Hи03CO
 GCOQ 0Q
 Häufigkeit. 0 6 3 4 3 4 4 21 12 3 9 5 4 1 2 9
 Stärke in 
@@ -4173,19 +4074,15 @@ Station Riga. Mooat Qetober 1880.
 Mittel vertl e.Lofttenp..ebie Tя3
 3 OSVas -atJux
 s пa
-U ®
-З> anos
-1 2 03
-m Ä £
-Cels. 700mm.+ % p.
+ U®З> anos
+1203mÄ£Cels. 700mm.+ % p.
 M Sterc. . 0-10 Cels. Cels. R—s mm. eFnugsls.
 1 4- 7.0 57.4 76 SW. 4 7 __ +  3.5 R. 4.9
 2 4- 7.5 49.1 95 S. 3 10 — 4“ 4.1 R. 11.0 4.2
 3•f 6.140.796SW.310—t.4-2.3R.2&14.84 4“ 4.1 46.2 93 s w . 3 7 4- i . i 0.5 5.0
 5+ 5.849.992sw.36—-f 4.7R.2.55.46 4- 6.3 51.9 96 s. 1 10 — +  1.1 R. 4.8 5.2
 T- +10.9 46.9 93 s w . 3 10 — 4- 5.9 R. 6.7 5.0
-8 +  5 A 58.0 84 N. 2 5 — 4- 3.7 R. 0.3 4.6
-9 _j_ 3.0 62.3 94 NE. 1 1 — +  1.2 4.6
+8+ 5 A58.084 N.25—4-3.7 R.0.34.69 _j_ 3.0 62.3 94 NE. 1 1 — +  1.2 4.6
 10 4“ 3.8 64.5 80 SW. 1 6« — +  0.1 R. 0.1 4.5
 11 +  3.3 70.3 86 0 3 — — 0,7 R. 4.2
 12 +  5.7 69.7 82 s w . 2 10 — 4- 0.7 4.4
@@ -4208,8 +4105,7 @@ T- +10.9 46.9 93 s w . 3 10 — 4- 5.9 R. 6.7 5.0
 29 —  3.4 41.9 94 NE. 5 10 — — 5.1 S. 9,0 4.5
 30 — 1.3 42.5 76 NW. 7 10 ... — — 3.7 s. 0.2 6.2
 31 4* 0.6 42.9 92 SW. 6 9 — — 4.3 s. 0.3 5.0
-4 - 2.5 752.7 88 3.4 7.6 — —10.1 121.6 4.8
-Am 2., 7., 9., 11., 27. N ebel; am 4., 9., 10., 11., 17. Reif; am 14., 15., 30. 
+4-2.5752.7883.47.6——10.1121.64.8Am 2., 7., 9., 11., 27. N ebel; am 4., 9., 10., 11., 17. Reif; am 14., 15., 30. 
 Graupeln; am 16. und 19. Sturm; am 19. Wetterleuchten; am 19, 21., 
 22., 26., 27., 29. und 30. Schneegestöber
 Winde . . . m mЪ H HGO in 05m £
@@ -4232,22 +4128,15 @@ Regen oder Schnee.
 NW.
 и* |n n w .
 Station Dünamiinde. Monat October 1680.
-M i t t e l v e r t k e . Lufttemp.
-d,
+ Mittelvertke. Lufttemp.d,
 Se3 ä
 8 'Й«S
-Л 2
-700 mm Mtr. engl.
+Л2700 mm Mtr. engl.
 Cels. + % p. Sec. 0-10 Cels. Cels. B-8 mm. Fuss.
-1 +  8.7 57.3 79 NW. 13 5 _ — , 5.6
-2 +  7.9 48.6 97 SSW . 9 9 — ' — R. 7.5 4.4
-3 +  7.0 40.4 96 SW. 10 10 — — R. 16.7 4.9
-4 +  4.5 46.0 9t SW. 9 5 — — 0.1 5.5
-5 6.7 49.5 84 NW. 11 4 —■ — R. 2.2 5.7
+1+ 8.757.379 NW.135_—,5.62+ 7.948.697 SSW.99—'— R.7.54.43+ 7.040.496 SW.1010—— R.16.74.94+ 4.546.09t SW.95——0.15.55 6.7 49.5 84 NW. 11 4 —■ — R. 2.2 5.7
 6 4- 6.3 52.5 96 SSE. 3 10 — — R. 5.1 4.6
 7 +11.3 46.5 93 SW. 9 10 — — R. 4.6 4.5
-8 +  7.2 57.6 73 NNW. 5 4 — ' - — 0.2 4.6
-9+ 4.362.183SE.41— ’—4.1,10 4- 4.9 64.2 81 SW. 5 6 — :— 0.8 4 3
+8+ 7.257.673 NNW.54—'-—0.24.69+ 4.362.183SE.41— ’—4.1,10 4- 4.9 64.2 81 SW. 5 6 — :— 0.8 4 3
 11 4- 4.1 70.4 90 SSE. 2 6 — ■ — 0.1 4.0
 12 4- 6.7 69.5 81 SW. 5 5 — - — 4.5
 13 4- 4.9 55.6 95 SSW . 10 8 —  - — R. 2.1 4.4
@@ -4271,10 +4160,8 @@ Cels. + % p. Sec. 0-10 Cels. Cels. B-8 mm. Fuss.
 31 4- 0.8 42.4 94 SW. 12 8 — — s. 0.7 5.2
 4- 3.4 752.6 86 9.2 6.9 — — 105.0 4.8
 Am 3. Hagel; am 14., 19., 21. Sturm; am 21. Schneegestöber.
-m S ' £ 6=
-Winde . +3 £ sä Ä H ИШ OQ да CO OQ S5Z=5
-' £
-0Q Jzj W QQ 02 02 Ä
+m S'£6=Winde . +3 £ sä Ä H ИШ OQ да CO OQ S5Z=5
+'£0Q Jzj W QQ 02 02 Ä
 Häufigkeit 0 6 2 2 1 2 10 12 3 5 17 6 5 3 10 9
 Stärke iu 
 Mtr. pr.Sec. — 15.0 13.0 8.0 lO.o 15.0 6.0 6.0 11.6
@@ -4299,15 +4186,10 @@ S
 5
 Cels. 700 mm. 
 lltr . Cels. R - S Fuss+ % p. Sec. 0-10. Cels. mm. engl.
-1 — 2.5 48.7 96 NE.- 2 9 __ _ — 5.8 S. 1.4 4.8
-2 — 1.7 54.7 84 SW. 2 9 — — 4.9 S. 0.9 4.7 :
-3 —  4;0 65.4 95 SW. 2 4 — — 8.3 4.5
-4+ 0.761.483SW.1110----— 5.1&55 +  0.3 58.5 71 SW. 5 6 —• — 2.3 6.7 5.8
-6 —  0.2 59.5 95 SW. 5 5 — — 3.2 RS. 0.5 5.8
-7 -f- 3.6 56.0 94 SW. 4 10 — — 3.7 R, 4.2 5.9
+1—2.548.796 NE.-29___—5.8 S.1.44.82—1.754.784 SW.29——4.9 S.0.94.7:3— 4;065.495 SW.24——8.34.54+ 0.761.483SW.1110----— 5.1&55 +  0.3 58.5 71 SW. 5 6 —• — 2.3 6.7 5.8
+6— 0.259.595 SW.55——3.2 RS.0.55.87 -f- 3.6 56.0 94 SW. 4 10 — — 3.7 R, 4.2 5.9
 8 4- 3.0 53.6 95 SW . 1 9 ---- +  1.3 R. 13.3 5.8
-9 — 0.9 55.6 81 SW. 4 . 7 — — 3.3 S. 5.5
-10 — 2.6 61.1 97 SW. 1 8 — — 7.1 S. 3.2 5.2
+9—0.955.681 SW.4.7——3.3 S.5.510 — 2.6 61.1 97 SW. 1 8 — — 7.1 S. 3.2 5.2
 11 — 2.9 62.7 96 SW. 4 9 —  ■ — 8.3 5.3
 12 +  1.1 61.5 92 SW. 4 10 — ■ — 2.1 1.0 5.5
 13 4- 2.5 49.1 99 SW. 3 10 — — 0.3 RS. 13.3 6.0
@@ -4328,8 +4210,7 @@ JO 4~ 3.4 47.0 94 NNW .8 10 — — 1.7 RS. 3.1 6.9
 28 4- 6.2 62.3 84 SW. 7 8 — 4- 4.5 6,8
 29 +  7.3 61.4 92 SW. 4 10 — 4- 5.8 R. 0.3 6.4
 30 -f- 5.0 58.0 86 SW. 4 5 — +  3.5 6.8
-- f  1.9 756.1 91 3.6 8.2 — — 8.3 103.7 6.0
-Am 3. Rauhfrost und Nordlicht; am 10., 18., 23., 24., 25. und 26. Nebel; 
+-f 1.9756.1913.68.2——8.3103.76.0Am 3. Rauhfrost und Nordlicht; am 10., 18., 23., 24., 25. und 26. Nebel; 
 am 20. Schneegestöber.
 Й
 W in d e ..................... Hss И н525 525 В m 0Q £И 0Q £
@@ -4349,14 +4230,7 @@ NW.
 NNW. Waeserstand.
 Station Dünamünde. Monat November 1880.
 Mittelwerth e.Lufttenp.700 mm. Mtr. FussCels. + % p. Sec. 0-10. Cels. Cels. R—s mm. engl.
-1 — 0.8 48.3 93 NE. 8 9 __ — S. 1.5 4.8
-2 -  0.3 54.4 85 NW. 11 8 — — S. 1,5 5.7
-3 — 1.2 64.6 87 WNW11 4 — — 5.1
-4 +  1.6 60.5 83 SW . 19 9 — — 4.0 6.7
-5 +  0.9 58.4 74 NNW . 9 7 — — 4.6 5.5
-6 — 0.2 59.6 97 NNE. 9 5 — — R. 1.0 5.6
-7 +  1.2 55.7 98 SW. 12 10 — — 4.0 5.8
-8-f 2.753.6100SSW.59——S.13.65.19 +  0.1 55.1 80 NW . 11 8 — — . S. 3.1 5.6
+1—0.848.393 NE.89__— S.1.54.82- 0.354.485 NW.118—— S.1,55.73—1.264.687 WNW114——5.14+ 1.660.583 SW.199——4.06.75+ 0.958.474 NNW.97——4.65.56—0.259.697 NNE.95—— R.1.05.67+ 1.255.798 SW.1210——4.05.88-f 2.753.6100SSW.59——S.13.65.19 +  0.1 55.1 80 NW . 11 8 — — . S. 3.1 5.6
 10 — 1.5 60.9 93 W. 4 7 — — 6.4 5.0
 11 — 3.4 62.2 97 WSW. 9 9 — — 0.1 5.2
 12 +  0.7 61.2 95 S. 9 10 — — 2.0 4.9
@@ -4409,14 +4283,8 @@ Mi11e1wсf the.LuMcHp.fecäo  j
 C<D0QCQ3
 £
 Q Cels. 700 mm Mtr. Cels. Cels. R—s mm. engl.+ % p. Sec. 0-10 Fass.
-1 +  3.1 54.5 90 SW. 4 2 __ 4- 1.4 1.3 7.1
-2 +  3.2 43.3 99 SW. 4 10 — 4- l.o R. 7.2 6.6
-3 — 6.8 60.0 68 NE. 5 9 — — 8.6 S. 4.7 6.7
-4 — 4.3 68.8 65 N. 7 8 *— — 9.0 6.4
-5 — 3.1 62.0 84 NNE. 5 4 — — 7.4 S. 0.1 7.1
-6 —11.3 73.0 83 SW. 1 1 — —11.9 0.4 6.6
-7 — 7.2 64.0 93 s. 6 10 — —12.0 s. 2.2 6.6
-8 4- 1.2 54.9 97 SW. 6 10 — — 7.0 RS. 3.5 6.5
+1+ 3.154.590 SW.42__4-1.41.37.12+ 3.243.399 SW.410—4-l.o R.7.26.63—6.860.068 NE.59——8.6 S.4.76.74—4.368.865 N.78*——9.06.45—3.162.084 NNE.54——7.4 S.0.17.16 —11.3 73.0 83 SW. 1 1 — —11.9 0.4 6.6
+7—7.264.093s.610——12.0s.2.26.68 4- 1.2 54.9 97 SW. 6 10 — — 7.0 RS. 3.5 6.5
 9 4- 3.0 38.3 87 NW. 3 9 — 4- 0.2 RS. 7.3 6.6
 10 4- 0.3 42.3 77 N. 5 9 — — 0.8 S. 2 2 7.5
 11 4- 0.3 36.5 95 NW . 3 10 — — 1.0 S. 1.0 6.9
@@ -4469,12 +4337,7 @@ Station DÜnamtinde. Monat December 1880.
 Mittelwerth e.Lufttemp.Cels. 700mm. Mtr. + p. Sec. 0-10 Cels. Ceis. R—s mm.
 Fuss
 engl.
-1 +  4.0 54.5 93 NW. 8 1 _ _ 1.3 6.5
-2 +  3.6 43.4 98 SW. 8 10 — — R. 6.8 6.2
-3 — 5.0 59.4 60 N. 15 7 — — S. 5.7
-4 — 2.5 68.7 65 NW. 13 7 — — 5.9
-5 — 2.4 62.0 85 N N W .l 4 6 — — S. 0.5 6.4
-6 —10.7 73.2 77 SW. 5 2 — — 0.6 5,4
+1+ 4.054.593 NW.81__1.36.52+ 3.643.498 SW.810—— R.6.86.23—5.059.460 N.157—— S.5.74—2.568.765 NW.137——5.95—2.462.085 N N W.l46—— S.0.56.46 —10.7 73.2 77 SW. 5 2 — — 0.6 5,4
 7—7.563.998SSW.1110———S.7.65.68+ l.i54.4100SW.97—RS.3.16.29 4- 2.8 38.0 90 NW. 12 9 — — R. 3.3 6.2
 10 4  0.4 42.1 81 N. 13 8 — — 3.7 6.5
 11 4- 0.7 36.3 95 NN W .ll 10 — S. 3.7 6.7
@@ -4502,8 +4365,7 @@ engl.
 Am 9. und 10. Sturm; am 17. und 19. Nebel.
 H
 Winde . . 25 m63 OQ £
-£ и m £ 25
-Häufigkeit. 0 6 2 2 1 2 6 15 5 6 25 9 1 2 8 3
+£иm£25Häufigkeit. 0 6 2 2 1 2 6 15 5 6 25 9 1 2 8 3
 Stärke in 
 Mtr.p.Sec. - 14.5 9.0 7.0 6.0 7.0 6.7 7.0 6.0 8.7 6.3 7.6 8.0 8.0 10.9 55
 Datum neuen Styls.

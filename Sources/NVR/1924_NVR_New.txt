@@ -56,9 +56,9 @@ Barometrisches Minimum 30. Centaurea diffusa 39, — rhenana 39.
 Baumert, L. 49. Chimären56.
 Begräbnisformen 42. Chlorophycee 58. 
 Cichorium intybus 39. KorrelationsmethodeinderWetterkunde41. 
-C 1 a u s s e n, P. 38. Kreuzungen 33. 
+ C1aussen, P.38. Kreuzungen33.
 Corispennum nitidum 39. Kriechtiere 44. 
-C r o o i), E. 54. Krieg und Frieden 42. 
+ Crooi), E.54. Kriegund Frieden42.
 Dannenberg, W. 38. Kriegsgase34.npl/Arcii"^4.
 Doss, Nachruf 42. K u p f f e r .  K .  R .  3 1  ( 2 ) ,  3 2 ,  3 5 ,  3 7 ,  3 9 ,  
 Driesch, H. 32. 41,42(2),43,44,45,46,48(2),49,
@@ -96,9 +96,9 @@ Gerbsäure 34. Mutationen 33.
 Geschlechtsverhältnisse niederer Pflan­
 zen 38. Nahrungsmittel 31, 35, 39. 
 Giftpilze 32. Naturgesetze 54, 55. 
-G r o s s m a n n, P. 34, 55. Nebensonnen 51. 
+ Grossmann, P.34,55. Nebensonnen51.
 Grosschmetterlinge 31. Nematoden 87. 
-G r ü n i n g, W. 34, 47, 55, 60. Neuropsychologie 59. 
+ Grüning, W.34,47,55,60. Neuropsychologie59.
 Hedentröm, A. v. 31, 35, 39, 53, 63. Niederschläge56.
 Heiligenschein 51. Nonnea pulla 39. 
 Heracleum persicum 42. ' Nuphar luteum 34. 
@@ -138,7 +138,7 @@ Potentilla fruticosa 59. Tremellodon gelatinosus 43.
 Trey, F. 34, 41, 47, 48, 50 (2), 53. 
 Rädertierchen 32. Trichocolea tomentella 58. 
 Regenbogen 51 (3). Triticum repens 42. 
-R e i n w a 1 d t, E. 45. 
+ Reinwa1dt, E.45.
 Reisen 62. Umkehrbare und nicht umkehrbare Vor­
 Relativität 45 (3), 46, 53. gänge in der Natur 54. 
 Reseda lutea 39. Unkräuter 32. 
@@ -169,12 +169,12 @@ Sonnenscheindauer 32. Witterung 61, 62.
 Sorex minuius 34, — vulgaris 45. Wogen wölken 34. 
 Speiteufel 33. Wurzelbart 40. . 
 Sprache der Tiere 45. 
-S t e ii d e r, 0. 59. Zapfen am Stamm 59. 
+ Steiider,0.59. Zapfenam Stamm59.
 Stereonema chthonoblastes 43, 58. Zirbelkiefer 55. 
-S t o 11, F. E. 31, 32, 37, 38, 44, 45, 46, Zodiakallicht 49, 50. 
+ Sto11, F. E.31,32,37,38,44,45,46, Zodiakallicht49,50.
 52, 55, 62. Zoologische Gärten 4.0. 
-S t o 11, M. 31. Zweckmässigkeiten in der Natur 47. 
-S v e ii s o n, E. 54, 60. Zwiebel, abnorme 59. 
+ Sto11, M.31. Zweckmässigkeiteninder Natur47.
+ Sveiison, E.54,60. Zwiebel,abnorme59.
 Zum Geleit. 
 Nach 9-jähriger Pause tritt der Naturforscher-Verein zu Riga wiederum 
 mit einem neuen Bande seines Korrespondenzblattes an die Öffentlichkeit. 
@@ -310,8 +310,7 @@ Freunde und wertvollsten Mitarbeiter verloren. Aber nicht nur unser enger
 Kreis trauert um ihn, auch ein weiterer der Naturforscher wird ihm ein 
 dankbares und ehrendes Gedenken bewahren. 
 Dr. Erwin Taube. 
-— 3 -
-Professor Dr. Bruno Doss + 
+—3-Professor Dr. Bruno Doss + 
 und seine Verdienste um die Durchforschung des ostbaltischen 6ebiets. 
 Karl Bruno Doss wurde am 1. November 1861 als Sohn eines 
 Kaufmanns zu Auerbach in Sachsen geboren, studierte 1882 - 84 in München 
@@ -416,8 +415,7 @@ eine Verfügung der zeitweiligen Regierung Lettlands aufgehoben und an ihrer Ste
 zur Geophysik; C. — Centraiblatt für Mineralogie, Geologie und Paläontologie; T — Neues 
 Jahrbuch für Mineralogie, Geologie und Paläontologie; K. — Korrespondeuzblatt des 
 Naturforscher-Vereins zu Riga; Z. - Zeitschrift der Deutschen Geologischen Gesellschaft 
-- 5 -
-Mit besonderem Eifer hat Doss fernör den geophysikalischen 
+-5-Mit besonderem Eifer hat Doss fernör den geophysikalischen 
 und geodynamischen E reignissen in unserem Gebiete nachgeforscht. 
 Wir verdanken ihm eine vollständige Sammlung von Nachrichten über alle 
 historisch beglaubigten Einsturzbeben und seismisch-akustischen Phänomene, 
@@ -596,8 +594,7 @@ Unserem Verein ist Dr. K. v. Lutzau im Jahre 1895 als ordentliche^
 Mitglied beigetreten. 1910 wurde er in Anerkennung seiner Verdienste 
 zum korrespondierenden Mitgliede erwählt. 
 K. R. K. 
-- 9 -
-Der nafurforscfter*Verein zu Riga 
+-9-Der nafurforscfter*Verein zu Riga 
 in den Sahren 1895-1920. 
 Bericht des Yereinssekretärs Prof. A. Meder zum 75-jährigen Bestehen des Vereine 
 am 8. April 1920. 
@@ -810,11 +807,11 @@ Präses: Direktor G. Schweder . . 1875-1913
 Professor K. R. Kupffer . • (7) „ 1913— 
 Vizepräses: Professor Th. Grönberg . • 24 „ 1878-1902 
 Professor*) K. R. Kupffer • 11 7) 1902-1913 
-• 4 „ 1913-1917 
+•4„1913-1917
 1 Jahr 1917—1918 
 . (2) Jahre 1918-
 Sekretär: • 18 „ 1892-1910 
-. 8 „ 1910-1918 
+.8„1910-1918
 Professor A. Meder .... • (2) „ 1918 — 
 2. Sekretär**): Dr. phil. E. Taube • 4 „ 1913-1917 
 Dr. phil. Aug. v. Hedenström . • (2) „ 1918-
@@ -822,7 +819,7 @@ Schatzmeister: Bankdirektor L. Taube . . . • 11 yt 1886—1897
 Dim. Ratsherr Y. v. Zwingmann 1897 
 Dr. med. L. Zwingmann . . . • 3 „ 1898—1901 
 . 10 , 1901-1910 
-. 2 - 1910-1912 
+.2-1910-1912
 Dr. phil. E. Taube . . . 1 Jahr 1912-1913 
 Professor A. Meder . . 5 Jahre 1913-1918 
 Syndikus P. Grossmann . • (2) „ 1918— 
@@ -835,7 +832,7 @@ Direktor G. Schweder • 20 „ 1895-1915
 Dr. phil. E. Taube 1 Jahr 1917-1918 
 Professor G. Schneider . (2) Jahre 1918-
 Konservator: Lehrer G. Schweder jun • 2 , 1894-1896 
-• 7 „ 1896-1903 
+•7„1896-1903
 • (17) „ 1903-
 Direktor der meteorologischen Stationen: 
 Oberlehrer A. Werner . 34 „ 1880-1914 
@@ -1018,7 +1015,7 @@ OS rH
 Q6-f681 CO T<Mh  1 CCM Ti 5bC  NCS  6 
 To s C 
 S pOd 
-3 £ 
+3£
  6 OoDä  ü o> 4> -u c ho Ii 
 tn 'S c£ :ei o D
 3
@@ -1026,8 +1023,8 @@ LO
  
 *  
 &iihVa 
-O 9 
-> k 
+ O9
+>k
 spruch erheben. Viele Angehörige des Naturforscher-Vereins haben die 
 Heimat uur zeitweilig verlassen und sind daher nicht als für den Verein 
 völlig verlorengegangen anzusehen. Anderen wiederum ist infolge der 
@@ -1260,7 +1257,7 @@ Verein eine Reihe wertvoller Geschenke für seine Sammlungen: von Herrn
 P. Höflinger eine Kollektion abnormer und hybrider Wildhühner in 
 163 Exemplaren; von H. Baron Loudon den Schädel eines aus 
 Livland stammenden Bos primigenius; von Professor E. Russow eine 
-2 *  
+2* 
 - 20 — 
 grosse Sammlung inländischer Torfmoose, 30 Arten in 455 Formen; von 
 Dr. E. Lehmann sein Herbarium der Flora von Polnisch-Livland, sowie 
@@ -1303,7 +1300,7 @@ Herrn Chmieliewski. Von Pflanzen ist besonders das reiche Her­
 barium von Dr. F. Buhse, das in mehreren Schränken untergebracht ist, 
 zu nennen, ferner ein 20 Faszikel enthaltendes Herbarium baltischer 
 Gefässpflanzen von weil. Professor G. K i e s e r i t'z k y , ein von Herrn 
-K e u c h e 1 in Bialystok gesammeltes Herbarium und endlich eine 
+ Keuche1in Bialystokgesammeltes Herbariumundendlicheine
 Sammlung von 50 Arten baltischer Schleimpilze von Prof. W. R o t h e r t. 
 Den Hauptreichtum seines Museums verdankt der Verein freiwilligen 
 Schenkungen nicht nur seiner Mitglieder, sondern auch abseits stehender 
@@ -1516,7 +1513,7 @@ bis 1911. Korrespondenzblatt Band 55.
 denzblatt Band 48 - 50. 
 Aufzeichnungen des, Barographen 1907. Korrespondenzblatt 
 Band 51. 
-„ „ 35-jährige meteorologische Mittelwerte für Riga 1873—1907. 
+„„35-jährigemeteorologische Mittelwertefür Riga1873—1907.
 Korrespondenzblatt Band 53. 
 n 25-jährige meteorologische Mittelwerte für Riga und Düna­
 münde 1883—1907. Korrespondenzblatt Band 54. 
@@ -2565,7 +2562,7 @@ als Geschenk übergeben worden, wobei die wissenschaftlich wertvollen
 Stücke dem V erein, die übrigen der Schule zufallen sollen. Der Präses 
 will die Scheidung vornehmen und dann dem Verein Bericht erstatten. 
 Die Versammlung wählte Herrn Prof. Dr. Alfred Gabriel 
-N a t h o r s t—Stockholm zum Ehrenmitglied des Vereins. 
+ Nathorst—Stockholmzum Ehrenmitglieddes Vereins.
 Prof. R. Meyer hielt einen Vortrag über die spezielle Re­
 lativitätstheorie nach Einstein. 
 1100. ordentliche Versammlung am 8. November 1920. 
@@ -2636,8 +2633,7 @@ Relativitätstheorie und die Stellung der Kritik zu
 der Einsteinschen Lehre. 
 1104. ordentliche Versammlung am 17. Januar 1921. 
 Naturalien. Durch Rechtsanwalt v. Bergmann aus der 
-H i n t e r l a ssenschaft des ehemaligen Mitgliedes Paul Höflinger 2 Elch­
-geweihe, 8 Rehgehörne und eine Sammlung ausgestopfter Vögel; da letztere 
+ Hinterlassenschaftdesehemaligen Mitgliedes Paul Höflinger2 Elch­geweihe, 8 Rehgehörne und eine Sammlung ausgestopfter Vögel; da letztere 
 für den Verein keinen Wert hat, wird in Aussicht genommen, sie mit 
 Erlaubnis Herrn v. Bergmanns einer deutschen Schule zu übergeben. Der 
 Präses legte ausserdem einen Teil einer sehr schönen und wertvollen 
@@ -3292,7 +3288,7 @@ unmittelbar aus dem etwa 15-jährigen Stamm entspringt.
 Der Präses legte einen von Frau M. Kl awi ng aus Kahne bei Spahren 
 zugestellte Küchenzwiebel vor, die anstelle eines Blütenkopfes eine Gruppe 
 von Zwiebeln trug — eine bei Küchenzwiebeln seltene Erscheinung. Dozent 
-F e r 1 e bemerkte hierzu, dass im letzten Sommer die gleiche Erscheinung 
+ Fer1ebemerktehierzu,dassimletzten Sommerdiegleiche Erscheinung
 mehrfach in den hiesigen Schrebergärten zu beobachten gewesen sei, die 
 Zwiebeln seien aber kleiner gewesen, als beim vorgelegten Exemplar, und 
 mit Blüten dazwischen. 
@@ -3518,14 +3514,14 @@ Römershof (E.-M. 1910), Geh. Med.-Rat Prof. Dr. L. S t i e d a in Giessen
 (1908, k. M. 1910), Titulärrat K. Bergfeld (1896), Oberförster G. C o r -
 nelius (1908), Dr. med. J. Dietrich (1900j, Lithographiebesitzer 
 A. Grosset (1897), Provisor K. Hein (1909), Apotheker E. König­städter (1906), Apotheker A. Kreuzstein (1910), Kaufmann T h. 
-K u h f u s s (1903), Dr. med. H. Laurentz (1897), Dr. med. E. M e y 
+ Kuhfuss(1903), Dr.med. H. Laurentz(1897), Dr.med. E. Mey
 (1894), Oberlehrer H. v. Radecki (1918), Schulleiter P. Ramming 
 (1889, Konservator 1896—1903), Dr. med. O. S e e c k (1900), Ing.-Chem. 
 J. T h. S p o h r (1902), W. Steinbach (1903), Oberförster W. v. 
-S t i e d a (1908). 
+ Stieda(1908).
 Im Vereicsjahr 1919—20: 
 Zahnarzt J. Dulckeit (1864), Dr. med. A. Keilmann (1912), 
-P r i vatgelehrter A. Richter (1899), Dr. med. W. Stieda (1918), dim. 
+ Privatgelehrter A. Richter(1899), Dr.med. W. Stieda(1918),dim.
 Stadtbeamter G. Werner (1876). 
 Im Vereinsjahr 1920—21: 
 Wirkl. Staatsrat Prof. Dr. A. v. O e 11 i n g e n in Leipzig (1870, E.-M 
@@ -3946,7 +3942,7 @@ Von Zuwendungen fürs Museum sind zu nennen:
 Sommer 1914. 
 Von Dr. med. P. Lackschewitz in Libau eine grössere Sammlung von mücken­
 artigen Zweiflüglern. 
-s — 72 — 
+s—72—
 1917—18. 
 Aus dem Nachlass des Lehrers K. Grube ein Herbarium und ein Mammutzahn. 
 Vom Schüler H. Liihr Mineralien. 
@@ -4114,15 +4110,14 @@ Hoffnung in die Zukunft blicken.
 An Autorspenden sind eingegangen : 
 1913—141). 
 1. Bucholtz, Lriefs desAkademikersFr.RuprechtvonseinerReiseindenKaukasus.
-0 3 s ' ^eJsmi8C'le Ereignisse in den Ostseeprovinzen vom Juni 1910 bis Ende 1912. 
+03s'^eJsmi8C'le Ereignisseinden Ostseeprovinzenvom Juni1910bis Ende1912.
 Das Vorkommen von freiem Schwefel in Sapropeln. 
 Uber einen GletscherschlifF bei Kunda in Estland. 
 -- Zwei neue Erdwürfe in Kurland. 
 Uber die Herkunft des Naturgases auf der Insel Kokskär im Finnischen Meerbusen. 
 ^ur Frage nach der Ursache der ostbaltischen Erdbeben. 
 M. Ebert, Die baltischen ProvinzenKurland,Livland,Estland.
-F r i t s c hte , Die Bestimmung der Elemente des Erdmagnetismus und ihrer zeit­
-lichen Änderungen. 
+ Fritschte, Die Bestimmungder Elementedes Erdmagnetismusundihrerzeit­lichen Änderungen. 
 G. Ischreyt, Zur Morphologie des Auges der Urinatores. 
 J. Letzmann, Uber den grössten bisher beobachteten Sprung desLuftdruckesin
 den Ostseeprovinzen und den Witterungsumschlag am 8. (21.) Sept. 1913 und der 
@@ -4376,7 +4371,7 @@ teilt sich auf die drei Berichtsjahre und verschiedenen Orte wie folgt:
 3 Va  
 rC 
 ns 3 bc o &cö  •"ÖÖ  m 
-a c 
+ac
 § s<D  •oß3  £ 
 3££%"O3l 3Gesamtauflage
 1922 9 1 — 1 — — l ca. 100,000 
@@ -4554,7 +4549,7 @@ p Grund des für die Diflusion der Salze geltenden Fickschen
 Uesetzes konnten Morse und Pierce unter Hinzuziehung einer noch später 
 feinden Annahme von W. Ostwald einen mathematischen Ausdruck 
 U ezl e un
-A f j^ i ^ o zwischen der Zeit der Niederschlagsbildung und den 
+ Afj^i^ozwischender Zeitder Niederschlagsbildungundden
 Abständeu der einzelnen Ringe oder Schichten von der zuerst gebildeten 
 Schicht ableiten und zwar für Silberchromat: 
 x_ =k 
@@ -4753,8 +4748,8 @@ das rapide Anwachsen und Abfallen der einzelnen Spezies deutlich.
 ö 
 «0 X X X 
 CS SJ "e 
-K 1 30 
-N N N 
+ K130
+ N N N
 Juni - Juli 60 10 1 8 4 10 1 1 1 2 2 
 August—September 20 20 1 20 10 20 1 1 1 4 2 
 Oktober —November 5 10 1 15 30 25 2 1 6 2 3 
@@ -6080,7 +6075,7 @@ aufrecht erhalten werden kann, da sie erstens zu unbestimmt umschrieben
 ist (s. oben) und da in ihr zweitens ganz verschiedenartige Gewächse ver­
 eint worden sind. Nach G. Senns Bearbeitung der Flagellaten in 
 Engler und Prantl's „natürlichen Pflauzenfamilien" (I. Teil, 1. Abt. 
-a : S. 133) ist wenigstens ein Teil dieser Gattung den Geisseiaigen und 
+a: S.133)istwenigstensein Teildieser Gattungden Geisseiaigenund
 und zwar deren Gattung Anthophysa Bory zuzuzählen2). Somit ist der 
 Gattungsname Stereonema nicht anderweitig in gültiger Weise festgelegt 
 und kann für unser Gewächs beibehalten werden. Dieses ist auch deshalb 
@@ -6183,7 +6178,7 @@ wickeln sich zu je 8 in den Sporenschläuchen und sitzen in diesen zwei­
 reihig angeordnet. 
 Die Gonidien, welche dieser Flechtenpilz zu seiner 
 Fütterung verwendet, gehören verschiedenen grünen 
-A 1 g c n a r t e n an. Soweit eine Bestimmung dieser oft sehr schwer 
+ A1gcnartenan. Soweiteine Bestimmungdieseroftsehrschwer
 erkennbaren Lebewesen ohne langdauernde Züchtungsversuche') möglich 
 ist, habe ich bisher folgende einzelligen Chloro!>liyzeeu als Gonidien des 
 Stereonema chthonoblastes festgestellt2): 
@@ -6516,8 +6511,7 @@ proprius).
 (Asci) in verschiedenem Reifezustand, l' — die Saftfäden (Paraphysae), 
 E — das von ihren verdickten Enden gebildete Epithezium. 
 „ 6. Einzelne Spore. Yergr. 1000 : 1. 
-„ . 7. Ältere, dunkel gefärbte Pilzhyphe, einem Sandkorn anliegend, es aber keines­
-wegs umklammernd. 1000 : 1. 
+„.7.Ältere,dunkelgefärbte Pilzhyphe,einem Sandkornanliegend,esaberkeines­wegs umklammernd. 1000 : 1. 
 „ 8. Junge, fortwachsende Pilzhyphe, bei V — Vakuolen. Vergr. 1000 : 1. (In 
 Rücksicht auf den verfügbaren Raum ist diese Pilzhyphe gekrümmt, gezeichnet, 
 eigentlich sollte sie — der Natur entsprechend — geradeaus verlaufen.) 
@@ -6567,20 +6561,20 @@ Mittelwerte. lh- Mittag. Temperatur.
 CO co 
 Cu «-o es a 
 S Ee  n®s  
-3 O O 
+3 O O
 Wind. s 9 .9 —  £TZ  © c3 'S  i- br 
 M 'JZ s Oj  03 
 i  7  t i l i  m in .Meter 
 Cels. I + pro Sek. Cels. Cels. Cels. 
 1 —10.9 65.5 98 SW 2 10 - 3.4 —18.5 — 18.0 S 5.8 
 2 1.3 51.2 100 0 10 2.3 — 3.5 — 4.4 1 S 2.8 
-3 — 2.4 45.5 82 N 6 10 1.4 — 3.5 — 2 .5 : s 2.3 
-4 — 8.9 50.9 75 0 10 — 3.1 —10.8 — 7.8 s 1.5 
-5 — 1.9 36.7 9t SSW 2 10 3.0 -11.3 — 11.6 SR 2.1 
-6 — 0.8 39.2 99 0 10 2.0 — 3.4 — 1.1 S 6.0 
-7 — 10.5 51.5 89 0 O 6 - 3.0 — 14.5 — 9.9 
+3—2.445.582 N6101.4—3.5—2.5:s2.3
+4—8.950.975010—3.1—10.8—7.8s1.5
+5—1.936.79t SSW2103.0-11.3—11.6 SR2.1
+6—0.839.2990102.0—3.4—1.1 S6.0
+7—10.551.5890 O6-3.0—14.5—9.9
 8 —14.1 59.4 89 0 © 2 — 10.5 — 15.5 -16.4 S 11.7 
-9 — 3.1 37.0 100 0 10 0.6 — 12.2 — 12.9 s 7.8 
+9—3.137.01000100.6—12.2—12.9s7.8
 10 — 9.3 58 0 100 NE 10 10 — 7.6 — 11.6 — 10.1 
 11 — 15.7 72.4 100 ENE 7 10 -11.6 18.2 -15.2 
 12 — 18.6 79.0 90 0 10 -16.5 —21.9 -22.7 
@@ -6631,15 +6625,15 @@ Wind.
 55 
 700 mm | Meter 
 Cels. rusb. + ! /O pro S»k. 0-10 Cels. | Cels. — min Fn 88. 
-1 — 9.9 65.7 90 SSW 6 10 — 3.0 —17.0 s 2.6 5.8 
+1—9.965.790 SSW610—3.0—17.0s2.65.8
 2 2.0 52.1 97 WSW 6 10 2.3 — 3.4 s 1.7 5.8 
-3 — 2.2 45.8 60 NNW 21 10 2.0 — 3.1 s 1.4 6.9 
-4 — 9.0 51.1 66 SB 3 10 — 2.5 — 11.1 s 1.8 5.5 
-5 — 2.0 37.1 85 S 6 10 3.0 —11.5 s 0.9 6.2 
-6 — 0.8 39.5 80 W 3 10 2.0 — 3.5 s 2.2 6.8 
-7 — 10.3 52.0 87 N 3 10 — 2.5 — 11.8 5.6 
+3—2.245.860 NNW21102.0—3.1s1.46.9
+4—9.051.166 SB310—2.5—11.1s1.85.5
+5—2.037.185 S6103.0—11.5s0.96.2
+6—0.839.580 W3102.0—3.5s2.26.8
+7—10.352.087 N310—2.5—11.85.6
 8 —13.5 60.6 87 SE 3 © 5 -10.0 —15.5 s 4.7 6.2 
-9 — 2.5 37.7 97 SW 3 10 1.0 —12.5 s 5.0 6.5 
+9—2.537.797 SW3101.0—12.5s5.06.5
 10 — 8.5 58.9 81 NE 21 10 — 6.5 — J1.7 5.1 
 11 —15 2 73.0 80 ENE 9 10 —11.0 — 18.0 4.4 
 12 — 16.1 79.7 81 ENE 3 10 - 12.0 —21.3 5.1 
@@ -6694,11 +6688,11 @@ m Mittelwerte. 1 »'• Mittag. Temperatur. 3 rn -3 b
 c  
 CQ CQ E • 
 ac>  bl 03 u S üOQ  tGL sD  ti % ö S ©  
-3 S 0> 5 3 
+3 S0>53
 B eE  n®s M 3  
 TZ S- 0) 
 0) |S s s 3 O 
-o 5 
+o5
 a Wind. Jo 'S 5 3 £ o © 
 ö E— 
 t- 'S £ 
@@ -6709,7 +6703,7 @@ bc 2
 3 CQ J=> aa *5 £ 
 9 
 a 
-a m 
+am
 ü 05 
 a 700 mm Mete* Cels. % uro Sek. 0-10 Cels. Cels. Cels. - min + 
 1 3.9 56.2 94 WSW 10 © 3 5.2 2.5 0.6 R 0.1 
@@ -6800,7 +6794,7 @@ Winde H W CO &3
 Z 0J
 CO 
 2i  £ i 
-£ £ 
+££
 Z C=J CO z £ z z 
 Häufigkeit 3 3 0 0 0 1 12 1 2 12 15 9 14 7 0 1 4 
 Summe der Ge­ o 54 6 12 54 87 45 99 51 0 12 18 
@@ -6829,9 +6823,8 @@ Station Riga. Monat März 1914.
 Mittelwerte. 1 Mittag. Temperatur. 
 &. 
 £ 
-© 6 
-£ o
-Wind. 
+©6
+£oWind. 
 t- 
 fco 
 700 in in Meter 
@@ -6896,7 +6889,7 @@ NNW. mmeennggee..
 Station Ustj-Dwinsk (Diinaniiinde). Monat März 1914. 
 Mittelwerte. lh. Vlitta er Temperatur. 
 L. 
-® o S 
+®o S
 3 
 I» Wind. .6 
 •— 'y. 
@@ -6937,12 +6930,12 @@ t
 31 2.3 69.7 71 SW 3 © 2 6.5 — 2.9 SR 7.8 4.5 
 Mitt. 0.6 53.8 86 5.9 8.4 30 —1.5 55.4 4.8 
 Bemerkungen: Sturm am 8., 22. Nebel am 27., 28. Schneedecke am 1., 2., 5.—17., 25., 26. 
-> £ 
+>£
 Winde Z Z Z K CZ2 
 r~A CQ £ 02 Z £ 
-z w CQ CQ 
-£ Z 
-£ £ 
+zw CQ CQ
+£ Z
+££
 Häufigkeit 0 5 4 2 2 5 15 5 6 10 7 8 3 6 2 7 6 
 Summe der Ge­
 schwindigkeiten — 39 23 6 12 21 99 51 30 54 27 33 9 30 9 45 51 
@@ -6978,7 +6971,7 @@ pro Sek. 0-10 Cels. Cels.
 Cels. - mm 
 1 3.6 55.0 99 w 5 10 5.6 0.7 —0.6 Sil 3.1 
 2 0.6 60 4 75 NNE 5 10 1.7 00 -0.9 
-3 2 2 58.8 83 ESE 3 10 4.1 -0.2 — 1 3 
+32258.883 ESE3104.1-0.2—13
 4 3.3 60.2 84 NNE 2 10 5.4 1.7 0.2 
 5 2.5 60.5 92 0 10 4.4 0.5 —1.6 R 0.9 
 6 2.8 55.0 72 SW 1 0 8 5.4 0.7 —1.0 
@@ -7037,7 +7030,7 @@ NNW. mmeennggee..
 Station Ustj-Dwinsk (Dünamünde). Monat April 1914. 
 elwerte. lh- Mittag. Temperatur. ~ 
 ja 
-Ü ü 
+Üü
 oE —  
 o Wind. 
 .— 
@@ -7052,7 +7045,7 @@ Cel*. 700 min + M eter r»ro RpIc. 0-10 Cels. Cels. — russ. Piisb.
 6 2.0 55 7 77 NNE 3 O 9 6.5 0.4 4.1 
 7 5.4 48.0 82 ESE 12 O 9 9.5 0.2 R 0.7 38 
 8 5.5 51.2 84 WNW 3 10 10.5 29 R 0.7 4.5 
-9 5 5 55.2 81 ESE 3 10 8.5 3.4 R 0.9 4.5 
+95555.281 ESE3108.53.4 R0.94.5
 10 4.0 62.9 77 NNW 3 10 5.5 2.4 R 3.2 45 
 11 7.1 64.1 74 N 3 O 4 12.5 3.4 4 5 
 12 7.8 58.6 80 SW 6 10 12.5 5.0 R 3.4 4.6 
@@ -7145,8 +7138,8 @@ Bemerkungen: Sturm am 3, '20., 24. Gewitter am 7., 9., 25., 26., 28. Nebel am
 748.4 am 5. 
 63 
 Winde JS CO 
-H £ 
-- —  
+ H£
+-— 
 Häufigkeit 16 12 12 2 2 1 1 0 8 1 12 9 6 3 1 3 4 
 Summe der Ge­
 schwindigkeiten — 49 49 11 5 6 4 0 17 4 64 38 29 8 1 6 12 
@@ -7209,7 +7202,7 @@ Cels. Meter russ. + pro Sek. 0-10 j Cels. Cels. — | mm Fuss.
 31 11.4 60.9 66 NW 4 © 6 17.5 6.4 4.4 
 Mitt. 12.1 61.8 68 6.8 6.4 16.4 7.1 56.6 5.0 
 Bemerkungen: Sturm am 24., 26. Gewitter am 7., 9., 26., 28. 
-W K 33 H Winde £ £ £ Z £ Z Z co CO cd CO CO £ Z 52 w 02 Z 02 CO z £ z 
+ W K33 H Winde£££ Z£ Z Zco COcd CO CO£ Z52w02 Z02 COz£z
 Häufigkeit 5 8 5 1 5 2 3 2 6 17 2 1 7 4 4 10 11 
 Summe der Ge­
 — 36 27 9 33 6 21 9 30 145 9 6 39 30 15 schwindigkeiten 82 87 
@@ -7267,7 +7260,7 @@ Cels. - mm
 Mitt. 17.7 60.5 66 3.1 5.3 21.2 12.2 10.7 26.5 
 Bemerkungen: Sturm am 24. Gewitter am 6., 24. Nebel am 6, 22. Luftdruck: 
 Maximum 769 3 am 12.; Minimum 747.9 am 5. 
-W . Eö K £ £ 
+ W. Eö K££
 Winde Z Z Z z a 0taZ 3 
  w 03 £ 03 £ z z 
 H zn 32 £ £! z  
@@ -7329,10 +7322,10 @@ Cels. (K. Meier ruas. + /O pro Sek. 0-10 Cels. Cels. - mm Fuss.
 Mitt. 16.9 61.2 72 5.4 6.0 20.4 12.2 18.0 4.7 
 , 
 Bemerkungen: Gewitter am 6, 24. 
-. ' ff 
-S H . £ 
+.'ff
+ S H.£
 Winde Z K CQ 
-H £ 
+ H£
 3 in
   CQ CQ £ Z CQ >• Z £ 
 Häufigkeit 5 13 9 6 2 2 4 4 7 5 6 4 0 3 9 6 5 
@@ -7430,8 +7423,8 @@ NNW. mmeennggee..
 Station Ustj-Dwinsk (Dünain linde). Monat Juli 1914. 
 Mittelwerte. l'1- Mittag. Temperatur. 
 E-
-3 o ä 
-* s 
+3oä
+*s
 1 = Wind. a 
 u •— 
 33 <X> cö 
@@ -7470,11 +7463,11 @@ u •—
 31 17.1 56.1 72 N N W  9  © 2 20.0 14.3 R 5.4 5.1 
 Mitt. 22.6 58.9 65 5.7 4.0 16.4 17.7 4.6 
 Bemerkungen: Gewitter am 8., 14., 23. 
-. a a a a £ £ 
+.aaaa££
 Winde a £ £ Z a CO a cd 
 5 5z  z 
-z m Z 
-a a CO in 32 CO CO £ £ Z 
+zm Z
+aa COin32 CO CO££ Z
 Z 
 z 
 Häufigkeit 6 ,0 3 3 4 6 to 6 6 12 2 4 1 3 1 7 9 
@@ -7530,10 +7523,10 @@ Cels. 0/O* Aleter +  pro Sei. 0-10 Cels. Cels Cels. - mm
 Mitt. 15.8 60.0 86 3.5 4.9 19.3 12.1 10.9 64.7 
 Bemerkungen: Sturm am 12.. 14. Gewitter am 13., 14. Nebel am 4., 7., 10., 11., 15., 
 21, 22., 24.-27. Luftdruck: Maximum 768.4 am 28.; Minimum 749.3 am 6. 
-S K 52 
+ S K52
 Winde Z Z 
-K z CG CG CG £ 
-Z E QQ H CG CG s' 
+ Kz CG CG CG£
+ Z E QQ H CG CGs'
 Häufigkeit 29 10 9 1 2 0 0 1 0 0 0 5 R 6 Q 9 4 9 
 Summe der Ge­
 schwindigkeiten 43 31 1 5 0 0 1 0 0 0 12 15 7 34 13 31 
@@ -7563,8 +7556,8 @@ Cels. % russ. + pro Sek. 0-10 Cel». Cels. — mm Fuss.
 1 16.1 57.5 73 W N W  9  10 18.5 13.4 R 7.0 5.2 
 2 15.2 58.8 80 N N W  3  0 9 18.5 12.2 R 1.3 5.0 
 3 17.8 80 N N W  3  © 1 20.0 12.9 5.0 
-4 ) 1 (4.4) 
-5 R 12.1 (4.9) 
+4)1(4.4)
+5 R12.1(4.9)
 6WNW 3 ©6)[(5.1)
 7 16.8 56.0 78 W 3 0 8 19.5 14.9 R 6.0 5.3 
 8 18.1 81 N N W  3  © 4 21.5 14.4 5.2 
@@ -7594,11 +7587,11 @@ Cels. % russ. + pro Sek. 0-10 Cel». Cels. — mm Fuss.
 Mitt. 67.7 5.0 
 Bemerkungen: Sturm am 1. 
 E 
-E E E E 
+ E E E E
 £ 
 Winde £ £ zä Z Z z Z E 
 cn E CO CO cd CO £ z 
-E E OQ £ z 
+ E E OQ£z
 Häufigkeit 
 Summe der Ge­
 schwindigkeiten 
@@ -7663,7 +7656,7 @@ Bemerkungen: Sturm am 4, 5., 15., 28., 29., 30. Gewitter am 1., 3., 12. Nebel
 am 3., 9., 10., 14., 15., 18., 23., 24, 26., 29. Hagel am 1., 6. Luftdruck: 
 Maximum 773.6 am 24.; Minimum 724.2 am 29. 
 Winde Ä w W CQ 13 £ CQ X! £ 
-K £ 
+ K£
 Häufigkeit 13 11 6 4 0 0 1 3 10 1 12 8 8 4 3 1 5 
 Summe der Ge­
 schwindigkeiten — 67 38 21 0 0 5 5 26 2 60 37 19 5 7 9 19 
@@ -7865,11 +7858,11 @@ Cels. % PIO Set. n-io Cels. Cels. - oim Fuss.
 31 — 1.6 85 SSE 3 10 0.5 - 2 . 4  3.0 
 Mitt. 4.6 84 5.5 8.4 7.2 2.4 31.6 4.7 
 Bemerkungen: Sturm am 13. 
-H £ 
+ H£
 Winde 5Z 55 Z W To 02 
 £ 
 02 
-H w OD 
+ Hw OD
 £ 
 z 
 Häufigkeit 3 - 3 2 •*7 • 8 7 7 28 10 4 1 1 0 0 6 3 3 
@@ -7909,14 +7902,13 @@ o
 a 
 700 mm Meter 
 Cels. •V pro Sek. 0-10 Cels. Cels. Cels. nim -f 
-1 — 1.7 70.6 73 ESE 3 10 — 1.2 — 2.4 — 2.4 
-2 — 1.3 68.2 84 SSE 7 10 - 0.9 — 2.1 — 2.8 Jf iil«i'lStt, -
-3 — 1.0 65.9 98 SSW 3 10 — 0.7 — 1.5 — 2.5 0.3 
+1—1.770.673 ESE310—1.2—2.4—2.4
+2—1.368.284 SSE710-0.9—2.1—2.8 Jfiil«i'lStt,-3—1.065.998 SSW310—0.7—1.5—2.50.3
 — 0.7 — 1.3 | Eis-4 0.9 ti3.3 99 0 10 1.8 l regen 
 5 0.7 68.7 81 0 10 2.0 — 0.8 — 0.8 
-6 — 2.8 72.4 81 SSE 6 © 0 0.0 — 4.3 — 6.2 
-7 — 4.6 67.9 9i SSW 3 © 3 — 2.0 — 7.0 — 8.3 
-8 — 1.5 64.3 99 SSE i 10 — 0.8 — 5.5 — 7.1 R 0.5 
+6—2.872.481 SSE6©00.0—4.3—6.2
+7—4.667.99i SSW3©3—2.0—7.0—8.3
+8—1.564.399 SSEi10—0.8—5.5—7.1 R0.5
 9 3.2 59.2 100 SSW 5 10 4.5 — 0.8 — 1.2 R 3.5 
 10 8.0 50.4 97 WSW 9 10 105 3.9 1.7 R 3.6 
 11 5.6 46.8 87 SW 7 10 8.6 3.6 1.1 R 6.8 
@@ -7981,14 +7973,14 @@ bc,
 a> 
 pä 
 Cels. 700 mm % Meier rutss. + pro Sek. 0-10 Cels. Cels. m m Fuss. 
-1 — 1.9 85 SSE 6 10 — 1.0 — 5.1 2.7 
-2 — 1.6 85 SSE 9 10 -- 1.0 — 2.H R 0.2 25 
-3 — 1.2 90 s 3 10 — 0.9 — 1.9 2.9 
+1—1.985 SSE610—1.0—5.12.7
+2—1.685 SSE910--1.0—2.H R0.225
+3—1.290s310—0.9—1.92.9
 4 0.6 97 0 50 2.0 — 1.1 3.0 
 5 0.5 83 ESE 3 10 2.0 — 1.4 2.6 
-6 — 2.5 75 SSE 3 0 0.5 — 5.5 2.7 
-7 — 4.4 75 SSE 3 © 9 — 1.0 — 7.5 2.9 
-8 — 1.8 98 S 3 10 — 0.9 — 6.0 3.0 
+6—2.575 SSE300.5—5.52.7
+7—4.475 SSE3©9—1.0—7.52.9
+8—1.898 S310—0.9—6.03.0
 9 3.2 100 SSW 3 10 5.0 - 1.1 I R 3.4 3.3 
 10 8.0 99 WSW 9 10 8.5 3.4 R 3.1 4.2 
 11 6.0 86 SW 9 10 8.0 4.4 R 6.4 4.4 
@@ -8018,8 +8010,8 @@ f
 WTinde z z K 
 Ed CO CO 
 CO CO CO 
-z z 
-£ z 
+zz
+£z
 Häufigkeit 6 2 1 4 2 3 3 1 14 42 7 2 2 1 0 0 0 
 Summe der Ge­
 — 15 6 30 15 9 9 9 72 294 27 15 18 3 0 0 schwindigkeiten 0 
@@ -8093,7 +8085,7 @@ Winde OQ Z Z 53 co
 53 GQ z £ 
 Z 53 CQ CQ 
 Cß £ z 
-£ z z 
+£zz
 Häufigkeit 1 1 1 4 o 2 4 0 24 10 26 6 9 2 0 1 0 
 Summe der Ge­
 schwindigkeiten — 1 1 21 14 7 16 0 163 60 171 33 39 6 0 1 0 
@@ -8153,7 +8145,7 @@ Cels. ru8b. 4- pro Sek. 0-10 Cels. Cels. - 1II III Fuss.
 Mitt, 1.4 92 8.6 9.4 2.7 — 0.4 55.6 4.6 
 Bemerkungen: Sturm am 3., 5., 7., 12., 13., 14, 20., 21., 22., 28., 29. Schneedecke 
 am 11—14., 18., 23-31. 
-K £ 
+ K£
 Winde Z ES Z Z CO CO W CO CO £ Z 
 £ 
 52 z £ 
@@ -8225,7 +8217,7 @@ dauernden SE-Winden. Meyer.
 Wasserstände der Düna 
 1914. 
 Januar. 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mittel 
+12345678910111213141516171819202122232425262728293031 Mittel
 Max i, 7,0 7,2 7,7 7,4 7,8 8,0 6,2 6,3 6,8 5,4 5,0 5,8 5,9 6,4 5,7 6,1 5,6 5,6 5,5 5,1 5,7 5,6 5,3 5,4 6,2 7,8 7,7 6,1 6,3 6,2 6,1 6,29 
 R. Min. 5,2 5,6 6,3 5,4 5,4 6.3 5,6 5,5 5,1 5,0 4.4 4,5 4,9 5,4 5,4 5,2 4,7 4,7 5,0 4,9 4,8 4,9 5,1 5,1 5,3 5,7 5,9 5,4 5,7 5,6 5,4 ' 5,27 
 13h 5,6 5,9 7,4 5,5 6.3 6,9 5,6 6,2 6,5 5,4 4,5 5,0 5,1 6,4 5,7 5,9 5,3 5,0 5,0 4,9 5,4 5,1 5,2 5,1 5,8 5,9 5,9 5,4 5,7 5,6 6,1 5,65 
@@ -8249,7 +8241,7 @@ D. Min. 4,4 4i3 4,3 4,3 4,2 4,3 4,5 5,4 4,8 4,5 4,6 4,6 4,5 4,4 4,0 4,0 4,0 5,0 
 13h 4,4 4,5 4,6 4,3 4,4 5.2 5,0 6,0 4,8 4,6 5,0 4,7 4,5 4,7 4,0 4,9 4,8 5,3 4,7 4,0 3,6 3,1 3,9 4,2 3,9 4,1 3,8 4,3 4,6 4,2 4,2 4,46 
 Mitt. || 4,4 4,4 4,5 4,4 4,4 5,0 5,0 5,8 5,1 4,8 5,1 4,9 4,8 4,8 4,2 4,6 4,7 5,2 4,7 4,1 3,8 3,5 4,2 4,3 4,0 3,9 3,8 4,3 4,4 4,2 4,0 4,49 
 April. 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 IG 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mittel 
+123456789101112131415 IG171819202122232425262728293031 Mittel
 Max. 6,6 6,3 6,0 6,1 6,1 6,0 5,4 5,5 5,5 5,5 5,4 6,0 6,0 5,8 6,5 6,4 6,2 6,0 5,9 5,8 5,6 5,4 5,4 5,5 5,7 5,9 6,1 6,0 6,4 6:5 — 5,92 
 R. Min. 5,4 5,9 5,8 5,9 5,8 5,3 5,0 5,4 5,3 5,1 5,0 5,0 5,5 5,6 5,6 5,8 5,6 5,5 5,6 5,4 5,2 5,2 5,2 5,2 5,4 5,4 5,8 5,5 5,6 5,4 — 5,45 13t 6,3 6,0 6,0 6,0 5,9 5,6 5,0 5,5 5,5 5,5 5,4 5,0 5,6 5,6 6,2 6,2 5,7 5,5 5,6 5,5 5,4 5,3 5,2 5,5 5,4 5,5 5,8 5,5 6.0 5,4 5,62 
 Mitt. 6,1 6,1 5,9 6,0 5,9 5,6 5,2 5,5 5,4 5,4 5,2 5,3 5,8 5,7 6,1 6,2 5,9 5,7 5,7 5,6 5,4 5,4 5,2 5,3 5,5 5,7 5,9 5,6 5,9 5,8 — 5;G6 
@@ -8271,7 +8263,7 @@ Max. 4,4 5,0 5,5 5,0 5,1 5,1 5,4 4.8 4,7 4,6 4,4 4,4 4,3 4,3 4,2 4,4 4,2 4,1 4,1
 D. Min. 4.1 4,4 4,7 4,7 4,8 4,8 4,7 4,6 4,0 4,1 4,0 3,9 3,9 4,0 3,9 4,0 3,9 3,9 3,9 3,7 3,7 3,6 3,6 3,9 3,9 4,0 4,3 4,3 4,4 4,5 — 4,14 13t 4.2 4,7 5,5 4,8 5,0 5,1 5,3 4,8 4,5 4,5 4,4 4,3 4,2 4,3 4,2 4,2 4,1 4,1 4,1 4,0 4,0 4,0 4,0 3,9 4,2 4,2 4,5 4,6 4,6 4,8 - 4,43 
 Mitt. 4.3 4,7 5,1 4,8 5,0 4,9 5,1 4,6 4,3 4,3 4,2 4,1 4,1 4,2 4,1 4,2 4,1 4,1 4,0 3,9 3,9 3,9 3,8 4,0 4,1 4,1 4,5 4,6 4,6 4,7 — j 4,35 
 Juli. 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Miitol 
+12345678910111213141516171819202122232425262728293031 Miitol
 Max. 4,8 4,7 4,6 4,5 4,3 4,4 4,4 4,2 4,5 4,5 4,5 4,5 4,5 4,7 4,6 4,3 4,3 4,6 4,6 4,5 4,7 4,6 4,4 4,7 5,1 5,2 4,6 5,5 5,1 5,2 5,3 4,66 
 R. Min. 4,5 4,6 4,3 4,2 4,0 4,1 3,9 3,9 4,0 4,2 4,2 4,3 4,3 4,3 4,3 4,1 4,0 4,1 4,3 4,2 4,2 4,1 3,8 3,8 4,6 4,7 3,8 4,8 4,7 4,8 4,8 4,35 13ii 4,5 4,7 4,5 4,5 4,2 4,4 4,4 4,2 4,5 4,5 4,4 4,4 4,5 4,4 4,5 4,3 4,3 4,6 4,6 4,5 4,6 4,5 4,4 4,1 5,0 5,0 4,1 5,2 5,0 5 2 5,1 4,55 
 Mitt. 4,7 4,6 4,4 4,3 4,2 4,2 4,2 4,1 4,2 4,4 4,4 4,4 4,4 4,5 4,5 4,2 4,2 4,5 4,5 4,4 4,4 4,3 4,1 4,2 4,9 4,9 4,3 5,2 5,0 5,0 5,0 4,47 
@@ -8295,7 +8287,7 @@ Max. 4,9 4,9 4,6 5,9 4,8 5,0 5,1 5,1 5,0 4,5 4,2 4,3 4,5 4,7 4,9 5,0 4,9 4,8 5,5
 Min. 4,3 4,4 4,3 4,4 4,1 4,6 4,8 4,6 4,3 4,1 3,9 4,0 4,0 4,3 4,1 4,7 4,7 4,2 4,3 5,0 U.  5,0 4,9 4,7 4,6 4,7 4,9 4,7 4,5 (5,1) 6,4 - (4,55) 13h 4,8 4,8 4,6 5,1 4,5 4,8 4,8 4,6 4,3 4,2 4,2 4,0 4,0 4,6 4,3 4,7 4,8 4,3 4,9 5,4 5,3 5,0 4,7 4,6 4,9 4,9 5,5 4,5 (5,9) 7,2 - (4,79) 
 Mitt. 4,6 4,6 4,5 4,9 4,5 4,8 4,9 4,8 4,6 4,2 4,1 4,1 4,2 4,5 4,4 4,8 4,8 4,5 4,8 5,3 5,2 5,2 4,8 4,7 4,9 5,0 5,2 5,2 (6,0) 7,0 - (4,84) 
 Oktober. 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mittel 
+12345678910111213141516171819202122232425262728293031 Mittel
 Max. (6,5) (7,1) (6,5) (6,2) (6,4) (5,9)( 5,7) 5,8 5,8 5,3 5,1 4,8 4,5 5,2 4,9 4,4 4,4 4,4 4,5 4,5 3,8 3,7 3,7 3,9 4,0 3,8 3,8 3,8 3,6 3,2 3,2 (4,79) 
 R. Min. (6.1) (6,0) (6,1) (5,7) (6,0) (5,5) (5,4) 5.2 5,3 4,7 4,3 4,3 4,0 4,5 4,4 4,2 4,2 4,2 4,2 3,8 3,3 3,5 3,5 3,6 3,6 3,5 3,4 3,3 3,1 2,8 2,8 (4,34) 13t (6.2) (6,1) (6,3) (6,1) (6,2) (5,7) 5,4 5,2 5,4 4,7 4,6 4,3 4,1 5,1 4.8 4,4 4,4 4,3 4,3 4,1 3,4 3,5 3,5 3,6 3,7 3,5 3,7 3,7 3,6 3,0 3,1 (4,52) 
 Mitt. (6,2) (6,5) (6,2) (6,0) (6,2) (5,6) (5,6) 5,4 5,5 4,9 4,6 4,5 4,2 4,8 4,6 4,3 4,3 4,3 4,3 4,2 3,5 3,6 3,6 3.7 3,8 3,6 3,6 3,6 3,4 3,0 3,0 (4,54) 
@@ -8342,8 +8334,8 @@ Ausschluss des Wertes um 0h); das Tagesmittel aber wurde korrekt, unter
 Mitbenutzung des Wertes um 0h berechnet. Eine ausführliche Behandlung 
 des Materials wird einem besonderen Aufsatz vorbehalten. 
 Die Wasserstände sind iu englischem Fussmass angegeben. 
-j j , Höchstes Tiefstes Mittleres Mittleres Mittel Wahres 
-m a r. Maximum Minimum Maximum Minimum 13h Mittel 
+jj, Höchstes Tiefstes Mittleres Mittleres Mittel Wahres
+mar. Maximum Minimum Maximum Minimum13h Mittel
 R. 7,99 2,30 5,28 4,67 4,94 4,96 
 D. 7,63 2,27 5,00 4,42 4,67 4,69 
 R. M. 

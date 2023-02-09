@@ -27,12 +27,10 @@ Inhalt der Sitzungsberichte.
 Seite.
 Behrmann, Th., Fabrikdirektor t . . . . * .........................................24.
 Bergsturz zu E lm ........................................................................................... 19.
-B e r g s tü r z e ......................................................................................................18.
-Blitzableiter......................................................................................  23. 27. 28.
+ Bergstürze......................................................................................................18.Blitzableiter......................................................................................  23. 27. 28.
 Brandpilz des G e t r e id e s ............................................................................ 21.
 Buhse, Fr., Dr..................................................................................................... 44.
-E i s g a n g ...........................................................................................................24.
-Fische der Ostsee................................................... ................................... . 1 4 .
+ Eisgang...........................................................................................................24.Fische der Ostsee................................................... ................................... . 1 4 .
 Gottfriedt, M., Oberlehrer .............................................................. 18. 19.
 Grönberg, Th., Professor. . .................................................... 23. 28. 36. 45.
 Heerwurm...........................................................................................................25.
@@ -572,9 +570,8 @@ liche Hoheit eines Geschenks — eines Brillantringes mit dem
 Wappen (BeH3e.ae:BHMr& HBOÖpaacemeMi.) Seiner Kaiserlichen 
 Hoheit.
 —  14 —
-S i t z u n g s b e r i c h t e .
-12. S e p te m b e r  1883.
-N a tu ra lien . Es wurden vorgezeigt: Eine hier gezogene 
+ Sitzungsberichte.12. S e p te m b e r  1883.
+ Naturalien. Eswurdenvorgezeigt: Einehiergezogene
 Banane mit zahlreichen, freilich noch unreifen Früchten, von 
 Herrn Gärtner Thieme, ein Zweig vom weidenblättrigen Birn­
 baum (Pyrus salicifolia) mit Früchten, in den städtischen An­
@@ -604,8 +601,7 @@ Von Herrn Professor Grewingk war eine kleine Schrift als
 Geschenk eingegangen: „Die Verbreitung baltischer altquar­
 tärer Geschiebe und plastischer Gebilde.“
 Direktor S c h w e d e r  sprach über „d ie  F is c h e  d er 
-O s ts e e “ , indem er von dem soeben unter diesem Titel er­
-schienenen W erke von K. Möbius und Fr. Heincke ausging. 
+ Ostsee“,indemervondemsoebenunterdiesem Titeler­schienenen W erke von K. Möbius und Fr. Heincke ausging. 
 In dem genannten Werk werden 109 bisher in der Ostsee be­
 obachtete Fischarten unter Hinzufügung von betreffenden 
 Abbildungen einzeln beschrieben und besprochen, woran sich 
@@ -1175,21 +1171,18 @@ trische Entladung entbunden wird, also ,
 Wählen wir folgende Bezeichnungen:
 E —  Elektricitätsmenge, die durch den Blitz zur Entladung 
 kommt,
-c —  (mittlere) Wärmekapacität . . . . .
-d —  Dichte bei 0° C ......................................
+c— (mittlere) Wärmekapacität.....d —  Dichte bei 0° C ......................................
 r  =  elektrischer W iderstand........................... der be­
 %—'-= elektrischerLeitungsfähigkeit..treffenden
 Spitze.
 V  =  V o lu m e n ......................................................
-T ~  S ch m elztem p era tu r..................... ..... .
-t —  Temperatur kurz vor dem Blitzschlag
+ T~  Schmelztemperatur...........................t —  Temperatur kurz vor dem Blitzschlag
 A; C]Bx)B2= konstanteGrössen;alsdannist:qA .E2.r vJ’wo C —  V gesetzt ist.
 Da t als eine gegen T  verschwindend kleine Grösse ver­
 nachlässigt werden kann und weil es sich blos um R e l a t i o ­
 nen handelt, so lässt die Gleichung 1 eine weitere Verein­
 fachung zu. Es wird nämlich:
-B t — d . c . I . T.
-Die Güteverhältnisse für Platin, Kupfer, Silber, Gold, 
+ Bt—d.c. I. T.Die Güteverhältnisse für Platin, Kupfer, Silber, Gold, 
 Nickel und Eisen ergeben sich wie folgt, wenn die Güte von 
 Platin gleich l,o gesetzt ist:
 Platin . . l,o, G old . . . 3,o,
@@ -1629,7 +1622,7 @@ Direktor S c h w e d e r  berichtet über eine von ihm am
 Nachmittag des 10./22. April d. J. beobachtete E r s c h e i n u n g  
 von  N e b e n s o n n e n  und S o n n e n h ö f e n .
 *) In dem in der vorigen Anmerkung erwähnten Schreiben giebt 
-0 . v. Löwis an, dass durch ein Versehen beim Abschreiben ein Falsum 
+0.v. Löwisan,dassdurchein Versehenbeim Abschreibenein Falsum
 in seiner Diagnose entstanden sei. Es solle heissen: „der Schwanz ist 
 kürzer als der Leib, oft gleich lang und zuweilen sogar länger als der­
 selbe.“ Diese Fassung wäre freilich richtig, doch zur Bestimmung wenig 
@@ -2267,7 +2260,7 @@ abhebt.
 3. Eine schwachleuchtende kreisförmige Scheibe von be­
 deutendem Durchmesser — zur Zeit ihrer grössten Helligkeit 
 — und von rosenroter, d. h. blasspurpurroter Färbung, die als 
-„ P u r p u r l i c h t “ bezeichnet werden soll. Es entwickelt sich 
+„ Purpurlicht“bezeichnetwerdensoll. Esentwickeltsich
 oberhalb des hellen Segments längere Zeit vor Sonnenaufgang 
 oder nach Sonnenuntergang, so zw ar, dass der untere Teil 
 der Scheibe hinter dem hellen Segmente versteckt zu sein 
@@ -2779,7 +2772,7 @@ K. B e rg . A ddendaetem endanda ad hemiptera Argentina. 1884.
 A. B rau n . Land- und Süsswassermollusken der Ostsee­
 provinzen, Dorpat 1884.
 Ueber Schneewiirmer. Dorpat 1884.
-B e y r ic h . Geognostische Beobachtungen Schweinfurths in der 
+ Beyrich. Geognostische Beobachtungen Schweinfurthsinder
 W üste zwischen Cairo und Sues. Berlin 1882. 
 K. G re w in g k . Ueber die vermeintliche, vor 700 Jahren 
 die Landenge Swor.be durchsetzende schiffbare 
@@ -2789,7 +2782,7 @@ Provinzen*). 1884.
 K lin g e . Topographische Verhältnisse der W estküste Kurlands.
 Vegetative und topographische Verhältnisse der 
 Nordküste der Kurischen Halbinsel. 
-K a sp ro w ic z . Spiritismus in Deutschland. 1. II. III. 1879. 
+ Kasprowicz. Spiritismusin Deutschland.1. II. III.1879.
 C. v. R a p p a r t .  Spiritismus. Leipzig 1883.
 E. R o s e n b e rg .  Oceipitalregion des cranium und% proxi»
 maler Teil der Wirbelsäule einiger ßelachier. 
@@ -2798,8 +2791,7 @@ F. P la te a u .  Les mouvements respiratoires des insectes. 1882.
 La force absolue des muscules des invertebres. 1883. 
 Preparation rapide des grandes pieces myolo- 
 giques. 1880.
-C b h p h ä o b i.. CKopnioHH 3aKaBKa3i»a.
-G. T hom s. Ergebnisse der Düngerkontrole 1882—83.
+ Cbhphäobi.. CKopnioHH3aKaBKa3i»a.G. T hom s. Ergebnisse der Düngerkontrole 1882—83.
 Versuchs- und Samen-Kontrol-Station. V. 1883.
 *) Es bezieht sich dieser Bericht auch auf den Rentiersehädel und 
 das Schädelfragment eines W als, welche beide vom Rigaer Naturf.- 
@@ -2808,8 +2800,7 @@ Yerein an Professor Grewingk zur Bestimmung gesandt waren.
 Monatsmittel für die Meerestemperatur bei Windau
 aus 11jährigen Beobachtungen des Schulinspektors Knappe (1873— 1884). 
 Datum neuen Styls. Grade nach Celsius.
-7 Ö l h 5 h 9 h
-Januar . . 1,08 1 ,45 1,40 1,34
+7Ölh5h9hJanuar . . 1,08 1 ,45 1,40 1,34
 Februar . . 0.99 1,10 1,07 1,04
 März . . . 1,24 1,52 1,47 1 ,40
 April . . . . 3,53 4,12 4,14 3,98
@@ -2834,9 +2825,7 @@ für 1883.
 Station Riga. Monat Januar 1883.
 Mittefwerthe. l b- Mittag. Temperatur.
 700 mm % Mtr. russ.Cels. + p. Sec. 0-10 Cels. Cels. - mm. Fuss.
-1 — 6.3 61.9 89 SW. 1 2 — 2.2 — 7.9 4.2
-2 — 3.7 54.4 96 S. 8 8 — 0.3 — 7.9 3.7 4.0
-3+ 2.444.998SSW.610+ 3.0—0.5R.4.74.14—5.156.963N.60+ 0.4—8.1R.4.45 — 9.4 66.9 60 NNE. 6 1 — 6.2 —11.2 S. 4.5
+1—6.361.989 SW.12—2.2—7.94.22—3.754.496 S.88—0.3—7.93.74.03+ 2.444.998SSW.610+ 3.0—0.5R.4.74.14—5.156.963N.60+ 0.4—8.1R.4.45 — 9.4 66.9 60 NNE. 6 1 — 6.2 —11.2 S. 4.5
 6 —10.3 75.9 93 SSW . 2 0 — 5.0 —14.9 4.4
 7—4.166.492WNW 49——S.0.24.28 — 3.2 63.2 97 NW. 1 10 — 1.6 — 5.9 s°. 0.3 3.8
 9—0.555.692NW.64+ 1.0—3.14.010 —11.2 62.2 74 NE. 4 0 — 2.6 -1 5 .8 4.9
@@ -2864,8 +2853,7 @@ Mittefwerthe. l b- Mittag. Temperatur.
 Mitt. — 6.5 62.8 88 3.9 6.5 -{- 2.8 —18.9 29.0 3.6
 Schneegestöber am 2. und 20; R auhfrost am 14. und 24.; 
 Nebel am 30.
-& £
-W inde Z £ H m cc CO £ 52=; &£ m £ Z
+&£W inde Z £ H m cc CO £ 52=; &£ m £ Z
 Hänfigk. 15 10 4 3 — — — 2 — 25 14 11 — 2 2 4 1
 Meter pr. 
 Secunde. — 6.0 5.7 3.3 — — — 4.o — 3.9 5.0 3.5 — 4.o 3.o 3.7 4.0
@@ -2895,16 +2883,7 @@ fix,
 Cels. 700 min. Mt r. 
 russ.
 p. Sec. 0-10 Cels. Cels. - mm.+ Kuss
-1 — 3.7 61.9 98 W N W . 3 £ __ __ 4.1
-2 — 3.7 54.2 98 SSE. 10 6 — — SR. 4.6 3.0
-3 +  2 .8 44.7 98 SW . 10 10 .— — SR. 2.1 4.2
-4 — 4.4 57.0 71 N. 15 0 — . — R°. 4.4
-5 — 8.1 70.3 72 NNE. 14 2 — — 3.6
-6 — 12.8 76.2 98 SE. 4 0 — — 1.4 39
-7 — 3.0 66.6 96 NW . 6 9 — — S. 4.3
-8 — 2.6 63.3 100 NNW . 4 10 — — So. 1.0 4.1
-9 — 0.1 55.7 94 NNW. 10 5 — — 4.5
-10 —11.3 62.2 84 N E. 10 0 — — 3.9
+1—3.761.998 W N W.3£____4.12—3.754.298 SSE.106—— SR.4.63.03+ 2.844.798 SW.1010.—— SR.2.14.24—4.457.071 N.150—.— R°.4.45—8.170.372 NNE.142——3.66—12.876.298 SE.40——1.4397—3.066.696 NW.69—— S.4.38—2.663.3100 NNW.410—— So.1.04.19—0.155.794 NNW.105——4.510 —11.3 62.2 84 N E. 10 0 — — 3.9
 11 —13.0 66.5 91 S. 2 10 — — S. 0.6 3.8
 12 — 3.3 59.7 100 N NW . 8 10 — — S. 0.7 4.3
 13 —11.8 66.0 98 NE. 6 10 — — S. 0.3 3.7
@@ -2929,8 +2908,7 @@ p. Sec. 0-10 Cels. Cels. - mm.+ Kuss
 Mitt. — 6.5 62.9 93 7.7 6.8 — — 37.2 3.7
 Sturm  am 5., 22. und 29.; Schneegestöber am 14. und 29. R eif am
 2., 6., 13. und 24.; R auhfrost am 14. und 25.
-H £
-W inde H. . £ SB WÄ %
+ H£W inde H. . £ SB WÄ %
 S
 30 00 £ Ä53 H £
 Häufigkeit. — 6 4 6 2 — 9 24 10 4 12 1 1 2 4 8
@@ -2965,14 +2943,8 @@ p3;  jID 1 ®
 to £0
 russ,
 Cels. 700m m. Mtr. + p. Sec. 0-10 Cels. Cels. mm. Fuss
-1 — 1.9 62.1 98 0 10 + 0.9 — 4.6 3.7
-2 — 0.3 64.2 91 E. 6 10 + 1.8 — 4.6 3.4
-3+ 1.759.394S.410+3.3+ 0.2334+ 2.156.394SW.610+2.6-f 1.0R.4.63.45 — 1.5 62.5 95 N. 4 10 + 1.1 — 3.2 S. 0.3 3.6
-6 — 6.8 73.1 91 NN E. 2 2 3.3 — 9.2 3.6
-7 — 8.4 77.7 86 SE. 2 0 — 3.9 —12.0 3.3
-8 — 9.6 80.1 89 S. 2 0 — 7.5 — 13.4 3.1
-9 — 11.2 77.9 93 0. 0 — 7.5 — 13.8 3.0
-10 — 9.5 73.4 97 s. 4 4 — 6.5 — 13.0 2.8
+1—1.962.198010+0.9—4.63.72—0.364.291 E.610+1.8—4.63.43+ 1.759.394S.410+3.3+ 0.2334+ 2.156.394SW.610+2.6-f 1.0R.4.63.45 — 1.5 62.5 95 N. 4 10 + 1.1 — 3.2 S. 0.3 3.6
+6—6.873.191 NN E.223.3—9.23.67—8.477.786 SE.20—3.9—12.03.38—9.680.189 S.20—7.5—13.43.19—11.277.9930.0—7.5—13.83.010 — 9.5 73.4 97 s. 4 4 — 6.5 — 13.0 2.8
 11 — 6.6 68.3 71 s. 4 0 — 3.1 — 11.0 2.6
 12 — 4.3 66.9 77 s. 3 0 —2.2 -  8.0 2.8
 13 -j- 0.5 71.3 98 0 10 —1.9 — 5.0 3.0
@@ -3019,27 +2991,17 @@ Minim.
 Regen oder Schnee.
 'wswl Niederschlags­
 1 menge.
-£ 1  w 1
-N W . W asserstand.
-Station Biinamünde« Monat iktoniar 1883.
+£1 w1 N W. Wasserstand.Station Biinamünde« Monat iktoniar 1883.
 Mittel werthe. l h- Mittag. Temperatur.
 fcD
 He
 JX
-T o
-£®
+ To£®
 Cels. 700 mm. Mtr. + % p. Sec. 0-10 Cels. Cels.
 rusŝ
 - mm. Fuss
-1 — 1.6 62.1 100 E N E . 2 10 — . __ 4.0
-2 — 0.6 64.2 96 SE. 14 10 — — 3.2
-3-f 1.859.297S.810——S»3.64 -j- 1.9 56.1 97 SW . 12 10 — — R . 1.8 4.5
-5 -  1.4 62.3 99 N 14 10 — — S. 0.7 4.5
-6 — 6.8 73.3 92 NE. 10 0 — — 3.4
-7 — 8.5 77.8 92 SE. 4 0 — — 3.4
-8 — 10.7 80.2 90 SE. 4 0 — — 3.4
-9 — 12.0 78.2 93 SSE. 2 0 — — 0.2 3.3
-10 — 9.2 73.2 99 SSE . 6 0 — — 3.1
+1—1.662.1100 E N E.210—.__4.02—0.664.296 SE.1410——3.23-f 1.859.297S.810——S»3.64 -j- 1.9 56.1 97 SW . 12 10 — — R . 1.8 4.5
+5- 1.462.399 N1410—— S.0.74.56—6.873.392 NE.100——3.47—8.577.892 SE.40——3.48—10.780.290 SE.40——3.49—12.078.293 SSE.20——0.23.310 — 9.2 73.2 99 SSE . 6 0 — — 3.1
 11 — 6.4 68.2 77 SSE. 8 0 — — 2.9
 12 — 4.0 66.5 83 SSE. 6 0 — — 0.1 3;2
 13 — 0.3 71.1 99 SSE. 4 10 — — SQ. 3.3
@@ -3058,8 +3020,7 @@ rusŝ
 26 — 2.2 59.8 87 N N W .20 1 — — 0.1 4.6
 27 — 1.7 56.8 100 SSW . 14 10 — ■ — So. 4.5 3.8
 28 — 0.8 48.2 92 W SW . 6 2 S. 4.3
-m . — 4,2 67.1 88 7.4 4.1 16.3 3.6
-Sturm am 26.? N ebel am 1., 2. und 21.; R eif am 7., 8., 9., 11., 21., 
+m.—4,267.1887.44.116.33.6Sturm am 26.? N ebel am 1., 2. und 21.; R eif am 7., 8., 9., 11., 21., 
 24. und 27.; Rauhfrost am 10.; Schneegestöber am 2. und 27.
 W inde . V3 H HOQ OQ £
 CG £ m QQ ro OQ &
@@ -3071,18 +3032,14 @@ Datum neuen Styls.
 Lufttemp.
 Barometer 
 bei 0° 0 .
-N N E . Hygrometer.
-N E .
-ENE. Wind.
+ N N E. Hygrometer. N E.ENE. Wind.
 E SE .
 Maxim.
 Miniin.
 W SW
 Regenoder Schpee.
-W N W N iederschlags­
-menge. ‘
-N W .
-NNW . W asserstand.
+ W N W Niederschlags­menge. ‘
+ N W.NNW . W asserstand.
 Station Riga. Monat März 1883.
 Mittelwerthe. l h- Mittag. Temperatur. mtc rsc3
 u +m2
@@ -3093,13 +3050,10 @@ Gft
 Q Cels. 700 mm />/ Mt r.+ % p. See 0-10 Cels. Cels. mm.
 russ.
 Kuss.
-1 — 4.9 56.9 85 N. 5 10 — 0.2 — 6.2 S. 2.5 4.5
-2 — 6.3 74.4 76 0 0 — 2.0 — 8.2 4.4
-3—0.578.182SW.110+ 3.6—5.14.34 +  0.3 72.8 91 0 2 ! 4- 4.2 — 3.7 4.2
+1—4.956.985 N.510—0.2—6.2 S.2.54.52—6.374.47600—2.0—8.24.43—0.578.182SW.110+ 3.6—5.14.34 +  0.3 72.8 91 0 2 ! 4- 4.2 — 3.7 4.2
 5 4- 0.7 57.6 98 W SW 2 10 -f- 1.6 4- o.i R. 2.8 4.0
 6—1.639.392NE.210+ 0.6—4.5S.8.24.77 — 7.1 39.9 90 N. 8 10 — 4.0 —10.0 S. 1.2 4.7
-8 — 7.2 50.0 91 N. 6 10 — 5.4 — 8.5 s. 1.2 4.6
-9—6.155.879NNE.110—4.2- 8.94.410 — 6.0 53.4 77 SW . 2 4 — 1.4 — 7.8 4.3
+8—7.250.091 N.610—5.4—8.5s.1.24.69—6.155.879NNE.110—4.2- 8.94.410 — 6.0 53.4 77 SW . 2 4 — 1.4 — 7.8 4.3
 11 — 5.4 42.2 74 SSW . 6 9 — 2.0 — 8.5 s. 0.8 4.1
 12 — 8.7 41.0 91 N. 2 8 — 5.2 — 11.5 SO. 4.0
 13 — 11.5 49.3 93 NE. 2 10 — 4.6 — 15.6 3.7
@@ -3124,8 +3078,7 @@ Kuss.
 Mitt. — 5.1 55.4 85 4.1 6.6 - f  5.0 — 19.7 26.1 3 9
 Sturm am 24.; Schneegestöber am 6., 7. und 24.; Rauhfrost 
 am 13., 29. und 30.; R eif am 4.
-. H £
-W inde Z sZ W 0Q
+. H£W inde Z sZ W 0Q
 53 72 0£2 I?
 55 zm Cß rJl £ Z z
 Häafigk. 25 23 5 3 — 2 2 — — 5 9 12 3 1 — 1 2
@@ -3151,17 +3104,7 @@ Mittelwerthe. 1h- Mittag. Temperatur.
 aa>
 Cels. 700 in m. Mtr. 
 russ.
-+ % p. Sec. 0-10 Cels. Cels. - mm. Fuss
-1 — 5.0 56.8 94 N. 14 9 _ _ S. 4.3 4.6
-2 — 7.4 74.0 93 NE. 2 1 — — 4.4
-3 — 1.4 78.1 89 W SW . 4 9 — — 0.1 4.5
-4 — 0.2 72.9 96 W SW . 6 2 — — SO. 0.2 4.5
-5 +  0.5 58.3 98 W. 4 10 — — 4.1 4.3
-6 — 1.8 38.9 97 NE. 8 10 — — S. 4.0 4 1
-7 — 7.7 40.8 98 NNE. 20 10 — — 2.1 4.5
-8 — 8.3 50.2 96 N. 14 10 — — 0.1 4.3
-9 — 6.5 56.1 84 N. 8 10 — — 4.2
-10 — 5.8 53.8 81 W SW . 6 5 — — 0.4 4.2
++%p. Sec.0-10 Cels. Cels.-mm. Fuss1—5.056.894 N.149__ S.4.34.62—7.474.093 NE.21——4.43—1.478.189 W SW.49——0.14.54—0.272.996 W SW.62—— SO.0.24.55+ 0.558.398 W.410——4.14.36—1.838.997 NE.810—— S.4.0417—7.740.898 NNE.2010——2.14.58—8.350.296 N.1410——0.14.39—6.556.184 N.810——4.210 — 5.8 53.8 81 W SW . 6 5 — — 0.4 4.2
 11 — 6.3 42.2 81 SSW  10 10 — — 4.2
 12 — 8.6 40.9 97 NNE. 4 10 — — S. 0.4 4.1
 13 — 12.5 49.9 100 N N E . 4 10 — — So. 0.1 4.3
@@ -3217,14 +3160,8 @@ s  *
 cs ‘3
 700m m. M tr. rusS.
 Cels. + % p. Sec. 0-10 Cels. Cels. - mm. Fuss
-1 +  0.0 56.4 79 N. 1 10 4- 4.0 — 1.8 3.8
-2 +  0.1 54.6 92 W N W . 8 6 4 - 2.8 — 1.0 S. 2.1 4.2
-3 — 0.3 55.4 99 N N W . 8 10 4 - 3.2 — 1.0 S. 0.4 4.2
-4 +  0.1 59.2 97 N N W . 6 10 4 - 3.4 — 2.0 s . o;4 3.8
-5+ 0.163.993NNE.62-f 4.0—1.40.43.86 1.3 68.9 92 SE. 5 4 4 - 4.4 — 0.2 s . 3.9
-7 — 1.2 74.1 98 N N W . 4 10 4- 3.2 — 6.0 3.8
-8 — 1.5 73.1 99 N. 4 10 4- 1.6 — 2.8 i 3.6
-9 4- 0.3 66.6 94 SW . 4 10 4- 3.4 — 3.0 i s°. 2.8 4.0
+1+ 0.056.479 N.1104-4.0—1.83.82+ 0.154.692 W N W.864-2.8—1.0 S.2.14.23—0.355.499 N N W.8104-3.2—1.0 S.0.44.24+ 0.159.297 N N W.6104-3.4—2.0s.o;43.85+ 0.163.993NNE.62-f 4.0—1.40.43.86 1.3 68.9 92 SE. 5 4 4 - 4.4 — 0.2 s . 3.9
+7—1.274.198 N N W.4104-3.2—6.03.88—1.573.199 N.4104-1.6—2.8i3.69 4- 0.3 66.6 94 SW . 4 10 4- 3.4 — 3.0 i s°. 2.8 4.0
 10 +  3.3 64.5 91 S. 1 10 4 - 7.0 — 1.0 j RS. 3.9
 11 +  0.7 64.5 99 N N W . 2 10 4- 3.6 — 0.3! s° . 1.4 3.7
 12 4 - 2.7 63.4 93 0 8 4- 7.8 — 1.4] 3.8
@@ -3251,8 +3188,7 @@ Sturm am 21. und 22.; Rauhfrost am 7. und 8.; N ebel am 7., 8. und 12.
 H
 W inde . . . Z Z C
 HD S Win cc C£Ö £
-Z W 02 02 02 £ Z
-Häufigkeit . . 22 6 8 15 2 2 7 1 3 1 5 1 2 5 10
+ Z W020202£ ZHäufigkeit . . 22 6 8 15 2 2 7 1 3 1 5 1 2 5 10
 Meter pr. / 
 Secunde. 1 — 2.2 8.2 4.8 3.o 8.0 6.1 3.0 1.3 4.0 3.0 !: 2.o 5.0 4.8 4.4
  | Datum neuen Styls.
@@ -3277,18 +3213,9 @@ CD
 zn
 £o o  
 mc3
-U f
-Cels. 700 rriiu. M tr. 0-10 Cels. Cels. - russ.4- % p. Sec. mm. Fuss
-1 — 0.2 55.9 89 W N W . 2 10 __ __ 0.5 3.9
-2 — 0.4 54.2 96 N W . 14 5 — _ S. 2.0 4.2
-3 — 0.1 55.3 99 N W . 8 10 — S. 0.2 4.2
-4 — 0.1 58.9 99 NN W . 8 10 — — S. 0.5 3.9
-5 — 0.4 63.7 99 N. 6 1 — — SO. 4.5 3.9
-6 + 1.3 68.7 92 SSE . 6 2 — — S. 3.0 3.8
-7 + 1.5 73.9 99 N N W . 6 9 — — So. 3.8
-8 2.5 73.3 100 N N W . 1 10 — — 0.2 3.7
-9 + 0.3 66.1 98 SSW . 8 10 — — S. 2.0 4.1
-10 + 2.3 63.9 97 SSW . 1 10 — — R. 1.7 3.9
+ UfCels. 700 rriiu. M tr. 0-10 Cels. Cels. - russ.4- % p. Sec. mm. Fuss
+1—0.255.989 W N W.210____0.53.92—0.454.296 N W.145—_ S.2.04.23—0.155.399 N W.810— S.0.24.24—0.158.999 NN W.810—— S.0.53.95—0.463.799 N.61—— SO.4.53.96+1.368.792 SSE.62—— S.3.03.87+1.573.999 N N W.69—— So.3.88 2.5 73.3 100 N N W . 1 10 — — 0.2 3.7
+9+0.366.198 SSW.810—— S.2.04.110 + 2.3 63.9 97 SSW . 1 10 — — R. 1.7 3.9
 11 — 0.0 64.6 100 N N E . 2 10 — — S. 0.1 3.9
 12 — 0.6 63.1 100 NE. 1 8 — — 0.1 3.7
 13 + 2.3 63.4 97 N. 2 1 — — R. 2.4 3.7
@@ -3323,8 +3250,7 @@ c
 Datum neuen Styls.
 Lufttemp.
 Still.
-N N E. Hygrometer.
-NE.
+ N N E. Hygrometer.NE.
 ENE. Wind.
 ESE . Bewölkung. :
 SSE. Maxim.
@@ -3332,8 +3258,7 @@ Minim.
 SW .
 Regen oder Schnee.
 W SW
-W N W N iederschlags­
-menge.
+ W N W Niederschlags­menge.
 NW .
 Station Riga. Monat Mai ,1883.
 Mittelwerthe. l h- Mittag. Temperatur. ibnß T£3o3ä
@@ -3341,14 +3266,10 @@ Mittelwerthe. l h- Mittag. Temperatur. ibnß T£3o3ä
 £m»  ■ 
 3i S ’3 *
 Q 700 mm Mt r. russ. Cels. •+" % p. Sec. 0 -1 0 Cels. Cels. - mm. F u ss.
-1 +  8.8 50.3 95 SSW . 2 10 + 1 1 .4 + 7.4 R. 3.2 8.4
-2 +  5.6 45.6 84 SW . 2 10 + 1 0 .2 + 1.0 RS. 2.7 8.7
-3+ 5.355.459SW.46+ 9.0—0.61.18.64 -j- 4.2 59.7 89 N. 4 8 +  7.8 + 2.2 R°. 8.4
+1+ 8.850.395 SSW.210+11.4+7.4 R.3.28.42+ 5.645.684 SW.210+10.2+1.0 RS.2.78.73+ 5.355.459SW.46+ 9.0—0.61.18.64 -j- 4.2 59.7 89 N. 4 8 +  7.8 + 2.2 R°. 8.4
 5+ 5.561.470N.81+ 9.0+0.68.06 +  6.9 58.3 77 N. 8 10 + 1 1 .0 + 3.4 R. 3.1 7.7
-7 +  7.5 49.8 100 N. 1 10 + 1 1 .4 + 6.4 R. 1.0 8.6
-8 -j- 5.7 57.6 98 W SW 6 10 +  9.0 + 4.4 R. 3.3 8.4
-9 + 1 2 .4 64.1 62 S. 6 4 + 1 8 .0 + 2.8 1.5 6.0
-10 + 1 3 .4 54.8 99 ESE . 4 10 + 1 6 .6 + 7.2 R. 13.5 5.8
+7+ 7.549.8100 N.110+11.4+6.4 R.1.08.68 -j- 5.7 57.6 98 W SW 6 10 +  9.0 + 4.4 R. 3.3 8.4
+9+12.464.162 S.64+18.0+2.81.56.010 + 1 3 .4 54.8 99 ESE . 4 10 + 1 6 .6 + 7.2 R. 13.5 5.8
 11 + 1 4 .9 53.0 77 SSW . 4 4 + 2 2 .0 + 9.4 R. 6.0
 12 + 11 .1 61.3 64 SSW . 10 8 + 1 6 .9 + 8.2 6.0
 13 +  9.9 66.0 67 NW . 2 8 + 1 5 .4 + 4.8 5.9
@@ -3402,12 +3323,9 @@ russ.
 Fuss
 1 4- 8.6 50.2 96 SE. 4 10 __ __ R. 2.9 4.0
 .2 +  4.7 45.2 93 SW . 6 10 — — RS. 1.5 4.3
-3 +  4.5 55.0 70 SW . 8 7 — — 1.0 4.5
-4 +  3.4 59.5 93 N N W . 6 10 — — 0.1 4.0
-5 4" 4.9 61.6 86 N. 10 1 — — 3.9
+3+ 4.555.070 SW.87——1.04.54+ 3.459.593 N N W.610——0.14.05 4" 4.9 61.6 86 N. 10 1 — — 3.9
 6 4- 5.7 58.8 88 NE. 10 10 — — R. 4.0 3 6
-7 4 - 5.7 50.2 100 NE. 3 10 — — R. 2.0 3.9
-8 4- 5.2 57.2 99 W SW 6 10 — — R. 4.2 4.2
+74-5.750.2100 NE.310—— R.2.03.98 4- 5.2 57.2 99 W SW 6 10 — — R. 4.2 4.2
 9 4-12.4 64.2 64 SSE. 8 1 — — 0.8 3.5
 10 + 1 3 .2 55.1 99 SE. 6 10 — — R. 6.0 3.5
 11 + 1 5 .1 53.5 78 SSE . 8 3 — — 0.1 3.8
@@ -3436,8 +3354,7 @@ Sturm am 17. und 19.; N ebel am 4., 7., 8., 15., 17., 18., 25. und 30.;
 Thau am 16.
 £
 W inde . . z Z rä
-W £
-z cc cn m £ CO £ Z £
+ W£z cc cn m £ CO £ Z £
 £
 z 02 CO Z Zz
 H äufigkeit. 9 4 14 3 3 7 8 — 3 8 9 — 6 19
@@ -3468,13 +3385,10 @@ Mittelwerthe. l h- Mittag. Temperatur.
 £
 700mm. M tr. russ.
 Cels. + * p. Sec. 0-10 Cels. Cels. mm. Kuss
-1 + 1 6 .3 62.8 49 NW . 8 0 + 1 9 .5 + 1 0 .5 5.0
-2+16.963.367NW.20+21.1+ 9.75.33 + 1 7 .0 63.0 74 N. 2 0 +1.8.9 + 1 2 .3 5.4
-4 + 1 8 .6 59.9 62 N. 4 8 + 2 3 .7 + 1 1 .9 5.2
-5+18.153.271S.39+23.9+ 8.1R.31.44.96 + 1 2 .8 50.0 85 N W . 2 6 + 1 9 .1 + 1 0 .9 R. 7.3 5.0
+1+16.362.849 NW.80+19.5+10.55.02+16.963.367NW.20+21.1+ 9.75.33 + 1 7 .0 63.0 74 N. 2 0 +1.8.9 + 1 2 .3 5.4
+4+18.659.962 N.48+23.7+11.95.25+18.153.271S.39+23.9+ 8.1R.31.44.96 + 1 2 .8 50.0 85 N W . 2 6 + 1 9 .1 + 1 0 .9 R. 7.3 5.0
 7+13.553.288SW.610+17.5+ 9.5R.6.04.88 +  15.8 60.4 69 NW . 2 2 + 1 9 .3 + 1 1 .5 4.6
-9 + 2 0 .5 60.9 48 E. 1 0 + 2 3 .7 + 1 0 .5 4.4
-10 + 2 2 .2 57.1 67 SE. 8 4 + 2 8 .7 + 1 3 .9 R. 15.9 4.2
+9+20.560.948 E.10+23.7+10.54.410 + 2 2 .2 57.1 67 SE. 8 4 + 2 8 .7 + 1 3 .9 R. 15.9 4.2
 11 +2 0 .1 57.3 87 SW . 4 8 + 2 6 .7 + 1 5 .5 R. 4.8 4.3
 12 + 2 0 .1 60.8 79 SSW . 2 8 + 2 5 .7 + 1 4 .5 R. 2.1 4.4
 13 + 1 8 .3 61.8 83 N W . 4 0 + 2 1 .7 +  13.8 4.6
@@ -3502,8 +3416,7 @@ S
 W inde . . . & £ ES 53
 ES
 0D OC 02 £
-£ £ m £
-Häufigkeit . . 25 15 6 8 5 1 2 — 8 2 7 1 — 7 3
+££m£Häufigkeit . . 25 15 6 8 5 1 2 — 8 2 7 1 — 7 3
 Meter pr. j 
 Secunde. i - 2.8 5.3 3.2 3.4 2.o 6.0 2.2 2.0 3.9 4.o 3.1 4.0
  | Datum neuen Styls.
@@ -3534,15 +3447,7 @@ Ph
 700 mm. Mtr. russ. 
 Cels. + % p. Sec 0-10 Cels. Cels. - mm. Fass :
 1 +  15.0 62.8 69 N N W . 6 0 __ __ 4.6
-2 + 1 5 .5 63.5 77 N N W . 6 1 — — 4.6
-3 + 1 5 .0 63.2 92 NW . 6 0 — ---- 4.5
-4 + 1 7 .9 60.2 73 N. 2 4 — . - — 1.7 4.5
-5 + 1 7 .3 53.4 83 SE. 6 7 — — R. 24.6 4.4
-6 + 13 .1 49.8 94 NNE. 4 5 — ■ — R. 0.2 4,6
-7 + 13 .1 53.3 93 W SW . 4 10 — — R. 1.5 4.5
-8 + 1 4 .5 60.3 89 NN E . 4 1 — — 4.2
-9 + 1 7 .0 60.9 83 N N E . 6 0 — 4.2
-10 + 2 2 .0 56.9 69 SE. 15 1 — — R. 10.0 4.2
+2+15.563.577 N N W.61——4.63+15.063.292 NW.60—----4.54+17.960.273 N.24—.-—1.74.55+17.353.483 SE.67—— R.24.64.46+13.149.894 NNE.45—■— R.0.24,67+13.153.393 W SW.410—— R.1.54.58+14.560.389 NN E.41——4.29+17.060.983 N N E.60—4.210 + 2 2 .0 56.9 69 SE. 15 1 — — R. 10.0 4.2
 11 + 1 8 .3 57.4 94 NW . 2 9 — — R. 2.6 4.4
 12 + 1 8 .0 60.7 91 NE. 4 3 — — R. 4.0 4.3
 13 + 1 6 .7 62.5 95 NN E . 6 1 — — 0.1 4.6
@@ -3578,13 +3483,11 @@ Datum neuen Styls.
 Lufttemp.
 Barometer 
 bei 0° C.
-N N E . Hygrometer.
-N E.
+ N N E. Hygrometer.N E.
 ENE. Wind.
 Bewölkung. |
 SSE . Maxim.
-| s s w . Minim.
-W NW N iederschlags­
+|ssw. Minim.W NW N iederschlags­
 menge.
 NW .
 ! W asserstand.
@@ -3601,15 +3504,8 @@ o ci
 CB ;
 Q 700 mm Mtr. russ. i
 Cels. + % p. Sec 0-10 Cels. Cels. — mm. Fuss. i
-1 + 2 2 .7 65.0 65 N N E . 4 0 +27.-8 + 1 5 .7 4.0 !2 + 2 2 .6 62.8 62 N. 2 0 + 2 7 .8 + 1 6 .5 4.1 !
-3 + 2 1 .3 60.8 66 N. 6 4 + 2 8 .0 + 1 6 .7 4.2 1
-4 + 1 9 .6 61.8 60 N N W . 4 0 + 2 5 .8 + 1 3 .7 15.5 4.0
-5 + 15 .1 57,7 83 NNE. 2 4 + 1 8 .8 + 1 2 .9 R. 1.2 3.9
-*6 +  1'7.0 57.5 #9 N. 6 6 + 2 M + 1 0 .7 5.0 4.0
-7 + 1 9 .5 53.5 »9 W. 1 4 4-24.0 + 1 3 .7 R. 4.1
-8 + 1 8 .8 52.1 86 SW . 4 9 +23U6 + 1 4 .7 R. 1.1 4.4
-9 + 1 7 .5 52.9 79 N N W . 2 8 + 21-6 + 1 4 .7 R°. 1.4 4.3 !
-10 + 1 7 .1 53.3 77 NW . 2 6 + 2 0 .6 + 1 4 .3 R. 1.4 4.0 >
+1+22.765.065 N N E.40+27.-8+15.74.0!2+22.662.862 N.20+27.8+16.54.1!3+21.360.866 N.64+28.0+16.74.214+19.661.860 N N W.40+25.8+13.715.54.05+15.157,783 NNE.24+18.8+12.9 R.1.23.9*6 +  1'7.0 57.5 #9 N. 6 6 + 2 M + 1 0 .7 5.0 4.0
+7+19.553.5»9 W.144-24.0+13.7 R.4.18+18.852.186 SW.49+23U6+14.7 R.1.14.49+17.552.979 N N W.28+21-6+14.7 R°.1.44.3!10 + 1 7 .1 53.3 77 NW . 2 6 + 2 0 .6 + 1 4 .3 R. 1.4 4.0 >
 11 + 1 « .4 50.9 82 W SW 8 8 + 2 3 .8 + 1 9 .9 R. 2.3 4.7 S
 12 + 2 0 .3 53.7 68 SW . 8 6 + 2 4 .8 + 1 3 .7 R. 4.4
 13 + 2 0 .9 54.0 72 SSW . 4 10 + 2 6 .0 +  149 R0 4.6
@@ -3639,8 +3535,7 @@ W imie ä 5302 .es K 53
 ■SB
 m 02 c0c
 02 & ¥■ g' £
-s 2
-m02 02 £ Ä £Z
+s2m02 02 £ Ä £Z
 Bänfigk. 13 10 .5 4 — 2 — 1 — 9 11 19 7 5 1 3 3
 Meter pr. 
 Secunde. — 2.7 2.8 2.2 — 4.0 — 4.0 — 4.i 4.9 3.5 5.4 3.0 1.0 2.0 2.7
@@ -3651,31 +3546,20 @@ bei 0° C.
 Bewölkung.
 Maxim.
 Minim.
-W s w l
-Regen oder Schnee.
+ WswlRegen oder Schnee.
 Niederschi;
 menge.
 Station J>U#Anjitoite. M&m 1£83.
 Mittelwerthe. l b- 'Mittag. | Temperatur.
 &-< • U
-. g o <£
-*>
-s £
-1S0S zo~ o3
+.go<£*>
+s£1S0S zo~ o3
 tä'jg SB »
 pp-2
 100 in m. 5itfr ruw.
 Cels, + % p. Sec. 0-10 Cels. Cels. - mm. Fass
-1 + 2 2 .1 65.3 76 W SW , 4 1 , _ __ 4.1
-2 + 2 2 .4 63.1 79 N. 4 0 -s- 4 A)
-3 + 2 0 .3 60.9 90 N N W . 6 2 ! — -a- 4.1
-4 + 1 9 .1 61.1 79 N W . 6 0^ — ,-sr- R. 13.9 4.2
-5 + 1 5 .9 57.6 85 N. 2 1 — . -r- R. 0.5 4.1
-6 + 1 7 .0 57.3 78: N N W . 8 2 — — 19.5 4.2
-7 + 1 9 .4 53.6 93 N . 2 3 . __ — R. 4.0
-8 +  16.2 52.2 91 W SW . 8 9 — — 0.6 4.5
-9 + 1 6 .9 52.9 88 N N W . 4 8 — — 0.5 4.4
-10 + 1 7 .1 53.4 93 N N W . 4 3 1 — — R. 2.1 4.4
+1+22.165.376 W SW,41,___4.12+22.463.179 N.40-s-4 A)3+20.360.990 N N W.62!—-a-4.14+19.161.179 N W.60^—,-sr- R.13.94.25+15.957.685 N.21—.-r- R.0.54.16+17.057.378: N N W.82——19.54.27+19.453.693 N.23.__— R.4.08 +  16.2 52.2 91 W SW . 8 9 — — 0.6 4.5
+9+16.952.988 N N W.48——0.54.410 + 1 7 .1 53.4 93 N N W . 4 3 1 — — R. 2.1 4.4
 11 + 1 8 .6 50.9 89. W SW . 8 8- — R. 1.3 4.8 .
 12 +1-9.6 52.8 80 W SW . 6 4 j — — R. 1.0 4.5
 13 + 20 .1 53.2 82 S. 6 10 R. 4.4
@@ -3704,11 +3588,9 @@ N ebel am 26.
 W inde . . m  1 £Ä X K SR es SS
 53
 Ä 0Q m OQ
-£ £
-35 Z m OQ CG cc £ Ä
+££35 Z m OQ CG cc £ Ä
 25-
-m £ z
-H äufigkeit. — 9 2 7 2 ;1 6 7 7 7 11 11 1 — 10 12
+m£zH äufigkeit. — 9 2 7 2 ;1 6 7 7 7 11 11 1 — 10 12
 Meter pr. 
 Secunde. — 5.1 3.0 5.3 7.0 4.0 10.2 7.4 9.0 6.7 7.(? 7.3 6.0 — 7.0 4.4
 Datum neuen Styls.
@@ -3724,14 +3606,10 @@ Station Riga. Monat August 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 700mm. Mtr. russ.
 Cels. + p. Sec, 0-10 Cels. Cels. mm. Fuss
-1 + 19 .1 56.6 83 N. 4 4 + 2 2 .0 + 12 .1 R°. 0.9 4.7
-2+15.653.688NNE.810+18.8+ 12.9R.6.34.63 + 1 5 .4 54.8 81 N. 6 6 + 1 9 .6 + 1 2 .5 R. 0.8 4.6
-4 + 1 5 .7 56.4 86 N. 6 4 + 1 9 .2 + 1 2 .3 R°. 5.0
-5+14.656.19409+1,7.8+ 9.7Ro.1.44.96 + 1 5 .9 54.7 81 SW . 2 6 + 2 0 .0 + 1 2 .5 R. 3.4 4.8
-7 + 1 5 .7 55.7 82 s. 2 6 + 2 0 .6 + 1 0 .3 R. 2.0 4.7
-8 +16 .1 52.9 85 SW . 6 10 + 2 0 .6 +  9.9 R. 1.5 4.5
-9 + 1 5 .7 52.1 79 SW . 2 4 + 2 1 .8 + 1 0 .3 0.5 4.8
-10 + 1 4 .4 47.5 92 SW . 1 10 + 2 0 .0 +  9.3 R. 1.0 5.0
+1+19.156.683 N.44+22.0+12.1 R°.0.94.72+15.653.688NNE.810+18.8+ 12.9R.6.34.63 + 1 5 .4 54.8 81 N. 6 6 + 1 9 .6 + 1 2 .5 R. 0.8 4.6
+4+15.756.486 N.64+19.2+12.3 R°.5.05+14.656.19409+1,7.8+ 9.7Ro.1.44.96 + 1 5 .9 54.7 81 SW . 2 6 + 2 0 .0 + 1 2 .5 R. 3.4 4.8
+7+15.755.782s.26+20.6+10.3 R.2.04.78 +16 .1 52.9 85 SW . 6 10 + 2 0 .6 +  9.9 R. 1.5 4.5
+9+15.752.179 SW.24+21.8+10.30.54.810 + 1 4 .4 47.5 92 SW . 1 10 + 2 0 .0 +  9.3 R. 1.0 5.0
 11 +  13.2 51.1 93 SW . 2 10 + 1 9 .4 + 1 2 .5 R. 6.6 4.9
 12 + 1 2 .7 49.7 95 SSW . 4 100 + 1 8 .0 + 1 0 .5 R. 7.2 4.6
 13 + 1 5 .5 53.4 87 N N W . 6 6 + 1 9 .6 + 1 0 .7 4.5
@@ -3759,8 +3637,7 @@ S
 W inde . . . £ H£ W 02 H
 H
 02 02 £02 £ £
-£ H 02 02 OD 02 £ Z
-Häufigkeit . . 12 6 4 2 — — 1 — 4 7 38 2 6 6 5
+£ H0202 OD02£ ZHäufigkeit . . 12 6 4 2 — — 1 — 4 7 38 2 6 6 5
 Meter pr. ( 
 Secuiule. j - - 3.5 6.0 3.5 — — 1.0 — 2.5 3.1 2.9 4.o 7.8 3.6 3.0
 Datum neuen Styls.
@@ -3778,22 +3655,12 @@ menge.
 NNW . W asserstand.
 Station Dünamünd©. Monat August 1883.
 Mittelwerthe. l h- M ittag. Temperatur. haS
-c i
-cL CO<ss-S >o> cmo
+cicL CO<ss-S >o> cmo
 3!
 £
 M
 Cels. 700 mm. Mtr. 0-10 russ.+ p. Sec. Cels. Cels. - mm. Fuss
-1 + 1 7 .5 56.7 91 NNE. 8 1 __ __ 4.6
-2 + 1 4 .6 54.1 93 NE. 8 10 — -— 7.8 4.6
-3 + 1 4 .7 54.9 91 N N E . 6 2 — — R. 0.1 4.5
-4 + 1 4 .6 56.4 91 N N W . 10 1 — — 5.0
-5 + 1 4 .8 56.4 88 SSW . 8 10 — 9.5 4.7
-6 + 1 5 .9 54.1 91 NW . 6 5 — ■ — R. 4.8 4.8
-7 + 1 6 .5 56.1 87 N E . 3 5 — — R°. 2.5 4.7
-8 + 1 5 .7 52.6 91 SW . 8 8 — — R. 3.4 5.2
-9 + 1 6 .7 51.9 80 W SW . 2 2 — •— 4.8
-10 + 1 4 .7 47.8 93 W SW . 6 10 — — R. 5.0 4.8
+1+17.556.791 NNE.81____4.62+14.654.193 NE.810—-—7.84.63+14.754.991 N N E.62—— R.0.14.54+14.656.491 N N W.101——5.05+14.856.488 SSW.810—9.54.76+15.954.191 NW.65—■— R.4.84.87+16.556.187 N E.35—— R°.2.54.78+15.752.691 SW.88—— R.3.45.29+16.751.980 W SW.22—•—4.810 + 1 4 .7 47.8 93 W SW . 6 10 — — R. 5.0 4.8
 11 + 14.1 51.6 89 SW . 8 10 — — R. 2.2 5.0
 12 + 1 2 .8 50.8 98 SSW . 6 10 — --- R. 4.0 5.3
 13 + 1 5 .5 53.2 91 N W . 10 3 — '— 0.2 5.8
@@ -3846,9 +3713,7 @@ Station Riga. Monat September 1883.
 Mittelwerthe. l h- M ittag. Temperatur.
 Q 700 mm Mtr. russ.Cels. + * ; p. Sec. 0-10 Cels. Cels. - mm. F uss.
 1+16.754.385SSW42+21.4+ 9.37.25.82+ 18.749.979w.22+23.4+ 15.3R.5.53 + 1 9 .3 51.1 81 SSE . 2 1 + 2 6 .8 + 1 2 .9 R. 5.3 5.2
-4 + 1 6 .5 57.2 78 SW . 6 6 + 2 2 .0 + 1 3 .0 5.3
-5 + 1 7 .2 56.1 76 SSE. 4 80 + 2 2 .6 + 1 1 .3 0.9 4.7
-6 +  14.8 54.3 94 SSW . 4 9 + 1 8 .4 + 1 1 .3 R. 4.5 4.5
+4+16.557.278 SW.66+22.0+13.05.35+17.256.176 SSE.480+22.6+11.30.94.76 +  14.8 54.3 94 SSW . 4 9 + 1 8 .4 + 1 1 .3 R. 4.5 4.5
 7+13.960.884SSW.26+ 19.0+ 8.74.68+13.960.993SE.20+ 17.0+11.3R.7.94.49 + 1 8 .0 59.6 78 0 4 + 2 2 .2 + 1 3 .7 R. 4.7
 10 + 1 8 .1 64.6 62 SE. 6 2 + 2 5 .2 + 1 5 .2 4.5
 11 + 1 6 .9 69.9 65 S. 4 0 + 2 3 .0 + 1 2 .5 4.1
@@ -3905,15 +3770,7 @@ Station Diinamünde. Monat September 1883.
 Mitteiwerthe. l h- Mittag. Temperatur.
 700 mm. Mtr. mm. russ.Cels. + * p. Sec. 0-10 Cels. Cels. - Fuss
 1 +  16.7 54.2 87 SSW . 10 2 _ _ 0.6 5.2
-2 + 1 8 .5 49.9 88 N W . 6 1 — — R. 5.7
-3 + 1 9 .0 51.1 85 SE. 8 1 — — R. 2.2 4.9
-4 + 1 6 .5 57.1 86 SW . 6 2 — — 5.3
-5 + 1 7 .6 56.6 78 SE. 10 7 — — 2.8 4.5
-6 + 1 4 .7 53.9 96 SW . 6 9 — — R. 7.9 5.1
-7 + 1 4 .5 60.5 81 SW . 10 3 — — 0.1 5.2
-8 + 1 4 .6 60.6 95 SE. 6 10 — — R. 4.4 5.1
-9 + 1 7 .5 59.7 85 NNW . 4 2 — — R. 1.0 4.9
-10 + 1 9 .7 64.7 63 SE . 10 1 —  . — 4.6
+2+18.549.988 N W.61—— R.5.73+19.051.185 SE.81—— R.2.24.94+16.557.186 SW.62——5.35+17.656.678 SE.107——2.84.56+14.753.996 SW.69—— R.7.95.17+14.560.581 SW.103——0.15.28+14.660.695 SE.610—— R.4.45.19+17.559.785 NNW.42—— R.1.04.910 + 1 9 .7 64.7 63 SE . 10 1 —  . — 4.6
 11 + 1 8 .1 69.8 70 SSE . 8 0 — — 4.7
 12 + 1 6 .8 73.9 73 SE. 4 0 — — 4.6
 13 + 1 7 .2 75.1 84 N. 4 1 — . •— 4.7
@@ -3964,17 +3821,10 @@ NNW . W asserstand.
 Station Riga. Monat Oetober 1883.
 Mittelwerthe. l h* Mittag. Temperatur.
 S®o
-I S
-03 CD
+ I S03 CD
 G 700mm. M tr.Cels. f%y/ russ.+ p. Sec. 0-10 Cels. Gels. mm. Fuss
-1 + 1 0 .9 50.9 98 N N W 1 10 + 1 4 .8 + 6.9 4.2
-2 + 1 1 .3 50.2 95 N. 2 8 + 1 4 .8 + 8.3 4.3
-3 +  9.7 48.6 95 SSW . 6 9 + 1 3 .2 + 7.7 R°. 0.2 4.6
-4 +  9.5 51.1 87 SW . 2 6 + 1 3 .6 + 6.6 4.4
-5 +  7.7 52.4 100 S. 2 10 +1.0:6 + 5.9 R. 16.1 4.4
-6+ 4.555.073NNE.64+ 7.6+3.3R.4.37+ 2.365.064NW.69+ 4.8+1.31.04.28 +  9.3 54.2 97 W SW 4 10 + 1 2 .8 + 2.5 R. 0.7 5.2
-9 + 1 2 .3 55.2 86 NW . 2 8 + 1 5 .2 + 8.9 4.8
-10 + 1 1 .0 57.7 75 W . 4 2s. + 1 4 .0 + 6.7
+1+10.950.998 N N W110+14.8+6.94.22+11.350.295 N.28+14.8+8.34.33+ 9.748.695 SSW.69+13.2+7.7 R°.0.24.64+ 9.551.187 SW.26+13.6+6.64.45+ 7.752.4100 S.210+1.0:6+5.9 R.16.14.46+ 4.555.073NNE.64+ 7.6+3.3R.4.37+ 2.365.064NW.69+ 4.8+1.31.04.28 +  9.3 54.2 97 W SW 4 10 + 1 2 .8 + 2.5 R. 0.7 5.2
+9+12.355.286 NW.28+15.2+8.94.810 + 1 1 .0 57.7 75 W . 4 2s. + 1 4 .0 + 6.7
 R°. 0.1 6.2
 11 +  7.5 64.2 89 6 10° + 1 1 .0 + 1.5 4.3
 12 + 1 0 .8 59.2 94 SW . 4 10 + 15 .1 + 4.9 R°. 4.5
@@ -4009,37 +3859,26 @@ atum neuen Styls.
 Lufttemp.
 Still.
 Hygrometer.
-N N E.
-NE. W ind.
+ N N E.NE. W ind.
 Bewölkung.
 Maxim.
 Minim.
 W SW Regen oder Schnee.
 Niederschlags­
 menge.
-N W .
-NN W . W asserstand.
+ N W.NN W . W asserstand.
 Station Dänamünde. Mojjat Oktober 1883.
 !
 Mittelwerthe. l h- Mittag. Temperatur.
 a
 08
 S-I . 0Q
-® o s
-2 ® S Ol
-£  o _ © §'S
+®os2® S Ol£  o _ © §'S
 «  jg  s £
 PQ
 700 mm. Mtr. . russ,Cels. + % p. Sec. 0-10 Cels. Cels. - mm. F uss
-1 + 1 0 .7 50.8 99 NE. 4 9 __ __ 0.2 4.4
-2 + 1 1 .3 50.3 98 NW . 2 8 — — 1.8 4.5
-3 + 1 0 .1 48.6 94 S. 6 6 — — R. 4.6
-4 + 1 0 .2 50.8 93 N W . 8 3 — — 0.2 4.8
-5+ 7.852.2100SE.610—— .R.7.44.56 +  5.6 54.6 72 N. 14 8 — — R. 0.5 4.7
-7 +  2.9 64.6 68 N N W . 6 6 — — 0.9 4.2
-8 + 1 0 .2 53.9 99 W . 8 9 — — RO. 0.3 5.5
-9 + 1 2 .7 54.6 93 N W . 3 2 — .— 4.9
-10 + 1 1 .7 57.0 84 N N W . 8 2 — — 0.1 5.5
+1+10.750.899 NE.49____0.24.42+11.350.398 NW.28——1.84.53+10.148.694 S.66—— R.4.64+10.250.893 N W.83——0.24.85+ 7.852.2100SE.610—— .R.7.44.56 +  5.6 54.6 72 N. 14 8 — — R. 0.5 4.7
+7+ 2.964.668 N N W.66——0.94.28+10.253.999 W.89—— RO.0.35.59+12.754.693 N W.32—.—4.910 + 1 1 .7 57.0 84 N N W . 8 2 — — 0.1 5.5
 11 +  7.2 63.6 92 SSE . 8 7 — — 0.1 4.5
 12 + 1 0 .8 58.9 97 SW . 8 10 — — 0.4 4.9
 13 +  7.7 69.2 83 N N W . 2 0 — — R. 0.1 4.6
@@ -4091,12 +3930,10 @@ Cels. + % p. Sec. 0-10 Cels. Cels. — mm. F ass.
 2 4- 6.5 68.0 99 0 10 +  8.0 + 5.5 4.6
 3 4- 5.3 65.4 98 SSW . 2 10 4- 7.0 + 4.9 4.2
 4 4- 5.1 58.2 98 SSW . 1 10 4~ 6.4 + 4.7 4.0
-5 + 5.7 50.8 92 S. 2 10 + 7.6 + 3.1 2.0 3.8
-6 ■f* 6.7 48.5 91 SS W 4 8 + 8.2 + 5.1 R. 4.2
+5+5.750.892 S.210+7.6+3.12.03.86 ■f* 6.7 48.5 91 SS W 4 8 + 8.2 + 5.1 R. 4.2
 7 4- 5.3 43.3 98 S. 8 10 + 7.6 + 3.1 R. 13.8 3.6
 8 4" 5.2 56.6 91 SW . 4 6 + 8.0 -f 2.3 R. 5.0
-9 + 3.7 56.6 100 S. 2 10 + 5.8 + 1.1 R. 7.1 4.8
-10 3.9 56.5 96 SSW . 2 1 4* 6.8 + 1.1 RO. 0.5 4.6
+9+3.756.6100 S.210+5.8+1.1 R.7.14.810 3.9 56.5 96 SSW . 2 1 4* 6.8 + 1.1 RO. 0.5 4.6
 11 + 5.2 52.6 100 0 10 + 6.8 + 2.7 R. 4.7
 12 + 6.6 49.8 96 NE. 4 1 4- 8.4 + 3.3 R. 7.0 4.4
 13 + 4.7 49.6 92 SSW . 18 10 + 5.2 2 9 R. 2.4 3.5
@@ -4119,10 +3956,8 @@ Cels. + % p. Sec. 0-10 Cels. Cels. — mm. F ass.
 30 4~ 7.1 53.8 94 SW . 8 10 + 8.4 4- 5.9 RO. 0.2 5.5
 Mitt. 4~ 4.3 58.9 96 4.4 8.9 4- 8.4 — 0.7 99.0 4.5
 Sturm am 13.; N ebel am 2., 3., 9., 17. und 28.; R eif am 10. und 22.
-m w =K £
-W inde ![ C’-QP z
-Z W CQ
-Z CQ
+mw=K£W inde ![ C’-QP z
+ Z W CQZ CQ
 CQ £ 3s Zz
 Häufigk. 12 1 — 3 1 — — 2 — 30 18 21 2 — — — —
 M eter pr. 
@@ -4139,8 +3974,7 @@ SSE.
 Maxim.
 SSW .
 SW . Minim.
-j w s w
-Regen oder Schnee.
+jwswRegen oder Schnee.
 Niederschlags*
 menge.
 NW .
@@ -4154,17 +3988,7 @@ M
 w
 Cels. 700 mm. Mtr. 
 russ.
-+ # p. Sec. 0-10 Cels. Cels. - mm. Fuss
-1 +  6.7 67.9 95 SW . 4 10 __ __ 0.2 4.8
-2 +  7.0 67.6 98 N. 2 10 — — Ro. 0.6 4.6
-3 +  5.3 65.4 98 SW . 6 10 — — 0.1 4.5
-4 +  5.1 57.9 98 SSW . 6 10 — — 4.5
-5 +  5.3 50.9 94 SSE. 10 10 — — 1.6 4.1
-6 +  6.2 48.8 95 SW . 10 9 — — R. 0.1 4.8
-7 +  5.5 43.2 99 SE. 14 10 — — R. 6.3 3.7
-8 +  5.8 55.9 95 SW . 6 5 — — R. 0.2 5-1
-9 +  3.7 57.1 99 SE. 4 10 — — R. 5.4 4.7
-10 +  4.3 56.6 95 SSE . 6 1 — — 0.4 4.7
++#p. Sec.0-10 Cels. Cels.-mm. Fuss1+ 6.767.995 SW.410____0.24.82+ 7.067.698 N.210—— Ro.0.64.63+ 5.365.498 SW.610——0.14.54+ 5.157.998 SSW.610——4.55+ 5.350.994 SSE.1010——1.64.16+ 6.248.895 SW.109—— R.0.14.87+ 5.543.299 SE.1410—— R.6.33.78+ 5.855.995 SW.65—— R.0.25-19+ 3.757.199 SE.410—— R.5.44.710 +  4.3 56.6 95 SSE . 6 1 — — 0.4 4.7
 11 + 5.1 52.8 100 W SW . 4 10 — — 4.8
 12 + 6.3 49.1 91 E. 6 10 — — R. 3.0 4.6
 13 + 5.2 49.0 88 SSE. 14 10 — — R. 1.2 3.7
@@ -4218,11 +4042,9 @@ bc
 CB
 700mm. M tr. russ.
 Cels. + % p. Sec. 0-10 Cels. Cels. - mm. Fuss
-1 + 4.6 48.5 90 NW . 4 10 + 7.0 + 2.5 R. 4.7 5.8
-2 0.7 50.8 91 N N E . 8 9 + 3.4 + 1.7 RS. 0.3 5.6
+1+4.648.590 NW.410+7.0+2.5 R.4.75.82 0.7 50.8 91 N N E . 8 9 + 3.4 + 1.7 RS. 0.3 5.6
 3 ---- 0.3 44.8 96 SSW . 6 10 0.8 — 2.7 S. 2.5 5.7
-4 + 1.2 35.5 99 SSE. 4 10 + 2.8 + 0.3 RS. 0.7 5.3
-5 3.7 40.6 96 N. 8 10 + 0.4 4.5 S. 8.6 5.0
+4+1.235.599 SSE.410+2.8+0.3 RS.0.75.35 3.7 40.6 96 N. 8 10 + 0.4 4.5 S. 8.6 5.0
 6 ---- 4.6 51.5 82 NE. 6 9 2.5 — 5.3 S. 0.4 5.9
 7 ---- 3.9 56.1 90 SW . 4 10 — 1.0 — 7.3 s. 0.6 5.7
 8 ---- 4.9 62.3 79 0 8 — 1.8 — 7.1 5.4
@@ -4269,8 +4091,7 @@ I SSW . Minim.
 Regen oder Schflee.
 Niederschlags­
 menge.
-N W .
-W asserstand.
+ N W.W asserstand.
 8ta lion  D ünam ünde. Monat December - M
 Mittelwerthe. l h- Mittag. Temperatur. ■
 ca
@@ -4281,16 +4102,7 @@ a
 Cels. 700mm. Mtr.+ p. Sec. 0-10 Cels. Cels. mm.
 russj... 
 - Fuss
-1 + 5.1 48.6 88 N N W . 10 10 _ _ R. 0.4 5.8
-2 — 0.3 50.9 87 N N E. 10 9 — — S. 0.3 5 A . i
-3 — 0.3 44.5 99 SSE . 10 10 — — S. 2.6 5.0
-4 + 1.2 35.6 98 SE. 8 10 — —■ S. 1.2 5 $
-5 — 2.6 40.5 100 N. 21 10 — — s. 5.9 5,2
-6 — 3.3 51.0 91 NNE. 15 10 — — s. 0.2 5.4
-7 — 2.8 55.8 92 W SW . 10 10 — ' — S -. • 2.6 6.2
-8 — 4.6 61.9 83 ESE. 2 2 — — 5.1
-9 — 6.1 63.7 97 SSE . 6 0 — — 0.3 5-3
-10 + 1.9 62.6 99 SW . 6 10 — — R0. 5.3
+1+5.148.688 N N W.1010__ R.0.45.82—0.350.987 N N E.109—— S.0.35 A.i3—0.344.599 SSE.1010—— S.2.65.04+1.235.698 SE.810——■ S.1.25$5—2.640.5100 N.2110——s.5.95,26—3.351.091 NNE.1510——s.0.25.47—2.855.892 W SW.1010—'— S-.•2.66.28—4.661.983 ESE.22——5.19—6.163.797 SSE.60——0.35-310 + 1.9 62.6 99 SW . 6 10 — — R0. 5.3
 11 — 0.3 56.7 99 S. 6 10 — —' 4.8
 12 — 1.8 49.7 98 SSE . 10 10 — —•
 13 — 2.5 52.6 95 SSE . 10 9 — — 0.3 , 4.6
@@ -4343,16 +4155,13 @@ gerechneten Wahrscheinlichen Mitteln zusammengestellt.
 An die Monatsmittel für die Tem peratur sind dieselben 
 Korrektionen angebracht, wie es für das Jah r 1882 geschehen 
 ist (cf. Korrespondenzblatt XXVI. 1883, Bogen G).
-F ü r . die Tem peratur ergeben sich dann nachstehende 
+ Für.die Temperaturergebensichdannnachstehende
 W erte :
 Jan. Febr. Marx. April, Mai. Juni.
 wfcforscheinl. Mittel . — 4.6 — 4.5 — 1.3 4.2 10.2 16.2
-. . . . . . — 6.6 — 4.3 — 5-2 3.5 9.8 17.2
-panamüflde . . . . -  6.6 — 4.3 -  5.7 2.5 9.0 16.1
-. | , Juli. Aug. Septbr. Oktbr Novbr. Decbr. Jahr.
-tvahrscbeinl. Mittel . 18.0 16.7 12.4 6.3 0.4 — 3.4 5.9
-B i g » ...................... 17.5 15.7 13.6 6.8 4.2 — 0.8 5.9
-Dümamünde . . . . 17.3 15.8 14.2 7.4 4.2 -  0.6 5.8-
+......—6.6—4.3—5-23.59.817.2panamüflde . . . . -  6.6 — 4.3 -  5.7 2.5 9.0 16.1
+.|, Juli. Aug. Septbr. Oktbr Novbr. Decbr. Jahr.tvahrscbeinl. Mittel . 18.0 16.7 12.4 6.3 0.4 — 3.4 5.9
+ Big»......................17.515.713.66.84.2—0.85.9Dümamünde . . . . 17.3 15.8 14.2 7.4 4.2 -  0.6 5.8-
 Das Minimum war in Riga — 19.8° am 16. Januar, in
 pünamünde am 22 . März — 19.6«; das Maximum in Riga
 27.2°, in Dünamünde 27.0°, und zwar auf beiden Stationen am 
@@ -4371,8 +4180,7 @@ Biga . . . . . 762.8 767.2 _ 755.4 763,4 757.4 759,0
 Dünamünde . . . 762.9 767.1 755.4 763.3 757.4 759.1
 Juli. Aug. Septbr. Oktbr. Novbr. Decbr. Jahr.
 wahrscheinl. Mittel 756.8 756.8 758.8 759.3 758.4 758.0 758.1
-R i g a ...................... 754.9 756.6 759.8 759.1 758.9 755.6 759.2
-Dünamünde . . . 754.9 756.5 759,7 758.8 ' 758.7 755.4 759.1
+ Riga......................754.9756.6759.8759.1758.9755.6759.2Dünamünde . . . 754.9 756.5 759,7 758.8 ' 758.7 755.4 759.1
 Der höchste Barometerstand wurde am 17. Februar 
 beobachtet mit 782.4ram in Riga und 782.5mm in Dünamünde; 
 der niedrigste in Riga am 4. Deeember mit 734.8mm, in Düna- 
@@ -4383,12 +4191,10 @@ scheinlichen Mittel nur wenig abweichend.
 Als Summen für die Niederschläge erhält man:
 Jan . F ebr. M ärz. A pril. Mai. Jun i.
 wahrscheinl. Summe 29.8 20.2 25.3 28.3 41.5 48.1
-R i g a ............................ ?9 0 23.6 26.1 15.6 73.6 188.4
-Dünamünde . . . 37.2 16.3 29.1 20.0 59.6 120.2
+ Riga............................?9023.626.115.673.6188.4Dünamünde . . . 37.2 16.3 29.1 20.0 59.6 120.2
 Juli. Aug. Septbr. O ktbr. Novbr. Decbr. Jahr.
 wahrscheinl. Summe 58.9 59.8 54.7 48.5 47.1 32.5 494.7
-R i g a ............................ 167.6 70.2 100.3 66.1 99.0 60.0 919.5
-Dünamünde . . . 105.8 70.7 64.6 41.2 67.0 44.4 676.1
+ Riga............................167.670.2100.366.199.060.0919.5Dünamünde . . . 105.8 70.7 64.6 41.2 67.0 44.4 676.1
 Wie ersichtlich, ist das Jah r 1883 besonders reich an 
 Niederschlägen gewesen, und zwar sind für Riga dieselben 
 viel reichlicher ausgefallen als für Dünamünde. Bei einem 
@@ -4422,15 +4228,8 @@ ao
 d 0.00 m 0.001 m 0.185m 0.34 m 0.58 m 1.10m 1.80 m W ind. »0
 £3
 rt
-1 — 4.19 1.76 — 1.02 0.93 3.70 W. 5
-2 — — 6.21 — 4.61 — 3.82 — 1.99 1.00 3.68 s . 5
-3 — — 0.31 — 1.45 — 1.86 — 1.65 0.93 — SW. 10
-4 — — — 0.52 — 0.73 — 0.73 0.93 — NW. 5
-5———544—3.91- 1.600.93—NR.86 — — — 9.05 — 6.92 — 3.54 0.71 — 0 0
-7 — — — 8.95 — 8.01 — 5.11 0.71 — 0 10
-8 — — — 5.24 — 4.85 — 3.64 0.52 — 0 10
-9 — — — 2.52 — 2.79 — 2.47 0.42 — N. 10
-10 — — — 3.87 — 3.17 — 1.94 0.42 — N. 10
+1—4.191.76—1.020.933.70 W.52——6.21—4.61—3.82—1.991.003.68s.53——0.31—1.45—1.86—1.650.93— SW.104———0.52—0.73—0.730.93— NW.55———544—3.91- 1.600.93—NR.86 — — — 9.05 — 6.92 — 3.54 0.71 — 0 0
+7———8.95—8.01—5.110.71—0108———5.24—4.85—3.640.52—0109———2.52—2.79—2.470.42— N.1010 — — — 3.87 — 3.17 — 1.94 0.42 — N. 10
 11 — — — 9.92 — 7.58 — 3.93 0.32 — 0 0
 12 — — — 7.01 — 6.51 — 4.91 0.15 — W. 10
 13 — — — 6.96 — 5.80 — 3.83 0.13 — 0 0
@@ -4438,8 +4237,7 @@ rt
 15 — — — 10.01 — 8.42 — — 0.22 — SE. 0
 16 — — —14.03 —11.62 — — 0.42 — SE. 0
 17 — — —13.06 11.62 — —— 0.57
-— 0 0
-18 — — —10.51 — 9.67 — 0.87 — s . 10
+—0018 — — —10.51 — 9.67 — 0.87 — s . 10
 19 — — — 6.32 — 6.46 — — 1.22 — SW.
 20 — .— — 3.25 — 3.82 — 4.21 — 1.12 —
 10
@@ -4470,8 +4268,7 @@ Februar 1883.
 0.00 m 0.001 m 0.185m 0.34 m 0.58 m 1.10m 1.80 m W ind. ä
 1—1.00—1.11—1.18— 0.540102—1.96——1.67— 1.40—1.03—0.30—s..103 0.61 — — 0.47 — 0.73 —  0 92 — 0.24 — SE. 10
 4 0.41 — —  0 32 — 0.10 — 0.68 — 0.14 — SW. 10
-5 — 0.18 — — 0.20 — 0.41 — 0 53 — 0.10 — NW. 10
-6—345——0.37—0.47—043- 0.04—NE.77—10.27—-—6.03—3.91- 1.31—0.02—008 — 12.66 — — 8.03 — 6.15 — 3.21 — 0.17 — 0 5
+5—0.18——0.20—0.41—053—0.10— NW.106—345——0.37—0.47—043- 0.04—NE.77—10.27—-—6.03—3.91- 1.31—0.02—008 — 12.66 — — 8.03 — 6.15 — 3.21 — 0.17 — 0 5
 9—14.05——9.87—8.54—4.81- 0.27—0510 — 11.15 — — 8.95 — 7.87 — — 0.64 — SW. 10
 11 -1 2 .5 9 — — 8.95 — 7.97 — — 0.94 — S. 5
 12 — 9.25 — — 7.59 — 6.86 — — 0.19 — s. 0
@@ -4500,15 +4297,10 @@ Erdtemperatur
 um 7 Uhr Morgens in.Friedriehshof bei Riga.
 März 1883.
 O.OOm 0.001 m 0.185 m 0.34 m 0.58 m 1.10 m 1.80m Wind. *W0>
-1 — 4.62 — 1.30 — 1.40 — 0.72 N. 5
-2 —  7.52 _ — 4.72 _ — 1.90 — 0.62 — NE. 7
-3 — 5.95 — — 5 54 — — 2.77 — 0.68 — SW. 10
-4 — 2.95 — — 2.57 — — 1.99 — 0.82 — SW. 10
-5 0.22 __ — 0.52 — — 1.38 — 0.70 — w . 10
+1—4.62—1.30—1.40—0.72 N.52— 7.52_—4.72_—1.90—0.62— NE.73—5.95——554——2.77—0.68— SW.104—2.95——2.57——1.99—0.82— SW.105 0.22 __ — 0.52 — — 1.38 — 0.70 — w . 10
 6 0.02 — — — — 0.92 — 0.49 — E. 10
 7—2.46__- 0.25——0.71—0.37—N.78 — 4.03 — — 1.62 — — 0.85 — 0.27 — N. 10
-9 — 6.83 — — 5.01 — — — 0.24 — 0 9
-10 — 7.67 — -  5.65 — — 2.62 — 0.37 — W. 8
+9—6.83——5.01———0.24—0910 — 7.67 — -  5.65 — — 2.62 — 0.37 — W. 8
 11 — 5.91 — — 5.14 — — 3.05 — 0.47 — SW. 10
 12 — 8.27 — — 6.52 — — 3.36 — 0.66 — NE. 10
 13 — 1205 — — 8.77 — — 4.05 — 0.72 — SE. —
@@ -4531,8 +4323,7 @@ O.OOm 0.001 m 0.185 m 0.34 m 0.58 m 1.10 m 1.80m Wind. *W0>
 30 — 9.95 — -  5.24 — — 2.00 — 0.86 — N. 0
 31 — 10.25 — — 6.22 — — 2.23 — 0.47 — N. 5
 Mitt. — 6.98 — 5.01 — 2.93 — 0.99
-A n m erk u n g . Am 6., 8., 11., 12., 20., 24. u. 27. Schnee.
-Dat. n. St. |
+ Anmerkung. Am6.,8.,11.,12.,20.,24.u.27. Schnee.Dat. n. St. |
 Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga.
 April 1883.
@@ -4540,11 +4331,8 @@ April 1883.
 1—2.16—2.25— 1.96— 0.37NW.102 — 1.17 — — 1.05 — — 1.32 — 0.27 — NW . 5
 3 0.22 — — 0.25 — — 0.92 — 0.18 — NW . 10
 4 0.42 — — 0.10 — — 0.68 — 0.14 — N. 10
-5 — 0.18 — — 0.03 — — 0.53 — 0.07 — N. 5
-6 0.22 0.35 0.05 — — 0.43 — 0.07 — S. 10
-7 — 0.77 — 0.05 0.10 — — 0.23 0.08 — N. 5
-8 — 0.18 0.25 0.10 — — 0.05 0.13 — N. —
-9 0.02 0.25 0.10 — 0.14 0.13 — W. 10
+5—0.18——0.03——0.53—0.07— N.56 0.22 0.35 0.05 — — 0.43 — 0.07 — S. 10
+7—0.77—0.050.10——0.230.08— N.58—0.180.250.10——0.050.13— N.—9 0.02 0.25 0.10 — 0.14 0.13 — W. 10
 10 0.22 0.30 0.15 — 0.14 0.13 — SW . 10
 11 0.32 0.50 0.10 — 0.12 0.13 — N. 10
 12 0.02 0.25 0.15 — 0.13 0.13 — S. —
@@ -4612,15 +4400,13 @@ Mai 1883. '
 30 11.93 11.65 11.37 12.47 11.44 8.48 5.76 N W . 1
 31 12.27 12.03 11.75 13.03 11.86 * 8.83, 5.95 N W . 0
 Mitt. 8.80 8.28 7.66 8.05 6.86 4.62 3.38
-A n m erk u n g , Am 1. u. 7. Regen,*am 9. u. 13. Reif.
-B
+ Anmerkung, Am1.u.7. Regen,*am9.u.13. Reif.B
 Dat. n. St.
 Erdtemperatur
 um 7 Uhr Morgens in Friedriehshof bei Riga»
 Juni 1883.
 0.00 m 0.001 m 0.185 m 0.34m 0.58 m 1.10m 1.80 m W ind.
-1 ' 13.86 13.94 13.17 13.76 12.44 9.11 6.12 NN E. 0
-2 12.25 12.13 13.54 14.44 13.11 9.46 6.33 0 2
+1'13.8613.9413.1713.7612.449.116.12 NN E.02 12.25 12.13 13.54 14.44 13.11 9.46 6.33 0 2
 3 16.86 14.17 14.49 15.14 13.60 9.86 6.53 0 0
 4 17.26 16.36 14.99 15.80 14.20 10.28 6.75 NE. 2
 5 16.33 16.95 15.75 16.02 14.50 10.70 6.96 NE. 8
@@ -4662,8 +4448,7 @@ R
 1 18.02 16.97 18.02 18.57 17.38 14.04 10.40 N W . 0
 2 21.47 19.53 19.09 19.39 17.88 14.24 10.53 N. 5
 3 20.95 * 19.57 19.75 20.19 18.45 14.58 10.70 NNW . 8
-* 4 17.22 16.02 18.81 19.91 18.59 14.92 10.82 0 1
-5 14.40 14.63 18.61 19.72 . 18.55 15.13 10.99 0 10
+*417.2216.0218.8119.9118.5914.9210.82015 14.40 14.63 18.61 19.72 . 18.55 15.13 10.99 0 10
 6 14.28 13.54 15.40 19.52 17.66 • 15.26 11.13 NW . 3
 7 16.72 16 44 16.71 17.55 17.21 15.08 . 11.25'S W. 10
 8 16.90 16.56 17.52 18.09 • 17.47 15.04 11.35 W SW . 6
@@ -4829,10 +4614,8 @@ November 1883.
 17 3.66 4.37 5.07 5.44 5.86 6.66 7.84 0 10
 18 4.14 4.84 5.16 5.36 5.81 6.67 7.75 w. 9
 19 2.72 — 3.87 4.76 5.68 6.66 7.74 SE. 10
-2 0 3.76 3.90 3.97 4.49 5.46 6.62 7.73 SW . 8
-21 1.42 1.33 — 3.82 5.09 6.53 7.66 SW . 6
-2 2 0.22 0.03 — 3.69 4.75 6.37 7.63 SW . 5
-23 3.70 2.89 — 3.27 4.47 6.19 7.56 SW . 10
+203.763.903.974.495.466.627.73 SW.821 1.42 1.33 — 3.82 5.09 6.53 7.66 SW . 6
+220.220.03—3.694.756.377.63 SW.523 3.70 2.89 — 3.27 4.47 6.19 7.56 SW . 10
 24 1.55 1.57 — 3.57 4.52 6.03 7.48 SW . 10
 25 0 .0 2 0.15 1.59 2.94 4.24 6.91 7.43 s. 10
 26 — 0.32 — 0.17 1.17 2.52 3.81 5.75 7.34 s. 10
@@ -4846,17 +4629,10 @@ um 7 Uhr Morgens in Friedriehshof bei Riga.
 Dezember 1883.
 OQ
 B 0.00 m 0.001m 0.185 m 0.34 m 0.58 m 1.10m 1.80 m W ind. s
-Q .
-1 4.06 2.98 NW. 9
+ Q.1 4.06 2.98 NW. 9
 2 0.22 0.25 2.82 — — — — NE. 10
-3 — 0.57 — 0.56 1.37 2.56 3.80 — — S. 9
-4 0.02 0.05 — 2.03 3.22 5.15 — S. 10
-5 — 0.57 — — 1.80 3.02 5.00 — N. 10
-6 — 0.18 — 0.76 0.97 1.61 2.80 4.80 — NE. 10
-7 -  3.93 3.47 1.06 1.42 2.71 4.78 — SW. 10
-8 — 2.32 — 2.16 0.96 1.23 2.55 4.53 — NE. 10
-9 -  7.45 — 6.78 0.26 0.97 2.40 4.44 — SW. 9
-10 0.02 — 0.15 0.41 0.59 2.10 4.26 — SW. 10
+3—0.57—0.561.372.563.80—— S.94 0.02 0.05 — 2.03 3.22 5.15 — S. 10
+5—0.57——1.803.025.00— N.106—0.18—0.760.971.612.804.80— NE.107- 3.933.471.061.422.714.78— SW.108—2.32—2.160.961.232.554.53— NE.109- 7.45—6.780.260.972.404.44— SW.910 0.02 — 0.15 0.41 0.59 2.10 4.26 — SW. 10
 11 0.18 — 0.76 0.38 0.58 1.98 4.16 ___ SW. 10
 12 — 4.14 — 4 27 0 28 0.59 1.91 4.04 — s . 10
 13 — 2.56 — 2.14 — 0.24 0.58 1.87 3.95 s . 10
@@ -4884,20 +4660,12 @@ Anmerkung. Am15.Regen,am29.Schnee.Behufs besserer Ableitung des Tageswassers wur
 sämmtliche Thermometer entsprechend gehoben. Von 
 da ab mussten die Beobachtungen in 1.801,1 Tiefe wegen 
 Schadhaftigkeit des H olzschlauches eingestellt werden.
-B e r i c h t i g u n g
-der vorstehenden Angaben für die Tiefe von 0.34ra
+ Berichtigungder vorstehenden Angaben für die Tiefe von 0.34ra
 .
 April Mai
 fCi3
 1 4.49
-2 — 4.13
-3 — 2.34
-4 — 3.17
-5 — 2.94
-6 — 3.74
-7 — 4.05
-8 — 4.33
-yQ
+2—4.133—2.344—3.175—2.946—3.747—4.058—4.33yQ
 10 _ 6.74
 11 — 8.20
 12 — 9.20

@@ -139,7 +139,7 @@ tariat verwaltet, war in den letzten zwei Jahren korrespon­
 dierendes Mitglied und Apotheker L. Kirschfeld ordentliches 
 Mitglied seit 33 Jahren. 
 1 
-_ 2 — 
+_2—
 A. Veränderungen im Mitgliederbestande. 
 Zu den oben erwähnten Verstorbenen kommt für den 
 Verein durch Austritt ein Verlust von zwei Mitgliedern. 
@@ -175,8 +175,7 @@ gegenwärtig 207; von diesen sind
 160 ordentliche Mitglieder. 
 Dem Berufe nach verteilen sich die ordentlichen Mit­
 glieder folgendermaassen: 
-— 3 -
-Professoren und Lehrer .... 56 
+—3-Professoren und Lehrer .... 56 
 Kaufleute 26 
 Aerzte und Apotheker 19 
 Beamte 18 
@@ -216,8 +215,7 @@ Herr Privatlehrer G. Schweder. Das lange vakant gebliebene
 Amt eines Bibliothekarsubstituten wurde besetzt durch Herrn 
 J. Mikutowicz. 
 1* 
-— 4 -
-B. Allgemeine Versammlungen. 
+—4-B. Allgemeine Versammlungen. 
 Die Zahl der allgemeinen Versammlungen betrug 18 (gegen 
 14 im Vorjahre); die erste Versammlung fand am 6. September 
 1893, die letzte am 18. Mai 1894 statt. Die durchschnittliche 
@@ -256,7 +254,7 @@ Ueber die Eigenschaften dünnster Oelschichten (Ref.).
 *) (V.) bedeutet einen ausführlichen Vortrag, (Exp.) einen Expe-
 rimentalvortrag, (S. F.) eine selbstständige Forschung des Redners, (M.) 
 eine kleinere Mitteilung, (Ref.) ein Referat. 
-- 5 — 
+-5—
 Ueber die Helligkeit der grossen Planeten (Ref.). 
 „ die Flugversuche des Ingenieurs 0. Lilienthal 
 (Ref.). 
@@ -297,8 +295,7 @@ Ueber oligodynamische Wirkungen verdünnter Lösungen
 (Ref.). 
 cand. Kupffer: 
 Ueber einige seltenere Pflanzenarten (M.). 
-— 6 -
-cand. Schütze: 
+—6-cand. Schütze: 
 Ueber die eigentümliche Bildung einer Bleikugel (M.). 
 Kunstgärtner Goegginger: 
 Ueber die einheimischen Ulmenarten (M.). 
@@ -338,7 +335,7 @@ welche 4615 Arten in 22182 Exemplaren umfasst.
 Der Bibliothek wurden Abhandlungen von den folgen­
 den Autoren geschenkt: Dr. E. Lehmann, Dr. J. Klinge, Prof. 
 Dr. C. Berg, Dr. L. v. Struve, Prof. Dr. E. Russow, von Auer. 
-— 7 — 
+—7—
 D. Besondere Unternehmungen. 
 Am 18. September 1893 fand in der Aula des Stadt-
 Gymnasiums eine Festsitzung zur Erinnerung an die vor 
@@ -377,7 +374,7 @@ achtungen zu Riga, Ustj-Dwinsk und Friedrichshof, Verzeich­
 nisse der Schenkungen für die Bibliothek und die Naturalien­
 sammlungen, eine Aufzählung der im Schriftenaustausch stehen­
 den Institute, endlich mehrere kleinere wissenschaftliche Abhand­
-— 8 — 
+—8—
 lungen von Direktor Schweder und ein Verzeichnis der im 
 Kirchspiel Festen vorkommenden Pflanzen von J. Ilster, heraus­
 gegeben von Dr. E. Lehmann. 
@@ -417,7 +414,7 @@ wurde neubesetzt durch Herrn Capit. Gerlach. Auf Veran­
 lassung des meteorologischen Centraiobservatoriums wurden 
 für die Station Riga und Ustj-Dwinsk 2 Ombrometer und einige 
 Thermometer neuangeschafft. 
-— 9 — 
+—9—
 G. Aeussere Thätigkeit des Vereins. 
 Abgesehen von oben genannten Publikationen des Vereins, 
 der Korrespondenz mit einigen wissenschaftlichen Institutionen, 
@@ -2655,7 +2652,7 @@ cheneinheit, V das Volumen der Luft, welches während der
 Zeiteinheit zum Stosse gelangt, n die Anzahl der Teilchen in 
 diesem Volumen, m die Masse jedes Teilchens, v ihre Geschwin­
 digkeit, so ist nach Clausius: 
-n . m . v2 
+n.m.v2
 Po y 
 Für einen schiefen Winddruck lautet die angenäherte 
 Formel p = p0 cos wo & derjenige Winkel ist, den die 
@@ -3386,7 +3383,7 @@ direkt aus den Definitionen ergiebt. Wenn die Geschwindigkeit
 Zeit T (d. h. von t = o bis t —T) gleichförmig zunimmt, also in 
 der Zeiteinheit sich immer um den gleichen Betrag (c) ver­
 mehrt, dass mithin 
-v = v0 -f- c . t. (wo v0 = der Anfangsgeschwindigkeit) ist, 
+v=v0-f-c.t.(wov0=der Anfangsgeschwindigkeit)ist,
 so ist natürlich in der halben Zeit ^für t = die Geschwin­
 digkeitszunahme auch halb so gross, als in dem ganzen Zeit-
 T 
@@ -3428,7 +3425,7 @@ Q
 dividiert durch diese Zeit T = —: 
 Vm  — —rp  
 Aus der Gleichsetzung beider Werte von Vm ergiebt sich 
-y = y oder s = y • T2 
+y=yoders=y• T2
 Beim Fall pflegt man c mit g zu bezeichnen, und die obige 
 Formel bildet das eine Fallgesetz. 
 — 85 -
@@ -5970,15 +5967,15 @@ V.
 S 
 C3 
 Q 700 mm. Mtr. russ. Cels. p. See. 0-10 Cels. Cels. mm. + Fuss. 
-1 — 8.3 54.6 63 NNE. 14 9 0.3 —14.2 S. 1.9 5.6 
-2 — 12.5 67.7 68 NNE. 6 10 — 9.0 —15.3 0.3 4.7 
-3 — 15.6 77.2 68 NNE. 4 1 —14.1 —18.2 4.4 
-4 — 16.5 81.2 75 SSW. 2 0 -13.4 —19.5 4.6 
-5 — 9.3 77.8 83 SSW. 3 10 — 8.0 —13.4 4.4 
-6 — 9.2 75.4 89 s. 3 1 - 4.3 — 13.8 SO. 4.8 
-7 — 5.5 71.4 94 SSE. 3 2 — 4.0 — 7.2 4.7 
-8 — 3.6 72.3 83 s. 4 10 — 2.8 — 7.2 S«. 4.6 
-9 — 5.1 75.9 85 SSW. 2 10 — 2.7 — 7.6 4.3 
+1—8.354.663 NNE.1490.3—14.2 S.1.95.6
+2—12.567.768 NNE.610—9.0—15.30.34.7
+3—15.677.268 NNE.41—14.1—18.24.4
+4—16.581.275 SSW.20-13.4—19.54.6
+5—9.377.883 SSW.310—8.0—13.44.4
+6—9.275.489s.31-4.3—13.8 SO.4.8
+7—5.571.494 SSE.32—4.0—7.24.7
+8—3.672.383s.410—2.8—7.2 S«.4.6
+9—5.175.985 SSW.210—2.7—7.64.3
 10 — 9.4 76.9 76 SSW. 3 0 — 7.1 —11.9 4.0 
 11 — 8.2 76.4 64 SSW. 4 3 1— 7.0 -10.4 4.0 
 12 — 7.7 73.5 70 SSW. 2 6 — 6.3 — 9.2 4.1 
@@ -6031,11 +6028,11 @@ __ 5.5
 2 -10.5 NNE. 10 — 4.8 
 3 —14.2 — — E. 4 — — — — 4.2 
 4 —16.7 — — S. 0 —r — — — 4.7 
-5 - 7.9 — — SW. 10 — — — 4.8 
-6 — 9.9 — — SE. 0 — — — 4.1 
-7 - 5.4 — — SE. 4 — — — 3.5 
-8 — 3.8 — SSE. 10 — — 3.9 
-9 — 5.5 — S. 10 — — 4.0 
+5-7.9—— SW.10———4.8
+6—9.9—— SE.0———4.1
+7-5.4—— SE.4———3.5
+8—3.8— SSE.10——3.9
+9—5.5— S.10——4.0
 10 — 9.5 — — SSE. 0 — — — 3.8 
 11 — 8.3 — — s. 8 — — — 4.0 
 12 — 7.6 — — s. 8 — — — 3.8 
@@ -6126,8 +6123,8 @@ Sturm am 1., 6., 7. u. 13.; Schneegestöber am 13.; Nordlicht am 28.
 — S [ri Sä £ £ 
 Winde Z Z Z CO co -n CO Z CO z £ Z 
 r* 
-W K CO CO z Z 
-£ Z 
+ W K CO COz Z
+£ Z
 Uäafigk. 5 2 10 1 6 21 32 1 2 1 2 1 
 Meter pr. 
 Seeunue. — 3.o 3.1 — — — - — 3.o 3.o 3.7 4.4 2.0 8.o 6.o 9.o 5.o 
@@ -6181,7 +6178,7 @@ Cels. % Altr. russ. + p. See. 0-10 Cels. Cels. — mm. Fuss.
 28 2.0 85 w. 10 10 6.8 
 litt. — 0.8 94 9.4 | 43.5 5.9 
 Sturm am 1., 13. u. 27.; Schneegestöber am 11. u. 13. 
-w K H £ £ £ 
+w K H£££
 Winde 'S z S3 £ CO a 02 CO Z £ Z z Z Z H CO CO £ Z H W in 02 02 CO Z £ z 
 Uäufigk. 3 8 3 2 10 8 11 14 10 8 4 2 1 
 Meter pr. 
@@ -6212,10 +6209,10 @@ russ.
 3 2.9 57.6 90 SSW. 4 10 3.8 1.8 R0. 4.7 
 4 2.1 61.7 90 sw. 2 2 4.9 — 0.6 4.6 
 5 1.2 58.2 89 s. 2 10 3.2 - 1.3 g 1.3 4.6 
-6 — 0.9 52.2 83 N. 1 3 1.9 — 2.9 S.' 0.2 5.0 
-7 — 1.7 54.0 80 E. 3 8 0.4 — 3.1 So. 4.4 
-8 — 0.9 59.5 78 0 10 2.0 — 3.6 5.0 
-9 — 0.1 59.8 82 SSW. 1 4 1.9 — 2.0 SO. 0.2 4.6 
+6—0.952.283 N.131.9—2.9 S.'0.25.0
+7—1.754.080 E.380.4—3.1 So.4.4
+8—0.959.5780102.0—3.65.0
+9—0.159.882 SSW.141.9—2.0 SO.0.24.6
 10 0.5 57.6 91 E. 2 6 2.7 - 2.0 SO. 1.0 4.6 
 11 1.4 54.6 96 ESE. 2 10 2.8 — 1.4 RS. 1.2 4.3 
 12 1.1 49.3 98 SSW. 3 10 3.3 0.6 S. 5.8 4.0 
@@ -6272,10 +6269,10 @@ Cels. Mtr. russ. + p. See. 0-10 Cels. Cels. - mm. Fuss.
 3 2.5 57.8 88 SW. 6 10 — — 5.7 
 4 0.5 62.1 95 NNE. 2 1 — — 5.4 
 5 0.6 58.1 90 SE. 6 10 — — 0.2 5.0 
-6 - 1.5 52.1 99 ENE. 2 7 — — SO. 5.2 
-7 - 1.7 54.0 97 ESE. 6 10 — — 4.5 
-8 — 0.9 59.7 92 ESE. 2 10 — — 5.1 
-9 — 0.9 59.9 99 ESE. 2 10 — — 4.7 
+6-1.552.199 ENE.27—— SO.5.2
+7-1.754.097 ESE.610——4.5
+8—0.959.792 ESE.210——5.1
+9—0.959.999 ESE.210——4.7
 10 0.3 57.4 91 ESE. 6 9 — — 1.8 4.4 
 11 1.2 56.4 92 ESE. 6 10 — — S. 1.0 4.5 
 12 1.2 52.6 94 S. 8 10 — — RS. 6.6 4.4 
@@ -6511,7 +6508,7 @@ Station Ustj-Dwinsk. Monat Mai 1894.
 Mittelwerthe. lh- Mittag. Temperatur. 
 d, 3 
 <Sx>  S 
-Ü p 
+Üp
 3 tL 
 >> 
 £ 
@@ -6641,7 +6638,7 @@ Station Ustj-Dwinsk. Monat Juni 1894.
 Mittelwerthe. lh- Mittag. Temperatur. 
 d, 
 S<o  T3 a 
-£ s 
+£s
 700mm. 
 Cels. o Mtr. 
 russ. 
@@ -6800,7 +6797,7 @@ Cels. + p. See. 0-10 Cels. Cels. mm. Fuss.
 31 15.6 56.5 87 0 2 —' — 4.7 
 Mitt. 18.0 58.4 86 5.6 — — 99.7 4.7 
 Gewitter am 15., 16., 18., 19., 21. u. 25.; Nebel am 20. 
-H £ 
+ H£
 Winde W H Z cd £ Z Z £ 
 Häufigk. 2 10 3 4 2 2 5 4 3 8 6 8 6 2 2 8 18 
 Meter pr. 
@@ -7204,24 +7201,23 @@ mmeennggee..
 NW. 
 NNW. WWaasssseerrssttaanndd..  
 >l 
-D O
-Station Riga. Monat November 1894. 
+ D OStation Riga. Monat November 1894. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 s 
-. . 
+..
 Q 700 mm. russ. 
 Cels. + % 
 Mir. 
 p. See. 0-10 Cels. Cels. mra. Fuss. 
-1 — 4.4 74.2 78 SSW. 3 0 — 1.2 — 7.6 3.7 
+1—4.474.278 SSW.30—1.2—7.63.7
 2 2.9 63.6 57 SSW. 8 7 5.0 — 4.6 5.9 3.9 
 3 3.7 58.7 95 sw. 2 10 5.0 2.2 R. 1.2 4.0 
 4 7.2 60.9 99 sw. 1 10 9.1 4.0 R. 0.4 4.9 
 5 8.1 56.0 94 sw. 3 10 10.0 5.6 5.0 
 6 8.7 51.9 95 sw. 3 10 9.6 7.4 R. 3.4 5.0 
 7 0.9 61.6 81 NNE. 3 10 7.6 - 2.0 RS. 0.7 5.1 
-8 — 3.6 66,0 68 ESE. 3 2 — 1.7 — 6.2 4.8 
-9 — 4.4 63.2 72 ESE. 4 2 | 0.3 — 8.0 0.6 4.0 
+8—3.666,068 ESE.32—1.7—6.24.8
+9—4.463.272 ESE.42|0.3—8.00.64.0
 10 1.5 55.4 90 SSW. 3 10 3.0 0.2 S. 2.6 3.9 
 11 3.9 47.1 96 SSW. 2 10 5.7 2.0 R. 1.0 4.5 
 12 4.5 50.4 94 SSW. 2 7 6.0 2.6 R. 0.4 5.0 
@@ -7273,19 +7269,19 @@ NNW. WWaasssseerrssttaanndd..
 Station Ustj-Dwinsk. Monat November 1894. 
 Mittelwerthe. lh- Mittag. Temperatur. 
 i-. . 
-S o 
+ So
 o 
 700mm. | Mtr. russ. 
 Cels. + # p. See. 0-10 Cels. Cels. - mm. Fuss. 
-1 — 3.7 74.7 97 SSW. 8 5 4.5 
+1—3.774.797 SSW.854.5
 2 2.5 64.0 68 SSW. 14 9 — — 5.2 4.8 
 3 3.9 59.0 98 SSW. 4 10 — . — R. i.i 4.8 
 4 6.9 61.2 99 SSW. 4 10 — — i.i 4.5 
 5 7.7 56.7 93 WSW. 8 10 — — R. 5.1 
 6 8.2 52.6 96 SW. 10 10 — — R. 3.0 5.3 
 7 2.7 62.2 93 N. 8 10 — — S. 0.9 4.9 
-8 — 3.5 66.7 100 ESE. 6 7 — — 4.2 
-9 — 5.3 63.8 100 SE. 14 8 — — 1.2 3.5 
+8—3.566.7100 ESE.67——4.2
+9—5.363.8100 SE.148——1.23.5
 10 0.2 55.3 99 SSE. 8 10 — — s. 2.8 4.5 
 11 3.1 47.5 98 SSW. 6 10 — — 0.7 4.5 
 12 4.5 50.8 98 SSW. 2 10 — — R. 0.4 5.0 
@@ -7407,7 +7403,7 @@ Cels. + p. See. 0-10 Cels. Cels. - mm. Fuss.
 6 0.0 63.8 91 SSW. 4 10 — — 0.5 S°. 4.7 
 7 0.5 63.2 88 ESE. 2 10 — — 0.0 0.9 4.5 
 8 0.3 64.4 93 SE. 8 10 — — 0.3 s. 5.3 4.3 
-9 — 0.3 65.7 92 ESE. 6 10 — — 0.8 s. 4.5 
+9—0.365.792 ESE.610——0.8s.4.5
 10 0.0 66.8 92 ESE. 2 10 — — 0.8 s. 1.8 4.5 
 11 2.2 70.8 82 0 8 — — 0.8 R0. 0.9 4.5 
 12 1.4 67.0 92 SW. 2 10 — 0.5 Ro. 1.2 4.5 

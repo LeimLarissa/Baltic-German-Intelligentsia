@@ -4,7 +4,7 @@ Gelehrten Estnischen
 Gesellschaft 
 1011. 
 Mit 1 Portrait und 3 Abbildungen im Text. 
-m t 
+mt
 Jurjew-Dorpat. 
 Druck von C. Mattioson. 
 1912. 
@@ -1241,8 +1241,7 @@ Domes als Grundrichtungen angenommen wurden. Der nach dem
 37 
 Plan berechnete Winkel zwischen den Axen obiger Kirchen 
 und derjenigen der Johanniskirche (resp. des Domes) plus der 
-M о r g e n w e i t e der letzteren ergab die Abweichung der Mittel­
-axe unserer zu untersuchenden Kirche vom Ostpunkte. 
+ Mоrgenweitederletzterenergabdie Abweichungder Mittel­axe unserer zu untersuchenden Kirche vom Ostpunkte. 
 III. Die Jakobskirche. 
 Bei dieser hatte ich am wenigsten Anhaltspunkte und 
 konnte als G r un d 1 a g e zu meinen Untersuchungen nur den in 
@@ -1645,7 +1644,7 @@ genommen hat.
 36. log 3 = log sin 1° 54' = 2.52055 
 log cos 58° 23' = 1.71952 
 2.24007 = log sin 1°. 
-S = 1° fällt auf den 5. III und den 13. IX a. St., in der Zeit der 
+ S=1°fälltaufden5. IIIundden13. IXa. St.,inder Zeitder
 Gründung ungefähr auf den 10. III und 18. IX. Beide Tage sind um 
 15 resp. 10 Tage von den Marientagen entfernt. 
 37. Dr. R. Otto: „Ueber die Dorp. Klöster und ihre Kirchen", pg. 53. 
@@ -3122,7 +3121,7 @@ haft erinnern könne, da er damals den Hof Koltzen inne
 gehabt üabe, ausserdem dem Administrator von Livland1) 
 den Auftrag erteilt habe, dem Dr. Zacharias Stopius zu den 20 
 Bauern in Treiden noch einen benachbarten Bauern mit Namen 
-J u г с к vom Hofe Koltzen zu Arrondierungs- und Holzungszwecken 
+ Juгскvom Hofe Koltzenzu Arrondierungs-und Holzungszwecken
 hinzuzufügen, und dass diese Zession und Immission von ihm 
 selbst vor 16 Jahren ausgeführt worden sei. 
 1) Seit dem 26 Aug. 1566 war Joh. Chodkiewicz Admin. v.Liv­

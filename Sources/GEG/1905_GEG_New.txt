@@ -11,7 +11,7 @@ Dr u c k  v o n  C .  Ma t t i e s e n .
 (In Commission bei: K. F. Köhler in Leipzig, N. Kymmel in Riga, 
 J. Anderson u. J. Krüger in Jurjew-Dorpat.) 
 Gedruckt auf Verfügung der Gelehrten Estnischen Gesellschaft. 
-J u r j e w, den 6. Juli 1906. 
+ Jurjew,den6. Juli1906.
 1. Präsident: Dr. W. Schlüter.  
 и 
 Inhalt. 
@@ -1777,7 +1777,7 @@ In der Stadt.
 1) — Императорскій Юрьевскій Университета. Ученыя записки 
 Bd. XIII 1—3; Обозр ніе лекцій 1905 Sem. II. Личный 
 составъ 1905. 
-2 )  — Die Kaiserliche livländische ökonomische Societät. Baltische 
+2) — Die Kaiserlichelivländischeökonomische Societät. Baltische
 Wochenschrift 1905. 
 Ausserhalb der Stadt. 
 3) Arensburg. Verein zur Kunde Oeseis. Publicatîonen 1898. 
@@ -4637,7 +4637,7 @@ zog: das Livische sei dort vor etwa 30 Jahren ausgestorben (die
 Familie Lielmees — ein Zweig derselben habe sich in Grosswald 
 umbenannt — stamme von Liven ab)*]. 
 Desto mehr nahm es mich wunder, als ich Mag. J. E n d s e -
-1 i n (Privatdozent für vergl. Sprachkunde in Dorpat) die Vermutung 
+1in(Privatdozentfürvergl. Sprachkundein Dorpat)die Vermutung
 aussprechen hörte, in Livland verstehe man Livisch wohl noch gegen­
 wärtig, M. Siliû in Eiga habe vor etwa 10 Jahren im Lemsal-
 schen sprachkundige Personen angetroffen. 
@@ -4734,7 +4734,7 @@ Gesindes noch am Leben ist. Die Postadresse — pr. Lemsal. Jetzt
 interessiere ich mich lebhaft für meine damaligen Erlebnisse und 
 zwar als Konservator des lettischen ethnographischen Museums, in­
 dem ich viel livisches Material unter meinen Händen habe .* 
-* * 
+**
 * 
 Zu den brieflichen Mitteilungen Hrn. M. Silin s fugt Mag. 
 Endselin aus Silin's (lettischer) Abhandlung „Die Reste der Liven 
@@ -4751,7 +4751,7 @@ genannt. Um Lemsal herum hätten die lïviûi (deminutiv von
 *1 ï V i) gelebt, doch habe es unter ihnen auch einige küri gegeben. 
 Die lïviùi hätten sich mit dem Ackerbau beschäftigt, die küri 
 dagegen seien Fischer gewesen. 
-* * 
+**
 * 
 Während des Druckes erhielt ich noch folgende Nachrichten 
 über Liven in Livland. 

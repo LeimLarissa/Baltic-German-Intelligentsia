@@ -10,7 +10,7 @@ I'm interested in people with higher education from the Baltic Governorates of t
 These source materials do put the focus on more of the German speaking popultation of the Baltic Governorates, but whereever possible I'm interested in identifying people with higher education regardless of ethnic identity.   
 
 The tasks I set for myself are: 
-- Task 1: Clean errors generated through OCR to improve data quality.
+- Task 1: Clean errors generated through OCR to improve data quality. [Detailed Explanation.](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/4acb483cfa83a40357f36008d1572f368039a2c6/T1_detailled_explanation.md)
 - Task 2: Extract names from membership-lists.
 - Task 3: Clean and homogenise data from extracted lists. 
 - Task 4: Disambiguate persons using Authority Files like Wikidata and GND.  

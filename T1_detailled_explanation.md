@@ -45,7 +45,7 @@ Result: &nbsp;Dasisteinnormalerdeutscher Satzindiesen Dokumenten.
 ### Very Special Space Error (VSpecSpace)
 This type of error I only noticed while cleaning the other two types. 
 Under this type falls everything that does have "letter-space" pairs within a line, but it is not the whole line and it doesn't necessarily occur at the beginning. 
-To identify the other two types I was looking for a "letter-space"-pair (regex: \S\s) at the beinning of any line. 
+To identify the other two types I was looking for a "letter-space"-pair (regex: \S\s\S\s) at the beinning of any line. 
 This does not detect all instances of the thrid error type, which is why it is currently not included in any of my statistics on these errors. 
 Right now I don't know yet how I could effectively isolate these instances and remove only the spaces that are too much within a line. 
 Removing all spaces from a line such error occurs in (or applying the less ideal technique from above) would in many cases make the rest of the line less readable then the original. 
@@ -55,3 +55,49 @@ Example: This is a normal sentence and a l l &nbsp;o f a &nbsp;s u d d e n w i l
 
 
 ## Error statistics for the different societies 
+### Gelehrte Estnische Gesellschaft - GEG
+
+In the materials of the GEG the NomSpace error is/was the most common. Since this is the easiest error to remove, I was able to remove a majority of erroneous lines.
+The amount of VSpecSpace Errors and non resolved SpecSpace Errors that remain only affect a marginal portion of lines in these documents.  
+
+While previously 5,3 % of lines were erroneus now about 1,9 % remain.  
+From the original anticipated error types (NomSpace and SpecSpace) I was able to remove 98,4 %. Considering all error types I was able to remove 63,3 %. 
+The whole overview for the [error statistics of the GEG broken down by year can be found here](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/bcde8e875eb15e2814cc9b4560b1da01a19bf33d/Sources/GEG/2023-02-13_OverallGEGErrorStats.csv). 
+
+Overall lines across GEG material: 288.147  
+Errorneus lines of original anticipated types: 9.828  
+Overall erroneus lines: 15.261  
+Overall cleaned erroneus lines: 9.667  
+Remaining erroneus lines: 5.594
+
+### Gesellschaft für Geschichte und Alterhumskunde der Ostseeprovinzen - GGuA 
+
+While the overall percentage of erroneus lines within the GGuA material was relative low, cleaning the affected lines was most difficult. 
+This is largely because from the original anticipated error types the SpecSpace error was much more common across GGuA material than the NomSpace error. 
+However, including the VSpecSpace the overall remaining errors only affect a marginal portion of lines.  
+
+While previously 3,4 % of lines were erroneus now about 2,6 % remain.  
+From the original anticipated error types (NomSpace and SpecSpace) I was able to remove 75,9 %. Considering all error types I was able to remove 25,6 %. 
+The whole overview for the [error statistics of the GGuA broken down by year can be found here](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/bcde8e875eb15e2814cc9b4560b1da01a19bf33d/Sources/GGuA/2023-02-13_OverallGGuAErrorStats.csv). 
+
+Overall lines across GGuA material: 300.440  
+Errorneus lines of original anticipated types: 3.486  
+Overall erroneus lines: 10.336  
+Overall cleaned erroneus lines: 2.645  
+Remaining erroneus lines: 7.691
+
+### Naturforschender Verein zu Riga - NVR 
+
+The materials of the NVR contain overall the highest percentage of erroneus lines. 
+While I was able to remove most of the original anticipated error types, the overall most common error type among these documents is the VSpecSpace error. 
+Since I don't have a solution for this error type yet, these documents have a larger portion of remaining erroneus lines. 
+
+While previously 10,6 % of lines were erroneus now about 6,9 % remain.  
+From the original anticipated error types (NomSpace and SpecSpace) I was able to remove 96,2 %. Considering all error types I was able to remove 34,8 %. 
+The whole overview for the [error statistics of the NVR broken down by year can be found here](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/bcde8e875eb15e2814cc9b4560b1da01a19bf33d/Sources/NVR/2023-02-13_OverallNVRErrorStats.csv). 
+
+Overall lines across NVR material: 279.276  
+Errorneus lines of original anticipated types: 10.719  
+Overall erroneus lines: 29.627  
+Overall cleaned erroneus lines: 10.308  
+Remaining erroneus lines: 19.319

@@ -26,7 +26,7 @@ Task 1: Clean errors generated through OCR to improve data quality.  Status = **
 - [x] I want to create an overview for the errors detected and removed for each document. 
 
 Task 2: Extract names from membership-lists. Status = **in preparation**  
-- [ ] I need to identify within the text that includes the membership list.
+- [ ] I need to identify the part within the text that includes the membership list.
 - [ ] I need to make sure that information is not lost by a line break. 
 - [ ] I want to extract the following metadata if available: Year, Society, Fullname, Profession, Location, Membership Status. 
 - [ ] I want all extracted membership data from all societies in one .csv-file.   

@@ -29,7 +29,7 @@ Task 2: Extract names from membership-lists. Status = **in preparation**
 - [ ] I need to identify within the text that includes the membership list.
 - [ ] I need to make sure that information is not lost by a line break. 
 - [ ] I want to extract the following metadata if available: Year, Society, Fullname, Profession, Location, Membership Status. 
-- [ ] I want all extract membership data in one .csv-file.   
+- [ ] I want all extracted membership data from all societies in one .csv-file.   
 
 ### Sources
 Abbr.   | Learned Society   | Title of Publication | Location| Timespan     | Database | Rights 

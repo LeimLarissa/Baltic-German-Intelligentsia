@@ -25,6 +25,12 @@ Task 1: Clean errors generated through OCR to improve data quality.  Status = **
 - [x] I want to remove the additional spaces and create better source materials.   
 - [x] I want to create an overview for the errors detected and removed for each document. 
 
+Task 2: Extract names from membership-lists. Status = **in preparation**  
+- [ ] I need to identify within the text that includes the membership list.
+- [ ] I need to make sure that information is not lost by a line break. 
+- [ ] I want to extract the following metadata if available: Year, Society, Fullname, Profession, Location, Membership Status. 
+- [ ] I want all extract membership data in one .csv-file.   
+
 ### Sources
 Abbr.   | Learned Society   | Title of Publication | Location| Timespan     | Database | Rights 
 --------|-------------------|----------------------|---------|--------------|----------|-------

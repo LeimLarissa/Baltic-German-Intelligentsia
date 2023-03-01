@@ -108,7 +108,7 @@ eorr. Äiitglied Gahlnbäck ??
 corr. Mitglied Kohl 199 
 ord. Mitglied Lanting 224 
 Ehren-Mitglied Schwabe 78 
-Jahresversammlung 
+<section type='yearlymeet'> Jahresversammlung 
 lier e^ini^cüen' Eel^eMa^i zu JorMt 
 am 18. (30.) Januar 1878. 
 Der Präsident Professor Leo Meyer eröffnete die 
@@ -1008,7 +1008,8 @@ der Naturforscher über Völker Verwandtschaften und
 Resultate der Sprachforscher über S p r a ch verwandt-
 schasten ganz und gar auseinander gehen und doch beide 
 richtig sind. 
-449. Sitzung 
+</section> 
+<section type='monthlymeet'> 449. Sitzung 
 der gelehrten estnischen Gesellschaft 
 den 2. (14.) Februar 1378. 
 Zuschriften hatten geschickt: die Kaiserliche Gesell­schaft der Naturforscher zu Moskau, die Schlesische Ge­
@@ -1437,7 +1438,8 @@ in die Zahl d.r ordentlichen Mitglieder.
 Baronesse Anna Krüdener zeigt durch Herrn 
 von Lanting ihren Austritt aus der Zahl der ordentlichem 
 Glieder an. 
-450. Sitzung 
+</section> 
+<section type='monthlymeet'> 450. Sitzung 
 der gelehrten estvischen Gesellschaft 
 am 1. (13.) März 1878. 
 Zuschriften hatten geschickt: die König!, öffentliche 
@@ -2002,7 +2004,8 @@ In die Zahl der ordentlichen Mitglieder wurden
 aufgenommen: die Herren Emil Frehse, Geschäftsführer 
 der' Schnakenburg'schen Druckerei und I)r. Wilhelm 
 Stieda, Professor an der Universität zu Dorpat. 
-45 l. Sitzung 
+</section> 
+<section type='monthlymeet'> 45 l. Sitzung 
 der gelehiteu estnischen Gesellschaft 
 am 5. (17.) April 1373. 
 Zuschriften hatten geschickt: das Ministerium der 
@@ -4178,7 +4181,8 @@ Bibelglauben und von dem crassen Materialismus.
 Es zeigten ihren Austritt an die Herren Ernst 
 Bergmann, Professor der Chirurgie, und Arnold Walter, 
 Kaufmann. 
-452. Sitzung 
+</section> 
+<section type='monthlymeet'> 452. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 3. (15.) Mai 1878. 
 Zuschriften hatten geschickt: die Moskauer Gesell­
@@ -4548,7 +4552,8 @@ Zu correspondirenden Mitgliedern wurden erwählt
 die Herren Professor Or. Rudolf Virchow in Berlin 
 und F. A. Nicolai. Realschul-Oberlehrer in Meerane 
 (Sachsen). 
-453. Sitzung 
+</section> 
+<section type='monthlymeet'> 453. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 31. Mai (12. Juni) 1878. 
 Zuschriften hatten geschickt: der Verein si'lr Ge­schichte und Alterthümer Schlesiens, der Thüringisch-
@@ -5049,7 +5054,8 @@ worden.
 Herr Emil Vielrofe, Kaufmann in Wöbs, 
 wurde zum correspondirenden Mitglied ernannt. 
 ' '-j<^ l 
-454. Sitzung  
+</section> 
+<section type='monthlymeet'> 454. Sitzung  
 der gelehrtenLestoischen Gesellschaft 
 ^am 13. (25.) Äeptbr. 1878.1 
 Zuschriften hatten geschickt - die Königlich Baye­rische Akademie der Wissenschaften in München, die 
@@ -5529,7 +5535,8 @@ in Relation gesetzt, habe aber noch keine sichere Kunde
 über etwaige Resultate der vorgenommenen Forschungen. 
 Herr vr. Weske sprach über die Ableitung und 
 Bedeutung der Worte Fellin und Viliande. 
-4^5. Sitzung 
+</section> 
+<section type='monthlymeet'> 4^5. Sitzung 
 der gelehrten estaischea Gesellschaft 
 am 4. (16.) Oktober 1878. 
 Zuschriften hatten geschickt: die Gesellschaft für 
@@ -6424,7 +6431,8 @@ Ich beschränke mich hier auf dieses Wenige, da ein
 Eingehen in die einzelnen Mittheilungen zu weit führen 
 dürfte. — Ueberdies werden auch diese Vorträge dem­
 nächst gesammelt erscheinen. 
-456. Sitzung 
+</section> 
+<section type='monthlymeet'> 456. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 1. (13.) Novbr. 1878. 
 Zuschriften hatten geschickt: die Kaiserliche Gö' 
@@ -7463,7 +7471,8 @@ senheit in der Vaterstadt bewußt gewesen sein mögen.
 Kohl im Alter von 71 Jahren am 16. (28.) October. 
 1-.l 
 u 
-457. Sitzung 
+</section> 
+<section type='monthlymeet'> 457. Sitzung 
 der gelehtttn tstmschei, Gesellschajl" 
 am 13. (2b.) Decbr. :873. 
 Schreiben hatten gesandt: die kurländische 
@@ -8487,7 +8496,8 @@ Krankheit des Schatzmeisters zur Zeit der Ferien ver­
 schiedene Rechnungen noch nicht bezahlt werden konnten, 
 die nachträglich zu liquidiren sein werden, namentlich in 
 den Druckereien. 
-Verzeichnis 
+</section> 
+<section type='list'> Verzeichnis 
 der Mitglieder 
 am Schlüsse des Jahres 187 8. 
 Ehrenmitglieder. 
@@ -8782,7 +8792,8 @@ schen Institut in Stockholm.
 54) Dr. lN. Sauerwein in Banteln bei Hannover. 
 55) Or. W. Thomsen. Professor in Kopenhagen. 
 56) vr. Rudolf Virchow, Professor in Berlin. 
-VerzeLchniH 
+</section> 
+<section type='list'> VerzeLchniH 
 der gelthrten Vereine, Nedartillllell v. 5. m., welche mit der 
 gelehrten estliischen GesellSchükt einen Schriktenullstsllsch 
 llnterhlllten. 
@@ -8979,7 +8990,8 @@ Alterthümer.
 87) Würzburg. Der Historische Verein in Unter-Franken 
 und Aschaffenburg. 
 88) Zürich. Die Antiquarische Gesellschaft. 
-Verzeichttiß 
+</section> 
+<section type='list'> Verzeichttiß 
 der oiin der lselehrten estn. Osellschllst Herav5gegebentll 
 Schriften. 
 (Diese. Schriften sind durch Th. Hoppe und E. I. Karow in 
@@ -9086,3 +9098,4 @@ welche noch mit der Zablung der Jahresbeiträge im Rückstände sind,
 werden ersucht, baldigst dieselben zu berichtigen, da fernerhin die 
 Zustellung der von der Gesellschaft herausgegebenen Schriften nur 
 nach geschelzener Liquidation dieser Beiträge erfolgen wird. 
+</section> 

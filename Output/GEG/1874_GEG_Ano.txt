@@ -14,7 +14,7 @@ z
 Gedruckt auf Verfügung der gelehrten estnischen Gesellschaft. 
 Docpat, den 2t. Februar 1875. 
 Leo Meyer,  Präsident .  
-Jahresversammlung 
+<section type='yearlymeet'> Jahresversammlung 
 am 18. Januar 1874. 
 Der Präsident Prof. Leo Meyer eröffnete 
 die Versammlung mit folgenden Worten: 
@@ -879,7 +879,8 @@ den Jahresbericht pro 1873 verlas. Der Präsident
 Prof. Leo Meyer schloß darnach die Sitzung, nicht 
 ohne der zahlreichen Versammlung für ihre Anwe­
 senheit und Theilnahme zu danken. 
-4 10. Sitzung 
+</section> 
+<section type='monthlymeet'> 4 10. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 6. (18.) Februar 1874. 
 Schreiben hatten geschickt: die Gesellschaft für 
@@ -1436,7 +1437,8 @@ nedae (Wenden) bezeichnet gewesen sein, welcher
 Name für die Russen bis auf den heutigen Tag 
 bei den westfinnischen Völkern gebraucht wird. Wei« 
 tere Schlüsse mögen die Historiker ziehen. 
-411. Sitzung 
+</section> 
+<section type='monthlymeet'> 411. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 6. (18.) März 1874. 
 Zuschr i f ten hat ten geschickt :  das Consei l  der  
@@ -2041,7 +2043,8 @@ möge, aber bezeichnen und namentlich kennen müßte
 man sie. Dann würden die Gebildeten unsers Lan-
 des nicht mangelhafter Estnisch sprechen als das un-
 gebildete Volk. -
-4 12. si tzung 
+</section> 
+<section type='monthlymeet'> 4 12. si tzung 
 der gelehrten estnischen Gesellschaft 
 am 3. (15.) April 1874. 
 Zuschr i f ten hat ten geschickt :  d ie Herren Pro-
@@ -3129,7 +3132,8 @@ Was ist stolz wohl an ber Blüthe?
 Neiukese ic. Junge Mäbchen. ic.: 
 Uba uhke äitsemelle. 
 Stolz bte Bohne an ber Blüthe. 
-413» sitzung 
+</section> 
+<section type='monthlymeet'> 413» sitzung 
 der gelehrten estnisches Gesellschaft 
 am 8. (20.) Mar 1874, 
 Zuschr i f ten  hat ten  gesch ick t :  das  Museum fü r  
@@ -3744,7 +3748,8 @@ Mit Wäinämöinen der finnischen Mythologie hat
 Wanemuine etymologisch nichts zu thun. Der 
 Stamm des elfteren Namens ist nach Castro n und 
 Anderen Wäinä. 
-414. Sitzung 
+</section> 
+<section type='monthlymeet'> 414. Sitzung 
 der gelehrten estnischen Gesellschaft 
 den 29. Mai (10. Juni) 1874. 
 Zuschri f ten hatten geschickt:  der histor ische Ver-
@@ -3909,7 +3914,8 @@ nischen Sprachschatz zu verdanken habe, der Fall
 gewesen sei. 
 Die nächste Sitzung wird im September statt-
 finden. 
-415» Sitzung 
+</section> 
+<section type='monthlymeet'> 415» Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 4. (16.) Septbr. 1874. 
 Zuschrif ten hatten geschickt: 
@@ -4723,7 +4729,8 @@ Pros. Willem Thomson in Kopenhagen, Prof. Wil-
 Helm Maurenbrecher in Königsberg und Dorfschul-
 m erster Adamsohn im Kirchspiel Paistel s Fellin) 
 gewählt. 
-416. Sitzung 
+</section> 
+<section type='monthlymeet'> 416. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 2. (14.) Octbr. 1874. 
 Zuschr i f ten  ha t ten  gesch ick t :  d ie  Sch le iche  
@@ -5446,7 +5453,8 @@ zeugender Weise den Nachweis zu sichren, in wie
 hohem Maße segensreich die Einführung der Geld-
 pacht und der Verkauf der Bauerländereien für den 
 Culturfortfehritt des Estenvolkes gewesen ist. 
-417* Sitzung 
+</section> 
+<section type='monthlymeet'> 417* Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 6. (18.) November 1874. 
 Zuschr i f t en  ha t ten  gesch ick t :  das  D i rek to r ium 
@@ -6231,7 +6239,8 @@ kurischen Nehrung ganz entspricht (Schriften d. phys.-
 ölon. Ges. zu Königsberg 1871. S. 45. Tb. II. 
 Flg. g\ und hier in Gesellschaft von Ordcnsmünzen 
 des XIV. Jahrhunders gefunden wurde. 
-418. Sitzung 
+</section> 
+<section type='monthlymeet'> 418. Sitzung 
 der gelehrten estnische« Gesellschaft 
 am 4. (1(1) November 1874. 
 Zuschr i f ten  ha t ten  gesch ick t :  
@@ -6843,7 +6852,8 @@ n ii Bucher...... 6 „ 4 „
 Summa 243 Rbl. 3 Kop. 
 Verbleiben demnach in Cassa 97 „ 96 „ 
 440 Rbl. 99 Köp7 
-Verzeichnis 
+</section> 
+<section type='list'> Verzeichnis 
 der Mitglieder der ^elchrtea estnischen Oesellschast 
 am Schlüsse des Jahres 1874. 
 Ehrenmitglieder. 
@@ -7067,7 +7077,8 @@ Sprachen in Straßburg i. E.
 36) Dr. O. schade, Professor in Königsberg i. Pr. 
 37) Dr. G. Sauerwein in Banteln bei Hannover. 
 38) Dr. W. Thomsen, Professor in Kopenhagen. 
-Berzeichniß 
+</section> 
+<section type='list'> Berzeichniß 
 der gelehrtni Vereine, Bedarf innen n. s. ni., welche mit der 
 gelehrten estnischen Gesellschnlt einen Schriftrüiinstansch 
 llllterhalten. 
@@ -7255,7 +7266,8 @@ und Alterthümer.
 85) Nürburg. Ter Historische Verein in Unter-Fran-
 ken und Afchasfenburg. 
 86) Zürich. Tie Antiquarische Gesellschaft. 
-Verzeich niH 
+</section> 
+<section type='list'> Verzeich niH 
 xflcf van kx gelehrten rstn. Gesellschaft lieravs^kgebrnen 
 Schritte». 
 (Diese Schriften sind durch Zty Horpe und E. I.  Karow 
@@ -7360,3 +7372,4 @@ sind, werden ersucht, baldigst di selben zu berichtigen, da ferner-
 hin die Zustellung der von der Gesellschaft herausgegebenen 
 Schriften nur nach gesehener Liquidation dieser Beiträge 
 erfolgen wird. 
+</section> 

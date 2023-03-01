@@ -90,7 +90,7 @@ UND Hausmann . . . . . . 187—193
 Wiedemann, F., Ueber Uebersetzungen im All­
 gemeinen, und Über estnijche Uebeisi jungen 
 im Besonderen 132-143 
-Jahresversammlung 
+<section type='yearlymeet'> Jahresversammlung 
 der gefellrira eflniflen Scfeffflaft 311 Sorpat 
 am 18. Januar 1879. 
 Der Präsident, Professor Leo Meyer, hielt den 
@@ -893,7 +893,8 @@ aus den Blick einmal in uralte Völkerverhältnisse
 und Völkerbeziehungen zu richten, wie sie die Ge-
 lehrte Estnische Gesellschaft in ganz besonderer Weise 
 zu interessiren wohl geeignet sein dürften. 
-459. Sitzung 
+</section> 
+<section type='monthlymeet'> 459. Sitzung 
 der Gelehrteu Estnischen Gesellschaft 
 den 7. (19.) Februar 1879. 
 Zuschriften hatten geschickt: die Kaiserliche 
@@ -1990,7 +1991,8 @@ Austritt an.
 Zu ordentlichen Mitgliedern wurden gewählt die 
 Herren Cand. bot. K. Klinge, stud. theol. Alex­
 ander Serd und stud. theol. Ferdinand Buschmann. 
-460. Sitzung 
+</section> 
+<section type='monthlymeet'> 460. Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 den 7. (19.) März 1879. 
 Zuschriften hatten geschickt: das Departe-ment des Ministerium der Volksaufklärung, das Eon-
@@ -3743,7 +3745,8 @@ demonstrirt. Da die Pretecelle der Berichte scheu
 im Drucke sind und bald erscheinen werden, so ver­
 schiebe ich meine Mittheilung über den Inhalt der-
 selben bis auf Späteres. 
-461. Sitzung 
+</section> 
+<section type='monthlymeet'> 461. Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 den 2. (14.) Mai 1879. 
 Zuschriften hatten geschickt: das Kömgl. 
@@ -4001,7 +4004,8 @@ wurde zum Ehrenmitglieds; Herr Kasimir von Cor-
 Vin-Pietrowski, Stud. pol. oec., zum ordentlichen 
 Mitglieds gewählt. 
 Herr Roman Grewendorff zeigt seinen Austritt an. 
-462. Sitzung 
+</section> 
+<section type='monthlymeet'> 462. Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 den 6. (18.) Juni 1879. 
 Zuschriften hatten geschickt: die Kaiserliche Mos-
@@ -4804,7 +4808,8 @@ aufbewahrt wurden, vorläufig der Sammlung für
 vergleichende Anatomie (Dir. Prof. E. Rosenberg) 
 zu übergeben; wobei die Gel. estn. Gesellschaft sich 
 jedoch ausdrücklich ihr Eigenthumsrecht bewahrt. 
-463. Sitzung 
+</section> 
+<section type='monthlymeet'> 463. Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 am 5. (17. September) 1879. 
 Zuschriften hatten gesandt: der Verein für 
@@ -5277,7 +5282,8 @@ Zu ordentlichen Mitgliedern wurden ge-wählt die Herren
 Cand. ehem. Wladislaw Rupniewsky, 
 Carl von Roth - Langensee, 
 Stud. hist. Friedrich Keußler. 
-464i Sitzung 
+</section> 
+<section type='monthlymeet'> 464i Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 am 3. (15.) October 1879. 
 Zuschriften hatten geschickt: die hist. stat. 
@@ -5706,7 +5712,8 @@ naues Verzeichniß aller in estnischer Sprache gedruck-
 ten Werke regelmäßig bringt. 
 Herr Benjamin Kor dt, stud. jur., wurde 
 in die Zahl der ordentlichen Mitglieder aufgenommen. 
-465. Sitzung 
+</section> 
+<section type='monthlymeet'> 465. Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 am 7. (19.) November 1879. 
 Zuschriften hatten geschickt: die historische 
@@ -6512,7 +6519,8 @@ Herr I. I. W afs ilj e w, Mag. der Theologie,
 Staatsrath, älterer Revisor des Controlhofs in Pskow 
 durch seine ausgebreitete schriftstellerische Thätigkeit 
 bekannt, wurde zum correspondirendenMit-g li  e d e erwählt. 
-466. Sitzung 
+</section> 
+<section type='monthlymeet'> 466. Sitzung 
 der Gelehrten Estnischen Gesellschaft 
 am 5. (17.) December 1879. 
 Z  u  s  c h r i f t e n  h a t t e n  g e s c h i c k t  d i e  H e r r e n  
@@ -7387,7 +7395,8 @@ lichkeiten und bessere, größere Schränke und Vitrinen
 — und viel, sehr viel Geld zu beschaffen. Möge das 
 kommende Jahr uns in allen Beziehungen, nach innen 
 und außen, günstig sein. 
-Verzeichnis 
+</section> 
+<section type='list'> Verzeichnis 
 der Mitglieder 
 am Schlus se des Jahres 1 8 7 9.  
 Ehrenmitglieder. 
@@ -7695,7 +7704,8 @@ rolinischen Institut in Stockholm.
 58) Dr. G. Sauerwei n in Banteln bei Hannover. 
 59) Dr. W. Thomsen, Professor in Kopenhagen. 
 60) Dr. Rudolf Virchow. Professor in Berlin. 
-Verzeichnis 
+</section> 
+<section type='list'> Verzeichnis 
 der gelehrten Vereine, Behrtinnm n. s>. m., welche mit der 
 gelehrten estnischen fellschnft emen Schrikteulmstallsch 
 unterhalten. 
@@ -7908,7 +7918,8 @@ und Alterthümer.
 93) Mrzburg. Der Historische Verein in Unter-
 Franken und Aschaffenburg. 
 94) Mrich. Die Antiquarische Gesellschaft. 
-B erzeichniß. 
+</section> 
+<section type='list'> B erzeichniß. 
 der van der gelehrten tsh. dtollsrtjnft tjenmsgegtbmn 
 Schritten. 
 (Diese Schriften sind durch Th. Hoppe und E. I. Karow in 
@@ -8022,3 +8033,4 @@ sind, werden ersucht, baldigst dieselben zu berichtigen, da ferner-
 hin die Zustellung der von der Gesellschaft herausgegebenen 
 Schriften nur nach geschehener Liquidation dieser Beiträge 
 erfolgen wird. 
+</section> 

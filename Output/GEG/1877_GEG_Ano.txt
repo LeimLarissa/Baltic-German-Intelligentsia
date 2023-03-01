@@ -91,7 +91,7 @@ SBes ie ,  D r  M . ,  Lec to r ,  ä f ce  t r ag  zu r  Sage  vom Ka lew ipoeg
 Im  Anhang :  
 Personal-Index '163 
 Real-Jndex [172 
-Jahresversammlung 
+<section type='yearlymeet'> Jahresversammlung 
 der geMirlen efiniftfien ®cfefff£nft zu $orpoi 
 am 18. Januar 1877. 
 Der Präsident, Professor Leo Meyer, hielt den 
@@ -1012,7 +1012,8 @@ schaftlichen Wetteifer bringen, und in diesem wird
 unsere Gelehrte Estnische Gesellschaft hoffentlich auch 
 fernerhin immer weiter gedeihen und immer weiter 
 wirken. Das ist der Wunsch, mit dem ich schließe. 
-43 9« Sitzung 
+</section> 
+<section type='monthlymeet'> 43 9« Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 2. (14.) Februar 1877. 
 Zuschriften hatten geschickt: der Historische 
@@ -1442,7 +1443,8 @@ Beckmann.
 Zum correspondirenden Mitglied wurde umbenannt 
 das bisherige ordentliche Mitglied Cand. theol. 
 Knüpffer. 
-440« Sitzung 
+</section> 
+<section type='monthlymeet'> 440« Sitzung 
 der gelehrten estnischen Gesellschaft jtt Dorpat 
 am 2. (14.) März 187/. 
 Zuschriften hatten geschickt: die Verwaltung der 
@@ -1787,7 +1789,8 @@ Narva an.
 Zum ordentlichen Mitglied wurde erwählt: Herr 
 Prof Dr. Eugen Petersen in Dorpat, zum correspon-
 direnden Herr Dr. Wilhelm Reil in Kairo. 
-44L Sitzung 
+</section> 
+<section type='monthlymeet'> 44L Sitzung 
 Der gelehrten estnischen Gesellschaft 
 am 6. (18.) April. 
 Schriften hatten geschickt: der Ausschuß des histo-rischen Vereins von Schwaben und Neuburg in Augs-bürg, die königlich Norwegische Universität Chri-stiania, die Kaiserliche Natursorschende Gesellschaft 
@@ -2418,7 +2421,8 @@ Kern zu bringen.
 Der Bibliothekar ersuchte um baldige Abliefe« 
 rung der vielen von einigen Mitglieder schon seit 
 Jahren entliehenen Bücher. 
-442. Sitzung 
+</section> 
+<section type='monthlymeet'> 442. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 4. (16.) Mai 1877. 
 Zuschr i f ten hat ten geschickt :  das Consei l  der  
@@ -2998,7 +3002,8 @@ Besitz befindlichen reichhaltigen Guts- und Privat-
 Archiv der ausgestorbenen Familie Heydeken ergän-
 zende Mittheilungen zur Geschichte der Güter des 
 Burtneckschen Kirchspiels zu liefern. 
-443. Sitzung 
+</section> 
+<section type='monthlymeet'> 443. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 4. (13.) Juni 1877. 
 Zuschriften hatten geschickt: der Verein für Geschichte 
@@ -3293,7 +3298,8 @@ logie und Urgeschichte zu Dresden 14—16 Sept. Ib74.
 Räch stenographischen Aufzeichnungen redigirt von Dr. 
 Hermann von Jhering in Göttingen. Braunschweig, 
 1875. p. 66,) 
-44 4» Sitzung 
+</section> 
+<section type='monthlymeet'> 44 4» Sitzung 
 der gelehrte» estnischen Gesellschaft 
 am 7. (19.) September 1877. 
 Zuschriften hatten geschickt: der historische Verein 
@@ -3542,7 +3548,8 @@ Zu ordentlichen Mitgliedern wurden ernannt:
 Herr Dr. Roderich Bidder, Pastor in Lais. 
 „ Adolf Grenzstein, Seminarlehrer in Dorpat. 
 „ Dr. Wolfgang Schlüter, Privatlehrer in Dorpat. 
-445. Sitzung 
+</section> 
+<section type='monthlymeet'> 445. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 5. (17.) October 1877. 
 Zusch r i f t en  ha t ten  gesch i ck t :  d i e  Kön ig l i che  i ö t -
@@ -4465,7 +4472,8 @@ deutscher Übersetzung zu veröffentlichen und einige Be-
 merkungen über die Fählmannsche Variation, der die 
 Sage nur in der deutschen Sprache mitgetheilt hat, da« 
 ran zu knüpfen. 
-446. Sitzung 
+</section> 
+<section type='monthlymeet'> 446. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 30. November (12. Decemder) 1877. 
 Zuschriften hatten geschickt: der Verein für Ge-schichte und Alterthum zu Stade, das Lyceum of Na­
@@ -5127,7 +5135,8 @@ aufbewahrten Pfandbriefe. . . 2 „ — „
 482 Rbl. 6 Kop. 
 Es bleibt demnach in Kaffa ein Rest von 78 Kop. 
 144 
-Verzeichnis 
+</section> 
+<section type='list'> Verzeichnis 
 der Mitglieder 
 am Schlüsse des Jahres 18 7 7.  
 Ehrenmitglieder. 
@@ -5425,7 +5434,8 @@ schen Institut in Stockholm.
 54) Dr. Bernhard Suphan in Berlin. 
 55) Dr. G. Sauerwein in Banteln bei Hannover. 
 56) Dr. W. Thomsen, Professor in Kopenhagen. 
-Verzeich niß 
+</section> 
+<section type='list'> Verzeich niß 
 der gelehrten Vereine, Bebttinnen n. s. m., welche mit der 
 gelehrten estnischen Oesellschllkt einen ^chrifttnimstmrti 
 Merhlllten. 
@@ -5617,7 +5627,8 @@ Alterthümer.
 87) Würzburg. Der Historische Verein in Unter-Franken 
 und Aschaffenburg. 
 88) Zürich. Die Antiquarische Gesellschaft. 
-Verzeichnis  
+</section> 
+<section type='list'> Verzeichnis  
 der von der gelehrten estn. OeZelkchütt hernnSgegebeneu 
 Schritten. 
 (Diese Schriften sind durch Th. Hoppe und E. I. Karow in 
@@ -6772,3 +6783,4 @@ Urkundenabschriften für bte Geschichte Dorpats 1211 bis
 Urkundenregesten. 64, 6. 8. 16. 
 aus ber Brieflabe Urbs. 73, 65. 
 Urnen, s. Gräber. 
+</section> 

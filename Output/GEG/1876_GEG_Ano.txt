@@ -136,7 +136,7 @@ Auf Seite 61 muß es heißen 430 statt 429.
 170 ,. 435 „ 434. 
 „ 118 ist einzusügen: Aus der Revaler Zeitung nach 
 einem Vortrage RußwurmS. 
-Iahresversammtung 
+<section type='yearlymeet'> Iahresversammtung 
 der gelehrten estnischen Gesellschaft 
 am 17. (29.) Januar 1876. 
 Der Präsident Prof. Leo Meyer eröffnete die 
@@ -2327,7 +2327,8 @@ gung 5>es Andenkens eines der territorialen Macht­
 haber der Vergangenheit beitragen, welche in ihren 
 geschichtlichen Ursachen und allen ihren Verkettungen 
 nur durch genaue Zergliederung erschlossen werden kann! 
-429. Sihnng 
+</section> 
+<section type='monthlymeet'> 429. Sihnng 
 der gelehrten estnischen Gesellschaft 
 am ü. (17.) Februar 1876. 
 Zuschriften hatten geschickt: das Conseil der 
@@ -2586,7 +2587,8 @@ funden hätten.
 Zum ordentlichen Mitglied wurde Hr. Prof. der 
 Theologie Hörschelmann, zum correfpondirenden 
 vr. Bernhard Suphan in Berlin gewählt. 
-431. Sitzung 
+</section> 
+<section type='monthlymeet'> 431. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 4. (16.) März sj1876. 
 Zuschriften hatten geschickt: der historische Ver­
@@ -5339,7 +5341,8 @@ glied umzubenennen.
 ') Privilegium Joh. v. Blankenfeld, Revaler Rathsarchiv, 
 Concept. 
 Arndt II. p. 233 ok. auch Sachsendahl p. 45. 
-432. Sitzung 
+</section> 
+<section type='monthlymeet'> 432. Sitzung 
 der gelehrten estnischen Gesellschaft 
 Mittwoch d.' S. (17.) Mai 1876. 
 Schreiben hatten geschickt: der historische Verein 
@@ -5780,7 +5783,8 @@ Accisebeamte,
 Roman Grevendorff, 
 Alexander En mann, 8tu6. lnst., 
 vi-. H. E. Benrath in Lifette. 
-433. Sitzung 
+</section> 
+<section type='monthlymeet'> 433. Sitzung 
 der gelehrten estnischen Gesellschaft 
 Mittwoch d. 1. (13.) Sept. 1876. 
 Zuschriften hatten geschickt: die Akademie 
@@ -6406,7 +6410,8 @@ I)r. Oskar Montelius in Stockholm,
 vi-. Gustav Retzius in Stockholm, 
 vr. John Nhys in Rhyl (Wales), 
 vr. Karl Koppmann in Barmbeck bei Hamburg. 
-434. Sitzung 
+</section> 
+<section type='monthlymeet'> 434. Sitzung 
 der gelehrten estnischen Gesellschaft 
 äm 6. (18.) October 1876. 
 Zuschriften hatten geschickt: die kurländische 
@@ -7155,7 +7160,8 @@ Di-. Victor von Brasch in Ropkoy,
 Ltuä. ^ur. Walter von Samson-Himmelstierna. 
 Den Austritt zeigt dcr Herr 8t.nä. Eduard 
 Holl and er. 
-437. Sitzung 
+</section> 
+<section type='monthlymeet'> 437. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 1. (13.) December 1876. 
 Zuschriften hatten geschickt: die Gesellschaft 
@@ -8197,7 +8203,8 @@ Gehalt des Dieners 2 Rbl. monatl. 24 „ — „
 ^63"Rbl. 82 Kop. 
 Rest in Kassa 28 „ 20 „ 
 Summa 392 Rbl. 2 Kop. 
-Verzeichnis 
+</section> 
+<section type='list'> Verzeichnis 
 der Mitglieder 
 m Sachlusse des Jahres 187 6.  
 Ehrenmitglieder. 
@@ -8495,7 +8502,8 @@ linischen Institut in Stockholm.
 50) vr. Bernhard Suphan in Berlin. 
 51) vr. G. Sauer wein in Banteln bei Hannover. 
 52) vr. W. Thomsen, Professor in Kopenhagen. 
-Verzeichniß 
+</section> 
+<section type='list'> Verzeichniß 
 der gelehrten Veeeine, Redaktionen n. s. m., welche mit der 
 gelehrten estnischen Gesellschaft einen Schriftenllnstllnsch 
 nntechiüwi. 
@@ -8685,7 +8693,8 @@ und Alterthümer"
 87) Würzburg. Der .Historische Verein in Unter-
 Franken und Aschasfenburg. 
 88) Zürich. Die Antiquarische Gesellschaft. 
-Verzeichnis, 
+</section> 
+<section type='list'> Verzeichnis, 
 dee umi der gelehrten estn. Gesellschaft heransWelieneii 
 Schriften. 
 (Diese Schriften sind durch Th. Hoppe und E. I. Karow 
@@ -8796,3 +8805,4 @@ Schriften nur nach geschehener Liquidation dieser Beiträge
 erfolgen wird. 
 — 
 V 
+</section> 

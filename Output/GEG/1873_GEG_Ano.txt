@@ -9,7 +9,7 @@ Gedruckt bei C. Mattiesen.
 Gedruckt auf Verfügung der gelehrten estnischen Gesellschaft. 
 Dorpat, den 5. Februar 1874. 
 Leo Meyer, Präfident. 
-Jahresversammlung 
+<section type='yearlymeet'> Jahresversammlung 
 der gelehrten estnischen Gesellschaft zu Dorpat 
 am 18. Januar 1873. 
 Der Präsident, Professor Leo Meyer, hielt den 
@@ -629,7 +629,8 @@ richt für 1872, der noch am Schluß der vorigjährt»
 gen Sitzungsberichte der gelehrten estnischen Gesell-
 schaft abgedruckt worden ist. 
 2 
-400« Sitzung  
+</section> 
+<section type='monthlymeet'> 400« Sitzung  
 der gelehrten estnischen Gesellschaft 
 am 7. (19.) Februar 1872. 
 Der Präsident, Professor Leo Meyer, eröffnete 
@@ -1028,7 +1029,8 @@ wo die Bibliothek offen steht. '
 8 10. 
 Die Bibliothek ist mit Ausnahme der Ferien je-
 den Sonnabend von 4—5 Uhr Nachmittags geöffnet. 
-401* Sitzung 
+</section> 
+<section type='monthlymeet'> 401* Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 7. (19.) März 1873. 
 Zusch r i f t en  ha t t en  gesch i ck t :  vas  Conse i l  de r  
@@ -1161,7 +1163,8 @@ erschienenen Biographie des Dr. med. Woldemar
 Ferdinand Dahl und gab dazu einige Ergänzungen. 
 In die Zahl der ordentlichen Mitglieder wurde 
 aufgenommen: Herr Geheimrath Otto von Evers. 
-402* Sitzung 
+</section> 
+<section type='monthlymeet'> 402* Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 4. (16.) April 1873. 
 Zusch r i f t en  ha t t en  gesch i ck t :  de r  Na tu r f o r sche r -
@@ -1623,7 +1626,8 @@ lungen desselben.
 Zu ordentlichen Mitgliedern wurden gewählt: 
 Die Herren Nicolai v. Wahl zu Pajus und 
 Friedrich Baron v. Wrangetl zu Kerrafer. 
-403, Sitzung
+</section> 
+<section type='monthlymeet'> 403, Sitzung 
 der gelehrte« estnischen Gesellschaft 
 am 2. (14.) Mai 1873. 
 Zusch r i f t en  ha t t en  gesch i ck t :  Das  D i r ek to r i um  
@@ -1905,7 +1909,8 @@ können.
 Zu ordentlichen Mitgliedern wurden gewählt die 
 Herren E. v. Pfeiffer zu Alt-Pigast und Victor Ba« 
 ron Laudon zu Keusen. 
-404« Sitzung 
+</section> 
+<section type='monthlymeet'> 404« Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 6. (18.) Juni 1873. 
 In Abwesenheit des Präsidenten Prof. Dr. Leo 
@@ -2025,7 +2030,8 @@ Parneh, die Sonnensöhne, Helstngfors 1872, und
 knüpfte daran einige Bemerkungen. 
 Zum ordentlichen Mitgliede wurde aufgenom­
 men: Herr Gymnasiallehrer Lundmann in Torpat. 
-405» Sitzung 
+</section> 
+<section type='monthlymeet'> 405» Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 12. (24.) Septbr. 1873. 
 Zuschriften hatten übersendet: der Verein zur 
@@ -2145,7 +2151,8 @@ Angekauft: 1 schwedisches Vierörslück v. 1669,
 gefunden in Dorpat; 
 Herr Johannes Lossius. Bibliothekar der Ge-
 sellschaft, zeigte seinen Austritt an. 
-406« Sitzung 
+</section> 
+<section type='monthlymeet'> 406« Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 3. (15.) Oktober 1873. 
 Zuschriften hatten geschickt: das Livländische 
@@ -2446,7 +2453,8 @@ den aufgenommen:
 Herr Dr. phil. Michael Weske in Dorpat, 
 „ Stud. theol. Georg Knüpffer „ * 
 „ Stud. jur. Alexander Buchholtz „ „ 
-407* Sitzung 
+</section> 
+<section type='monthlymeet'> 407* Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 7. (19.) November 1873. 
 Zuschriften hatten geschickt: das k. statistisch-topographische Bureau in Stuttgart, bas großherzog­
@@ -3020,7 +3028,8 @@ oder sechsten Theil der estnischen Verba. Ich werde
 diesen Gegenstand, der. wie mir scheint, nicht un-
 wichtig ist. Gelegenheit haben in den Verhandlungen 
 unserer Gesellschaft ausführlicher darzulegen. 
-40 8. Sitzung 
+</section> 
+<section type='monthlymeet'> 40 8. Sitzung 
 der gelehrten estnischen Gesellschaft 
 am 5. (17.) December 1874. 
 Zuschriften hatten geschickt: das Directorinm 
@@ -3533,7 +3542,8 @@ des Locals 9 „ 40 „
 Summa 367 Rbl. 45 Kop. 
 Demnach bleibt ein Saldo von 63 » 49 „ 
 Summa 340 Rbl. 94 Kop. 
-Verze ichnis  
+</section> 
+<section type='list'> Verze ichnis  
 der Mitglieder der gelehrten estnischen Gesellschaft 
 am Schlüsse des Jahres 1873. 
 Ehrenmitglieder. 
@@ -3751,7 +3761,8 @@ ein in Stockholm.
 35) Dr. Th. Nöldeke, Professor der orientalischen 
 Sprachen in Straßburg t. E. 
 36) Dr. O. Schade. Professor in Königsberg i.Pr. 
-Verzeichnis  
+</section> 
+<section type='list'> Verzeichnis  
 der gelehrten Vereine, Redactionen u. f. m., welche 
 mit der gelehrten estnischen Gesellschaft einen Schristen-
 Anstansch nnterhalten. 
@@ -3940,7 +3951,8 @@ und Alterthümer.
 81) Würzburg. Der Historische Verein in Unter-
 Franken und Aschaffenburg. 
 82) Zürich. Die Antiquarische Gesellschaft. 
-Verzeichnis  
+</section> 
+<section type='list'> Verzeichnis  
 der von der gelehrten estn. Gesellschaft herausgegebenen 
 Schriften. 
 (Diese Schriften sind durch Th. Hoppe, E. I. Karow 
@@ -4044,3 +4056,4 @@ sind, werden ersucht baldigst dieselben zu berichtigen, da ferner-
 hin die Zustellung der von der Gesellschaft herausgegebenen 
 Schriften nur nach geschehener Liquidation dieser Beiträge 
 erfolgen wird. 
+</section> 

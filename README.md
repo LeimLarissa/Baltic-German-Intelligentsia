@@ -25,9 +25,13 @@ Task 1: Clean errors generated through OCR to improve data quality.  Status = **
 - [x] I want to remove the additional spaces and create better source materials.   
 - [x] I want to create an overview for the errors detected and removed for each document. 
 
-Task 2: Extract names from membership-lists. Status = **in preparation**  
+[G1T2ExtractMembership.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/47b5d98d764541ccf86ac3347f9a5565b8277492/G1T2ExtractMembership.ipynb)  
+Task 2: Extract names from membership-lists. Status = **in progress**  
 - [ ] I need to identify the part within the text that includes the membership list. I will tag all sections of the text to make future work easier. 
-- [ ] I need to make sure that information is not lost by a line break. 
+  - [X] GEG
+  - [ ] GGuA
+  - [ ] NVR
+- [ ] I need to make sure that information is not lost by a line break. Therefore I want all information about one person in one line. 
 - [ ] I want to extract the following metadata if available: Year, Society, Fullname, Profession, Location, Membership Status. 
 - [ ] I want all extracted membership data from all societies in one .csv-file.   
 

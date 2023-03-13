@@ -10088,7 +10088,9 @@ An Lohn dem Diener 24 —
 In Allem. . . . 574 46 
 Saldo am 3. Januar 1886. . . 9 04 
 (öumma .183 50 
-Verzeichnis der Mitglieder 
+</section> 
+<section type='list'> Verzeichnis 
+der Mitglieder 
 am Schlüsse des Jahres 18 8 5. 
 Ehrenmitglieder. 
 Im I«lande. 

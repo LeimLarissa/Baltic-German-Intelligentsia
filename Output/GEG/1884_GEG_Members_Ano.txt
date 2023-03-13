@@ -1,0 +1,260 @@
+
+<section type='list'> Verzeichnis der Mitglieder am Schlusse des Jahres 1 8 84. 
+<members>
+<honorable_members> Ehrenmitglieder. 
+<homeland parent='HM'> Im Jnlande. 
+1) Dr. A. Ahlquist, Professor der finnischen Sprachen in Helsingfors. 
+2) Nikolai Freiherr v. Boguschewski in Pskow. 
+3)Woldemar Graf von dem Broel-Plater aus Dombrowitza in Wolhynien. . 
+4) TheodorBaron Bühler, Geheimrath, Director des Haupt-Staatsarchivs des Ministe-rinms der auswärtigen Angelegenheiten in Moskau. 
+5) Carl Cröger, em. Lehrer der Schmidtschen Anstalt in Fellin. 
+6) Dr. C. Grewingk, Professor der Mineralogie in Dorpat. 
+7) A. Kapust in, Geheimrath, Curator des Dörptschen Lehrbezirks. -
+8) Dr. P. I. Karell, Leibarzt und Geheimrath in St. Petersburg. 
+9) Dr. Alexander Graf Keyserling, Hof-melfter auf Raiküll in Estland. 
+10) E. Kunik, Akademiker in St. Petersburg. 
+11) Georg Alexander, Herzog zu Mecklen-burg-Strelitz in St. Petersburg. 
+12) A. A. Ssaburow, Staatssecretär und Se-nator in St. Petersburg. 
+13) Alex. Baron Stackelberg, Senator. 
+14) W. v. Stryk, Landrath in Dorpat. 
+15) Iwan Graf Tolstoi in St. Petersburg. 
+16) F. S. Wiedemann, Geheimrath, Akademi-ker in St. Petersburg. 
+</homeland>
+<abroad parent='HM'> Im Auslande. 
+17) Prinz Louis Lucian Bon aparte, K. H., in London. 
+18) Dr. F. G. von Bunge, Wirkl. Staatsrath in Wiesbaden. 
+19) Dr. Paul Hunsalvy, Akademiker in Bu-dapest. 
+20) Dr. 81. F. Pott, Professor der allgemeinen Wissenschast in Halle. 
+21) Dr, W. Schott, Professor der philosophi-schen Facultät in Berlin. 
+22) Dr. C. Schirren, Professor der Geschichte in Kiel. 
+23) Dr. E. A. Winkelmann, Professor der Geschichte in Heidelberg. 
+</abroad>
+</honorable_members>
+<ordinary_members> Ordentliche Mitglieder. 
+<in_hometown> I. In Dorpat. 
+1) Paul Birkenwald, Provisor, Assistent am pharmaceutischen Institut der Universität. 
+2) Robert v. BeHagel Ädlerskron, Ac-cise-Beamter. 
+3) Dr. N. Bonwetsch, Prof. der hist. Theologie. 
+4) Dr. Alexander Brückner, Professor der Geschichte Rußlands. 
+5) Karl Bartelsen, Kunstgärtner. 
+6) Dr. Max Braun, Professor der Zoologie. 
+7) G. Blumberg, Gymnasiallehrer. 
+8) Dr. B. Brunner, Professor der Technologie und Landwirthschaft. 
+9) Dr. Th. Clausen, Prof. em. der Astronomie. 
+10) Dr. 'I. Baudouin de Courtenay, Pro-fessor der slavischen Sprachen. 
+11) A. v. Dehn. 
+12) Conrad v. Dehn, Stud- hist. 
+13) Erwin v. Dehn, Stud. theol. 
+14) Dr. O. Duhmberg, Staatsrath. 
+15) O. Duhmberg, Stud. hist. 
+16) Dr. G. Dragendorff, Prof. der Pharmacie. 
+17) Dr. I. Engelmann, Prof. des russ. Rechts, > 
+18) W. Eisenschmidt, Pastor der St. Petri-Gemeinde. 
+19) A. Baron F'o elckers ah m, Stud. jur. 
+20) Adolf Grenz st ein, Seminarlehrer. 
+21) A. v. Gülden st ubbe, Landrichter. 
+22) R. Guleke, Universitäts-Architekt. 
+23) P. Hagemann, Geschäftsführer der Schna-kenburg'schen Druckerei. 
+24) Arnold Hasselblatt, Cand. hist. 
+25) Dr. R. Hausmann, Professor der Ge-schichte. 
+26) Fr. Hollmann, Seminar-Director. 
+27) W. Harmsen, med. 
+28) R. Hasselblatt, Stud. hist. 
+29) Dr. A. K. Hermann, Redacteur. 
+30) Dr. W. Hörschelmann, Professor in Dorpat. 
+31) I. W. Iannsen, ehem. Redacteur des „Eesti Postimees" 
+32) Jacob Jürgensohn, Stud. hist. 
+33) Dr. B. Körb er, Prof. der Staatsarzneikunde. 
+34) I. Klinge, Mag., Gehilfe des Directors des Botanischen Gartens. 
+35) E. v. Köhler, Cand. 
+36) Carl Krüger, Buchhändler. 
+37) Benj. Kordt. 
+38) H. Laakmann, Buchdrucker. 
+39) H. Löffler, Cand. der vergl. Sprachforschung. 
+40) I. G. Ludwigs, Cand., Coll.-Assessor. 
+41) A. Lundmann, Gymnasiallehrer. 
+42) Dr. E. M a t t i e s e n, dim. Rathsherr, Redacteur. 
+43) Georg Mekler) Cand. phil. 
+44) I. Baron Maydell-Krüdnershos, dim. Kreis-lichter. 
+45) G. Mich eis ort, Cand. der vergl. Sprach­wissenschaft. 
+46) Mag. Carl Mandelin, Privatdocent. 
+47) Dr. Leonhard Masing, stellt). Docent der Russ. Sprache. 
+48) Karl Masing, Privatlehrer. 
+49) Dr. Leo Meyer, Professor der Deutschen und vergleichenden Sprachkunde. 
+50) Dr. Ferdinand Müh lau, Prof. der Theologie. 
+51) Dr. Alex. v. Dettingen, Professor der dogmatischen Theologie. 
+52) G. Pnnga, Stud. theol. 
+53) Fr. Redlich, Stud. theol. 
+54) I. Ripke, Director der Realschule. 
+p5) Georg Rath les, Oberlehrer. 
+56) Dr. Wold. v. Rohland, Professor. 
+57) Karl- Seeler, Stud. jur. 
+58) C. Sabler, Stud.dervergl. Sprachforschung.
+59) Dr. Wolsg. Schlüter, Oberlehrer und Bi-bliothekar. 
+60) E. v. Samson, Stud. jur. 
+61) Alfred Sommer? Dr. med. 
+62) Fräulein Marie Sturm, 
+63) Oskar v. Samson, Landgerichts-Assessor. 
+64) Dr. Leopold Schroeder, Docent. 
+65) R. Stackelberg, Stud. der vergl. Sprach-Wissenschaft. 
+66) Dr. Ludwig Stieda, Professor der Anatomie. 
+67) Dr. Ö. Schmidt, Professor der Jurisprudenz. 
+68) R. Still mark, Obersecretär des Raths. 
+69) Dr. AI. Schmidt, Professor der Physiologie. 
+70) M. Tobien, Cand. jur. 
+71) W. T oepfs er, Bürgermeister, Stellvertreter des Stadthauptes. 
+72) H. Treffner, Cand. theol., Director einer Knabenschule. 
+73) Dr. M. Weste, Lector der estnischen Sprache. 
+74) Dr. P. Wiskowatow, Professor der rus-fischen Sprache. 
+75) A. Wil lig ero de, Consistorialrath, Pastor der St. Marien-Gemeinde. 
+76) Dr. O. Waltz, Professor der Geschichte. 
+</in_hometown>
+<outside_hometown> II. Außerhalb Dorpat. 
+77) N. Andersohn, Oberlebrer am Gymnasium in Minsk. 
+78) Fr. Amelung, in Reval. 
+79) Erwin Bauer, Oberlehrer der Russ. Sprache in Reval. 
+80) Karl Beckmann, Apotheker in Ustsug-Welikij. 
+81) Christoph Berens, Notaire des Rathes in Riga. 
+82) H. Bernewitz, Cand. bist., Lehrer in Gol­dingen. 
+83) Dr. Benrath in Lisette. 
+84) Theodor Beise, Cand. jur. in Riga. 
+85) Joh. Beise, Cand. jur. in St. Petersburg. 
+86) Mag. C. Blumb erg, Professor am Veter.-Institut in Kasan. 
+87) Dr. Roderich Bidd er, Pastor in Lais. 
+88) Dr. A. Christiani, General - Superinten, dent in Riga. 
+89) O. Dieckhofs. 
+90) Mag. Eumann in St. Petersburg. 
+91) Dr. F. Engho ff in St. Petersburg. 
+92) Frau Leocadie Freytag-Loringhofen, geb. Baronesse von Campenhausen auf Adja-münde. 
+93) A. v. Gernet in Friedrichshof bei Reval. 
+94) Dr. I. Girg ens ohn, Oberlehrer am Stadt-Gymnasium zu Riga. 
+95) A. Gontscharow in Smolensk. 
+96) H. Hansen, Procurasührer der russischen Bank für auswärtigen Handel in St. Pe­tersburg. 
+97) P. v. Häckel in Beytenhof. 
+98) Ferdinand H o l st, Verwalter in Oberpahlen. 
+99) Dr. med. Hirs ch in St. Petersburg, Geheimrath. 
+100) I. Hurt, Prediger in St. Petersburg. 
+101) Harry Jannsen in Reval. 
+102) W. Iako -vlew in Odessa. 
+103) Mich. Jürmann, Prediger in Nüggen. 
+104) Joh. Kerg, Prediger in Kergel (Oesel). 
+105) Georg Knüpsser, Prediger in Ampel (Estland). 
+106) P. Knüpft er, Oberlehrer a. b. Domschule zu Reval. 
+107) Ed. Kossak, Oberlehrer in Pernau. 
+108) Johann Kressmann, Apotheker in Jamburg. 
+109) I. Köhler, Professor an 1 der Akademie der Künste in St. Petersburg. 
+110) E. Kriegsmann in Rantzen. 
+111) H. Kuchzynski, Cand. jur. in Riga. 
+112) A. Kurrikoff, Prediger in Turgel (Estland). 
+113) Fr. v. Keußler, Oberlehrer in Fellin. 
+114) Alexander Ljubaw s ki, Hofrath in Wjäsma (Gouv. Ssmolensk). 
+115) Victor Baron Laudon in Keysen. 
+116) Lipp, Pastor in Karmel (Oesel). 
+117) M. Stngen, Oberlehrer an der Annenschule in St. Petersburg. 
+118) Andreas Lu ik, Elementarlehrer in Weißenstein. 
+119) C. Laaland, Pastor in St. Petersburg. 
+120) G. v. Liphart dim. Landrath, in Rathshof 
+121) Dr. med. H. Meyer in Popen (Kurland). 
+122) Mag. A. Martinoff, Kaplan der Kirche d. h. Johannes in Jerusalem, in 6t. Petersburg. 
+123) C. Malm, Pastor zu Rappel (Estland). 
+124) K. Mühlenthal, Arzt in Neuhausen. 
+125) G. Masing, Pastor in Neuhausen. 
+126) I. Masing, Pastor in Rappin. 
+127) Constantin Mettig, Cand. bist., Oberlehrer am Stadt-Gymnasium zu Riga. 
+128) Ad. Petersen in Ramkau bei Wenden. 
+129) Kasimir Corwin-Piotrowski. 
+130) C. Phdder, Buchhalter in Moskau. 
+131) Ottomar Radecki. 
+132) G. Rosenpflanzer, Oberverw. in Rathshof. 
+133) W. Rupniewsky, Cand. ehem. 
+134) Dr. med. Corn. Rauch, Staatsrath in Pskow. 
+135) Dr. O. Schmiedeberg, Professor der Phar-makologie in Straßburg i. E. 
+136) W. v. Samson, Sekretär in Reval. 
+137) Dr. med. Sachsen!) ahl in Jshewski - Sa-wod (Gouv. Wjatka). 
+138) I. Schiskan. 
+139) Carl Stein, Prediger in Anzen. 
+140) H. Schnaken bürg, dim. Stadtältermann in Riga. 
+141) Ad. Schreiber, Kaufmann in Bremen. 
+142) Burchard Sperr! ingk, Pastor zu Odenpäh. 
+143) C. Toepffer, Pastor zu Talkhof. 
+144) Harald Baron Toll, Cand. jur. in Reval. 
+145) Nicolai v. Wahl auf Pajus. 
+146) A. Wichmann. 
+147) Friedr. Baron Wrangell zu Kerrafer. 
+</outside_hometown>
+</ordinary_members>
+<corresponding_members> Correspondirende Mitglieder. 
+<homeland parent='CM'> Im Inlands. 
+1) Joh. Reuth. Aspelin in Helsingfors. 
+2) Cand. Friedrich Bienemann, Oberlehrer an der Domschule zu Reval. 
+3) Max Buch, Dr. med. in Helsingfors. 
+4) Dr. O. Doitner, Professor der vergl. Sprach­wissenschaft in Helsingfors. 
+5) Dr. W. W. Dyb owski in Minsk. 
+6) Dr. I. Gorloff, Professor der politischen Oeconomie in St. Petersburg. 
+7) Dr. W. von Gutzeit in Riga. 
+8) Dr. Reinhold Hausen in Helsingsfors. 
+9) Mag. H. Hildebrandt in Riga. 
+10) H. Holzmayer, Oberlehrer in Arensburg. 
+11) W. Jlowaisky, in Moskau. 
+12) Th. Jversenn in St. Petersburg. 
+13) I. Jung, Lehrer.in Abia. 
+14) Dr. med. Leo Jwanowski, in St. Pe-tersburg. 
+15) Mag. Edwin Johannson in St. Petersburg. 
+16) Dr. B. Köhlte, wirkl. Staatsrath in St. Pe-tersburg. 
+17) M. Körb er, dim. Pastor in Arensburg. 
+18) Laosson, Lehrer in Tarwast. 
+19) Johann Mielberg, Director des meteorok. Observatoriums in Tiflis. 
+20) Dr. Mierzinsky, Professor der klass. Phi-lologie in Warschau. 
+21) I. Nocks, Schuldirector-Gehilfe in Reval. 
+22) Dr. Radloff, Akademiker in St. Petersburg. 
+23) I. Samokwassow, Professor in Warschau. 
+24) Mag. N. v. Seidlitz in Tiflis. 
+25) Mag. Fr. Schmidt, Akademiker in St. Pe-tersburg. 
+26) Dr. Th. Struve. Wirkl. Staatsrath in Atitau. 
+27) Woldemar Baron Tiesen Hausen in St. Petersburg. 
+28) Jul. v. Stein in Pskow. 
+29) Emil V i e lr  o s e in Wöbs. 
+30) Mag. W assiljew, Staatsrath in St. Peters-bürg. 
+31) H. Wühner in Kerimois. 
+32) A. I. Wagin, Gymnasiallehrer in Jrkutsk. 
+</homeland>
+<abroad parent='CM'> Im Auslande. ' 
+33) Dr. I. Altmann in Berlin. 
+34) Dr. A. Benenberg er, Professor in Kö­nigsberg i. Pr. 
+35) Dr. K. Bücher, Professor in Basel. 
+36) Dr. Josef Bu d enz, Bibliothekar in Budapest. 
+37) Dr. H. Bruns, Director der Sternwarte in Leipzig. 
+38) Dr. Emil Bretschneider, Gesandtschafts^ arzt in Peking. 
+39) Dr. Sophus Bugge, Prof. an der Uni-versität in Christiania. 
+40) L. Haan, evang. Pastor in Bekes Czaba in Ungarn. 
+41) Dr. Arthur Hazel ius, Director des nordi-sehen Museums in Stockholm. 
+42) Carl G. Hernmarck, Reichsgerichtsrath in Stockholm (Nybrogatan). 
+43) Dr. C. Höhlbaum, Archivar in Köln. 
+44) Cand. E. Kluge in Altona. 
+45) Dr. K. Koppmann Archivar in Rostock. 
+46) Dr. August Les kin, Professor in Leipzig. 
+47) Dr. W. Lexis, Professor in Breslau. 
+48) Dr. E. Loh meyer, Professor in Königsberg. 
+49) Dr. Edgar Löning, Professor in Rostock. 
+50) Dr. Ferd, Löwe in Stuttgart. 
+51) Dr. W. Maur enbrech er, Professor in Leipzig. 
+52) Frl. Julie M e st o r s, Conservator des Mu-seums in Kiel. 
+53) Dr. W. Miller Professor in Moskau. 
+54) Dr. A. Montelius, Conservator am Reichs-Museum in Stockholm. 
+55) Dr. Friedrich Müller, Professor der Uni-versität zu Wien. 
+56) F. A. Nicolai, Oberlehrer in Meerane (Sachsen). 
+57) Dr. K. Nöldeke Professor der orientalischen Sprachen in Straßburg i. E. ' 
+58) Dr. Fr. Rhys, Professor der keltischen Sprache in Oxford. 
+59) Dr. Gustav Retz ins, Professor an dem Ka-rolinischen Institut in Stockholm. 
+60) Dr. Franz Rühl, Prof. in Königsberg i. Pr. 
+61) Dr. O. Schade, Prof. in Königsberg i. Pr. 
+62) Dr. Wilhelm Stie da, Professor in Rostock. 
+63) Dr. Herrmann Suchter, Prof. in Münster. 
+64) Dr. Bernhard Suphan in Berlin. 
+65) Dr. G. Sauerwein in Banteln bei Han-nover. 
+66) Dr. W. Thomson, Professor in Kopen-Hägen. 
+67) Dr. Rudolf Virchow, Professor in Berlin. 
+</abroad>
+</corresponding_members>
+</members>
+</section> 

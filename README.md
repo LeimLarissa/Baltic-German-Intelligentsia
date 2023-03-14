@@ -11,7 +11,7 @@ These source materials do put the focus on more of the German speaking popultati
 
 The tasks I set for myself are: 
 - Task 1: Clean errors generated through OCR to improve data quality. [Detailed Explanation.](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/4acb483cfa83a40357f36008d1572f368039a2c6/T1_detailled_explanation.md)
-- Task 2: Extract names from membership-lists.
+- Task 2: Extract information from membership-lists.
 - Task 3: Clean and homogenise data from extracted lists. 
 - Task 4: Disambiguate persons using Authority Files like Wikidata and GND.  
 - Task 5: Analyse overlap in membership and social-economic composition of the learned societies. 
@@ -31,9 +31,27 @@ Task 2: Extract names from membership-lists. Status = **in progress**
   - [X] GEG
   - [ ] GGuA
   - [ ] NVR
-- [ ] I need to make sure that information is not lost by a line break. Therefore I want all information about one person in one line. 
-- [ ] I want to extract the following metadata if available: Year, Society, Fullname, Profession, Location, Membership Status. 
-- [ ] I want all extracted membership data from all societies in one .csv-file.   
+- [ ] I need to make sure that information is not lost by a line break. Therefore, I want all information about one person in one line as well as membership status information taged. 
+  - [x] GEG
+  - [ ] GGuA
+  - [ ] NVR
+- [ ] I want to extract the following metadata (if available): Year, Society, Membership Status (1st, 2nd, 3rd Level + No.), Text (Fullname, Profession, Location)  
+  - [ ] GEG
+  - [ ] GGuA
+  - [ ] NVR
+   
+ Task 3: Clean and homogenise data from extracted lists. Status = **in preparation**  
+- [ ] I will use OpenRefine to clean the membership lists. I want to 
+    - separate the "Text" field into Title, First Name, Last Name, Profession, Location and Entry Year (if available) 
+    - remove additional spaces as well as OCR transcription errors outside of the Text and Name fields (probably manually) 
+    - homogenise especially Location and Profession information (e.g. clean writing differences or versions) 
+- [ ] I want to generalise some aspects for statistical analysis and visualisations: 
+    - create profession fields that group certain professions together (possibly using a given ontology)
+    - add location IDs that would allow mapping by longitude and latitude (most difficult for smaller Baltic towns and "Gutshöfe" that were renamed or no longer exist) 
+- [ ] I want to keep a list of membership instances as well as a list of individual people (see [first DB draft](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/a00ac99406853b839ea16179dab9a221267456ca/Balt_Ger_Intelligentsia-dbdesigner.pdf) ) 
+    - [ ] I want to compare the text line of one membership list with those of all the other lists to identify the individual persons that were members.
+    - [ ] I will create a separate list with these identified people that has fixed information about the person (e.g. most common name variant). These link to the membership instances through the ID of the person within the instance. This list of people is not connected to any specific society, but overarching all of them.
+    - [ ] I want to enrich the inmutuable information about the individual persons (e.g. birth date, death date) through exisiting authority files (GND, VIAF, Wikidata) as well as disambiguate them through those external IDs. 
 
 ### Sources
 Abbr.   | Learned Society   | Title of Publication | Location| Timespan     | Database | Rights 

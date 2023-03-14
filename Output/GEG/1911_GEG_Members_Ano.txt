@@ -1,0 +1,266 @@
+
+<section type='list'> Verzeichnis der Mitglieder am Sehlusse des Jahres 1911. 
+<members>
+<honorable_members> Ehrenmitglieder. 
+<homeland parent='HM'> Im Inlande. 
+1) Dr. J. R. Aspelin, Professor und Staatsarchäologe in Hel-singfors, seit. 1887. 
+2) Hermann Baron Bruiningk, Ritterschaftsarchivar in Riga, 1887. 
+3) Dr. Johannes Engelmann, Professor em. in Dorpat, 1861, resp. 1910. 
+4) Dr. Richard Hausmann, Professor em. in Dorpat, 1871, resp. 1896. 
+5) Dr. Wolfgang Schlüter, Privatdocent in Dorpat, 1877, resp. 1911, Präsident der Gelehrten Estnischen Gesellschaft. 
+6) Andrei Alexandrowitsch Ssaburow, Senateur, Mitglied des Reichsrats in St.-Petersburg, 1876. 
+7) Iwan Iwanowitsch Graf Tolstoi, Yicepräsident der Akademie der Künste in St.-Petersburg, 1882. 
+8) Gräfin Praskowja Ssergejewna Uwarowa, Präsident der Kaiserl. Archäologischen Gesellschaft in Moskau, 1887. 
+</homeland>
+<abroad parent='HM'> Im Auslande. 
+9) Dr. Adalbert Bezzenberger, Prof. in Königsberg, 1894. 
+10) Dr. Georg Loeschcke, Prof. in Bonn, 1889. 
+11) Dr. Leopold Schröder, Prof. in Wien, 1894. 
+12) Dr. Ludwig S tie da, Prof. in Königsberg, 1864, resp. 1885. 
+13) Dr. Wilhelm Thomsen, Prof. in Kopenhagen. 1887. 134 
+</abroad>
+</honorable_members>
+<corresponding_members> Korrespondierende Mitglieder. 
+<homeland parent='CM'> Im Inlande. 
+1) Dr. Hjalmar Appelgren, Konservator des Archäologischen Museums in Helsingfors, seit 1901. 
+2) Dr. Eduard Berendts, Prof. der Kais. Rechtsschule in St.-Petersburg, 1899. 
+3) Gottlieb von Blanckenhagen auf Weissenstein bei Wen­den, 1889. 
+4) Frau Elisabeth v. Blanckenhagen auf Allasch, 1889. 
+5) Dr. Max Buch in Helsingfors. 1882. 
+6) Nikolaus Busch, Stadtbibliothekar in Riga, 1889 resp. 1908, 
+7) Titus Christiani, Stadtarchivar in Dorpat, 1886 resp. 1903. 
+8) Heinrich Diederichs, Oberlehrer in Mitau, 1901. 
+9) Dr. Wladislaw Dybowski in Minsk, 1879. 
+10) Eugen Filaretow, Oberlehrer am Landesgymnasium in Mitau, 1901 resp. 1910. 
+11) Konrad v. Gersdorff auf Hochrosen, 1889. 
+12) Dr. Reinhold Hausen in Helsingfors, 1883. 
+13) Dr. Axel Heikel in Helsingfors, 1887. 
+14) Bernhard Hollander, Direktor der Albertschule in Riga, 1908. 
+15) Dr. W. Ilo w ai ski, Professor in Moskau, 1881. 
+16) Mag. Edwin Johannson, Direktor der Mineralwasseranstalt in Riga, 1883. 
+17) Dr. Oskar Li even, Direktor der Zementfabrik in Noworossiisk. 1894. 
+18) Konstantin Mettig, Inspektor der Realschule in Riga. 1887. 
+19) Dr. Wilhelm Neu mann, Architekt in Riga, 3890. 
+20) Dr. Wilhelm Radi off, Akademiker in St.-Petersburg, 1860. 
+21) Dr. Alexander Rosenberg, Prof. em. in Dorpat, 1896. 
+22) Dr. Alfred Schneider in Trikaten, 1893. 
+23) Dr. Emil Setälä, Prof. in Helsingfors, 1891. 
+24) Oskar v. Seidlitz- Meyershof in Dorpat, 1887. 
+25) E. v. Sievers auf Autzeem, 1889. 
+26) Leo v. Si ever s auf Alt-Kusthof, 1902. 
+27) Arthur Spreckelsen, Oberlehrer in Reval, 1908. 135 
+</homeland>
+<abroad parent='CM'> lm Auslande. 
+28) Lord John Abercromby in Edinburg, 1900. 
+29) Prof. MaxBoehm, Oberlehrer in Gebweiler 1889, resp. 1911. 
+30) Dr. Heinrich Bruns, Professor u. Dir. der Sternwarte in Leipzig, 1876. 
+31) Senator Domenico Comparetti in Rom, 1902. 
+32) Dr. Joseph Girgensohn in Frankfurt a. M., 1887. 
+33) Heinrich К e m к e, Custos am Prussia-Museum und Vorstands­mitglied der Altertumsgesellschaft Prussia in Königsberg i. P. 1900. 
+34) Konstantin v. Kügelgen, Pastor in Chemnitz, 1886 resp. 1896. 
+35) Dr. August Leskien, Prof. in Leipzig, 1874. 
+36) Dr. Wilhelm Lexis, Prof. in Göttingen, 1876. 
+37) Dr. Edgar Löning, Prof. in Halle, 1883. 
+38) Dr. Oskar M о n t e 1 i u s, Prof. und Reichsantiquarius in Stock­holm, 1876. 
+39) Dr. Theodor NöIdeeke, Prof. in Strassburg, 1870. 
+40) Dr. Paolo Emilio Pavolini, Prof. am R. 1st. di studi sup. in Florenz, 1902. 
+41) Dr. Gustav Retzius, Prof. emer. des Kungl. Karolinska med.-kirurg. Instituts in Stockholm, 1876. 
+42) Dr. John Rhys, Prof. in Oxford, 1875. 
+43) Dr. Franz Riihl, Prof. in Königsberg, 1876. 
+44) Dr. Theodor Schiemann, Prof. in Berlin, 1887. 
+45) Dr. Wilhelm S tie da, Prof. in Leipzig, 1882. 
+46) Dr. Hermann Suchier, Prof. in Halle. 1876. 
+47) Dr. Emilio Teza, Prof. in Padua, 1902. 
+</abroad>
+</corresponding_members>
+<ordinary_members> Ordentliche Mitglieder. 
+<in_hometown> In Dorpat. 
+1) Paul Arndt, Bankbeamter, seit 1904. 
+2) Franz Adolphi, Oberlehrer, 1911. 
+3) August Assmuss, stud. math. 1911. 
+4) *Emil Bach, Oberlehrer, 1904.  
+5) Frl. Hedwig von Behaghel 1911. 
+6) Alfred v. Bidder, stud, theol. 1910. 
+7) Helmuth v. Blanckenhagen, stud. med. 1911. 
+8) Harry v. Broecker, Rechtsanwalt, 1899. 
+9) Dr. Axel Buck. Assistent der psychiatrischen Klinik, 1909. 
+10) Dr. Alexander v. Bulmerincq, Professor, 1900. 
+11) Edgar v. Cossart, Secretär, 1911. 
+12) Rudolf von Cossart, Distriktsinspektor, 1911. 
+13) Friedrich von Dahl, stud. med. 1911. 
+14) Dr. Karl Dehio, Professor, 1886. 
+15) Eduard Dross, Kirchen Vorsteher, 1911. 
+16) Arved Eichhorn, Stadtarchitekt, 1911. 
+17) * Wilhelm Eisenschmidt, Pastor, 1870. 
+18) Axel v. Ekesparre, Sekretär der Kreditsocietät, 1910. 
+19) Robert Baron Engelhardt, 1911. 
+20) Rudolf Baron Engelhardt, Architekt, 1911. 
+21) Johannes Eschscholtz, Jouvelier, 1911 
+22) Heinrich Fenner, stud, jur., 1911. 
+23) Johannes Fischer, Ältermann der Kleinen Gilde, 1911. 
+24) Magnus Fleischer, stud, jur, 1908. 
+25) Dr. Ferdinand Francken, Arzt, 1911. 
+26) Ernst Frey, 1898, Sekretär und Konservator der Ges. 
+27) Robert Funcke, stud, theol., 1904. 
+28) Mag. Alfred Grass, Schuldirektor, 1887. 
+29) Mag. Konrad Grass, Professor, 1911. 
+30) Dr. Emil Graubner, Arzt, 1905. 
+31) Axel von Grewingk, Oberbevollmächtigter, 1911. 
+32) Rudolf Griwing, Musikdirektor, 1911. 
+33) Alexander Grossmann, Stadtrat, 1911. 
+34) *Max. v. Güldenstubbe, dim. Landrichter, 1881. 
+35) Dr. Hans Hahn, Arzt, 1911. 
+36) Eduard Haller, Oberlehrer, 1894, Schatzmeister der Ges. 
+37) Meinhard Hansen, Bibliothekarsgehilfe, 1902, 
+38) * Arnold Hasselblatt, Redakteur 1876. 
+39) Werner Hildebrandt, stud. med. 1911. 
+40) Burchard Hirschheydt, stud. jur. 1911.  
+41) Dr. Otto Hohlbeck, Arzt 1908. 
+42) Karl Jansen, Kaufmann 1904. 
+43) Johann Jögewer, Lektor der estnischen Sprache 1899. 
+44) *Dr. Oskar Kallas, Oberlehrer, 1889. 
+45) Michael Kampmann, Lehrer, 1908. 
+46) Dr. Eduard Kengsep, Arzt. 1891. 
+47) Siegfried v. Kieseritzky, Droguist, 1896. 
+48) *Pontus v. Knorring 1891. 
+49) Dr. Heinrich Koppel, Arzt. 1894. 
+50) Dr. Alfons Kramer, Arzt, 1911. 
+51) Jeannot Krüger, Buchhändler, 1882. 
+52) Dr. Theodor Lackschewitz, Arzt, 1911. 
+53) Dr. August Lezius, Stadtarzt, 1889. 
+54) Hermann Lezius, Pastor, 1904. 
+55) Siegfried Luther, stud, hist., 1908. 
+56) Hans Margens, Handelsschuldirektor 1900. 
+57) Karl Masing, Bibliothekbeamter, 1882. 
+58) Dr. Erich Mattiesen, Redakteur, 1906. 
+59) Karl Menning, Theaterdirektor, 1895. 
+60) Gustav Michelson, stud, med., 1908. 
+61) Reinhold v. Moeller, 1896. 
+62) Alfred v. Zur Mühlen, 1911. 
+63) * Eduard v. Zur Mühlen auf Ledis, 1905. 
+64) James v. Zur Mühlen auf Alt - Bornhusen, 1911. 
+65) Karl Müller, stud, phil., 1906. 
+66) Julius Neumann, Direktor des Gaswerks, 1909. 
+67) Harald Oelschlägel, stud, jur., 1910. 
+68) Louis Olesk, Rechtsanwalt, 1901. 
+69) Dr. Richard Otto, Arzt, 1896. 
+70) Dr. Benno Ottow, Arzt, 1911. 
+71) Ferdinand Ottow, stud, jur., 1911. 
+72) Reinhard Ottow, 1904. 
+73) Woldemar Pussul, stud, jur., 1903. 
+74) Reinhold Raphoph, Vice-Älterm. d. Gr. Gilde, 1911. 
+75) Georg Rathlef, Oberlehrer, 1882. 
+76) Dr. August Rauber, Professor em., 1886. 
+77) Dr. Wolfgang v. Reyher, Arzt, 1911, 
+78) Dr. Johannes Riemschneider, Arzt, 1911. » 138 
+79) *Dr. Georg v. Sabler, Universitätsarchivar, 1909. 
+80) Friedrich Schilling, stoid. phil., 1911. 
+81) Gustav Schilling, Schuldirektor, 1911. 
+82) Dr. Gustav Schönberg, Oberlehrer em., 1907. 
+83) Frl. Justine v. Seidlitz, 1888. 
+84) John Siebert, Oberlehrer, 1908. 
+85) Karl Sööt, Buchdruckereibesitzer, 1900. 
+86) Karl Sponholz, Beamter, 1911. 
+87) Michael Baron Stackelberg, Rendant der Kreditsocietät, 1888. 
+88) Werner Stillmarck, stud, hist., 1907. 
+89) Alexander v. Stryk, Beamter, 1911. 
+90) Dr. Feodor Taranowsky, Professor, 1909. 
+91) Eugen Tergan, Beamter, 1911. 
+92) Gustav Thiemann, Kürschnermeister, 1911. 
+93) Paul Graf Tiesenhausen, stud, jur., 1911. 
+94) Frl. Martha v. Tobien, 1911. 
+95) *Jaan Tõnisson, Redakteur, 1890. 
+96) Oskar v. Transche-Roseneck, 1911. 
+97) Cornelius Treffner, Oberlehrer, 1894. 
+98) *Hugo Treffner, Schuldirektor, 1904. 
+99) Adalbert Volck, Rechtsanwalt, 1911. 
+100) Gustav Weltz, Heilgymnast, 1898. 
+101) Leo v. Wilcken, stud, jur., 1911. 
+102) Oskar Wilde, Bankbeamter, 1911. 
+103) Adalbert Willigerode, Pastor, 1907. 
+104) Rudolf Willmann, Coli.-Sekretär, 1900. 
+105) Alexander Winkler, stud, hist., 1907. 
+106) Viktor Wittrock, Oberpastor, 1902. 
+107) Frl. Alexandrine Wulffius, 1910, Bibliothekar der Ges. 
+108) Heinrich v. Zeddelmann, stud, med., 1906. 
+109) Rudolf v. Zeddelmann, Rechtsanwalt, 1911. 
+110) Dr. Werner Zoege v. Mannteuffel, Professor, 1896. 
+</in_hometown>
+<outside_hometown> Ausserhalb Dorpats. 
+111) * Konrad v. Anrep, Landrat, auf Schloss Ringen, 1886. 
+112) Dr. Christfried Assmuth, Arzt in Zintenhof, 1903. 
+113) * Heinrich Bauer, Dir. der städt. Kommerzsch. in Reval, 1901. 189 
+114) Gustav Beermann, Pastor in Zarskoe Selo, 1893. 
+115) Felix v. Berg auf Schloss Randen, 1911. 
+116) * Friedrich Graf Berg auf Schloss Sagnitz, 1886. 
+117) * Johannes Bergmann, Pastor in Paistel, 1894. 
+118) *Walther Bielenstein, Pastor in Mesothen, 1892. 
+119) *Mag. Paul Birkenwald, in St.-Petersburg, 1881. 
+120) * Mag. Arthur Brock, Schuldirektor in St.-Petersburg, 1894. 
+121) Johannes Carlblom, Oberlehrer in St.-Petersburg, 1895, 
+122) * Erwin v. Dehn, Pastor in Hallist, 1882. 
+123) Friedrich Ederberg, Pastor in Kambi, 1910. 
+124) Edgar Baron Engelhardt, Oberförster in Kerrafer, 1911. 
+125) Ernst Baron Engelhardt, Oberverwalter in Walguta, 1911. 
+126) * Alexander von Essen auf Maexhof, 1907. 
+127) Mag. Arnold Feuereisen, Stadtarchivar in Riga, 1896. 
+128) * Johannes Gahlnbaeck, Architekt in St.-Petersburg, 1906. 
+129) Axel v. Gernet, Dir.-Geh. im Heroldiedep. in St.-Ptsbg., 1884. 
+130) Leon Goertz, Inspektor des Landesgymn. in Birkenruh, 1885. 
+131) * Ludwig Greinert, Pastor in Ecks, 1896. 
+132) *Paul V. Häckel, Arrendator in Sadjerw, 1884. 
+133) * Richard v. Hehn, Rechtsanwalt in Riga, 1903. 
+134) Frau v. Helmersen auf Neu-Woidoma, 1887. 
+135) Mag. Rudolf Hollmann, Schuldirektor in Goldingen, 1887. 
+136) * Martin Johannson, Arrendator in Lugden, 1891. 
+137) * Michael Jiirmann, Propst in Tarwast, 1875. 
+138) * Johannes Kerg, Pastor zu Walk, 1875. 
+139) Hermann Kestner, Oberlehrer in Riga, 1907. 
+140) Adolf v. Keussler, Redakteur in Lodz, 1905. 
+141) Friedrich v. Keussler, Oberlehrer in St.-Petersburg, 1896. 
+142) Johannes Kopp, Pastor in Lais, 1899. 
+143) Gottfr. Koppe, Oberl. u. Insp. d. Katharinensch. in St.-Ptsbg., 1889. 
+144) * Heinrich v. Kuchczynsky, Rechtsanwalt in Riga, 1872. 
+145) Andreas Laas, Pastor in Torma, 1897. 
+146) Hugo Lehmann, Gutsverwalter in Techelfer, 1911. 
+147) *Dr. Konrad Lehmann, 1890. 
+148) *Dr. Friedrich Lezius, Professor in Königsberg, 1888. 
+149) Dr. Magnus v. Lingen, Oberlehrer in St.-Petersburg, 1879. 
+150) * Martin Lipp, Pastor in Ntiggen, 1876. 
+151) Eugen Mahr, Pastor in Neuhausen, 1904. 140 
+152) *Karl Malm, Pastor in Pühalep, 1902. 
+153) Karl Martenson, in Reval, 1910. 
+154) *Dr. Georg Mekler, Docent u. Oberl. in St.-Petersb., 1880. 
+155) Edgar Müller, Buchhändler in St.-Petersburg, 1904. 
+156) Gustav Oehrn, emer. Generalsuperintendent in Riga, 1892. 
+157) * Arved v. Oettingen, auf Ludenhof, Landrat, 1888. 
+158) * Gustav Punga, Pastor in Talkhof, 1884. 
+159) Dr. Alexander Rammul, Arzt in Moskau, 1901. 
+160) Harald v. Rathlef, in Mötliko, 1911. 
+161) *Dr. Cornelius Rauch, Medicinalinspektor in Pleskau, 1882. 
+162) * Wilhelm Reiman, Pastor in Klein-St.-Johannis, 1889. 
+163) * Johannes Rennit, Pastör in Oberpahlen, 1896. 
+164) *Johannes Ripke, Oberlehrer in St.-Petersburg, 1881. 
+165) *Dr. Woldemar v. Rohland, Professor in Freiburg i. В., 1881. 
+166) Alexander Rosenberg, Oberlehrer in Mohilew, 1906. 
+167) * Leonhard v. Roth auf Neu-Waimel, 1903. 
+168) *Dr. K. Salemann, Akademiker in St.-Petersburg, 1896. 
+169) * Georg Schmidt, cand. theol. in Oesel, 1905. 
+170) *Dr. Oswald Schmiedeberg, Professor in Strassburg, 1886. 
+171) * Georg Schnering, Oberlehrer in Reval, 1898. 
+172) *Dr. Alfred Sommer, Professor in Charkow, 1881. 
+173) Otto Baron Stackelberg auf Fehtenhof, 1911. 
+174) Friedrich v. Stillmarck, Rechtsanwalt in Reval, 1878. 
+175) Rob. v. Stillmarck, Sekr. d. Korroborationsbeh. in Wenden, 1867. 
+176) Heinrich Struck, Pastor em. in Fellin, 1896. 
+177) *Friedrich v. Stryk auf Morsel, 1887. 
+178) Dr. Friedrich v. Stryk in St.-Petersburg, 1911. 
+179) *Reinh. Tantzscher, Dir. d. Landesgymn. in Birkenruh, 1896. 
+180) August Thomson, Akzisebeamter in Taps, 1900. 
+181) * Bernhard Baron Toll auf Piddul, 1899. 
+182) Richard v. Wahl in Kariowa, 1911. 
+183) *August Westrén-Doll, Pastor in St. Bartholomäi, 1911. 
+</outside_hometown>
+</ordinary_members>
+</members>
+</section> 

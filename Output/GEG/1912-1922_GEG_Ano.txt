@@ -8420,8 +8420,12 @@ mitzuarbeiten sich zur Aufgabe gestellt hat.
 </section> 
 <section type='list'> Verzeichnis 
 der Mitglieder zum 10. Januar 1921. 
-Ehrenmitglieder: I m  I n l a n d e r  1 )  K u r a t o r  P r o f e s s o r  
-P. Põld, 1920. — Im Auslande: 2) Dr. Hermann v. В r u i 
+Ehrenmitglieder: 
+Im Inlander  
+1 )  K u r a t o r  P r o f e s s o r  
+P. Põld, 1920. — 
+Im Auslande: 
+2) Dr. Hermann v. В r u i 
 ningk in Riga, 1887; 3) Dr. Adalbert Bezzenberger ProL 
 in Königsberg, 1894; 4) Stadtarchivar Mag. Arnold Peuereisen 
 in Riga, 1920; 5) Friedrich v. Keussler in Greifswald, 1920; 
@@ -8429,12 +8433,16 @@ in Riga, 1920; 5) Friedrich v. Keussler in Greifswald, 1920;
 7) Prof. Dr. Emil Setälä in Helsingfors, 1920; 8) Wilhelm 
 Thomsen in Kopenhagen, 1887; 9) Gräfin Praskowja Sserge-
 jewna Uwarow in Moskau, 1887. 
-Korrespondierende Mitglieder :  I m  I n l a n d e :  1 )  P r o f .  
+Korrespondierende Mitglieder :  
+Im Inlande:  
+1 )  P r o f .  
 Dr. Eduard Berendts in Dorpat, 1899 ; 2) Prof. Dr. Alexander 
 Rosenberg in Dorpat, 1896; 3) Leo v. Si ver s Alt-Kusthof, 
 1902; 4) Alexander v. S i v e r s Rappin, 1920; 5) Oberlehrer 
 Arthur Spreckelsen in Reval, 1908; 6) Prof. A. M. Tall 
-gren zu Dorpat. 1920. — Im Auslande: 7) Lord John 
+gren zu Dorpat. 1920. — 
+Im Auslande: 
+7) Lord John 
 Abercromby in Edinburg, 1900; 8) Dr. Julius Ai Ii о 1920; 
 9) Dr. Hjalmar Appelgren in »Helsingfors, 1901; 10) Prof. 
 Max Boehm in Berlin, 1911; 11) Stadtbibliothekar Nik. Busch 
@@ -8450,7 +8458,9 @@ Chemnitz, 1896; 21) Prof. Paolo Pavolini in Florenz, 1902;
 22) Prof. Theodor Schiemann in Berlin, 1887; 23) Dr. med 
 Alfred Schneider (früher in Trikaten), 1893; 24) Prof. Wilh. 
 Stieda in Leipzig, 1882; 25) Prof. Emilio Teza in Padua, 1902. 
-Ordentliche Mitglieder1): In Dorpat: 1) *Aawik, Joh., 
+Ordentliche Mitglieder1): 
+In Dorpat: 
+1) *Aawik, Joh., 
 Privatdozent; 2) v. Akerman, Arthur; 3) Anderson, Walter, Pro­
 fessor; 4) *Bach, Einil, Oberlehrer; 5) Baumann, Pärtel, Dozent; 
 6) v. Berg, Herrn., Oberlehrer; 7) Bergman, Joh., Professor; 
@@ -8507,7 +8517,8 @@ Direktor; 91) Wiedemann, Frau Marta; 92) Wiget, Wilhelm,
 Professor ; 93) Willberg, Gustav, Lehrer ; 94) *Zeddelmann, Dr. 
 Heinrich, Arzt. 
 207 
-Ausserhalb Dorpats: 95) *v. Anrep, Konrad, Landrat; 
+Ausserhalb Dorpats: 
+95) *v. Anrep, Konrad, Landrat; 
 "$6) *Bauer, Heinrich, Schuldirektor in Reval ; 97) *Beermann, 
 Johannes, Prediger in Katharinen ; 98) *Graf Berg, Friedrich, 
 Gutsbesitzer in England ; 99) *Bielenstein, Walter, Prediger ; 
@@ -8533,7 +8544,8 @@ direktor in Riga ; 124) *Stillmark, Friedrich, Jurist in Reval ;
 Friedensrichter in Petschur; 127) *Schnering, Georg, Oberlehrer 
 in Reval, 128) *Tantzcher, Reinhold, Schuldirektor; 128) *B. Toll, 
 Bernhard, auf Piddul ; 130) *Volck, Adalbert, in Deutschland. 
-Inhalt. 
+</section> 
+<section> Inhalt. 
 Seite 
 Jahresversammlung am 18. (31.) Januar 1912 . 1 
 755. Sitzung am 24. Februar 1912 9 

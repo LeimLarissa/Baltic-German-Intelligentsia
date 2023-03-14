@@ -1,0 +1,265 @@
+
+<section type='list'> Verzeichniss der Mitglieder am Seh1ussedes Jahres1902.
+<members>
+<honorable_members> Ehrenmitglieder. 
+<homeland parent='HM'> Im Inlande. 
+1) Mag. Nik. An der so n, Professor in Kasan (1~92). 
+2) J. R. Asp e li n, Staats-Archäolog in Helsingfors (1887). 
+3) Dr. A. Bi eie n s t ein, Pastor in Doblen (1887). 
+4) Woldemar Graf vo D dem B 1'0 e I-P I a ter auf Dombro-witza in Wolhynien (1876). 
+5) Baron Bermann v. B r u fn i n g k in Riga (1887). 
+6) Dr. Richard Hausmann, Prof. emer. (1871, resp. 1896). 
+7) Dr. Jakob H u r t. Pastor in Petersburg (1887). 
+8) Dr. Georg Alexander, Herzog zu Mecklenburg- Strelitz,in St. Petershurg(1888).
+9) Dr. Friedrich Baron' M e y e n,d 0 r ff, Livländischer Land-marschall (1887). 
+10) Rudolph Raison, Pastor emer. in Lassen Kurland(1887). 
+11) J. S a bj e li n, Direktor des Moskauer Museums (1887). 
+12) Andrei Alexandrowitsch S s abri r 0 w, Staatssekretär und Senateur, Mitglied des Reichsraths, in St. Petersburg (187~). 
+13) Iwan Graf T 0 Ist 0 i in St. Petersburg (1882). 
+14) Gräfin Prasskowja U war 0 w, Präsidentin der Moskauer Archäologischen Gesellschaft (1887). 
+</homeland>
+<abroad parent='HM'> Im Auslande. 
+15) Dr. Adalbert B e z zen b erg er, Prof. in Königsberg (1894). 
+16) Hermann Dannenberg, Landgerichtsrath in Berlin (1887). 
+17) Dr. Georg L 0 es c h c k e, Prof. in Bonn (1889). i67 
+18) Dr. Leo M e y er, Prof. honor. in Göttingen (1866 resp.lt)94). 
+19) Dr. Carl Sc h irr e n, Prof. in Kiel (1869). 
+:l0) Dr. Leopold v. Sc h r 0 e der, Prof. in Wien (1894). 
+21) Dr. Ludwig S ti e da, Prof. in Königsberg (1885). 
+22) Dr. Wilbelm T ho m sen, Prof. in Kopenhagen (1887). 
+</abroad>
+</honorable_members>
+<corresponding_members> Correspondirende Mitglieder. 
+<homeland parent='CM'> Im Inlande. 
+1) Friedrich Am el u n g, Fabrikbesitzer in Katharina-Li-sette (1887). 
+2) Dr. Hjalmar A p p e 1 g ren, Conservator des .Archäologi~ sehen Museums in Helsingfors (1901). 
+3) Dr. Eduard Be ren d t s, Prof. in St. Petersburg (1899). 
+4) G. V. BlanckenhagenaufWeissenstein bei Wenden (1889). 
+5) Frau V. BI an c k e n hag e n, gebe Baronesse Maydell, zu Allasch (1889). 
+6) Dr. med. Max B u c h in Wilmanstrand (1882). 
+7) Oberlehrer H. Die der ich s in Mitau (1901). 
+8) E. D 0 I b e s ehe w, Oberlehrer in Wladikawkas (1885). 
+9) Dr. O. Don n er, Prof. in Helsingfors (1865). 
+10) Dr. Wladislaw Dybowsky in Minsk (1879). 
+11) Konrad V. Gersdorff auf Hochrosen (1889). 
+12) Christian Gi e I, Numismatiker in St. Petersburg (1886). 
+13) Dr. Reinhold Hau sen in Helsingfors (1883). 
+14) Dr. A. O. He i k e I in Helsingfors (1887). 
+15) Ad. V. Hofmann in Dorpat (1894). 
+16) W. Ilowaiski, Prof. in Moskau (1881). 
+17) Mag. Edwin J 0 h a n n s 0 D in Biga (1883). 
+18) Dr. Oskar Li e ve n, Director der Cementfabrik in Nowo-rossiisk (1894). 
+19) Konstantin Met t i g, Inspektor an der Realschule in Riga (1887). . 
+20) Anton v. Mi erz y n ski, Wirkl. Staatsrath in Warsebau (1876). 
+21) Dr. W. Neu m a D n, Architekt in Biga (1890). 
+22) Dr. Rad 10 ff, Akademiker in St. Petersburg (1860). 
+23) Alex. R 0 sen b erg, Prof. emer. in Dorpat (1896). 168 
+24) Dr. med. Johannes S ach s sen d abI in Pitkäjärvi (1887). 
+25) Dr. Friedrich Sc h m i d t, Akademiker in st. Peters-burg (1859). 
+26) Dr. med. Alfred Sc h n eid e r zu Lubbenhof (1893). 
+27) Dr. Emil Set ä 1 ä, Prof. in Helsingfors (1891). 
+28) Mag. Nik. v. Sei d 1 i t z in Tiflis (1879). 
+2~) O. v. Sei d li t z, Besitzer von Meyershof (1887). 
+30) E. v. Si v er s zu Autzeem (1889). 
+31) Leo v. Sivers, Besitzer von Alt-Kusthof (1902). 
+3~) Baron Barald Toll in Beval (1887). 
+33) Nikolai Wal d man n in TürseI bei Sillamäggi (1886). 
+34) Mag. Was s i lj e w in Pleskau (1879). 
+35) H. W ü h ne r in Kerimois (1863). 
+</homeland>
+<abroad parent='CM'> Im Auslande. 
+36) Lord J ohn A b e r c rom b y in Edingburgh (1900). 
+37) Dr. Friedrich B i e n e man n, Prof. honor in Freiburg (1865). 
+38) Dr. Heinrich BI' uns I Prof. und Direktor der Sternwarte in Leipzig (l~76). 
+39) Dr. Sophus Bug g e, Prof. in Christiania (876). 
+40) Dr. Domenico 00 m par e t t i, Professor in Rom (1902). 
+41) Dr. Joseph Girgensohn, Inspektor in Treptow (1887). 
+42) Dr. Konstantin Bö h I bau m. Prof. in Giess~n (1887). 
+43) Heinrich K e m k e, Bibliothekar der Physikal. Ökonomi-schen Gesellschaft in Königsberg (1900). 
+44) Cand. Ernst K 1 u g e, Mitglied des kgl. statist. Bureaus in Berlin (1865). 
+45) Dr. Karl K 0 pp man n, Archivar in Rostock (1876). 
+46) Licent. theol. Oonstantin v. K ü gel gen, Privatdocent in Leipzig (1886 resp. 1896). 
+47) Dr. Oarl Lohmeyer, Prof. in Königsberg (1862). 
+48) Fr!. Julie Me s tor f, Prof., Conservator des Museums in Kiel (1881). 
+49) Dr. Oskar Mon tel i u s, Conservator am Reichs-Museum in Stockholm (1876). 
+50) Dr. Theodor Nöl d eck e, Prof. in Strassburg (1870). 
+51) P. E. Pavolini, Prof. in Florenz (l902). 
+52) Dr. Gustav Re tz i u s, ehem. Prof. an dem Oal'olinischen Institut in Stockholm (1876). 169 
+53) Dr. Joh. Rbys, Prof. in Oxford (1875). 
+54) Dr. Franz R ü bl, Prof. in Königsbf:'rg (1816). 
+u5) Dr. Oskar S c bad e, Prof. in Königsberg (1861). 
+56) Dr. Tbeodor Sc h i e man, Prof. in Berlin (1887). 
+51) Dr. Wilhelm S ti e da, Prof. in Leipzig (1882). 
+58) Dr. Bernbard A u P ban, Prof. in Weimar (1816). 
+59) E. Te z a, Prof. in Padua (1902). 
+</abroad>
+</corresponding_members>
+<ordinary_members> Ordentliche Mitglieder *). 
+<in_hometown> In der S t a d t. 
+1) Cand. bist. Heinricb Bauer (1901). 
+2) Eduard Be c k man n, Stadtratb (1887). 
+3) Mag. Alex. Be ren d t s, Docent (1896). 
+4) Dr. Wilhelm v. B 0 c k, dim. Stadtbaupt (1886). 
+5) Maxim. B 0 e b m, Oberlebrer (1889). 
+6) Harry v. B r ö c k er, Vereid. Rechtsanwalt (1899), 
+1) Oskar B ruh n s, stud. theol. (1902). 
+8) Dr. Alexander v. B u 1 me r i nc q, Professor (1900). 
+9) Dr. Carl ]) e h i 0, Professor (18~6). 
+10) *Wilbelm Eis e n s c b m i d t, Pastor (1810). 
+11) Dr. Jobannes Engelmann, Professor (186]). 
+12) Otto v. Essen, Ehrenfriedensricbter (1891). 
+13) Magd. hist. Arnold Fe u e re i sen (1~96). 
+14) Oberlebrer Eugen F il are t 0 w (1901). 
+15) Ernst Fr e y, Beamter (1898). 
+16) Mag. Job. Fr e y, Oberlebrer und Privatdocent (1894). 
+17) Ewald Fr e y mut h, Aeltermann (1889). 
+18) stud. med. Wolf Gadilbe (1898). 
+lU) Leon Go e r tz, Oberlehrer (1885). 
+20) Alfred G ras s, Schul-Direktor (1887). 
+21) *Maxim. v. Güldenstub be, dirn. Landricbter(1881). 
+22) Eduard Haller, Oberlebrer (1894). 
+23) Pontus v. Hall er, Recbtsanwalt (1898). 
+24) Cand. hist. Friedlich H ä n seIl (1900). 
+25) Meinhard Ha n sen, Bibliothekarsgehilfe (1902). 
+26) *A rnold Ha s sei b I a t t, Redacteur (1876), 
+27) *Dr. K. A. Her man n , Lector der estnischen Sprache (1875). 
+28) stud. ehern. Wolfgang Ho ffm a n n (1901). 
+29) Cand. Rudolf H u r t (190 I). . 
+30) Cand. J. J ö g g ewe r, Censor (1899). 
+31) Dr. med. Joh. Jürgensohn (1896). 
+32) Dr. Eduard K eng s e p, Arzt (1891). 
+33) stud. theol. Friedrich K e n t man n (1901). 
+34) Siegfried V. Kieseritzky, Apotheker (1896). 
+35) *Pontus v. Knorring (1891). 
+36) stud. theol. J. K ö p P (1899). 
+37) Dr. med. Heinrich K 0 pp e 1 (18~4). 
+38) Dr. Bernhard K ö rb er, Professor (1880). 
+39) Jeannot Kr ü ger, Buchhändler (1892). 
+40) *Andreas Kurrikoff, dirn. Pastor (1871). 
+41) Carl La a k man n, Buchdruckerei-Besitzer (1880). 
+42) August L e z i u s, Dr. med. (1889). 
+43) Dr. J. Luiga (1901). 
+44) August Lu t her, stud. chem. (1902). 
+45) Karl Mal m, stud. theol. (1902). 
+46) Graf Gotthard Man te u ff e 1 (1891). 
+47) Cand. H. M arg e n s (1900). 
+48) earl M a si n g, Bibliotheksbeamter (1882). 
+49) stud. theol. C. M e n ni n g (1895). 
+50) Reinhold v. Mo e 11 er (1896). 
+51) Dr. Alexander v. 0 e t tin gen, Prof. emer. (1878). 
+52) Lui OIe s k (1901). 
+53) Peter 0 r g, Lehrer (1902). 
+54) Dr. med. Richal'd 0 t t 0 (1896). 
+55) Dr. A. Ra m m u 1 (1901). 
+56) Georg Rat h 1 e f, Oberlehrer (1882). 
+57) Dr. August Rau b er, Profe~sor (1886). 
+58) stud. med. C. Reinhold (1901) .. 
+59) Gustav V. Rot h, dirn. Garde-Oberst (1887). 
+60) Frau Prof. Dr. Emma Ru s s 0 W (1902). 
+61) Oskar v. Sam s 0 n - Rauge (1890). 
+62) Dr. Wolfgang SchI ü tel', BibliothekarundPrivatdocent(1877). 171 
+63) Woldemar Sc h n eid er, ehemal. Inspector (1888). 
+64) Frl. E. v. Sc h u 1 t z (188~). 
+65) Herbert Sc h u 1 t z, Secretär des Universitäts-Direktoriums (1~87). 
+66) Dr. A. F. S c h u 1 zen b erg (1901). 
+67) Frl. Justine v. Sei d li tz (1888). 
+68) E. S ö ö t, Typographiebesitzer (1900). 
+69) A. S P ren k - L ä t e (1901). 
+70) Baron M. v. S t a c k e 1 b erg, Oredit-System-Rendant (18SS). 
+71) Oarl v. S te rn, cand. hist. (1890). 
+72) A. T h 0 m S 0 n, Provisor in Taps (1900). 
+73) Oand. jur. Jaan Tön iss 0 n, Redacteur (1890). 
+74) Oornelius Treffner, Oberlehrer (18~4). 
+75) Dr. med. Richard We i n b erg (1894). 
+76) Carl W ein er, Oberlehrer a. D. (1896). 
+77) Gustav W el t z, Heilgymnast (1898). 
+78) Rudolf Will man n, 0011. Secr. (1900). 
+79) Ferdinand W i t a s - R 0 R d e, Zahnarzt (1887)~ 
+80) Victor W i t t r 0 C k, Oberpastor (1902). 
+81) Dr. Werner v. Z 0 e g e - Man t eu ffe 1, Professor (1896). 
+82) Rudolf Z ö p f f el, Redacteur (1902). 
+</in_hometown>
+<outside_hometown> Aus s e r hai b der S t a d t. 
+83) Oonrad v. An r e p zu Schloss-Ringen, Landrath (1886). 
+84) G. Be er man n, Pastor in Tiflis (1~93). 
+85) *Johannes Bei se, Oand. jur. in St. Petersburg (1895). 
+86) Theodor Bei se, Cand. jur. in Riga (1875). 
+87) *Friedrich Graf B erg zu Schloss Sagnitz (1886). 
+88) "'J. Be r gm a n n, Pastor zu Paistel (1894.). 
+89) "'Dr. Roderich B i d der, Pastor in Lais (1877). 
+90) "'Walter B i eIe n s t ein. Pastor in Mesoten (1892). 
+91) Dr. Friedrich Bi e ne man n in Riga (1893). ' 
+92) "'Mag. Paul 8 ir k e n wal d in St. Petersburg (1881). 
+93) Mag. Arthnr B r 0 C k, Direktor in St. Petersburg (1894). 
+94) Oand. hist. Nik. Bus c h in Riga (1889). 
+95) Johannes Ca r 1 bio m', Oberlehrer in St. Petersburg (1895). 
+96) Titus 0 h r ist i a n i, Inspektor in Goldingen (1886). 
+97) "'Erwin v. D eh n, Pastor zu Hallist (1882). 172 
+98) Harald von Den ff er in Batum (1902). 
+99) Frau v. D i tm ar in Alt-Fennern (1888). 
+100) Al. Du h m be r g, Archivar in St. Petersburg (1901). 
+101) Burchard Baron Freytag-Loringhoven, stud.jur. in St. Petersburg (19UO). 
+102) Frau Leocadie v. Fr e y tag - L 0 r in g ho v e n auf Adiamünde (1876). 
+103) Axel v. Ger ne t in St. Petersburg (1884). 
+104) *L. G r ein er t, Pastor zu Ecks (1896). 
+105) *P. v. H ä c k e I-Saadjerw (18~4). 
+106) O. v. Hall er, Bibliothekar in St. Petersburg (1898). 
+107) *Dr. med. William Rarmsen in Blieden (Kurland) (1883). 
+108) Victor v. Hel m er sen -Karoien (1887). 
+109) Frau v. Hel me r sen -Karoien (1887). 
+110) Dr. med. B ir s c h in St. Petersburg, Geheimrath (1859). 
+111) Mag. theol.RudolfHo llmann, Directorin Goldingen (1887). 
+112) Konstantin Hör s c hel man n, Direktor der Taubstum-menanstalt in Fennern (1902). 
+113) *M. J 0 h an n s 0 n, Arrendator zu Lugden (1891). 
+114) ·Mich. Jürmann, Pastor in Tarwast (1875). 
+115) Dr. Oskar KalI a s, Privatdocent in st. Petersburg (1889). 
+116) W oldemar K e n tm an n· Pastor in Kusal (1896). 
+117) *Johannes K erg, Pastor in Kergel (Oesei) (1875). 
+118) *Cand. Friedrich v. K e u s sie r, Oberlehrer in St. Pe-tersburg (1896). 
+119) Gottfr. K 0 p pe, Oberlehrer in St. Petersburg (1889). 
+120) *Heinrich Ku c h c z y n ski, Cand. jur. in Riga (1872). 
+121) J. Ku p pi t z, Gutsbesitzer zu Neu-Nüggen (1881). 
+122) A. La a s, Pastor in Kawelecht (1897). 
+123) *Cand. med. Konrad L eh man n (1t->90). 
+124) Arrendator W. L e h n bau m (1901). 
+125) *Mag. theol. Friedrich L e z i u s ,Prof. in Königsberg (1888). 
+126) *Dr. phi!. Magnus v. Li n gen, Oberlehrer in St. Pe-tersburg (1879). 
+127) Martin Li pp, Pastor zu Nüggen (1876). 
+128) M. Lu i ga, Pastor. emer. (1896). 
+129) *Dr. Georg Me k 1 er, Privatdocent und Oberlehrer in St. Petersburg (1880). 178 
+130) Baronin Anna v. Me yen d 0 r f f -Ramkau (l889). 
+131) Hermann Nepp ert, Pastor in Pernau (189:3). 
+1;)2) Cand. hist. Oskar. Neu man n, Oberlehrer in St. Pe-tersburg (1897). 
+133) Gustav 0 ehr n, livländischer Generalsuperintendent in Riga (1892). 
+134) *A rved v. 0 e t tin gen zn Ludenhof, Landrath (1888). 
+135) Eduard V. 0 e t tin gen zu Jensel, Landrath (1888). 
+136) Oberbauerrichter Par t s (1901). 
+137) Alex. v. Pet e r s, Bibliothekar der Kaiserl. Academie der Wissenschaften in St. Petersburg (1896). 
+138) *G usta v P u n g a, Pastor zu Talkhof (1884). 
+139) *Dr. med. Cornelius Rau c h, Wirkl. Staatsrath in Pleskau (J 882). 
+140) *Wilhelm Re i man, Pastor zu Klein-Johannis (188~). 
+14J) *A . Re in b erg, Architekt in st. Petersbul'g (1889). 
+142) *Joh. Ren n i t, Pastor zu Oberpahlen (1896). 
+143) *Joh. Ripke, Oberlehrer in St. Petersburg (1881). 
+144) *Prof. Dr. Woldemar v. Rohland in Freiburg i. Br. (1881 ). 
+145) *Akademiker K. S ale man n in St. Petersburg (1896). 
+146) *Dr. Oswald Sc h m i e d e be r g, Prof. in Strassburg (18ö6). 
+147) Georg Schnering, Oberlehrer in Reval (1898). 
+148) Cand. J oh. S i tz k a, Gymnasiallehrer in Tambow (1893). 
+149) Dr. med. Alfred So m m e r in Taganrog (18Hl). 
+150) *Burchard S per r Ii n g k, Pastor in Odenpäh (1875). 
+151) Baron O. M. 8 t a c k e 1 b erg in Kiwidepäh (1897). 
+152) *Baron Reinhold v. S t a e 1- Hol s t ein zu Neu-Anzen, Landrath (lö86). 
+158) *Cand. jur. Friedrich v. S ti II m ar k, Rechtsanwalt in Reval (1878). 
+154) Robert Still m ar k, Krepost-Notar in Wenden (1867). 
+155) Heinrich Struck, Pastor in Werro (1896). 
+156) *]'riedrich v. S t r y k zu Morsel (lb96). 
+157) Reinhold T a nt z s c her, Oberlehrer in St. Petersburg (1896). 
+158) *Cand. jUl. . Max v. Tob i e n in Fellin (1881). 174 
+159) ·Baron Bernbard Toll in Piddul (Oesel) (1899). 
+160) Nikolai v. W a h 1 auf Pajus (1873). 
+161) Paul v. Wi s k 0 w a t 0 w, Prof. emer., Direktor des Wiedem. Gymn. in St. Petersburg (1874). 
+</outside_hometown>
+</ordinary_members>
+</members>
+</section> 

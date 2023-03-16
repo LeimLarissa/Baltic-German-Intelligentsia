@@ -19,7 +19,8 @@
 14) W. v. Stryk, Landrath in Dorpat. 
 15) Alex. Graf Uwarow in Moskau. 
 16) F. S. Wiedemann. Geheimrath, Akademiker in St. Petersburg. 
-<homeland parent='HM'> Im Auslande. 
+</homeland>
+<abroad parent='HM'> Im Auslande. 
 17) Prinz Louis L u c i a n Bonap a r t e. K. H. in London. 
 18) Dr. F. G. vo n Bunge, Wirkt. Staatsrath in Wiesbaden. 
 19) Dr. C. A. Herrmann, Professor der Ge-schichte in Marburg. 
@@ -211,7 +212,8 @@
 30) Mag. W assilje w in Pskow. 
 31) H. Withiter in Keremois. 
 32) A. I. W agin, Gymnasiallehrer in Irkutsk. 
-<homeland parent='CM'> Im AnSlande. 
+</homeland>
+<abroad parent='CM'> Im AnSlande. 
 33) Dr. I. A ltma n n in Berlin. 
 34) Dr. Josef Budenz, Bibliothekar in Budapest. 
 35) Dr. H. B r uns, Direktor der Sternwarte in Leipzig. 

@@ -1,4 +1,4 @@
-•t88T 
+<section type='beginning'> •t88T 
 •j 3 JI 0 -B H 'lä "AV ^OA Ji 0 n .1 ( j 
 •088 T S88 T^^ P
 sptteissny uazu!AOJdaas)$o 
@@ -32,7 +32,8 @@ den Jaliren 1877—1883 eingegangen sind 116
 Verzeichnlss der in den Jahren 1873—1883 gehaltenen Vorträge 
 und verlesenen Zuschriften 131 
 1882. 
-466. Veriüammlung am 13. Jannar 1882. 
+</section>
+<section type='monthlymeet'> 466. Veriüammlung am 13. Jannar 1882. 
 Der Secretair berichtete über die seit der letzten 
 Sitzung der Gesellschaft eingegangenen Schriften und über 
 eine, vom Gymnasiasten Georg Lange für die Gesellschaft 
@@ -110,7 +111,8 @@ Zuletzt wurde auf Vorschlag des Herrn Präses der
 Cand. hist. B e r n h a r d H o l l ä n d e r zum Mitgliede der 
 Gesellschaft aufgenommen. 
 (Big. Ztg. 1882, Nr. 24.) 
-467. VersamniloDg am 10. Febrnar 1882. 
+</section>
+<section type='monthlymeet'> 467. VersamniloDg am 10. Febrnar 1882. 
 Als Geschenke waren eingegangen: Yon Hen'n Ober-
 lehrer Staatsrath K. H a l l er : Geschichte der russischen 
 Literatur von K. Haller, Riga und Dorpat 1882. — Von 
@@ -252,7 +254,8 @@ fid t̂ bleiben, in allen mein lieber ^err fegnb fie ein unoer^
 gleid l̂id^er mann. 9lnS ber Confusion biejeä briefeS fönte 
 mann mir mirdflid^ ein î iaitjeS fiber suponiren, aber id̂  werbe 
 fd^on be^er. 
-468. Ifersammlnng am 10. März 1882. 
+</section>
+<section type='monthlymeet'> 468. Ifersammlnng am 10. März 1882. 
 Nachdem der Secretair den Bericht über die seit 
 der letzten Sitzung eingegangenen Drucksachen verlesen, 
 referirte Herr Dr. B o r n h a u p t über eine Denkmünze. 
@@ -320,7 +323,8 @@ fid^t bleiben, in allen mein lieber ^err fcpnb fie ein unoer^
 gleid Îid^er mann. 3lu§ ber Confusion biefeä briefeS !önte 
 mann mir wirdftid^ ein l̂ igigeS fiber suponiren, aber id̂  werbe 
 fd^on be§er. 
-468. Versammlung am 10. März 1883. 
+</section>
+<section type='monthlymeet'> 468. Versammlung am 10. März 1883. 
 Nachdem der Secretair den Bericht über die seit 
 der letzten Sitzung eingegangeneu Drucksachen verlesen, 
 referifte Herr Dr. B o r n h a u p t über eine Denkmünze. 
@@ -453,7 +457,8 @@ zugleich mitgetheilte Antwort auf diesen Brief Hess des
 Schreibers liebenswürdige und politisch gewandte Persön-
 lichkeit erkennen. (Rig. Ztg. 1882, Nr. 59.) 
 11 
-469. Versammlnng am 14. April 1882. 
+</section>
+<section type='monthlymeet'> 469. Versammlnng am 14. April 1882. 
 Ausser den laut Bericht des Secretairs eingegangenen 
 und angekauften Drucksachen waren an Büchern der Gesell-
 schaft zugestellt: von Herrn Oberlehrer Met t ig : Die liv-
@@ -503,7 +508,8 @@ Zum Schluss der Sitzung wurden die Herren: Pastor
 W. T i l i n g , Stadtrath A. H i l l n e r und Fabrikbesitzer 
 C. R o s e n b e r g zu Gesellschafts-Mitgliedern aufgenommen." 
 (Rig. Ztg. 1882, Nr. 87.) 
-470. Versammlung am 12. Mai 1882. 
+</section>
+<section type='monthlymeet'> 470. Versammlung am 12. Mai 1882. 
 Der übliche Bericht über die eingegangenen Druck-
 sachen konnte, da der Bibliothekar verreist war, nicht vor-
 gelegt werden. An Geschenken waren zugestellt worden: 
@@ -627,7 +633,8 @@ spondirendenund Herrstud.theol. Theodor Weyrich
 zum o rden t l i chen Mitgliede aufgenommen. 
 (Rig. Ztg. 1882, Nr. 115.) 
 16 
-471. Versammlnng am 8. September 1883. 
+</section>
+<section type='monthlymeet'> 471. Versammlnng am 8. September 1883. 
 Zum Eingang gedachte der Präses in warmen Worten 
 des vor kurzem in so jungem Lebensalter verschiedenen 
 Mitgliedes, weiland Secretairs des Stadtamtes Augus t 
@@ -870,7 +877,8 @@ meister H. J. Böthführ, Dr. C. Bornhaupt, Secretair Anton
 Buchholtz, Redacteur Alexander Buchholtz, Dr. W. v. Gut-
 zeit, Stadtarchivar Dr. H. Hildebrand und wirklicher Staats-
 rath C. V. Kieter. (Big. Ztg. 1882, Nr. 210.) 
-472. Versammlnng am 13. Oetober 1882. 
+</section>
+<section type='monthlymeet'> 472. Versammlnng am 13. Oetober 1882. 
 An Geschenken für die Bibliothek der Gesellschaft 
 waren eingegangen: von dem correspondirenden Mitgliede 
 22 
@@ -978,7 +986,8 @@ nicht umhin, den eifrigen Bemühungen des Comitd's ihre
 volle Anerkennung zu zollen. 
 (Big. Ztg. 1882, Nr. 240.) 
 25 
-473. Versammlung am 10. November 1882. 
+</section>
+<section type='monthlymeet'> 473. Versammlung am 10. November 1882. 
 Der Bibliothekar verlas den Bericht über die einge-
 gangenen und durch Kauf erworbenen Drucksachen. Ge-
 schenke waren dargebracht: Von dem Ehrenmitgliede der 
@@ -1164,7 +1173,8 @@ sammlung vorlegen zu können das Vergnügen habe.
 Zum Schluss der Sitzung wurde Herr Lehrer A, S p u n d e 
 zum ordentlichen Mitgliede aufgenommen. 
 (Rig. Ztg. 1882, Nr. 264.) 
-474. Tersammiang am 4. Deeember 1881 
+</section>
+<section type='monthlymeet'> 474. Tersammiang am 4. Deeember 1881 
 Wegen Erkrankung des Schatzmeisters der Gesellschaft, 
 Excellenz v. Kieter, verlas der Präses folgende Rechnungs-
 ablage über den Kassenbestand: 
@@ -1249,7 +1259,8 @@ Zu Mitgliedern waren vorgeschlagen und wurden auf-
 genommen: Secretair F. F o s s a r d , Redacteur Arno ld 
  Petersenn, Consulent Joh. Heinr. Hollanderund Raths-herr T h e o d o r Zimmermann. 
 (Rig. Ztg. 1882, Nr. 288.) 
-475. Versammlnng. Oeffentliehe Jaliressitzong am 6. Deeember 1883. 
+</section>
+<section type='yearlymeet'> 475. Versammlnng. Oeffentliehe Jaliressitzong am 6. Deeember 1883. 
 Eine so zahlreiche Versammlung von Mitgliedern und 
 Gästen hatte sich dieses Mal eingefunden, dass der Raum 
 unseres Museumssaales dieselben kaum zu fassen vermochte, 
@@ -1381,7 +1392,8 @@ in einer andern Weltgegend als der ursprünglich ihm zuge-
 wiesenen, erfüllen sollte. (Rig. Ztg. 1882, Nr. 288.) 
 3* 
 1883. 
-476. Versammlung am 1 1 Januar 1883. 
+</section>
+<section type='monthlymeet'> 476. Versammlung am 1 1 Januar 1883. 
 Der Bibliothekar verlas das Verzeichniss der einge-
 gangenen Bücher, worunter zwei von den betrefifenden Herren 
 Directoren zugesandte Sclmlprogramme des Goldingenschen 
@@ -1519,7 +1531,8 @@ aber für Riga berechneter W a n d - K a l e n d e r aus den
 vierziger Jahren des 17. Jahrhunderts gefunden sei. — 
 Damit wurde die Sitzung geschlossen. 
 (Rig. Ztg. 1883, Nr. 11.) 
-477. VersammluDg am 9. Februar 18S3. 
+</section>
+<section type='monthlymeet'> 477. VersammluDg am 9. Februar 18S3. 
 Der Präsident eröffnete die Sitzung, indem er dem 
 jüngst verstorbenen Mitgliede der Gesellschaft C. Russ-
 wurm in Reval einen Nachruf widmete. Ihm, dem aus 
@@ -2090,7 +2103,8 @@ und Berechtigung vor, das Wort in seinem Begriff einzu-
 schränken und für uns in Beschlag zu nehmen. Was uns 
 anzugehören scheint, ist allein der Ausdruck Balte für Liv-, 
 Est- und Kurländer. 
-478. Versammlnng am 9. März 1883. 
+</section>
+<section type='monthlymeet'> 478. Versammlnng am 9. März 1883. 
 Vor Eintritt in die Tagesordnung gedachte der Präsident 
 des Verlustes, den unser Land und unsere Gesellschaft durch 
 den Tod ihres Mitgliedes, des treuen Patrioten Kreisdepu-
@@ -2221,7 +2235,8 @@ Lesefehlern und Druckfehlern wimmelt, wovon der Vortra-
 gende mehrere Beispiele anführte. Auch an sonstigen Flüch-
 tigkeiten und Ungenauigkeiten fehle es nicht. 
 (Rig. Ztg. 1883, Nr. 61.) 
-479. Yersamiiilniig am 13. April 1883. 
+</section>
+<section type='monthlymeet'> 479. Yersamiiilniig am 13. April 1883. 
 Der Präsident eröffnete die Sitzung, indem er dem vor 
 wenig Tagen aus diesem Leben geschiedenen Pastor Leo-
 pold V. H a k e n Worte der Ennnerung weihte als einem 
@@ -2351,7 +2366,8 @@ jüngeren kaum von Hörerisagen bekannt ist.
 Den Beschluss der Sitzung bildete die Aufnahme des 
 Herrn Notair Gus tav W e r n e r zum ordentlichen Mitgliede. 
 (Rig. Ztg. 1883, Nr. 92.) 
-480. Versammlnng am 11. Mai 1883. 
+</section>
+<section type='monthlymeet'> 480. Versammlnng am 11. Mai 1883. 
 Der Bibliothekar verlas das Verzeichniss der einge-
 gangenen Bücher. 
 Von Dr. Gu tze i t wurden zum Geschenk dargebracht: 
@@ -2448,7 +2464,8 @@ Präsident die Sitzung mit der Bitte um recht rege Bethei-
 ligung der Mitglieder an den Ausstellungsarbeiten. 
 (Rig. Ztg. 1883, Nr. 115.) 
 64 
-481. Ycrsammlnng am 14. September 1883. 
+</section>
+<section type='monthlymeet'> 481. Ycrsammlnng am 14. September 1883. 
 Der Präsident eröffnete, vor Eintritt in die Tagesordnung, 
 die Sitzung, indem er eines jüngst verstorbenen Ehrenmit-
 gliedes der Gesellschaft (seit 1877), des Geheimraths A r n o l d 
@@ -2559,7 +2576,8 @@ Schwarzen Häupter P e r c y v. J a c o b s , Aeltester E. Pohn -
 dorf f , diin. Aeltermann der Schwarzen Häupter Gus tav 
 Hol lander . 
 (Rig. Ztg. 1883, Nr. 214.) 
-482. Versammliiug am 12. Oetober 1883. 
+</section>
+<section type='monthlymeet'> 482. Versammliiug am 12. Oetober 1883. 
 Der Bibliothekar verlas den Bericht über die seit der 
 letzten Sitzung eingelaufenen Drucksachen. 
 An Geschenken waren eingegangen: von Herrn Geheim-
@@ -3601,7 +3619,8 @@ Seite 96 Zeile 10 von unten der Anmerkungen lies
 III. Kategorie statt II. Kategorie. 
 (Rig. Ztg. 1883, Nr. 261.) 
 91 
-484. Versammlang am 5. Deeember 18S3. 
+</section>
+<section type='monthlymeet'> 484. Versammlang am 5. Deeember 18S3. 
 Der Bibliothekar verlas das Verzeichniss der seit der 
 letzten Sitzung eingekommenen Bücher. 
 An Geschenken waren eingegangen: von Herrn Bürger-
@@ -3648,7 +3667,8 @@ und in Folge eines daran geknüpften Vorschlages des
 Präsidenten Herr Oberlehrer F. B iene mann zum cor-
 respondirenden Mitgliede erwählt. 
 (Rig. Ztg. 1883, Nr. 285.) 
-485. Versammlung. Oeffentliche Jahresversammlung am 6. Deeember 1883. 
+</section>
+<section type='yearlymeet'> 485. Versammlung. Oeffentliche Jahresversammlung am 6. Deeember 1883. 
 Eine ansehnliche Zahl von Herren und auch einige 
 Damen hatten sich zur öffentlichen Jahresversammlung ein-
 gefunden, welche der Präsident mit einer kurzen Ansprache 
@@ -4243,7 +4263,8 @@ mündlicher Erwiderung die Antwort der Ordensstände
 welche der neuaufgefundene „Nachschreiber" willkürlich 
 ausgelassen hätte. (Rig. Ztg. 1877, Nr. 126.) 
 Reval . Fr . B ienemann . 
-Verzeichniss der Mitglieder. 
+</section>
+<section type='list'> Verzeichniss der Mitglieder. 
 I. Ehren-Mitglieder. 
 1. Mitglied des Reichsraths, wirkl. Gehcimratli G e o r g 
 V. B r e v e m , St. Petersburg. 1859. 
@@ -5101,7 +5122,8 @@ Das Riga-Wolmarsche Kreisgericht zu Wolmar.
 Sibjemmeg Slwifeg. Salmeera 1877—1883. 
 Die antiquarische Gesellschaft zu Zürich. 
 Mittheilungen. Heft XL—XUI, XIjVI. Züricli 1876—1882. 
-Verze ichniss 
+</section>
+<section type='list'> Verze ichniss 
 der in den Jahren 1873 bis 1883 in den Sitzungen 
 der G-esellschaft gehaltenen V o r t r ä g e und verlesenen 
 Zuschr i f ten . 
@@ -5547,3 +5569,4 @@ Vierhuff, G., Ueber Burgberge. 73. 65.
 thümer. 76. 62. 
 — Nachruf auf Graf C. ßievers. 77 ff. 112. 
 -OOÔOOO— 
+</section>

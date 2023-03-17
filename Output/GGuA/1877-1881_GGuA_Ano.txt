@@ -1,4 +1,4 @@
-der 
+<section type='beginning'> der 
 Gesellschaft für Geschichte und Alterthumskunde der 
 Ostseeprovinzen Russlands 
 ausden Jahren18 T'7—1881.
@@ -71,7 +71,8 @@ Grewiiigk, 0., (Dorpat) 38. Virchow, R., (Berlin) 68.
 Gutzeit, W. V., 7. 9. 17. 26. 34. 
 35. 49. 50. 76. 80. 
 1877. 
-416. Versammlniig am 12. Januar 1877. 
+</section>
+<section type='monthlymeet'> 416. Versammlniig am 12. Januar 1877. 
 Ausser den Zusendungen, welche die in regelmässigem 
 Schriftenaustausch mit der Gesellschaft stehenden gelehrten 
 Vereine gemacht hatten, waren Geschenke eingegangen von 
@@ -142,7 +143,8 @@ Herren K a r l Gra f S i e v o r s in Wenden, B a r o n F r i e d r i c h
  Rosenauf Gross-Roop, Assessor Karlvon Pickardtund
 Oberlehrer R. B a r z . 
 (Rig. Ztg. 1877, Nr. 17.) 
-417. Versaminlang am 9. Februar 1877. 
+</section>
+<section type='monthlymeet'> 417. Versaminlang am 9. Februar 1877. 
 Ausser den regelmässig einlaufenden Vereinsschriften 
 waren eingegangen: von Herrn Bürgermeister B ö t h f ü h r 
 Rigische Rathslinie, Riga 1877, — von Herrn Oberlehrer 
@@ -300,7 +302,8 @@ V. S t r y k , beständiger Secretair der livländischen gemein-
 nützigen und ökonomischen Societät, und Herr cand. jur. 
  Eduard Hollander.
 (Big. Ztg. 1877, Nr. 40.) 
-41S. Versamnilimg am 9. März 1877. 
+</section>
+<section type='monthlymeet'> 41S. Versamnilimg am 9. März 1877. 
 Ausser den im Austausch erhaltenen Vereinsschriften 
 waren noch verschiedene Darbringungen für die Bibliothek 
 der Gesellschaft eingegangen von den HeiTen N. Asmuss , 
@@ -511,7 +514,8 @@ abschriften aus dem Stockholmer Reichsarchiv, 1226—
 D. O r i g i n a l u r k u n d e . 
 26) Testament der Margarethe Helene von Wrangel, geb. 
 von Kursei, d. d. Reval 3. Febr. 1705. Pol. 6 S. 
-419. Versammlung am 13. April 1877. 
+</section>
+<section type='monthlymeet'> 419. Versammlung am 13. April 1877. 
 Ausser verschiedenen Vereinsschriften waren noch als 
 Gcschenke der A^'erfasser fiir die Bibliothek eingegangen: 
 „Karl Ernst v. Baer's letzte Lebensstunden" (St. Petersburg 
@@ -652,7 +656,8 @@ Hupel so grossen Unwillen erregt hat. Dieser Vortrag soll
 erst bei späterer Gelegenheit zum Abdruck kommen, wenn 
 auch eine dazu gehörige Kartenskizze fertig gestellt sein wird. 
 (Rig. Ztg. 1877, Nr. 92.) 
-420. Yersammlung am 11. Mai 1877. 
+</section>
+<section type='monthlymeet'> 420. Yersammlung am 11. Mai 1877. 
 Der Secretair verlas die Liste der eingelaufenen Bücher 
 und Geschenke, unter denen namentlicli dasjenige des Herrn 
 Notair R. B a u m erwähnt zu werden verdient: ein werth-
@@ -718,7 +723,8 @@ den Vortragenden persönlich angehende Frage, wer zuerst
 die Subscription des Bergmannschen Codex der ßeimchronik 
 als Fälschung erkannt und nachgewiesen habe. 
 (Rig. Ztg. 1877, Nr. 114.) 
-421. Versammlnng am 14. September 1877. 
+</section>
+<section type='monthlymeet'> 421. Versammlnng am 14. September 1877. 
 Es waren ausser den regelmässig zugehenden Vereins-
 zeitschriften Büchergeschenke eingegangen von dem Ehren-
 mitgliede Professor C. S c h i r r e n in Kiel, von den Herren 
@@ -952,7 +958,8 @@ Vor der Hand aber handelt es sich um die Gutsbrief-
 laden. In dieser Beziehung hoffen wir zuversichtlich auf 
 baldigen und reichen Erfolg unserer Bitte! 
 (Rig. Ztg. 1877, Nr. 251.) 
-422. Versammlnng am 12. October 1877. 
+</section>
+<section type='monthlymeet'> 422. Versammlnng am 12. October 1877. 
 Ausser den regelmässig einlaufenden Vereinsschriften 
 waren als Geschenke übersandt: von Frau D. M ü l l e r : das 
 Portrait des Bürgermeisters A. W. Barclay de Tolly, litho-
@@ -1219,7 +1226,8 @@ gung eben erst geschehen wäre; von einer Meisselbearbeitung
 durch Menschenhand so glatt polirt zu sein, erschien er 
 uns Allen bei genauer Prüfung nicht. 
 (Rig. Ztg. 1877, Nr. 239.) 
-423. Versammlnng am 9. November 1877. 
+</section>
+<section type='monthlymeet'> 423. Versammlnng am 9. November 1877. 
 Ausserordentliche Zusendungen für die Bibliothek der 
 Gesellschaft waren eingegangen von Herrn Dr. H. H i l d e -
 brandund Herrn Redacteur N. Asmuss. Fürdie Münz-sammlung von Frau H e n r i e t t e v. Z u c k e r b e c k e r 9 schätz-
@@ -1587,7 +1595,8 @@ und Münzen vom Ende des 15. Jahrhunderts angetroffen
 wurden, sowie endlich daran, dass man selbst im Äaulcr» 
 faliiä des Salis-Ufers eine Münze aus der Mitte des 17. Jahr-
 hunderts fand. 
-424. Tersammlnng am 5. December 1877. 
+</section>
+<section type='monthlymeet'> 424. Tersammlnng am 5. December 1877. 
 An besonderen Gcschenken für die Bibliothek der Ge-
 sellschaft waren eingegangen: von Hen^n Archivar C. Russ -
 wurmin Revaldessen Nachrichtenüberdas Geschlecht
@@ -1620,7 +1629,8 @@ Zu Ehrenmitgliedern der Gesellschaft wurden auf Vor-
 schlag des Directoriums ernannt: Geheimrath Professor 
  Rudolf Virchowin Berlinund Geheimrath Arnold
 V. T i d e b ö h l . 
-425. Versammiong. Oeifentliche JahresTersammlang am 6. Deeember 1877. 
+</section>
+<section type='yearlymeet'> 425. Versammiong. Oeifentliche JahresTersammlang am 6. Deeember 1877. 
 Der Präsident eröffnete die Sitzung mit einem Hinweis 
 auf die für die Zwecke der Gesellschaft im Ganzen un-
 günstige Zeitlage. Eine Zeit, in der so viel Neues geschehe, 
@@ -1847,7 +1857,8 @@ sichten in die Urgeschichte der Letten zusammenzustellen
 versuchte. 
 (Rig. Ztg. 1877, Nr. 293.) 
 1878. 
-426. Versammlong am 11. Janaar 187S. 
+</section>
+<section type='monthlymeet'> 426. Versammlong am 11. Janaar 187S. 
 Der Präsident zeigte an, dass die dieses Mal leider so 
 verspäteten Sitzungsberichte pro 1876 endlich zur Versen-
 dung gekommen. Auch an einem neuen Hefte der „Mit-
@@ -1896,7 +1907,8 @@ archivalischc Materialien' ausnutzen konnte, die seitdem der
 Vernichtung anheimgefallen sind. ' 
 . (Big. Ztg. 1878, Nr. 17.) 
 U' • . ' • i" 
-427. Versammlung am 8. Februar 1878. > 
+</section>
+<section type='monthlymeet'> 427. Versammlung am 8. Februar 1878. > 
 Unter den Erwerbungen und Geschenken für die 
 Bibliothek der Gesellschaft war dieses Mal als beson-
 ders! wcrthvoll hervorzuheben: Köhler'si Münzbelustigungen, 
@@ -2026,7 +2038,8 @@ Stande gebracht. Auch an Daniel Hermann habe es sich
 bewährt, dass wer einmal in Livland Fuss gefasst, bald mit 
 ganzer Seele ihm angehöre. 
 (Rig. Ztg. 1878, Nr. 47.) 
-428. VerkainiDlang am 8. Marz 1878. 
+</section>
+<section type='monthlymeet'> 428. VerkainiDlang am 8. Marz 1878. 
 Als eine hervorragend wichtige Erscheinung auf dem 
 Gebiete der livländischen Geschichtsforschung war der Ver-
 sammlung die neue Ausgabe von " W i n k e l m a n n s Biblio-
@@ -2279,7 +2292,8 @@ Ausgüssen, oder, wie bei allen alten Gebäuden unserer Stadt
 Aborte, was so ziemlich sicher darauf schliessen lässt, dass 
 das Gebäude nicht zu wohnlichen Zwecken benutzt worden ist. 
 (Rig. Ztg. 1878, Nr. 79.) 
-429. Tersammlang am 12. April 1878. 
+</section>
+<section type='monthlymeet'> 429. Tersammlang am 12. April 1878. 
 Als Geschenk für die Münzsammlung der Gesellschaft 
 wurden von Herrn Dr. C. B o r n h a u p t übergeben 20 Stück 
 verschiedener Silber- und Kupfermünzen, darunter 3 altliv-
@@ -2451,7 +2465,8 @@ thek geschenkt, wo sie dem schon andere Ansichten aus
 Polnisch-Livand enthaltenden 7. Bande der Brotzeschen 
 Monumenta einverleibt worden ist. 
 (Big. Ztg. 1878, Nr. 110.) 
-430. Versainmlnng am 10. Mai 1878. 
+</section>
+<section type='monthlymeet'> 430. Versainmlnng am 10. Mai 1878. 
 An Geschenken für die Bibliothek der Gesellschaft 
 waren eingegangen: von Herrn Bibliothekar J . L o s s i u s in 
 Dorpat dessen „Drei Bilder aus dem livländischen Adels-
@@ -2518,7 +2533,8 @@ namcn und die Herkunft des Rigaschen Erzbischofs From-
 liold V. FyflTiusen, der in dem nächsten Hefte der „Mit-
 theilungen" zum Abdruck kommen soll. 
 (Rig. Ztg. 1878, Nr. 127.) 
-431. Versammlniig am 13. September 1878. 
+</section>
+<section type='monthlymeet'> 431. Versammlniig am 13. September 1878. 
 Seit der letzten, im Mai abgehaltenen Sitzung waren 
 für die Bibliothek der Gesellschaft verschiedene Dar-
 Imngungen eingegangen von den Herren: Redacteur N. As-
@@ -2849,7 +2865,8 @@ wie hinter den Leistungen eines in nicht gewöhnlichem
 Maasse thätigen Lebens weit zurück. Li der baltischen 
 Gelehrtengeschichte wird der Name Theodor Beise stets in 
 Ehren bleiben. 
-482. Versammlimg am 11. Octobcr 1878. 
+</section>
+<section type='monthlymeet'> 482. Versammlimg am 11. Octobcr 1878. 
 Ausser den Zusendungen mehrerer mit der Gesellcjchaft 
 im Austauschverhältniss stehender Vereine und einigen 
 von Herrn Redacteur Alex . B u c h h o l t z übergebeneu 
@@ -2966,7 +2983,8 @@ einiger anderen Vereine Rigas zu betheiligen.
 In die Zahl der ordentlichen Mitglieder wurde aufge-
 nommen Herr Charles Albert D r i s h a u s aus Hamburg. 
 (Rig. Ztg. 1878, Nr. 245.) 
-433. Yersammlnng am 8. November 1878. 
+</section>
+<section type='monthlymeet'> 433. Yersammlnng am 8. November 1878. 
 Geschenke für die Bibliothek der Gesellschaft waren 
 eingegangen von den Herren Archivar C. R u s s w u r m in 
 Reval, Baron H. B r u i n i n g k , Buchhändler N. Kymmel jun., 
@@ -3092,7 +3110,8 @@ Zu Mitgliedern wurden aufgenommen: Oberlehrer Dr.
  Theodor Schiemannin Pellinund Cand. Wolfgang
  Karstensin Riga.
 (Rig. Ztg. 1878, Nr. 281.) 
-434. Versammhmg am 5. December 1878. 
+</section>
+<section type='monthlymeet'> 434. Versammhmg am 5. December 1878. 
 Geschenke an Büchern waren eingegangen von dem 
 Ehrenmitgliede der Gesellschaft Akademiker E. K u n i k in 
 Petersburg, von dem Herrn Hofrath M. F. E s s e l l e n in 
@@ -3143,7 +3162,8 @@ Herren Professor Dr. L u d w i g S t i e d a in Dorpat und
 Baron G. B r u i n i n g k in ßiga zu Mitgliedern des in seinem 
 übrigen Bestände unverändert belassenen Directoriums 
 gewählt. 
-435. Versammlung. Oeffeutliehe Jahressitzang am 6. Deeember 1878. 
+</section>
+<section type='yearlymeet'> 435. Versammlung. Oeffeutliehe Jahressitzang am 6. Deeember 1878. 
 Der Präsident eröffnete die Sitzung mit der Mittheilung, 
 dass die Gesellschaft in der am Tage zuvor abgehaltenen 
 83 
@@ -3370,7 +3390,8 @@ weihte vernahm zum ersten Male eine zusammenhängende
 Darstellung über diesen Gegenstand. 
 (Rig. Ztg. 1878, Mr. 287 und 285.) 
 • 1879. ' 
-436. Versafflinlnng am 10. Janaar 1879. 
+</section>
+<section type='monthlymeet'> 436. Versafflinlnng am 10. Janaar 1879. 
 Gcsclicnke waren eingegangen: von Herrn Oberlehrer 
 F. W a c h t s m u t h (desselben als Programm des Mitauer Gym-
 nasiums erschienene Abhandlung über die Quellen und den 
@@ -3468,7 +3489,8 @@ zu Riga, J u l i u s W e i d e , Pastor zu Neuhausen (Kurland),
 und J u l i u s v. R a i s o n , Pastor zu Adsel. 
 (Rig. Ztg. 1879, Nr. 28.) 
 92 
-487. Tersamiiiliing am 14. Februar 1879. 
+</section>
+<section type='monthlymeet'> 487. Tersamiiiliing am 14. Februar 1879. 
 Zur Vertheilung an die gegenwärtigen Mitglieder kam 
 der auch für das Jahr 1879 wieder herausgegebene „Sitzungs-
 kalender der wissenschaftlichen und wissenschaftlich-prakti-
@@ -3513,7 +3535,8 @@ Zum Schluss verlas der Secretair eine von ihm aufgesetzte
 Erörterung der Frage, wo Erzbischof Fromhold Vyffhusen 
 gestorben sei. 
 (Rig. Ztg. 1879, Nr. 57.) 
-438. Versammlung am 14. März 1879. 
+</section>
+<section type='monthlymeet'> 438. Versammlung am 14. März 1879. 
 Der Präsident theilte ein Schreiben des Directoriums 
 der estländischen literarischen Gesellschaft mit, in welchem 
 die Anzeige gemaclit wird, dass auch diese Gesellschaft, 
@@ -3557,7 +3580,8 @@ halten.
 Als ordentliches Mitglied wurde in die Gesellschaft 
 aufgenommen Herr A l b e r t K r ö p s c h . 
 (Rig. Ztg. 1879, Nr. 79.) 
-439. Yersammlang am 11. April 1879. 
+</section>
+<section type='monthlymeet'> 439. Yersammlang am 11. April 1879. 
 Unter den für die Bibliothek der Gesellschaft einge-
 gangenen Darbringungen zeichnete sich besonders eine Zu-
 sendung der Krakauer Akademie der Wissenschaften durch 
@@ -3682,7 +3706,8 @@ habenden profession nach, exerciren und üben können".
 Der Kaiser nahm an, aber die Wogen des dreissigjährigen 
 Krieges spülten auch dieses Project wieder hinweg. 
 (Rig. Ztg. 1879, Nr. 103.) 
-440. Versammlung am 9. Mai 1879. 
+</section>
+<section type='monthlymeet'> 440. Versammlung am 9. Mai 1879. 
 Für die Alterthümer- und Münzsammlung der Gesell-
 schaft waren eingegangen: 1) Von Herrn Buchdrucker 
  Stahleineaufseinem Grundstück(Kaiserliche Garten-strasse Nr. 10) gefundene Musketenkugel und eine angeblich 
@@ -3772,7 +3797,8 @@ getheilte Geschichte des Kirchspiels Uexküll, die von dem
 dortigen, jetzt emeritirten Prediger Brockhusen in gegebener 
 Veranlassung aufgesetzt worden ist. 
 (Rig. Ztg. 1879, Nr. 209.) 
-441. Versammlong am 12. September 1879. 
+</section>
+<section type='monthlymeet'> 441. Versammlong am 12. September 1879. 
 Der Präsident eröffnete die Sitzung mit einem Nachruf 
 auf den am 19. Juli mitten unter seinen archäologischen 
 Forschungsreisen verstorbenen Grafen C. v. S i e v e r s in 
@@ -3906,7 +3932,8 @@ kommenden Rosetten in der Umschrift folgern, dass dieser
 Artiger auch in Wenden geprägt ist. 
 (Rig. Ztg. 1879, Nr. 233.) 
 104 
-442. Vergammlnng am 10. October 1879. 
+</section>
+<section type='monthlymeet'> 442. Vergammlnng am 10. October 1879. 
 Für die Münzsammlung waren eingegangen: von Herrn 
 Buchdrticker A. S t a h l ein preussisches Vi2 Thalerstück von 
 1708 und von Herrn Schriftsetzer P o s s e i 1 schwedisches 
@@ -3992,7 +4019,8 @@ Riga im 13. und 14. Jahrhundert", verfasst von Wilhelm
 Fischer in Plauen. 
 (Rig. Ztg. 1879, Nr. 263.) 
 106 
-443. Versammlung am 14. November 1879. 
+</section>
+<section type='monthlymeet'> 443. Versammlung am 14. November 1879. 
 Der Präsident eröffnete die Sitzung mit einem Nachruf 
 auf zwei im Laufe des letzten Monats verstorbene aus-
 virärtige Mitglieder: den General-Adjutanten, Präsidenten 
@@ -4185,7 +4213,8 @@ zählt wird. Zu den Eigenschaften dieses Mannes „nach
 der alten Welt" gehörte also wohl auch eine schon selten 
 gewordene Sparsamkeit. 
 (Rig. Ztg. 1879, Nr. 281.) 
-444. Versammlnng am 5. Deeember 1S79. 
+</section>
+<section type='monthlymeet'> 444. Versammlnng am 5. Deeember 1S79. 
 Der Präsident übergab zw êi in Pleskau gefundene 
 angelsächsische Münzen von Ethelred II., als ein Geschenk 
 des Herrn N i c o l a i G r ö d i n g e r . Von dem Mitgliede des 
@@ -4221,7 +4250,8 @@ Gesellschaft Herr Oberlehrer Dr. J . G i r g e n s o h n erwählt,
 indem zugleich alle übrigen Mitglieder desselben auch für 
 das nächste Jahr wiedergewählt wurden. 
 (Rig. Ztg. 1879, Nr. 303.) 
-445. Versammlong. Oeffentl. Jahressitzang am 6. Deeember 1879. 
+</section>
+<section type='yearlymeet'> 445. Versammlong. Oeffentl. Jahressitzang am 6. Deeember 1879. 
 Der Präsident proclamirte die in der Sitzung des vorigen 
 Tages erwählten neuen Ehrenmitglieder: Dr. Ed . P a b s t in 
 Reval und Dr. Ed. v. H a f f n e r , Excellenz, in Riga, womit 
@@ -4543,7 +4573,8 @@ eine Gewähr dafür, dass die Arbeit auf dem betreffenden
 Gebiete auch fernerhin nicht stille stehen und uns ein 
 immer deutlichei*es Bild unserer Vergangenheit entrollen wird. 
 1880. 
-446. Versammlung am 9. Januar 1880. 
+</section>
+<section type='monthlymeet'> 446. Versammlung am 9. Januar 1880. 
 Eingegangen war als Geschenk von Herrn A u g u s t 
 V. D e h n in Dorpat eine photographische Abbildung der 
 Richtstätte J . R. v. Patkuls, unweit der Stadt Kasimir 
@@ -4601,7 +4632,8 @@ logie ersichtlich, dass wir, gegenüber den übrigen Küsten-
 strecken der Ostsee, wenigstens kein h i s t o r i s c h begründetes 
 Vorrecht daran besitzen. 
 (Rig. Ztg. 1880, Nr. 68.) 
-447. Versainiiilnng am 13. Febrnar 1880. 
+</section>
+<section type='monthlymeet'> 447. Versainiiilnng am 13. Febrnar 1880. 
 In Bezug auf die in der vorigen Sitzung eingegangene 
 Abbildung der Richtstätte Patkuls machte der Präsident 
 122 
@@ -4687,7 +4719,8 @@ eine Abhandlung über die Frage, wodurch Bischof Albert
 bewogen worden sei, seinem Capitel die Regel der Prä-
 monstratenser zu geben. 
 (Rig. Ztg. 1880, Nr. 68.) 
-448. Versammlnng iun 12. März 1880. 
+</section>
+<section type='monthlymeet'> 448. Versammlnng iun 12. März 1880. 
 Als Geschenk von Herrn Buchhändler N. K y m m e l 
 waren eingegangen 52 Bände verschiedenen Inhalts aus dem 
 ehemaligen Reyherschen Verlag in Mitau nebst 4 Portraits, 
@@ -4781,7 +4814,8 @@ um ein schätzbares biographisches Material bereichert werden.
 (Rig. Ztg. 1880, Nr. 80.) 
 *) Später ist es in den Besitz der Gesellschaft übergegangen. 
 127 
-449. Versammlung am 9. April 18S0. 
+</section>
+<section type='monthlymeet'> 449. Versammlung am 9. April 18S0. 
 Unter den im Laufe des Monats für die Bibliothek der 
 Gesellschaft eingegangenen Druckschriften wurde von dem 
 Herrn Bibliothekar ( A u g u s t B u c h h o l t z ) der besonderen 
@@ -4895,7 +4929,8 @@ sadelmacher, gerwer) hatten weichen müssen. Sehr auf-
 fallend ist es, dass diese Benennung nur in Eiga vorkommt; 
 ich finde sie anderwärts nicht." 
 (Big. Ztg. 1880, Nr. 120.) 
-450. Versammlong am 14. Mai 1880. 
+</section>
+<section type='monthlymeet'> 450. Versammlong am 14. Mai 1880. 
 Unter den eingegangenen Druckschriften waren hervor-
 zuheben die folgenden, von den resp. Ilerren Verfassern 
 freundlichst dargebrachten Novitäten: 1) C. G r e w i n g k , 
@@ -4983,7 +5018,8 @@ Zu ordentlichen Mitgliedern der Gesellschaft wurden
 aufgenommen Herr Advocat C. K r a n n h a l s und Herr 
 Cand. jur. Theodor B e i s e . 
 (Rig. Ztg. 1880, Nr. 207.) 
-451. Versammlang am 10. September 1S80. 
+</section>
+<section type='monthlymeet'> 451. Versammlang am 10. September 1S80. 
 Der Präsident eröffnete die Sitzung mit der Vorlegung 
 eines neuen Heftes der „Mittheilungen", mit welchem der 
 zwölfte Band dieser von der Gesellschaft herausgegebenen 
@@ -5312,7 +5348,8 @@ Zu ordentlichen Mitgliedern wurden aufgenommen Herr
 Redacteur A r t h u r B ö h l e n d o r f f und Herr cand. hist. 
  Arend Buchholtz.
 (Rig. Ztg. 1880, Nr. 231.) 
-452. Vcrsammlimg am 8. October 1880. 
+</section>
+<section type='monthlymeet'> 452. Vcrsammlimg am 8. October 1880. 
 Für die Bibliothek der Gesellschaft waren Zusendungen 
 eingegangen: von Fräulein O t t i l i e D a h l w i t z ein Riga-
 scher Theaterzettel aus den achtziger Jahren des vorigen 
@@ -5653,7 +5690,8 @@ Stephan trit t um so heller an's Licht, als wir je tzt sehen,
 dass nicht er allein zum Träger des den Bauern angeblich 
 gemachten Reformvorschlages gemacht worden ist. 
 ,(Eig. Ztg. 1880, Nr. 261.) 
-45B. Versammlung am 1 1 iVoYember 1880. 
+</section>
+<section type='monthlymeet'> 45B. Versammlung am 1 1 iVoYember 1880. 
 Für die Bibliothek der Gesellschaft waren dargebracht 
 von dem Herrn Archivar C. R u s s w u r m in Reval: dessen 
 Nachrichten ü1b er Alt-Pernau,' Reval 1880; von Herrn cand.  ' 
@@ -5768,7 +5806,8 @@ correspondirenden Mitgliede Herr Dr. M. P e r l b a c h in
 Greifswald. 
 (Rig. Ztg. 1880, Nr. 279.) 
 153 
-454. Versammlung »m 5. Deeember 1880. 
+</section>
+<section type='monthlymeet'> 454. Versammlung »m 5. Deeember 1880. 
 Der Präsident berichtete über die nun vollzogene Er-
 öffnung jenes geheimnissvollen Couverts, welches von dem 
 Baron Karl v. Wolff, Erbherrn auf Neu-Rosen und Klein-
@@ -5815,7 +5854,8 @@ Thalheim wurde der Gesellschaft nun auch der Rest der
 schon in der vorigen Sitzung vorgelegten und in dem be-
 treffenden Bericht erwähnten Münzen übergeben. 
 (Rig. Ztg. 1881, Nr. 7.) 
-455. Yersammlnng. Oeifentl. Jahressitzang am 6. December 1880. 
+</section>
+<section type='yearlymeet'> 455. Yersammlnng. Oeifentl. Jahressitzang am 6. December 1880. 
 Nachdem der Präsident den versammelten Mitgliedern 
 und Gästen für das von ihnen bezeugte Interesse an der 
 vaterländischen Geschichtsforschung gedankt hatte, verlas 
@@ -5892,7 +5932,8 @@ no witsch (Kiew 1878), welche als ein erheblicher Fortschritt
 in der Behandlung dieses bisher so vieler Unkritik ver-
 fallenen Gegenstandes anerkannt werden muss. 
 1881. 
-456. Versammlang am 14. Janoar 1881. 
+</section>
+<section type='monthlymeet'> 456. Versammlang am 14. Janoar 1881. 
 Ausser verschiedenen Vereinsschriften waren als Ge-
 schenke für die Bibliothek eingegangen: von dem Ehren-
 mitgliede der Gesellschaft Herrn Geheimrath Grafen 
@@ -5947,7 +5988,8 @@ aufgenommen der jüngere Herr Polizeimeister von Riga,
 Baron F. v. E n g e l h a r d t ; zum correspondirenden Mitgliede 
 Herr Dr. W. M o l l e r u p in Kopenhagen, 
 (Rig. Ztg. 1881, Nr. 31.) 
-457. Tersammlang am 11. Februar 1881. 
+</section>
+<section type='monthlymeet'> 457. Tersammlang am 11. Februar 1881. 
 Darbringungen für die Bibliothek der Gesellschaft waren 
 eingegangen von den Herren Prof. Dr. W i n k e l m a n n in 
 159 
@@ -6080,7 +6122,8 @@ Zu ordentlichen Mitgliedern der Gesellschaft wurden
 aufgenommen Herr Aeltester grosser Gilde M o r i t z L ü b e c k 
 und Herr cand. oec. pol. A l e x a n d e r T o b i e n . 
 (Rig. Ztg. 1881, Nr. 43.) 
-458. Yersammlimg am 11. März 1881. 
+</section>
+<section type='monthlymeet'> 458. Yersammlimg am 11. März 1881. 
 Als Geschenk für die Bibliothek der Gesellschaft war 
 eingegangen von dem t e m p o r ä r e n B a u c o m i t ö zu G r i w a -
  Semgallen: Ergebnisseder Volkszählungin Griwa-Sem-gallen, von H. v. Brackel, Dorpat 1880, — für das Münz-
@@ -6241,7 +6284,8 @@ befindlichen „Bemerkungen" selbst zu verweisen.
 Zum ordentlichen Mitgliedc der Gesellschaft wurde 
 aufgenommen Herr Aeltester grosser Gilde R o b e r t J a k s c h . 
 (Big. Ztg. 1881, Nr. 78.) 
-459. Versammlung am 8. April 1881. 
+</section>
+<section type='monthlymeet'> 459. Versammlung am 8. April 1881. 
 Für das Münzkabinet waren folgende Geschenke ein-
 gegangen: 1) Von Fräulein 0 . P a u l durch Vermittelung 
 des Herrn Oberpastors emer. Dr. C. A. Berkholz aus dem 
@@ -6327,7 +6371,8 @@ Bibliotheca hist. medii aevi unter den Vitae der Heiligen,
 Art. S. Edmundus, Nachricht gebe. 
 (Rig. Ztg. 1881, Nr. 205.) 
 169 
-460. Ycrsammlnng am 27. Mai 1881. 
+</section>
+<section type='monthlymeet'> 460. Ycrsammlnng am 27. Mai 1881. 
 Wiederum hatte sich die Gesellschaft verschiedener 
 Darbringuiigcn für ihre Münzsammlung zu erfreuen. Namentlich 
 lagen als Geschenk des Herrn Dr. F. v. H ü b n e r 190 Münzen 
@@ -6387,7 +6432,8 @@ Herr Oberlehrer M e t t i g verlas einen Aufsatz über
 Bischof Wescelus von Dorpat, der nächstens in den „Mi^ 
 theilungen" erscheinen wird. 
 (Rig. Ztg. 1881, Nr. 205.) 
-461. Versammlung am 9. September 1881. 
+</section>
+<section type='monthlymeet'> 461. Versammlung am 9. September 1881. 
 Der Präsident eröffnete die Sitzung mit einer Erinnerung 
 an einige das lebhafteste Interesse der Gesellschaft in An-
 spruch nehmende Ereignisse des letztverflossenen Sommers. 
@@ -6504,7 +6550,8 @@ Andrejewitsch Wolkonski Besitzer dieser Kanone gewesen
 ist. Es ist aber über die Persönlichkeit des Genannten 
 bis jetzt keine weitere Aufklärung zu ermitteln gewesen. 
 (Rig. Ztg. 1881, Nr. 235.) 
-462. Versammlnng am 14. Oetober 1881. 
+</section>
+<section type='monthlymeet'> 462. Versammlnng am 14. Oetober 1881. 
 Als Geschenke für die Bibliothek waren eingegangen: 
 Von dem Herrn Consulenten 0 . v. R a d e c k i eine Hand-
 schrift des erweiterten livländischen Ritterrechts, nebst 
@@ -6593,7 +6640,8 @@ Zu Mitgliedern der Gesellschaft wurden aufgenommen
 der Herr livländische Generalsuperintendent H. G i r g e n -
 sohn und Herr Dr. J o h a n n Mi ram. 
 (lüg. Ztg. 1881, Nr. 259.) 
-4G3. Versammlung am 11. November 1881. 
+</section>
+<section type='monthlymeet'> 4G3. Versammlung am 11. November 1881. 
 Nachdem Dr. W. v. G u t z e i t das Präsidium an Stelle 
 des am Erscheinen verhinderten Präsidenten übernommen 
 hatte, verlas der Secretair das Verzeichniss der einge-
@@ -6774,7 +6822,8 @@ Bisings gefundenes Schloss, das nach gefälliger Bestimmung
 des Herrn Dr. Sophus Müller etwa aus dem 12. Jahrhundert 
 stammen soll. 
 * (Rjg. Ztg. 1881, Nr. 277.) 
-464. Versammlung am 5. Decembcr 1881. 
+</section>
+<section type='monthlymeet'> 464. Versammlung am 5. Decembcr 1881. 
 An Stelle des durch Unwohlsein verhinderten Präsidenten 
 cröftnete Dr. W. v. G u t z e i t die Versammlung und brachte 
 zur Kcnntniss, dass statutenmässig nach Ablauf von 3 Jahren, 
@@ -6846,7 +6895,8 @@ Diederichs aus Mitau einen Vortrag halten werde, recht zahl-
 reich besucht sein möchte, fand die Versammlung ihren Ab-
 schluss. 
 (Rig. Ztg. 1882, Nr. 6.) 
-465. Tersammlnng. Oeffentliche Jahressitznng am 6. Deeember 1881. 
+</section>
+<section type='yearlymeet'> 465. Tersammlnng. Oeffentliche Jahressitznng am 6. Deeember 1881. 
 Der Präsident Stadtbibliothekar G. B e r k h o l z begrüsste 
 in gebührender Weise die versammelten Mitglieder und 
 Gäste und theilte mit, dass nach der zunächst folgenden 
@@ -6974,3 +7024,4 @@ aufzuzwingen, ihre wohlverbrieften Rechte mit Füssen zu
 treten und die ganze Existenz ihrer Nationalität mit 
 völliger Vernichtung zu bedrohen. Es war ein Bild aus 
 der Völkergeschichtc von ergreifend tragischer Wirkung. 
+</section>

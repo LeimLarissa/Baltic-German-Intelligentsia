@@ -1,4 +1,4 @@
-der 
+<section type='beginning'> der 
 Gesellschaft für Geschichte und Altertumskunde der 
 Ostseepruvinzen Russlands 
 aus dem Jahre 1911. 
@@ -33,7 +33,8 @@ S. 131, n. II, Regest., lies [vor 1273].
 S. 217, Z. 9 von oben: setze hinter „benedicende" und „predicta" je ein 
 Komma und streiche Anm. 32. 
 1911. 
-740. Sitzung аш 12. Januar 1911. 
+</section>
+<section type='monthlymeet'> 740. Sitzung аш 12. Januar 1911. 
 Anwesend waren 28 Mitglieder und 1 Gast. 
 Der Präsident, Herr Stadtarchivar Arnold F e u e r e i s e n , er-
 öffnete die Sitzung mit Worten des Dankes an den bisherigen 
@@ -1664,7 +1665,8 @@ Fortschritt zu konstatieren, da das Land damals „fast ganz wüst" war; der
 Zustand ist aber noch immer äusserst dürftig. 
 3* 
 86 
-741. Sitzung аш 9. Febrnar 1911. 
+</section>
+<section type='yearlymeet'> 741. Sitzung аш 9. Febrnar 1911. 
 Anwesend waren 20 Mitglieder und 1 Gast. 
 Der Präsident, Herr Stadtarchivar Arnold F e u e r e i s e n , 
 eröffnete die Sitzung mit der Mitteilung, dass von der Kaiserl. 
@@ -7674,7 +7676,8 @@ Wolter, Elisabeth . . . . 138 — Joh. Christlieb . 128, 149
 Wulff, Ludwig 152 
 Wunderlich, Gertrud . . . 125 
 165 
-741. Sitzung аш 9. März 1911. 
+</section>
+<section type='monthlymeet'> 741. Sitzung аш 9. März 1911. 
 Anwesend waren 25 Mitglieder. 
 Der Präsident, Herr Stadtarchivar Arnold F e u e r e i s e n , er-
 öffnete die Sitzung mit der Mitteilung, dass die Gesellschaft zwei 
@@ -11629,7 +11632,8 @@ West, Peter, 319. — Helene Gertrud, 6.
 Westrehn, Gertrud Helene, 6, 8. Zinck, Natalie, 419. 
 Wibeck. Erich, 209. 
 253 
-742. Sitzung vom 22. April 1911. 
+</section>
+<section type='monthlymeet'> 742. Sitzung vom 22. April 1911. 
 Anwesend waren 23 Mitglieder. 
 Der Präsident, Herr Stadtarchivar Arnold Feuere isen , 
 eröffnete die Sitzung mit der Mitteilung, dass seit der letzten 
@@ -11763,7 +11767,8 @@ Direktorium als seine Aufgabe zu betrachten haben, diese Grund-
 sätze an geeigneter Stelle, wie etwa dem im Juli d. J. in Now-
 gorod stattfindenden XV. Archäologischen Kongress, zur Geltung 
 zu bringen. 
-743. Sitzung am 11. Mai 1911. 
+</section>
+<section type='monthlymeet'> 743. Sitzung am 11. Mai 1911. 
 Anwesend waren 29 Mitglieder und 1 Gast. 
 Der Präsident, Herr Stadtarchivar Arnold Feuere isen, 
 eröffnete die Sitzung mit der Mitteilung, dass die Gesellschaft 
@@ -13063,7 +13068,8 @@ sämtlichen wichtigen Fundorten des ganzen Reiches, aller Kenntnis
 jener archäologischer Fragen bar ist, die für die lokale Archäo-
 logie gerade von gröster Bedeutung sind. 
 286 
-744. Sitzung am 14. September 1911. 
+</section>
+<section type='monthlymeet'> 744. Sitzung am 14. September 1911. 
 Anwesend waren 30 Mitglieder und 1 Gast. 
 Der Präsident, Herr Stadtarchivar Arnold F e u e r e i s e n , er-
 öffnete die Sitzung mit der Mitteilung, dass die Gesellschaft durch 
@@ -15418,7 +15424,8 @@ barische Nachprägungen. Wenn der ХУ1. Kongress im J. 1914
 in Pleskau stattfindet, so wird der Besuch, auch schon allein um 
 des Ortes willen, dem baltischen Historiker viel Sehens- und 
 Wissenswertes bringen. 
-745. Sitzung am 12. Oktober 1911. 
+</section>
+<section type='monthlymeet'> 745. Sitzung am 12. Oktober 1911. 
 Anwesend waren 35 Mitglieder. 
 Der Präsident, Herr Stadtarchivar Arnold F e u e r e i s e n , 
 eröffnete die Sitzung mit der Mitteilung, dass die Gesellschaft 
@@ -17330,7 +17337,8 @@ stemmt und ausgebrochen waren. Er musste daher gleichzeitig
 mit den anliegenden Häusern abgebrochen werden. Doch konnte 
 wenigstens konstatiert werden, dass die vor einigen Jahren vom 
 Referenten gemachte Aufmessung richtig war. 
-746, Sitzung am 9. November 1911. 
+</section>
+<section type='monthlymeet'> 746, Sitzung am 9. November 1911. 
 Anwesend waren 31 Mitglieder. 
 Der Präsident, Herr Stadtarchivar Arnold Feuere i sen , 
 eröffnete die Sitzung mit der Mitteilung, dass die Gesellschaft 
@@ -19090,7 +19098,8 @@ passte nicht zu seinem ganzen Wesen.
 Aber Schirren war kein Mann der Kompromisse. Das Ganze, 
 wie er es sich dachte, konnte er nicht schaffen; das Halbe 
 wollte er nicht. So schwieg er. 
-747. (Jahres-) Sitzung am 5. Dezember 1911. 
+</section>
+<section type='yearlymeet'> 747. (Jahres-) Sitzung am 5. Dezember 1911. 
 Die vom Präsidenten, Herrn Stadtarchivar Arnold Feuer-
 eisen eröffnete Versammlung wählte auf Vorschlag des Direk-
 toriums zu Ehrenmitgl iedern die Herren: Prof. Dr. Johannes 
@@ -20412,7 +20421,8 @@ eines für die Kirche warm besorgten Stifter-Gutsherrn durch Jahr-
 hunderte gemessen durften. 
 *) Pastor zu Sunzei 1850—94. 
 2) In der Gutsbrieflade zu Sunzei. 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der Vereine und Anstalten, denen die Schriften der Gesell-
 schaft übersandt worden sind, mit Angabe der von ihnen 
 im Austausch erhaltenen Vereinsschriften. 
@@ -20912,7 +20922,8 @@ Heinrich Jochumsen — Münzen und Medaillen.
 *) f am 1. Januar 1912. Bei der statutengem äss vorgenommenen vor-
 läufigen Ersatzwahl wurde am 11. Januar 1913 Stadtbibliothekar N i k o l a u s 
  Buschgewählt.
-Verzeichnis der Mitglieder*). 
+</section>
+<section type='list'> Verzeichnis der Mitglieder*). 
 I. Ehrenmitglieder. 
 1. Königl. schwedischer Reichsarchivar a. D. Dr. Karl Gustaf 
 Malmström, Stockholm. 1884. 
@@ -21710,7 +21721,8 @@ Hause. 1893.
 437. Leo v. Zur-Mlihlen zu Woiseck über Oberpahlen. 1893. 
 (Geschlossen den 6. Dezember 1911. Adressen und Titel entsprechen dem 
 Stande vom Januar 1913.) 
- Verzeichnis
+</section>
+<section type='list'>  Verzeichnis
 der vom 6. Dezember 1910 bis znm 6. Dezember 1911 verstorbenen Mitgl ieder. 
 Die eingeklammerten Zahlen geben das Jahr der Aufnahme zum 
 Mitglied an. 
@@ -21731,7 +21743,8 @@ Jakowlewitsch Ssamokwassow, Ehrenmitglied seit 1909, f am
 10. Artur v. Brackel (1901), f am 9. August in Riga. 
 11. Bernhard v. Bock (1897), f am 9. Oktober zu Schwarzhof. 
 12. Rechtsanwalt Alexander Hoff (1902), f am 23. Okt. in Riga. 
- Verzeichnis
+</section>
+<section type='list'>  Verzeichnis
 der im Jahre 1911 in den Sitzungen der Gesellschaft 
 gehaltenen V o r t r ä g e und verlesenen Z u s c h r i f t e n . 
 Bin vorgedrucktes * zeigt an, dass der betreffende Vortrag vollständig oder 
@@ -22073,3 +22086,4 @@ Zusammen 14,700.— 7,689.37
  Riga,den1. Juli1911.
 Der Schatzmeister der Gesellschaft für Geschichte und Altertumskunde: 
 F. R e d l i c h , 
+</section>

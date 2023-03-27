@@ -1,4 +1,4 @@
-/,7/V/ 
+<section type='beginning'> /,7/V/ 
 v 
 . r. -» \ 
 O 
@@ -29,7 +29,8 @@ Verzeichniss der Mitglieder 175
 Verzeichniss der im Jahre 1896 in den Sitzungen der Gesell­
 schaft gehaltenen Vorträge und verlesenen Zuschriften . . 197 
 1896. 
-600. Versammlung am 10. Jannar 1896. 
+</section>
+<section type='monthlymeet'> 600. Versammlung am 10. Jannar 1896. 
 Bei Eröffnung der Sitzung erinnerte der Herr Präsident 
 H. Baron Bruiningk in einigen einleitenden Worten 
 daran, dass die Gesellschaft sich heute zur 600. Sitzung 
@@ -315,7 +316,8 @@ Beleg für diese Nachricht habe ich nicht finden können;
 die Notiz Baumanns, der nach seiner Angabe neben anderem 
 handschriftlichen Material auch Urkunden benutzt hat, mag 
 aber auf gut beglaubigter Grundlage beruhen. 
-601. Versammlung am 14. Februar 1890. 
+</section>
+<section type='monthlymeet'> 601. Versammlung am 14. Februar 1890. 
 Nach Eröffnung der Sitzung theilte der Herr Präsident 
 H. Baron Bruiningk der Versammlung mit, dass am 
 29. Januar (10. Februar) c. das Ehrenmitglied Professor 
@@ -1399,7 +1401,8 @@ Historikers Axel v. Gernet eine kleine Geschichte des
 Weissensteiner Schlosses zum Preise von 50 Kop. im Buch­
 handel erschienen ist, deren Ertrag dem Baufond zugeführt 
 werden soll. 
-602. Versammlung am 18. März 1S96. 
+</section>
+<section type='monthlymeet'> 602. Versammlung am 18. März 1S96. 
 Das Präsidium übernahm an Stelle des durch Krank­
 heit am Erscheinen verhinderten Präsidenten der Director 
 Anton Buchholtz. 
@@ -1699,7 +1702,8 @@ burgk
 Diesen supplicanten hat V. g. f. vnd herr sechs Reichs­
 thaler zu geben gewilliget. Signatum Güstrow 3. Decemb. 
 A4 92. 
-603. Versammlung am 10. April 1806. 
+</section>
+<section type='monthlymeet'> 603. Versammlung am 10. April 1806. 
 Nach Eröffnung der Sitzung gedachte der Herr Präsi­
 dent H. Baron Bruiningk des vor wenigen Tagen ver­
 storbenen Mitgliedes, des Herrn dim. Hofgerichtspräsidenten 
@@ -2042,7 +2046,8 @@ und die letzte Aufgabe der Kirche erfüllte, konnte von
 einem Bewunderer Ottos III., der die Schale einem kirch­
 lichen Zwecke widmete, dem Bildniss des Kaisers die 
 Devise: Jerusalem — die Vision des Friedens, beigefügt sein. 
-604. Yersammlniig am 8. Mai 1896. 
+</section>
+<section type='monthlymeet'> 604. Yersammlniig am 8. Mai 1896. 
 Nach Eröffnung der Sitzung übergab der Herr Präsident 
 H. Baron Bruiningk das soeben vollendete 2. (Schluss-) 
 Heft des 16. Bandes der „Mittheilungen aus der livländischen 
@@ -3155,7 +3160,8 @@ der Meinung sein, dass sich das verlohne; niemals könnte
 uns  dergle ichen auch nur  annähernd e in  Ersa tz  se in  für  
 die vollständigen Aufzeichnungen Michael Zaupes, — die 
 sind uns eben wohl für immer verloren. 
-605. (ausserordentliche) Versammlung am 17. Juli 1896. 
+</section>
+<section type='monthlymeet'> 605. (ausserordentliche) Versammlung am 17. Juli 1896. 
 Nach Eröffnung der Sitzung erklärte der Herr Präsident 
 H.B aron Bruiningk, dass er sich veranlasst gesehen habe, 
 noch in den Ferien eine Versammlung der Mitglieder der 
@@ -3318,7 +3324,8 @@ Ausstellung von alten Porzellansachen in den Räumen
 des Museums während des Congresses zu interessiren, schloss 
 der Präsident, die Versammlung. 
 80 
-606. Versammlung am 11. September 1896. 
+</section>
+<section type='monthlymeet'> 606. Versammlung am 11. September 1896. 
 In Abwesenheit des augenblicklich im Auslande weilenden 
 Präs identen übernahm der  Director ,  Herr  Anton Bucl i -
 lioltz, das Präsidium und eröffnete die Sitzung, indem er 
@@ -3741,7 +3748,8 @@ Engel oder Engelke zu Sickein, dem wir den Bericht über
 die Hungersnoth des Jahres 1601/2 verdanken. Abge-
 fasst ist die Relation in der Zeit am Schlüsse des Jahres 
 1601 bis Ende Januar 1602. 
-607. Versammlung am 9. October 1896. 
+</section>
+<section type='monthlymeet'> 607. Versammlung am 9. October 1896. 
 In Abwesenheit des Herrn Präsidenten übernahm der 
 Director Herr Anton Buchholtz das Präsidium und legte 
 der  Versammlung  e in  Te legramm der  Frau  Gräf in  Uwarow 
@@ -3984,7 +3992,8 @@ gestiftete Scheibe, deren Marke eine ganz verschiedene
 Form von der heutigen aufweist. (Referent überreichte eine 
 von ihm angefertigte Sammlung der älteren sowie der gegen­
 wärtig noch gebräuchlichen Merkzeichen von Runö.) 
-608. Yersammlnng am IB. November 1890. 
+</section>
+<section type='monthlymeet'> 608. Yersammlnng am IB. November 1890. 
 Nach Eröffnung der Sitzung theilte der Herr Präsident 
 H. Baron Bruiningk der Versammlung mit, dass die 
 Ka ise r l .  a rchäo log ische  Gese l l schaf t  zu  Moskau  
@@ -5101,7 +5110,8 @@ in gothischen Minuskeln: si X claoes X bamarat) X, die
 obere Platte, Durchmesser 12 mm, hat die Hausmarke wieder­
 holt. Ein Claus Damerow, Bürger von Danzig, wird U.-B. 
 VII beim Jahre 1425 genannt. 
-609. Versammlnng am 5. Deeember 1896. 
+</section>
+<section type='monthlymeet'> 609. Versammlnng am 5. Deeember 1896. 
 Nach Eröffnung der Sitzung theilte der Herr Präsident 
 H. Baron Bruiningk mit, dass auf Beschluss des Direc-
 toriums von einer öffentlichen Sitzung zur Jahresfeier der 
@@ -6659,7 +6669,8 @@ die bisherigen Directoren per Acclamation wiedergewählt.
 Ebenso wurden der Präsident, der Schatzmeister und der 
 Secretär für das nächste Triennium wiedergewählt (s. unten 
 Vorstand der Gesellschaft). 
-Verzeichniss 
+</section>
+<section type='list'> Verzeichniss 
 derjenigen Vereine, Akademien, Universitäten und 
 sonstigen Institutionen, die im Jahre 1896 die von 
 ihnen herausgegebenen Schriften übersandt haben. 
@@ -7054,7 +7065,8 @@ turen u. s. w.
 Bibl io thekar :  Ober lehrer  Dr .  Fr iedr ich  Bienemann 
 jun., Riga. 
 Schatzmeis ter :  Jacob Jürgensohn,  Riga .  
-Verzeichniss der Mitglieder. 
+</section>
+<section type='list'> Verzeichniss der Mitglieder. 
 I. Ehrenmitglieder. 
 1. Geh. Regierungsrath Professor Dr. Carl Schirren, 
 Kiel. 1862. 
@@ -7829,7 +7841,8 @@ burg. 1896.
 507. Gustav v. Rathlef zu Tammist. 1897. 
 508. Bernhard v. Bock zu Schwarzhof. 1897. 
 (Geschlossen am 10. April 1897). 
-Verzeichniss 
+</section>
+<section type='list'> Verzeichniss 
 der im Jahre 1896 in den Sitzungen der Gesellschaft 
 gehaltenen Vorträge und verlesenen Zuschriften. 
 Die beigefügte Zalü giebt die Seite der Sitzungsberichte an. 
@@ -7978,3 +7991,4 @@ AEUSSERE VORBURG UND STADT PERNAU.
 ^BÜRG UND STADT 
 N EI U E RE R S TA D T E I L  
 RHEINLAND/3 CHE RUTEN. 
+</section>

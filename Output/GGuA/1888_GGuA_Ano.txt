@@ -1,4 +1,4 @@
-der 
+<section type='beginning'> der 
 Gesellschaft für Geschichte und Alterthumskunde der 
 Dstseeprovinzen Russlands 
 aus dem Jahre 1888. 
@@ -26,7 +26,8 @@ Verzeichniss der Mitglieder am 10. März 1889 114
 Verzeichniss der im Jahre 1888 gehaltenen Vorträge und ver­
 lesenen Zuschriften 128 
 1888. 
-520. Versammlung am IB. Januar 1888. 
+</section>
+<section type='monthlymeet'> 520. Versammlung am IB. Januar 1888. 
 Der Bibliothekar machte Mittheilung über die seit der 
 letzten Sitzung eingegangenen Schriften. 
 An Geschenken waren dargebracht worden vom Di-
@@ -289,7 +290,8 @@ darf, so bietet dasselbe doch manches Beachtenswerthe und
 daher ist es meiner Meinung nach nicht ganz nutzlos, die 
 Forscher auf die Existenz dieses Buches aufmerksam ge­
 macht zu haben. 
-527. Versammlung am 10. Februar 1888. 
+</section>
+<section type='monthlymeet'> 527. Versammlung am 10. Februar 1888. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden vom corre-
 spondirenden Mitgliede Herrn Professor Dr. Karl Loh­
@@ -682,7 +684,8 @@ rigen und doch fast vollständig fehlerfreien Druck und die
 würdige Ausstattung des Werkes hat sich die Officin von 
 W. F. Häcker in Riga verdient gemacht und ihren alten 
 Ruf von Neuem bewährt. 
-528. Versammlung am 9. März 1888. 
+</section>
+<section type='monthlymeet'> 528. Versammlung am 9. März 1888. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden vom ordent­
 lichen Mitgliede Herrn Buchdruckereibesitzer Woldemar 
@@ -781,7 +784,8 @@ Herausgegeben von dem Verein für die Geschichte von Ost-
 und Westpreussen. 1887. Die hier behandelten Jahre 1600 
 bis 1625 berühren, wenn auch nur in Umrissen, auch die 
 Vorgänge in Livland. 
-529. Versammlung am 13. April 1SS8. 
+</section>
+<section type='monthlymeet'> 529. Versammlung am 13. April 1SS8. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden von Herrn 
 dim. Rathsherrn Tode: 181 Münzen verschiedener Länder, 
@@ -1662,7 +1666,8 @@ sucht hatte. Snell wurde, wie es heisst, wegen nachlässiger
 Amtsführung und unvorsichtigen Lebenswandels 1787 aus 
 dem Amt entfernt. Sein Nachfolger wurde, wenn auch nur 
 auf kurze Zeit, kein geringerer als Karl Gottlob Sonntag. 
-580. Versammlung am 11. Mai 1888. 
+</section>
+<section type='monthlymeet'> 580. Versammlung am 11. Mai 1888. 
 Der Accessionsbericht wurde verlesen. 
 An Geschenken waren dargebracht worden vom ordent­
 lichen Mitgliede Herrn wirkl. Staatsrath Ernst v. Berg: 
@@ -2227,7 +2232,8 @@ unser Landsmann Stieda werde auch ferner, wenn auch
 unserem Lande und unseren Verhältnissen entrückt, seine 
 rastlose Arbeitskraft nach wie vor der Geschichte unserer 
 baltischen Provinzen, seiner alten Heimath, zuwenden. 
-581. Versammlung am 14. September 1888. 
+</section>
+<section type='monthlymeet'> 581. Versammlung am 14. September 1888. 
 Herr dim. Rathsherr L. Napiersky, der auf Bitte 
 des Directoriums bis zum 5. December d. J., dem statuten-
 mässig bestimmten Wahltage, das provisorische Präsidium 
@@ -2601,7 +2607,8 @@ tion der kleinen Meisterchronik ist leider nicht in ganz
 intactem Zustande. Das 9. Blatt fehlt, enthaltend den An­
 fang der Nachrichten über Hinrick van Beckenode bis zum 
 Schluss des über Berend v. d. Borg handelnden Abschnitts. 
-582. Versammlung am 12. Oetober 1888. 
+</section>
+<section type='monthlymeet'> 582. Versammlung am 12. Oetober 1888. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden von Herrn 
 Pohlmann in Schlock: 1) Eine Thalerklippe aus Silber 
@@ -2701,7 +2708,8 @@ für einige charakteristische Beispiele angeführt worden,
 schloss der Vortragende, indem er sich die Besprechung 
 der Beziehungen der Städtetage zu den Landesherren für 
 ein anderes Mal vorbehielt. 
-583. Versammlung am 9. November 1S88. 
+</section>
+<section type='monthlymeet'> 583. Versammlung am 9. November 1S88. 
 Der Präsident gedachte der verstorbenen ordentlichen 
 Mitglieder: Iiv i. General-Superintendent Heinrich Gir-
 gensohn und Obernotair Alexander v. Plato. 
@@ -3361,7 +3369,8 @@ willigen; für solche Zwecke verausgabte Summen sind
 wahrlich nicht vergeudet und kunstgeschichtliche For­
 schungen kommen der Gesammtheit zu gute, müssen daher 
 auch von der Gesammtheit bestritten werden. 
-534. Versammlung am 5. Deeember 1888. 
+</section>
+<section type='monthlymeet'> 534. Versammlung am 5. Deeember 1888. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden: vom ordent­
 lichen Mitgliede Herrn Aeltesten Robert Jaksch dessen: 
@@ -4268,7 +4277,8 @@ Summa . . 7127 Rbl. 7 Kop.
 Wogegen der Gesammtbestand zum 
 6. December 1887 8393 Rbl. 60 Kop. 
 betrug. 
-Verzeicliniss 
+</section>
+<section type='list'> Verzeicliniss 
 derjenigen Vereine, Akademien, Universitäten und sonstigen 
 Institutionen, welche im Jahr 1888 die von ihnen 
 herausgegebenen Schriften übersandt haben*). 
@@ -4637,7 +4647,8 @@ Secre ta i r :  Ober lehrer  Dr .  Phi l ipp  Öchwar tz ,  Riga .
 Bibliothekar: Notair Arend Buchholtz, Riga. 
 Schatzmeister: Advocat Christian Bornhaupt, Riga. 
 —--8 
-Verzeichnis» der Mitglieder. 
+</section>
+<section type='list'> Verzeichnis» der Mitglieder. 
 I. Ehrenmitglieder. 
 1. Mitglied des Reichsraths wirkl. Gekeimratli Georg 
 v. Brevem, St. Petersburg. 1859. 
@@ -5124,7 +5135,8 @@ arzt in Wenden. 1889.
 256. Baron Theodor v. Drachenfels, Mitau. 1889. 
 257. Ritterschaftsactiiar Karl v. Rautenfeld, Riga. 1889. 
 (Geschlossen am 10. März 1889.) 
-Verzeichniss  
+</section>
+<section type='list'> Verzeichniss  
 der im Jahre 1888 in den Sitzungen der Gesellschaft ge­
 haltenen Vorträge und verlesenen Zuschriften, 
 Die beigefügte Zahl giebt die Seite der Sitzungsberichte an. 
@@ -5266,3 +5278,4 @@ Blewin mite.
 < $jß * 1!100. 
 C.v.Iöwis of Menar.1 888. 
 Xith. v. w, F Hacker, Rias. 
+</section>

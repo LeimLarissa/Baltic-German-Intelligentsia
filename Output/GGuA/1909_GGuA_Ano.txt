@@ -1,4 +1,4 @@
-1! 
+<section type='beginning'> 1! 
 m 
 der 
 Besellschaft für Eeschichte und Altertumskunde 
@@ -30,7 +30,8 @@ Verzeichnis der im Jahre 1909 in den Sitzungen der Gesellschaft
 gehaltenen Vorträge und verlesenen Zuschriften 119 
 Beilage 121 
 1909. 
-719. Versammlung am 14. Januar 1909. 
+</section>
+<section type='monthlymeet'> 719. Versammlung am 14. Januar 1909. 
 Nach Eröffnung der Sitzung begrüsste der Präsident Direktor 
 Bernh. A. Hollander das zur Versammlung erschienene neu-
 gewählte Ehrenmitglied Herrn Direktor G. Schweder. Herr 
@@ -500,7 +501,8 @@ allzusehr durch die ihm begegnenden Türken, Armenier und
 Griechen gefesselt. Schliesslich tritt hinter die persönlichen An­
 gelegenheiten und Verhältnisse alles andere zurück. 
 12 
-720. Versammlung am 11. Februar 1909. 
+</section>
+<section type='monthlymeet'> 720. Versammlung am 11. Februar 1909. 
 Nach Eröffnung der Sitzung machte der Präsident Herr 
 Direktor Bernh. A. Hollander die Mitteilung, dass das ordent­
 l iche  Mitgl ied  der  Gesel lschaf t ,  Herr  dim.  Landrat  Arved 
@@ -683,7 +685,8 @@ worden. Vielleicht könnte eine Untersuchung des Gesichtes und
 der Kirchenwand durch einen Architekten die Richtigkeit oder 
 Unrichtigkeit dieser letzten Ansicht nachweisen. 
 n 
-721. Versammlung am 11. Marz 1909. 
+</section>
+<section type='monthlymeet'> 721. Versammlung am 11. Marz 1909. 
 Nach Eröffnung der Sitzung machte der Präsident Herr 
 Direktor Bernh. A. Hollander die Mitteilung, dass die ordent­
 lichen Mitglieder der Gesellschaft, Herr cand. oec. pol. Archivar 
@@ -982,7 +985,8 @@ die Ausfuhrartikel aus Lübeck nach Riga, Pernau und Reval
 innerhalb derselben Zeit behandelt worden sind, und dass die 
 Anzahl der Importartikel die der Exportwaren bei weitem mebr 
 als um das Doppelte übertrifft. 
-722. Versammlung vom 8. April 1909. 
+</section>
+<section type='monthlymeet'> 722. Versammlung vom 8. April 1909. 
 Nach Eröffnung der Sitzung machte der Präsident Herr 
 Direktor Bernh. A. Hollander die Mitteilung, dass aus dem 
 Nachlasse  von Fräule in  Marie  Liss  der  Gesel lschaf t  e ine  Erb­
@@ -1068,7 +1072,8 @@ ohne Namenbezeichnungen.
 Aus dem Mitgeteilten scheint zu folgen, dass der Name 
 Marienbach erst im 18. Jahrhundert entstanden sein dürfte, da 3, 
 vielleicht 4 Zeichner statt seiner nur die Mergeuppe kennen. 
-723. Versammlung am IB. Mai 1909. 
+</section>
+<section type='monthlymeet'> 723. Versammlung am IB. Mai 1909. 
 Der Präsident Direktor Bernh. A. Hollander eröffnete 
 die Versammlung mit der Mitteilung, dass seit der letzten Sitzung 
 verstorben seien die Herren: das korrespondierende Mitglied 
@@ -1145,7 +1150,8 @@ vielleicht der Wortlaut der aus Riga an ihn gerichteten Auf­
 forderung erhalten habe, hat leider nicht zu einem positiven 
 ^ Resultat geführt. 
 29 
-724. Versammlung am 9. September 1909. 
+</section>
+<section type='monthlymeet'> 724. Versammlung am 9. September 1909. 
 Der Vorsitzende Herrn. Baron Bruiningk eröffnete die 
 Versammlung mit der Mitteilung, dass seit der letzten Sitzung 
 vom 14. Mai d. J. verstorben seien die Herren: dim. Landrat 
@@ -1450,7 +1456,8 @@ der Kaiserin Katharina II." beigefügt hat. 2. Aufl., Stuttg. 1907).
 Ferner erwähnte Akademiker Kunik, dass das Original keines­
 wegs durchweg französisch verfasst sei, sondern zum Teil auch 
 russisch, zum Teil deutsch. 
-725. Versammlung vom 14. Oktober 1909. 
+</section>
+<section type='monthlymeet'> 725. Versammlung vom 14. Oktober 1909. 
 Der stellvertr. Präsident Herrn. Baron Bruiningk eröffnete 
 die Versammlung mit der Mitteilung, dass seit der letzten Sitzung 
 verstorben seien die Herren Ritterschaftssekretär Harald Baron 
@@ -1903,7 +1910,8 @@ Gesetzgebung für Heimatschutz ist nicht zum geringsten Teil
 auf seine Initiative zurückzuführen. Die Gutachten des Tages 
 über Denkmalrestaurierungen und Denkmalerhaltung sind fast 
 überall als verbindlich angenommen. 
-726. Versammlung am 11. November 1909. 
+</section>
+<section type='monthlymeet'> 726. Versammlung am 11. November 1909. 
 Der stellvertretende Präsident Herrn. Baron Bruiningk 
 eröffnete die Versammlung mit der Mitteilung, das das ordentl. 
 Mi tg l ied  der  Gese l l schaf t  Herr  Wal te r  von  Zur-Mühlen-
@@ -2639,7 +2647,8 @@ Eine restlose Verarbeitung des umfangreichen handschrift­
 lichen Materials ist schon aus dem Grunde nicht möglich gewesen, 
 weil viele flüchtig mit Tinte oder gar Rötel hingeworfene Notizen 
 ganz oder teilweise unleserlich sind. 
-728. (Jahres-) Versammlung am 5. Dezember 1909. 
+</section>
+<section type='yearlymeet'> 728. (Jahres-) Versammlung am 5. Dezember 1909. 
 Der stellvertretende Präsident Herrn. Baron Bruiningk 
 eröffnete die Versammlung mit der Mitteilung, dass seit der 
 letzten Sitzung verstorben seien die ordentlichen Mitglieder Karl 
@@ -3017,7 +3026,8 @@ Herr Inspektor Const. Mettig gab einige Ergänzungen zu
 dem von ihm im März d. J. gehaltenen Vortrage; sie sind später 
 vom Verfasser in den Vortrag vom März d. J. hineingearbeitet 
 worden. 
-728. (öffentliche Jahres-) Versammlung am 6. Dezember 1909. 
+</section>
+<section type='yearlymeet'> 728. (öffentliche Jahres-) Versammlung am 6. Dezember 1909. 
 Der Präsident, Herr Stadtbibliothekar Nikolaus Busch 
 begrüsste die zur Feier des Tages erschienenen Damen und 
 Herren, wobei er darauf hinwies, dass die Gesellschaft auf ein 
@@ -3318,7 +3328,8 @@ Vortrag ist in der „Rigaschen Rundschau" 1910, Nr. 15—17,
 veröffentlicht worden. 
 Hiermit war die Tagesordnung erschöpft, und der Präsi­
 dent schloss die Versammlung. 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der Vereine und Anstalten, denen die Schriften der Gesell­
 schaft übersandt worden sind, mit Angabe der von ihnen 
 . im Austausch erhaltenen Vereinsschriften. 
@@ -3748,7 +3759,8 @@ Robert Jaksch — Keramik, Schmucksachen, Miniaturen u. s. w.
 Heinrich Jochumsen — Münzen und Medaillen. 
 Bibliothekar: Ed. Fehre. 
 Schatzmeister: Franz Redlich. 
-Verzeichnis der Mitglieder*). 
+</section>
+<section type='list'> Verzeichnis der Mitglieder*). 
 I. Ehrenmitglieder. 
 1. Geh. Regierungsrat Professor Dr. Karl Schirren, Kiel, Holstein. 
 1862. 
@@ -4527,7 +4539,8 @@ Hause. 1893.
 436. Leo v. Zur-MUhlen zu Woiseck über Oberpahlen. 1893. 
 (Geschlossen den 6. Dezember 1909.) 
 118 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der vom 6. Dezember 1908 bis zum 6. Dezember 1909 verstorbenen Mitglieder. 
 Livländischer Landrat a. D. Arved Baron Noicken zu Allatzkiwwi, 
 Mitglied seit 1876. Gestorben am 4. Februar 1909 zu 
@@ -4559,7 +4572,8 @@ Glied der Agrarkommission zu Wereja Karl Jürgensohn, Mitglied
 seit 1891. Gestorben am 21. November zu Wereja. 
 Regierungsrat a. D. Emil v. Klein, Mitglied seit 1895. Gestorben 
 am 26. November zu Riga. 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der im Jahre 1909 in den Sitzungen der Gesellschaft 
 gehaltenen Vorträge und verlesenen Zuschriften. 
 Die beigefügte Zahl gibt die Seite der Sitzungsberichte an. Ein vorgedrucktes 
@@ -5100,3 +5114,4 @@ schlossenen Inhalt jedes Bandes keinen Nutzen, sie sind ein
 entbehrlicher Luxus. 
 Sassenhof bei Riga, Mitte September 1909. 
 L. Arbusow. 
+</section>

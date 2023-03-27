@@ -1,4 +1,4 @@
-KIR. : 
+<section type='beginning'> KIR. : 
 ti 0 r; 
 m 
 m 
@@ -29,7 +29,8 @@ Verzeichniss der Mitglieder am 17. Januar 1887 150
 Verzeichniss der im Jahre 1886 gehaltenen Vorträge und ver-
 lesenen Zuschriften 163 
 1886. 
-506. Vei'sammlang am 8. Jaonar 1886. 
+</section>
+<section type='monthlymeet'> 506. Vei'sammlang am 8. Jaonar 1886. 
 Der Präsident, Bürgermeister Böt l i fü l i r , gedachte des 
 zu Meran erfolgton Ablebens des früheren Präsidenten und 
 Ehrenmitgliedes, Dr. G e o r g B e r k h o l z . Die Hoffnung, 
@@ -216,7 +217,8 @@ deutsam geworden ist durch sein mannhaftes Auftreten
 in den sog. Kalendorunruhen, wie er auch durch die Ab-
 fassung einer Chronik sich l)ekannt gemacht hat. 
 6 
-507. Versammlang am 12. Februar 1886. 
+</section>
+<section type='monthlymeet'> 507. Versammlang am 12. Februar 1886. 
 Der Secretair, Oberlehrer Dr. P h i l i p p Schwar t z , 
 verlas an Stelle des abwesenden Bibliothekars den Ac-
 cessionsbericht. 
@@ -449,7 +451,8 @@ Zum Schluss übergab Herr Consulent Chr. B o r n h a u p t
 einige Exemplare des Rechenschaftsberichts der Abtheilung 
 der Gesellschaft für Geschichte und Alterthumskunde für 
 den Rigaschen Dombau für das Jahr 1885. 
-508. Verfnammlung am 12. März 1886. 
+</section>
+<section type='monthlymeet'> 508. Verfnammlung am 12. März 1886. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren darge])racht worden von Herrn 
 Kaufmann W l a d i m i r K l e i n b e r g : 1 Missale. Druck aus 
@@ -969,7 +972,8 @@ welches in alter Zeit unter den Investiturzeichen der Ordens-
 meister eine so sehr hervorragende Rolle spielte (cf. Toll-
 Schwartz, Chronologie etc., 8. 3 ff.) in späterer Zeit aus ihrer 
 Zahl verschwunden zu sein scheint. 
-509. Versaiiimlniig am 9. April 1886. 
+</section>
+<section type='monthlymeet'> 509. Versaiiimlniig am 9. April 1886. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden von einem 
 Ungenannten: 9 Papiergeldzeichen im Werth A'̂ on 10 bis 
@@ -1738,7 +1742,8 @@ in scholares, jucundus inter amicos et quosvis, sorte sua
 sine ulla lite contentus. Tandem 1602, 16. Kaiend. Novem-
 bris dira peste suflfocatus cum quinque lilieris conjuge relicta 
 tristissima. 
-510. Versammlnng am 14. Nai 1886. 
+</section>
+<section type='monthlymeet'> 510. Versammlnng am 14. Nai 1886. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden von S. K. 
 H. dem G r o s s f ü r s t e n G e o r g Micha i lowi t sch : Be.i. 
@@ -2189,7 +2194,8 @@ Gilde nicht aufgefunden werden konnte.
 Zum Schluss wurde Herr C h r i s t i a n Gie l in Petersburg 
 zum correspondirenden Mitgliede der Gesellschaft auf-
 genommen. 
-511. TersammloDg am 10. September 1886. 
+</section>
+<section type='monthlymeet'> 511. TersammloDg am 10. September 1886. 
 Der Präsident, Bürgermeister B ö t h f ü h r , eröffnete die 
 Versammlung mit der Vorlegung der Sitzungsberichte aus 
 dem Jahr 1885 und des 4. Heftes von Band 13 der Mit-
@@ -3046,7 +3052,8 @@ Gotteshaus auch zu den Erstlingen der christlichen Kirchen
 und den Erstlingen der evangelischen Kirchen Livlands 
 gehört. 
 78 
-513. Versammlung am 12. iVoTember 18S6. 
+</section>
+<section type='monthlymeet'> 513. Versammlung am 12. iVoTember 18S6. 
 Der Bibliothekar verlas den Accessionsbericht. 
 An Geschenken waren dargebracht worden: Vom könig-
 lichen Reichsarchiv in S tockho lm: 1. Svenska riksrädets 
@@ -4060,7 +4067,8 @@ Abschrift umfasst nach einer einleitenden Beschreibung
 des Originals 61 Quartblätter. 
 Anm. Die vorstehenden Urkunden von Nr. 21—45 sind dem 
 Eevaler Denkelbucli entnommen. 
-514. Versammlnng am 5. December 1886. 
+</section>
+<section type='monthlymeet'> 514. Versammlnng am 5. December 1886. 
 Der Präsident eröffnete die Versammlung mit der Vor-
 legung des 1. Heftes von Band 14 der „Mittheilungen", 
 und der in Livland gefundenen, für das Museum der Gesell-
@@ -4605,7 +4613,8 @@ bedeutsamen Schrift über die Geschichte des Münsterischen
 Aufruhrs vorangegangen war, abgeschlossen sein, indem die 
 Auffindung neuer Quellen und weiterer Nachi'ichten über 
 ihn nicht mehr zu erwarten ist. 
-515. Oeft'entliehe Jaliresversaminlnng am 0. Defeinber 1880. 
+</section>
+<section type='yearlymeet'> 515. Oeft'entliehe Jaliresversaminlnng am 0. Defeinber 1880. 
 Der Präsident, Bürgermeister B ö t h f ü h r , begrüsste die 
 Versammlung, wies hin auf die glücklich gelungene Er-
 werbung der in Livland gefundenen Kaiser-Otto-Schale und 
@@ -5834,7 +5843,8 @@ Festigung der Heimathsliebe in den heranwachsenden Ge-
 schlechtern, als ein Denkmal der alten Ehren unseres 
 Landes und unserer Stadt, als ein lebendiges Symbol des 
 Zusammenhanges mit den Vätern! 
- Terzeichnis8
+</section>
+<section type='list'>  Terzeichnis8
 derjenigen Vereine, Akademien, Universitäten und sonstigen 
 Institutionen, welolie im Jahre 1886 die von ihnen 
 herausgegebenen Schriften übersandt haben*). 
@@ -6125,7 +6135,8 @@ forschung zu Wiesbaden.
 Annalen Bd. 19. Wiesbaden 1886. 
 Das Riga-Wolmarsche Kreisgericht zu Wolmar. 
 AVidsemmes Latweeschu Awises. Walmeerä 1886. 
-Verzeichniss der Mitglieder. 
+</section>
+<section type='list'> Verzeichniss der Mitglieder. 
 I. Ehrenmitglieder. 
 1. Mitglied des Reichsraths wirkl. Geheimrath Georg 
 V. B r e v e m , St. Petersburg. 1859. 
@@ -6558,7 +6569,8 @@ land. 1886.
 211. Manufacturrath A l b e r t W o l f s c h m i d t , Riga. 1887. 
 212. Cand. jur. Max Hi lweg , Riga. 1887. 
 (Geschlossen am 17. Jaunai- 1887.) 
- Verzeichniss
+</section>
+<section type='list'>  Verzeichniss
 der im Jahr 1886 in den Sitzungen der G-esellsohaft ge-
 haltenen V o r t r ä g e und verlesenen Zuschr i f ten . 
 Vorbemerkniig. Die beigefügte Zahl giebt die Seite der 
@@ -6690,3 +6702,4 @@ Jahre 1886. 114.
 Deckenmalerei im Altarliause zu St. Jacob in Riga. 
 Entdeckt am 12. Juli 1886. Renovirt im Se])tember 1886. 
 Maassstab 1 :10. 
+</section>

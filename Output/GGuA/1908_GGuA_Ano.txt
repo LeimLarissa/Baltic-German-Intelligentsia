@@ -1,4 +1,4 @@
-//// - t y f z  
+<section type='beginning'> //// - t y f z  
 der 
 Gesellschaft für Geschichte und Altertumskunde der 
 Ostseeprovinzen Russlands 
@@ -24,7 +24,8 @@ Verzeichnis der im Jahre 1908 in den Sitzungen der Gesellschaft
 gehaltenen Vorträge und verlesenen Zuschriften 126 
 Beilage 128 
 1908. 
-711. Versammlung vom 9. Januar 1908. 
+</section>
+<section type='monthlymeet'> 711. Versammlung vom 9. Januar 1908. 
 Der Präsident Direktor Bernli. Hollander eröffnete die 
 Versammlung mit der Mitteilung, dass er soeben die Nachricht 
 erhalten habe, dass das korrespondierende Mitglied Geh. Re­
@@ -298,7 +299,8 @@ beckern auch in Riga rivalisiert haben.
 Häuptern wusste man bis hierzu nichts. Vielleicht dürfte dar­
 über mehr in Bremen bekannt sein. 
 8 
-712. Versammlung Yom 13. Februar 1908. 
+</section>
+<section type='monthlymeet'> 712. Versammlung Yom 13. Februar 1908. 
 Zum ordentlichen Mitgliede der Gesellschaft wurde auf­
 genommen der Herr Architekt Wilhelm Roessler. 
 Für die Bibliothek sind dargebracht worden: 1) aus dem 
@@ -824,7 +826,8 @@ Ostseepolitik in ihren ersten Phasen durchaus keine auf die Er­
 oberung Livlands zielende Expansionspolitik gewesen ist, sondern 
 nur auf das Fussfassen am Meer, den Hafen an der Ostsee ge­
 richtet war. 
-718. Versammlung vom 12. März 1908. 
+</section>
+<section type='monthlymeet'> 718. Versammlung vom 12. März 1908. 
 Der Präsident Direktor Bernh. Hollander eröffnete die 
 Versammlung mit der Mitteilung, dass das' ordentliche Mitglied 
 Generalleutnant Georg v. Transehe-Roseneck, Kommandant 
@@ -1021,7 +1024,8 @@ doxen Kirchen im Baltischen Bezirk an einen benachbarten, etwa
 den St. Petersburger Bezirk, — ein Standpunkt, den die Gesell­
 schaft für Geschichte und Altertumskunde wohl durchaus teilen 
 wird. 
-714. Versammlung vom 14. Mai 1908. 
+</section>
+<section type='monthlymeet'> 714. Versammlung vom 14. Mai 1908. 
 An Stelle des am Erscheinen verhinderten Präsidenten der 
 Gesellschaft Direktor Bernh. A. Hollander präsidierte das 
 Ehrenmitglied Herrn. Baron Bruiningk. 
@@ -1306,7 +1310,8 @@ gebend? Auch unsere modernen Diplomaten sind nicht ausge­
 nommen. Sie sind im Grunde genommen immer dieselben ge­
 blieben, ob sie in der Toga, im Harnisch, in der Kutte oder im 
 Frack auftreten. 
-715. Versammlung am 10. September 1908. 
+</section>
+<section type='monthlymeet'> 715. Versammlung am 10. September 1908. 
 Der Präsident Direktor Bernh. Holl and er eröffnete die 
 Versammlung mit der Mitteilung, dass seit der Sitzung im Mai 
 d. J. folgende Mitglieder der Gesellschaft verstorben seien: die 
@@ -1559,7 +1564,8 @@ tumskunde, der Kurländischen Gesellschaft für Literatur und
 Kunst, der Estländischen Literarischen Gesellschaft und der 
 Gelehrten Estnischen Gesellschaft im August d. J. teilgenommen 
 hatte (siehe Beilage). 
-716. Versammlung am 8. Oktober 1908. 
+</section>
+<section type='monthlymeet'> 716. Versammlung am 8. Oktober 1908. 
 Der Präsident Direktor Bernhard Hollander eröffnete die 
 Sitzung mit der Mitteilung, dass seit der letzten Sitzung ver­
 s torben  se ien  d ie  Herren :  das  kor respondierende  Mi tg l ied  Chr i ­
@@ -2215,7 +2221,8 @@ Im Stockholmer Kriegsarchiv befinden sich mehrere ältere
 Pläne von Riga, von denen hier keine Kopien vorhanden sind; 
 sie wären für vorliegende Untersuchungen von grösstem Wert, 
 insbesondere für die Erforschung der Zwingeranlagen. 
-717. Versammlung vom 12. November 1908. 
+</section>
+<section type='monthlymeet'> 717. Versammlung vom 12. November 1908. 
 Der Präsident Direktor Bernh. Hollander eröffnete die 
 Versammlung mit der Mitteilung, dass das ordentliche Mitglied 
 der Gesellschaft Herr Gustav Adolf Rothert am 2. November 
@@ -2475,7 +2482,8 @@ tieft worden sein, um der Salismündung mehr Wasser zuzuführen.
 s) Sehirren, C., Recesse d. Livl. Landtage, Dorpat 1865, 8. 212 (Punkt 
 9 der „Desideria" des Landtags zu Wenden, 19. März 1692). 
 61 
-718. (Jahres-) Versammlung vom 10. Dezember 1908. 
+</section>
+<section type='yearlymeet'> 718. (Jahres-) Versammlung vom 10. Dezember 1908. 
 Nach Eröffnung der Versammlung durch den Präsidenten 
 Direktor Bernhard Hollander wurden auf Vorschlag des 
 Direktoriums zu Ehrenmitgliedern der Gesellschaft aufge­
@@ -3799,7 +3807,8 @@ Sacken neugewählt.
 Schatzmeisters S. 62—66. 
 !) Protokolle des Baltischen Historikertages zu Riga vom 15./28, bis 
 17./80. April 1908. Riga, Druck von W. F. Hacker. 1908. 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der Vereine und Anstalten, denen die Schriften der Gesell­
 schaft übersandt worden sind, mit Angabe der von ihnen 
 im Austausch erhaltenen Vereinsschriften. 
@@ -4214,7 +4223,8 @@ Robert Jaksch — Keramik, Schmucksachen, Miniaturen u. s. w.
 Heinrich Jochumsen — Münzen und Medaillen. 
 Bibliothekar: Ed. Fehre. 
 Schatzmeister: Franz Redlich. 
-Verzeichnis der Mitglieder*). 
+</section>
+<section type='list'> Verzeichnis der Mitglieder*). 
 I. Ehrenmitglieder. 
 1. Geh. Regierungsrat Professor Dr. Karl Schirren, Kiel, Holstein. 
 1862. 
@@ -4983,7 +4993,8 @@ Hallick. 1908.
 444. Walther v. Zur-MUhlen zu Judasch, Riga, Felliner Str. J\* 1. 
 1893. 
 (Geschlossen den 6. Dezember 1908.) 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der vom 6. Dezember 1907 bis zum 6. Dezember 1908 verstorbenen Hitglieder. 
 Bibliothekar an der Kaiserl. Akademie $er Wissenschaften Oskar 
 v. Haller, Mitglied seit 1898. Gestorben in St. Petersburg 
@@ -5024,7 +5035,8 @@ Dr. med. Hugo v. Brehm zu Ayasch, Mitglied seit 1893. Ge­
 storben am 5. Oktober in Riga. 
 G. A. Rothert, Mitglied seit 1884. Gestorben am 2. November 
 in Riga. 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der im Jahre 1908 in den Sitzungen der Gesellschaft 
 gehaltenen Vorträge und verlesenen Zuschriften. 
 Die beigefügte Zahl gibt die Seite der Sitzungsberichte an. Ein vorgedrucktes 
@@ -5834,3 +5846,4 @@ und das Ministerium des Innern zu ersuchen, bei der definitiven
 Ausarbeitung dieser Regeln zur Teilnahme an der Beratung die 
 Vertreter aller historisch-archäologischen und denselben nahe­
 stehenden Institutionen und Gesellschaften heranzuziehen. 
+</section>

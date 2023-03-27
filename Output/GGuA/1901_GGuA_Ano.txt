@@ -1,4 +1,4 @@
-- -W -gollberg 
+<section type='beginning'> - -W -gollberg 
 '  xSt 
 der 
 Gesellschaft für Geschiclite und Alterthumskunde der 
@@ -25,7 +25,8 @@ Verzeichniss der im Jahre 1901 gehaltenen Vorträge and ver­
 lesenen Zuschriften 178 
 Berichtigungen 182 
 1901. 
-646. Versammlung am 19. Januar 1901. 
+</section>
+<section type='monthlymeet'> 646. Versammlung am 19. Januar 1901. 
 Nach Eröffnung der Sitzung gedachte der Präsident 
 H. y. Bruiningk der im letzten Monat verstorbenen Mit­
 glieder: Gotthard v. Vegesack, Rath der Oberdirektion 
@@ -524,7 +525,8 @@ im Anfang des 16. Jahrh. zum Abschluss gelangt sein. Die
 Annahme dieses terminus ad quem wird begründet durch 
 die Tracht der die h. Magdalena darstellenden Flach­
 schnitzerei an dem einen Stirnende3). 
-647. Versammlung am 14. Februar 1901. 
+</section>
+<section type='monthlymeet'> 647. Versammlung am 14. Februar 1901. 
 Nach Eröffnung der Sitzung machte der Präsident 
 II. von Bruiningk die Mittheilung, dass der Herr 
 Ae l t e s t e  de r  Schwarzenhäup te r  W.  0 .  von  Sengbusch  
@@ -762,7 +764,8 @@ Anzahl bemerkenswerther neuer Accessionen des Museums,
 worüber eine ausführlichere Mittheilung vorbehalten bleibt. 
 2* 
 20 
-648. Versammlung am 14. März 1901. 
+</section>
+<section type='monthlymeet'> 648. Versammlung am 14. März 1901. 
 Nach Eröffnung der Sitzung theilte der Präsident 
 mit, er habe der Versammlung im Namen des Direktoriums 
 zu Mitgliedern der laut Beschluss der vorigen Sitzung zu 
@@ -1116,7 +1119,8 @@ der officiellen Beschreibung des Heraldiedepartements von
 1788, als auch dem historischen Entwicklungsgänge und 
 den heraldischen Grundsätzen entspreche. 
 30 
-649. Versammlung am 11. April 1901. 
+</section>
+<section type='monthlymeet'> 649. Versammlung am 11. April 1901. 
 Nach dem Accessionsbericht des Bibliothekars waren 
 an Geschenken dargebracht worden: 1) von Herrn Professor 
 Dr. R. Hausmann in Dorpat: 16 Sonderabdrücke seiner 
@@ -1356,7 +1360,8 @@ ten hat, wird er unter den Schutzheiligen natürlich vermisst.
 sj E. v. Cziliak a. a. O. 
 3* 
 36 
-650. Versammlnng am 9. Mai 1901. 
+</section>
+<section type='monthlymeet'> 650. Versammlnng am 9. Mai 1901. 
 In Abwesenheit des Präsidenten übernahm Dr. Anton 
 Buchholtz den Vorsitz und berichtete, dass die Sitzungs­
 berichte pro 1900 fertiggestellt seien und in den nächsten 
@@ -1953,7 +1958,8 @@ lieber bruder dis erdmänneken schicke ich dir zu einem
 glückseeligen neuen jähr, und lass es nicht von dir kommen, 
 das es magk behalten dein kindeskind. Hiernit Gott befohlen. 
 Datum Leipzig sontag vor Fastnacht 75\). Hanss N. 
-651. Versammlung am 12. September 1901. 
+</section>
+<section type='monthlymeet'> 651. Versammlung am 12. September 1901. 
 Nach Eröffnung der Sitzung gedachte der Präsident 
 H. v. Bruiningk der im Laufe des Sommers heimgegan-
 genen Mitglieder: des Herrn dim. Bürgermeisters von Schlock 
@@ -2642,7 +2648,8 @@ weitiger Beruf ihm nur eine beschränkte Thätigkeit ge­
 stattete." Indessen ist Keussler bereits am 4. Juni 1828 
 gestorben, seine Wirksamkeit an der Sternwarte hat also 
 nur zehn Jahre gewährt. 
-652. Versammlung am 10. Oktober 1901. 
+</section>
+<section type='monthlymeet'> 652. Versammlung am 10. Oktober 1901. 
 In der heutigen, zahlreich besuchten Monats Versamm­
 lung hielt der Präsident II. v. Bruiningk eine Gedächt­
 nissrede auf den am 3. d. M. verstorbenen Direktor der 
@@ -3115,7 +3122,8 @@ So bitte ich sie denn, meine Herren, sich in dieser
 Erinnerung zu Ehren unseres unvergesslichen Anton Buch­
 holtz erheben zu wollen. 
 80 
-653. Versammlung am 18. Oktober 1901. 
+</section>
+<section type='monthlymeet'> 653. Versammlung am 18. Oktober 1901. 
 Der Präsident H. von Bruiningk eröffnete die Sitzung 
 durch die Mittheilung, dass die Gesellschaft neuerdings zwei 
 Mitglieder, den Rechtsanwalt Friedrich von Samson-
@@ -3381,7 +3389,8 @@ falls an der akademischen Bibliothek angestellt ist, hat
 sich zur Uebernahme derselben bereit erklärt, sofern ihm 
 von der Kurländischen Gesellschaft für Literatur und Kunst 
 eine Unterstützung zu Theil werden sollte. 
-654. Versammlung am 14. November 1901. 
+</section>
+<section type='monthlymeet'> 654. Versammlung am 14. November 1901. 
 Der Präsident H. v. Bruiningk eröffnete die Sitzung, 
 indem er des am 25. October d. J. auf seinem Gute Breslau 
 vers torbenen  Mi tg l iedes  Bernhard  Baron  Ceumern-
@@ -3610,7 +3619,8 @@ noch ein Deckelhumpen mit dem Wappen der Familie Drey-
 ling, im Besitze der Frau v. Oettingen, geb. v. Stryk, von 
 ihm bekannt. 
 j 
-655. Versammlung am 5. Deeember 1901. 
+</section>
+<section type='monthlymeet'> 655. Versammlung am 5. Deeember 1901. 
 Im Namen des Direktoriums und zur Erfüllung eines 
 von verschiedenen Seiten geäusserten Wunsches beantragte 
 94 
@@ -4432,7 +4442,8 @@ unbekannt geblieben sein, aber als er im Jahre 1820 das
 „Manuscript aus Süddeutschland" las2), wird Goethe schwer­
 lich geahnt haben, dass der Verfasser kein anderer war, 
 als der einst von ihm empfohlene Hofmeister. 
-656. Versamnilnng am 6. December 1901. 
+</section>
+<section type='yearlymeet'> 656. Versamnilnng am 6. December 1901. 
 Feierliche Jahressitzung der Gesellschaft anlässlich des 
 Jubiläumsjahres der Stadt Riga, an der auch durch Mit­
 glieder eingeführte Gäste theilnahmen. 
@@ -5788,7 +5799,8 @@ Auf Ösel ist in Piddul, Kirchspiel Kielkond, eine
 Sammlung, die namentlich auch Steinaltertümer enthält. 
 Dorpa t ,  28 .  November  1901.  
 10 
-Verzeichniss 
+</section>
+<section type='list'> Verzeichniss 
 der Vereine und Anstalten, denen die Schriften der 
 Gesellschaft übersandt worden sind, mit Angabe der 
 im Austausch von ihnen erhaltenen Druckwerke. 
@@ -6224,7 +6236,8 @@ Heinrich Jochumsen — Münzen und Medaillen.
 1. Bibliothekar: Dr. FriedrichBienemannjun.,Riga.
 2. Bibliothekar: Nie.Busch.
 Schatzmeis te r :  Franz Redlich. 
-Verzeichniss der Mitglieder. 
+</section>
+<section type='list'> Verzeichniss der Mitglieder. 
 I. Ehrenmitglieder. 
 1. Geh. Regierungsrath Professor Dr. Carl Schirren, Kiel. 
 1862. 
@@ -6961,7 +6974,8 @@ burg. 1882.
 511. Walther v. Zur-MUhlen zu Judasch. 1893. 
 (Geschlossen den 31. December 1901.) 
 12 
-Yerzeichniss  
+</section>
+<section type='list'> Yerzeichniss  
 der im Jahre 1901 in den Sitzungen der Gesellschaft 
 gehaltenen Vorträge und verlesenen Zuschriften. 
 Die beigefügte Zahl giebt die Seite der Sitzungsberichte an. 
@@ -7108,3 +7122,4 @@ n 50 3» 13 die n den
 * 56 y> 21 Wedgwood 91 Wedgewood 
 59 n 8 Tieling n Tiling 
 n 66 n 19 lucetitiam 0 laetitiam 
+</section>

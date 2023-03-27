@@ -1,4 +1,4 @@
-»1
+<section type='beginning'> »1
 der 
 Gesellschaft für Geschichte und Altertumskunde der 
 Ostseeprovinzen Russlands 
@@ -29,7 +29,8 @@ storbenen Mitglieder 153
 Verzeichnis der im Jahre 1907 in den Sitzungen der Gesellschaft 
 gehaltenen Vorträge und verlesenen Zuschriften 155 
 1907. 
-702. Versammlung am 10. Jannar 1907. 
+</section>
+<section type='monthlymeet'> 702. Versammlung am 10. Jannar 1907. 
 Der Präsident Direktor Bernhard Hollander eröffnete 
 die Versammlung mit der Mitteilung, dass der hochverdiente 
 Vizepräsident der Kaiserlich Russischen Geographischen Gesell­
@@ -479,7 +480,8 @@ W'ohltätigkeitsanstalten der Elendenbrüderschaften und die Ge­
 nossenschaft der Bahre eine Art Elendenbrüderschaft gewesen 
 sei, die dafür Sorge trug, dass die verstorbenen Elenden zu Grabe 
 getragen wurden. 
-708. Versammlung am 14. Februar 1907. 
+</section>
+<section type='monthlymeet'> 708. Versammlung am 14. Februar 1907. 
 Der Präsident Direktor Bernhard Hollander eröffnete die 
 Sitzung mit der Mitteilung, dass seit der letzten Sitzung ver­
 storben seien die Herren ordentlichen Mitglieder: Oberpastor 
@@ -725,7 +727,8 @@ horn lassen sich als Schüler in Ilfeld nachweisen, so dass der
 Rigaer Rektor entweder selbst zu den Neandrici gehört hat oder 
 iedenfalls aus dem unmittelbaren Wirkungskreis Neanders nach 
 Riga kam. 
-704. Yersammlucg am 14. März 1907. 
+</section>
+<section type='monthlymeet'> 704. Yersammlucg am 14. März 1907. 
 Der Präsident Direktor Bernhard Hollander eröffnete die 
 Versammlung mit der Mitteilung, dass seit der letzten Sitzung ver­
 storben seien die ordentlichen Mitglieder Landrat Baron Oswald 
@@ -967,7 +970,8 @@ zur Familie Schmidt gehabt hat, wie zu vermuten nahe liegt,
 kann ich nicht angeben; vielleicht gibt die in Pernau neuerdings 
 mit Eifer und Erfolg betriebene Lokalforschung auch hierüber 
 Auskunft. 
-705. Versammlung am II. April 1907. 
+</section>
+<section type='monthlymeet'> 705. Versammlung am II. April 1907. 
 Der Präsident Bernhard Hollander eröffnete die Sitzung 
 mit der Mitteilung, dass das Museum eine wertvolle Bereicherung 
 erfahren habe durch eine Darbringung der Erben der Frau 
@@ -1161,7 +1165,8 @@ freundliches Interesse für Fischer bekundeten, wie aus den Briefen
 ersichtlich, der Kaufmann Marty und das Stadthaupt, später 
 Bürgermeister Alex. Gottschalk v. Sengbusch. Die Briefe sind 
 aus Riga, Rotterdam, Bilbao und Dresden datiert. 
-706. Versammlung am 9. Mai 1907. 
+</section>
+<section type='monthlymeet'> 706. Versammlung am 9. Mai 1907. 
 Der Präsident Bernhard Hollander eröffnete die Ver­
 sammlung mit der Mitteilung, dass das ordentliche Mitglied, Herr 
 Redakteur Karl v. Freymann am 27. April (10. Mai) d. J. in 
@@ -1617,7 +1622,8 @@ demnach frei.
 zu Wusterwitz und Beckischow, d. d. Sonderburg, 21. Dezember 1583 
 (Landesarchiv, W. XXI, Pilt. Archiv-Nr. 195). 
 41 
-707. Versammlung am 12. September 1907. 
+</section>
+<section type='monthlymeet'> 707. Versammlung am 12. September 1907. 
 Der Präsident Direktor Bernhard Hollander eröffnete 
 die Sitzung mit der Mitteilung, dass im Laufe des Sommers fol­
 gende Mitglieder der Gesellschaft verstorben seien: Das Ehren­
@@ -2764,7 +2770,8 @@ Gott schenke auch in Zukunft unserem Lande Männer, die
 wie Bielenstein der Heimat zur Zierde, zur Ehre und zum Segen 
 werden! 
 _ 68 
-708. Versammlung am 10. Oktober 1907. 
+</section>
+<section type='monthlymeet'> 708. Versammlung am 10. Oktober 1907. 
 Der Präsident eröffnete die Versammlung mit der Mitteilung, 
 dass seit der letzten Sitzung verstorben seien die Herren: Kauf­
 mann Karl Boecker, gestorben am 15. September zu Riga und 
@@ -3332,7 +3339,8 @@ haben. Kyranus und Layanus, zwei neubekehrte Liven von Üx-
 küll, sind damals dort eines grausamen Märtyrertodes gestorben; 
 sie wurden in der Kirche zu Uxküll neben den zwei ersten Bi­
 schöfen von Livland, Meinhard und ßerthold, beigesetzt1). 
-709. Versammlung am 14. November 1907. 
+</section>
+<section type='monthlymeet'> 709. Versammlung am 14. November 1907. 
 Der stellvertretende Vorsitzende Herrn. Baron Bruiningk 
 eröffnete die Versammlung mit der Mitteilung, dass seit der 
 letzten Sitzung verstorben seien dieHerren Karl Baron Drachen­
@@ -4142,7 +4150,8 @@ zeiten und Gelage vielfach die Rügen des Mancelius über unan­
 ständiges und schamloses Betragen seiner Zuhörer auf ihren 
 Gastereien illustrieren können. 
 99 
-710. (Jahres-) Versammlung am 5. Dezember 1907. 
+</section>
+<section type='yearlymeet'> 710. (Jahres-) Versammlung am 5. Dezember 1907. 
 Nach Eröffnung der Versammlung durch den Präsidenten 
 der Gesellschaft, Direktor Bernhard Hollander, wurden zu 
 ordentlichen Mitgliedern aufgenommen die Herren: Edgar 
@@ -4979,7 +4988,8 @@ toriums wurden wiedergewählt; ausserdem neu gewählt wurde
 Herr Stadtarchivar Arnold Feuereisen. 
 Uber den Vermögensstand vgl. den Rechenschaftsbericht 
 des Schatzmeisters (S. 99—103). 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der Vereine und Anstalten, denen die Schriften der Gesell­
 schaft übersandt worden sind, mit Angabe der von ihnen 
 im Austausch erhaltenen Vereinsschriften. 
@@ -5412,7 +5422,8 @@ Robert Jaksch — Keramik, Schmucksachen, Miniaturen u. s. w.
 Heinrich Jochumsen — Münzen und Medaillen. 
 Bibliothekar: Ed. Fehre. 
 Schatzmeister: FranzRedlich.
-Verzeichnis der Mitglieder*). 
+</section>
+<section type='list'> Verzeichnis der Mitglieder*). 
 I. Ehrenmitglieder. 
 1. Geh. Regierungsrat Professor Dr. Karl Schirren, Kiel, Holstein. 
 1862. 
@@ -6209,7 +6220,8 @@ boulevard JV« 6. 1895.
 447. Leo v. Zur-MUhlen zu Woiseck über Oberpahlen. 1893. 
 448. Walther v. Zur-MUhlen zu Judasch über Segewold. 1893. 
 (Geschlossen den 6. Dezember 1907.) 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der vom 6. Dezember 1906 bis zum 6. Dezember 1907 verstorbenen Mitglieder. 
 Oberpastor Emil Kählbrandt, Mitglied seit 1895. Gestorben in Riga 
 am 10. Januar. 
@@ -6244,7 +6256,8 @@ Karl Baron Drachenfels, Mitglied seit 1888. Gestorben in Mitau
 am 27. Oktober. 
 Reichsdumadeputierter Rechtsanwalt Erwin Moritz sen., Mitglied 
 seit 1872. Gestorben in Petersburg am 8. November. 
-Verzeichnis 
+</section>
+<section type='list'> Verzeichnis 
 der im Jahre 1907 in den Sitzungen der Gesellschaft 
 gehaltenen Vorträge und verlesenen Zuschriften. 
 Die beigefügte Zahl gibt die Seite der Sitzungsberichte an. Bin vorgedrucktes 
@@ -6319,3 +6332,4 @@ Seuberlich, Hermann. * Das Kloster zu Padis. 13.
 — Jahrbuch für bildende Kunst der Ostseeprovinzen. 31. 
 — Die Lage des Resenhofs. 31. 
 W er n e r ,  G u s t a v .  *  A u s g r a b u n g e n  a n  d e r  O g e r .  7 3 .  
+</section>

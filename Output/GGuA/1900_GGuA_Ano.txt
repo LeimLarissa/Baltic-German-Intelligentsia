@@ -1,4 +1,4 @@
-der 
+<section type='beginning'> der 
 Gesellschaft für Geschichte und Alterthumskunde der 
 Ostseeprovinzen Russlands 
 aus dem Jahre 1900. 
@@ -25,7 +25,8 @@ Verzeichniss der Mitglieder am 15. März 1901 223
 Verzeichniss der im Jahre 1900 gehaltenen Vorträge and ver­
 lesenen Zuschriften 244 
 1900. 
-637. Versammlung am 12. Januar 1900. 
+</section>
+<section type='monthlymeet'> 637. Versammlung am 12. Januar 1900. 
 Nach Eröffnung der Sitzung berichtete der Präsident, 
 dass die Stadtverwaltung Rigas mit Rücksicht auf das be­
 vorstehende 700jährige Jubiläum der Stadt, entsprechend 
@@ -270,7 +271,8 @@ Schloss 1740 Lacy gehört hat. Nach dem Tagebuche (Seite
 1723, 1727 und 1729, nachdem er 1714, 1719 und 1721 
 (Seite 87, 92 und 96) mit den Seinen auf seinem Gute Lösern 
 gewohnt hatte1). 
-63$. Versammlung am 9. Februar 1900. 
+</section>
+<section type='monthlymeet'> 63$. Versammlung am 9. Februar 1900. 
 Nach Eröffnung der Sitzung durch den Präsidenten 
 ü. Baron Bruiningk verlas der Bibliothekar den 
 A ccessionsbericht. 
@@ -443,7 +445,8 @@ zum 700jährigen Jubi läum der  Stadt  Riga eine Gedenk­
 münze auf Subscription schlagen zu lassen, und legte Ab­
 bildungen verschiedener neuerer, in ähnlicher Veranlassung 
 geprägter Münzen vor. 
-639. Versammlung am 8. März 1900. 
+</section>
+<section type='monthlymeet'> 639. Versammlung am 8. März 1900. 
 Nach Eröffnung der Sitzung durch den Präsidenten H. 
 Baron Bruiningk verlas der Bibliothekar den Accessions­
 bericht. 
@@ -1499,7 +1502,8 @@ kolle, auf die David Wieck in seinem angeführten Berichte
 Bezug nahm. 
 !) Livon. Vol. 421 a. b. 
 37 
-640. Versammlnug am 12. April 1900. 
+</section>
+<section type='monthlymeet'> 640. Versammlnug am 12. April 1900. 
 Nach Eröffnung der Sitzung durch den Präsidenten H. 
 Baron Bruiningk verlas der Bibliothekar den Accessions­
 bericht. 
@@ -3031,7 +3035,8 @@ kannt sind und er auch die landesüblichen Gebräuche gut
 kennt. Dem Gesuch ist dann auch Folge gegeben worden. 
 Nur fünf Jahre aber hat Engelbrecht Mengden den Posten 
 bekleidet. Er starb Anfang Juli 1648 in Dorpat8). 
-641. Versammlung am 10. Mai 1900. 
+</section>
+<section type='monthlymeet'> 641. Versammlung am 10. Mai 1900. 
 Nach Eröffnung der Sitzung gedachte der Präsident 
 H. Baron Bruiningk des im April in Petersburg verstor­
 benen correspondirenden Mitgliedes, des Wirklichen Staats­
@@ -3516,7 +3521,8 @@ gemeltes Schneider Amptt nebenst andernn Emptern auff
 das neue guth gethan hattenn, das also Ihre a. w. gemeltt 
 geltt sampt der auffgelauffenen Rente Ohne alle einrede ent­
 rangen mogenn. 
-642. Versammlung am 18. September 1900. 
+</section>
+<section type='monthlymeet'> 642. Versammlung am 18. September 1900. 
 Nach Eröffnung der Sitzung gedachte der Präsident 
 H. Baron Bruiningk der während der Sommermonate 
 verstorbenen Mitglieder. Es sind gestorben die Herren 
@@ -5842,7 +5848,8 @@ It. vor de groten druke to alle godes hilg. dage iiii mr.
 [I]n dat lateste van dussem boke sal men vinden von 
 allen tughe, dat de [dor] hebben, so als de eyne kemer dem 
 andren offer let, wan des tid is5). 
-643. Versammlung am 11. Oetober 1900. 
+</section>
+<section type='monthlymeet'> 643. Versammlung am 11. Oetober 1900. 
 Nach Eröffnung der Sitzung legte der Präsident 
 H. Baron Bruiningk mehrere Schreiben geschäftlichen 
 Inhalts vor. 
@@ -6074,7 +6081,8 @@ eine Lanzenspitze mit Tülle.
 Auffallend ist, dass ein (oder 2?) Lanzenspitzen so 
 liegen, dass der etwa noch vorhanden gewesene Schaft weit 
 aus dem Grabe hinausgereicht haben müsste. 
-644. Versammlung am 8. November 1900. 
+</section>
+<section type='monthlymeet'> 644. Versammlung am 8. November 1900. 
 Nach Eröffnung der Sitzung gedachte der Präsident 
 H. Baron Bruiningk des im October verstorbenen Ehren­
 mitgliedes der Gesellschaft, des Herrn dim. Stadtarchivars 
@@ -6593,7 +6601,8 @@ Gallia, Parisiis, 1629.
 deren Untersuchung vorbehalten. 
 5) S. 258. — 6) Bd. 1, Augsburg, 1858, S. 466. 
 154 
-645. (Jahres-) Versammlung am 5. December 1900. 
+</section>
+<section type='yearlymeet'> 645. (Jahres-) Versammlung am 5. December 1900. 
 Nach Eröffnung der Sitzung gedachte der Präsident 
 H. Baron Bruiningk des Verlustes, den die Gesellschaft 
 wiederum durch den Tod eines Ehrenmitgliedes, des Staats­
@@ -9064,7 +9073,8 @@ mation wiedergewählt (s. unten Vorstand der Gesellschaft).
 I 
 14* 
 I 
-Verzeichnis» 
+</section>
+<section type='list'> Verzeichnis» 
 derjenigen Vereine, Akademien, Universitäten und sonstigen 
 Institutionen, die im Jahre 1900 die von ihnen herausge­
 gebenen Schriften übersandt haben. 
@@ -9453,7 +9463,8 @@ Robert Jaksch — Keramik, Schmucksachen, Miniaturen
 u. s. w. 
 Bibliothekar: Dr. Friedrich Bienemann jun., Riga. 
 Schatzmeister: Franz Redlich, Riga. 
-Verzeichniss der Mitglieder. 
+</section>
+<section type='list'> Verzeichniss der Mitglieder. 
 I. Ehrenmitglieder. 
 1. Geh. Regierungsrath Professor Dr. Carl Schirren. Kiel. 
 1862. 
@@ -10207,7 +10218,8 @@ zu Stomersee. 1901.
 520. Rechtsanwalt Gustav Schmidt, Mitau. 1901. 
 521. W. Hartmann, Riga. 1901. 
 (Geschlossen am 15. März 1901.) 
-Yerzeichniss  
+</section>
+<section type='list'> Yerzeichniss  
 der im Jahre 1900 in den Sitzungen der Gesellschaft ge­
 haltenen Vorträge und verlesenen Zuschriften. 
 Die beigefügte Zahl giebt die Seite der Sitzungsberichte an. 
@@ -10357,3 +10369,4 @@ Ratssecretärs Johann Schmiedt zu den J. 1558—62. Leipzig
 1892. Preis 1 Rbl. 20 Kop. 
 — Die grosse moskowitische Ambassade von 1697 in Livland. 
 Riga 1892. Preis 40 Kop. 
+</section>

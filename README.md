@@ -10,7 +10,7 @@ I'm interested in people with higher education from the Baltic Governorates of t
 These source materials do put the focus on more of the German speaking popultation of the Baltic Governorates, but whereever possible I'm interested in identifying people with higher education regardless of ethnic identity.   
 
 The tasks I set for myself are: 
-- Task 1: Clean errors generated through OCR to improve data quality. [Detailed Explanation.](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/4acb483cfa83a40357f36008d1572f368039a2c6/T1_detailled_explanation.md)
+- Task 1: Clean errors generated through OCR to improve data quality. [Detailed Explanation.](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/T1_detailled_explanation.md)
 - Task 2: Extract information from membership-lists.
 - Task 3: Clean and homogenise data from extracted lists. 
 - Task 4: Disambiguate persons using authority files like Wikidata and GND.  
@@ -18,22 +18,22 @@ The tasks I set for myself are:
 
 ## Contents
 ### Scripts 
-[G1T1CleaningOCRErrors.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/49e8f741b760ee1556d8dac41bef78aa78cff3f7/G1T1CleaningOCRErrors.ipynb)  
+[G1T1CleaningOCRErrors.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/G1T1CleaningOCRErrors.ipynb)  
 Task 1: Clean errors generated through OCR to improve data quality.  Status = **finished** 
 - [x] I'm working on a Jupyter notebook to identify the OCR generated error of spaces inbetween individual letters of a line.  
 - [x] I also want to track how common the error is across my sources.   
 - [x] I want to remove the additional spaces and create better source materials.   
 - [x] I want to create an overview for the errors detected and removed for each document. 
 
-[G1T2ExtractMembership.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/47b5d98d764541ccf86ac3347f9a5565b8277492/G1T2ExtractMembership.ipynb)  
+[G1T2ExtractMembership.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/G1T2ExtractMembership.ipynb)  
 Task 2: Extract names from membership-lists. Status = **in progress**  
 - [ ] I need to identify the part within the text that includes the membership list. I will tag all sections of the text to make future work easier. 
   - [X] GEG
-  - [ ] GGuA
+  - [x] GGuA
   - [ ] NVR
 - [ ] I need to make sure that information is not lost by a line break. Therefore, I want all information about one person in one line as well as membership status information taged. 
   - [x] GEG
-  - [ ] GGuA
+  - [x] GGuA
   - [ ] NVR
 - [ ] I want to extract the following metadata (if available): Year, Society, Membership Status (1st, 2nd, 3rd Level + No.), Text (Fullname, Profession, Location)  
   - [x] GEG
@@ -49,8 +49,8 @@ Task 2: Extract names from membership-lists. Status = **in progress**
     - create profession fields that group certain professions together (possibly using a given ontology)
     - add location IDs that would allow mapping by longitude and latitude (most difficult for smaller Baltic towns and "Gutshöfe" that were renamed or no longer exist) 
 
-Task 4: Disambiguate persons using authority files like Wikidata and GND.
-- [ ] I want to keep a list of membership instances as well as a list of individual people (see [first DB draft](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/a00ac99406853b839ea16179dab9a221267456ca/Balt_Ger_Intelligentsia-dbdesigner.pdf) ) 
+Task 4: Disambiguate persons using authority files like Wikidata and GND. Status = **in preparation**
+- [ ] I want to keep a list of membership instances as well as a list of individual people (see [first DB draft](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/Balt_Ger_Intelligentsia-dbdesigner.pdf) ) 
     - [ ] I want to compare the text line of one membership list with those of all the other lists to identify the individual persons that were members.
     - [ ] I will create a separate list with these identified people that has fixed information about the person (e.g. most common name variant). These link to the membership instances through the ID of the person within the instance. This list of people is not connected to any specific society, but overarching all of them.
     - [ ] I want to enrich the inmutuable information about the individual persons (e.g. birth date, death date) through exisiting authority files (GND, VIAF, Wikidata) as well as disambiguate them through those external IDs. 

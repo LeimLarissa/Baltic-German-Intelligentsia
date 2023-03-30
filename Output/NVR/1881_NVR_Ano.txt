@@ -1,4 +1,4 @@
-des
+<section type='beginning'>des
 Naturforscher-Vereins
 zu Riga.
 Von der Censur erlaubt. Riga, den 7. October 1881.
@@ -1181,7 +1181,8 @@ nach der zweiten =  1,00380, was einem Salzgehalt von
 0,50# entspricht; als Minimum fand er 0,42%, als Maximum 
 0,60#.
 19. August 1881.
- Sitzungsberichte.
+</section>
+<section type='monthlymeet'>  Sitzungsberichte.
  22. S e p t e m b e r  1880.
 Na t u r a l i e n  waren eingegangen und wurden vorgelegt:
 Säge eines Sägehais aus den chinesischen Gewässern, von 
@@ -2225,7 +2226,8 @@ platte, je nach der Dauer der ßelichtuhg, positive und nega­
 tive Bilder zu erzeugen. Bei längerer Dauer wechseln positive 
 Bilder mit negativen. ■
 — 56 —
-Wissenschaftliche Vereine und Institute, mit denen der 
+</section>
+<section type='list'> Wissenschaftliche Vereine und Institute, mit denen der 
 Verein im Jahre 1880 in Verkehr stand,
 nebstAngabederzuletzterhaltenen Schriften.1) A ltenburg. Naturforsehende Gesellseh. des Osterlandes.
 Mittheilungen aus dem Osterlande N. P. 1.
@@ -2544,7 +2546,8 @@ G. Thom s, Professor.
 R. Wolff, Professor.
 A. W erner, Oberlehrer.
 Konservator A. S punde■, Lehrer,
-Mitglieder am 1. Juli 1881.
+</section>
+<section type='list'> Mitglieder am 1. Juli 1881.
 (Die Nummer vor dem Namen ist diejenige, unter welcher das betreffende 
 Diplom ausgestellt ist.)
  A. Ehrenmitglieder.1. 658. Albedinsky, Gen.-Gouverneur von Warschau seit 1867
@@ -2826,7 +2829,8 @@ K is c h in e w .................................................... ...........
 ae. 704. Uexküll v. Gyldenband, Ingenieur-Gapitain 9) 1871
 37. 421. Wiedemann, Akademiker iu Petersburg . Я 1352
 38. 284. Zeller, Professor in S te t t iu .......................... M 1848
-Die meteorologischen Stationen ties Naturforscher- 
+</section>
+<section type='list'> Die meteorologischen Stationen ties Naturforscher- 
 Vereins im Jahre 1880.
 Die Thätigkeit des Naturforscher-Vereins auf dem Ge­
 biete der Meteorologie erhielt im Jahre 1880 eine nicht un­
@@ -2896,7 +2900,8 @@ dieses Jahr lür Riga am reichsten an Niederschlägen ge­
 wesen. Am 11. August erreichte die Niederschlagsmenge 
 die grösste Höhe —36mm.
 Ad. W erner.
-Station Riga. Monat Juni 1879.
+</section>
+<section type='table'> Station Riga. Monat Juni 1879.
 Mittelwerth e.Lufttemp.Wasser­stand.hc3ß
 S
 Cels. 700 mm % Mtr. •+■ p. Sec. 0-10 Cels. Cels. R—  s mm. engl. Fuss.
@@ -2952,7 +2957,8 @@ Niederschlag.
 WNW
 NW.
 NNW. Dünamünde.
-Station Riga. Monat Juli 1879.
+</section>
+<section type='table'> Station Riga. Monat Juli 1879.
  Mittelwertbe. Lufttemp. Wasser­stand.aä
 ЫЭ
 S
@@ -3009,7 +3015,8 @@ Regen oder Schnee.
 sw.
 wsw Niederschlag.
 NNW. Dünamünde.
-Station Riga. Monat August 1879.
+</section>
+<section type='table'> Station Riga. Monat August 1879.
 Mittelwerth e.Lufttemp.Wasser­stand.sbic
 s
 700mm. Mtr.Cels. + p. Sec. 0-10 Cels. Cels. K-8 mm. Fuss engl.
@@ -3063,7 +3070,8 @@ Regen oder Schnee.
 W SW Niederschlag.
 NW.
 NNW, Dünamiinda.
-Station Riga. Monat September 1879.
+</section>
+<section type='table'> Station Riga. Monat September 1879.
  Mittelwerthe. Lufttemp. Wasser-stand.03
 bo
 Й
@@ -3119,7 +3127,8 @@ SSW.
 SW. Niederschlag.
 WSW]
 NW. Diinamiinde.
-Station Riga. Monat October 1879,'
+</section>
+<section type='table'> Station Riga. Monat October 1879,'
 Mittelwert hc.Lufttemp.,Wasser­cь
 stand.
 gо
@@ -3168,7 +3177,8 @@ ENE. Bewölkuug.
 SSW.
 wsw; Regen oder Schnee.
 WNW
-Station Riga. Monat Nojy5ömherl87&.
+</section>
+<section type='table'> Station Riga. Monat Nojy5ömherl87&.
 a>
  Mitttlwertbfc Luftteap.■m® Wasser­в«stand.CQCиQ Яei.ф§ S Ь
 SUС -Ф 
@@ -3230,7 +3240,8 @@ SW. Niederschlag.
 |w s w j
 Riga.
 i1NNW.
-Station Riga. Monat J>eeember 1879.
+</section>
+<section type='table'> Station Riga. Monat J>eeember 1879.
  Mittelwert!)«. Lnftteap. Wasser­stand.3̂
 äВ* 3<a& 'S вöS а53я ■■a
 а
@@ -3281,7 +3292,8 @@ Bewölkung.
 Regen oder Schnee.
 Niederschlag.
 NNW.'
-Station Riga« Monat J&tiu&r 1880.
+</section>
+<section type='table'> Station Riga« Monat J&tiu&r 1880.
 Mitte Iwerth«.Luftteap.Wasser-fscabetand.3о
 aa >43
 CD .2
@@ -3333,7 +3345,8 @@ Minim.
 |ssw; Regenoder Schnee. 1 SW.
 WSW
 Riga.
-Station Riga. Monat Februar 1880.
+</section>
+<section type='table'> Station Riga. Monat Februar 1880.
  Mittelwertbe. Lufttevp.. Wasser­stand.ПaЗ>
 hcö
 □
@@ -3437,7 +3450,8 @@ Bewölkung.
 Maxim.
 WNW]
 Dünamiinde.
-Station Riga. Mouafc April 1B8jO.
+</section>
+<section type='table'> Station Riga. Mouafc April 1B8jO.
 Mi11e1wert fcfeLuftttittp.Wasser­stand.d.
  Sd-ь®э bß
 ä3ä
@@ -3488,7 +3502,8 @@ Niederschlag.
 W SW
 NW.
 NNW. Dünamünde.
-Station Riga. Monat Mai 1880.
+</section>
+<section type='table'> Station Riga. Monat Mai 1880.
  Mittelwerthe. Lüfttemp.ns0h2
 r®s
 О
@@ -3542,7 +3557,8 @@ SW.
 Niederschlag.
 NW.
 NNW. Wasserstand.
-Station Dünamünde. Monat Mai 1880.
+</section>
+<section type='table'> Station Dünamünde. Monat Mai 1880.
 m
 Tg» M i 11 e 1 щ с r t  b e. Lufttemp. "a9CG 03
 a Ä kta» s Wras* В 0Qs> V 00£ 1. cS
@@ -3597,7 +3613,8 @@ SW. Minim.
 Regen oder Schnee,
 'S-
 WNW Niederschlag.
-Station Riga. Mttaöt Juni 1-880. •
+</section>
+<section type='table'> Station Riga. Mttaöt Juni 1-880. •
 Mittel w« H-Iie.luftteai|fc~ьЙсsаä:3’Sh awa 03->fc>o T SJ-я3 s tn
 1 jj %
 no3
@@ -3651,7 +3668,8 @@ Regen oder Schnee,
 1 SW.
 |WSW
 NNW.
-Station Dünamünde.. ..Mbiat*
+</section>
+<section type='table'> Station Dünamünde.. ..Mbiat*
 Иft te1wвft 4te.•■'Liilttenp.I0b3b
 3
 d, Ö-
@@ -3711,7 +3729,8 @@ SSW. Minim.
 Biegen oder Schnee.
 W SW
 Wasserstaiid.
-Station Riga. M<ma& Juli 1880»
+</section>
+<section type='table'> Station Riga. M<ma& Juli 1880»
 QQ M i t t e l  Wft äl  Jte. IkUftteap.
 % ьЬ
 CQr 3
@@ -3772,7 +3791,8 @@ Minim.
 SSW.
 |sw. Regen oder Schnee.
 NNW.j Wasserstand. J
-Station Dünamünde. J&ooat M i 1880.
+</section>
+<section type='table'> Station Dünamünde. J&ooat M i 1880.
 Mittelwerth e.Ltffttetnp.fccSbrSа3 s i
 aaиa
 ca
@@ -3836,7 +3856,8 @@ SW. Minim.
 jwsw
 Riegen oder Schnee.
 NNW.
-Station Riga. Monat August 1880.
+</section>
+<section type='table'> Station Riga. Monat August 1880.
  Mi11e1wertbe. Lufttemp.bC-2
 &> »
 s Л2§■ as+-r
@@ -3894,7 +3915,8 @@ Minim.
 SSW.
 Regen oder Schnee.
 NNW. Wasserstand.
-Station Dünamünde. Monat August 1880.
+</section>
+<section type='table'> Station Dünamünde. Monat August 1880.
  Mi11e1wert&e. Liitttea^bC
 JS
 '<s3Й
@@ -4011,7 +4033,8 @@ Minim.
 Regen oder Sclrnee.
 Niedersehlag.
 L. Wasserstand.
-Station Düiiamünde. ’ Monat September 1880.
+</section>
+<section type='table'> Station Düiiamünde. ’ Monat September 1880.
 Mitte 1wert JieLvfttemp.Рч
 aa-2 оЗ
 i—4 a
@@ -4071,7 +4094,8 @@ WSW
 Regen oder Schnee.
 Niederschlag.
 NNW. Wasserstand.
-Station Riga. Mooat Qetober 1880.
+</section>
+<section type='table'> Station Riga. Mooat Qetober 1880.
 Mittel vertl e.Lofttenp..ebie Tя3
 3 OSVas -atJux
 s пa
@@ -4128,7 +4152,8 @@ Regen oder Schnee.
 1 SW.
 NW.
 и* |n n w .
-Station Dünamiinde. Monat October 1680.
+</section>
+<section type='table'> Station Dünamiinde. Monat October 1680.
  Mittelvertke. Lufttemp.d,
 Se3 ä
 8 'Й«S
@@ -4180,7 +4205,8 @@ Regen oder Scheee.
 •:c
 Niederschlag.
 NNW. Wasserstand,
-Station Riga. Monat ^ЯотешЬег 1880.
+</section>
+<section type='table'> Station Riga. Monat ^ЯотешЬег 1880.
 Mittel wer tl e.tufttenp.04
 aф
 S
@@ -4229,7 +4255,8 @@ WSW
 Niederechlag.
 NW.
 NNW. Waeserstand.
-Station Dünamünde. Monat November 1880.
+</section>
+<section type='table'> Station Dünamünde. Monat November 1880.
 Mittelwerth e.Lufttenp.700 mm. Mtr. FussCels. + % p. Sec. 0-10. Cels. Cels. R—s mm. engl.
 1—0.848.393 NE.89__— S.1.54.82- 0.354.485 NW.118—— S.1,55.73—1.264.687 WNW114——5.14+ 1.660.583 SW.199——4.06.75+ 0.958.474 NNW.97——4.65.56—0.259.697 NNE.95—— R.1.05.67+ 1.255.798 SW.1210——4.05.88-f 2.753.6100SSW.59——S.13.65.19 +  0.1 55.1 80 NW . 11 8 — — . S. 3.1 5.6
 10 — 1.5 60.9 93 W. 4 7 — — 6.4 5.0
@@ -4334,7 +4361,8 @@ SSW.
 SW. Minim.
 Regen oder SchÄee.
 Niederschli
-Station DÜnamtinde. Monat December 1880.
+</section>
+<section type='table'> Station DÜnamtinde. Monat December 1880.
 Mittelwerth e.Lufttemp.Cels. 700mm. Mtr. + p. Sec. 0-10 Cels. Ceis. R—s mm.
 Fuss
 engl.
@@ -4385,3 +4413,4 @@ jwsw
 Regen oder Schnee.
 WNW Niederschlag.
 NNW. Wasserstand.
+</section>

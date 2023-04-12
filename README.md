@@ -23,7 +23,7 @@ Task 1: Clean errors generated through OCR to improve data quality.  Status = **
 - [x] I'm working on a Jupyter notebook to identify the OCR generated error of spaces inbetween individual letters of a line.  
 - [x] I also want to track how common the error is across my sources.   
 - [x] I want to remove the additional spaces and create better source materials.   
-- [x] I want to create an overview for the errors detected and removed for each document. 
+- [x] I want to create an overview for the errors detected and removed for each document.  
 Side Quests: 
 - [ ] Run NVR 1873 and NVR 1874 through error pipeline
 - [ ] Renew error statistics 

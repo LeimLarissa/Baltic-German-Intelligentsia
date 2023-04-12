@@ -24,6 +24,9 @@ Task 1: Clean errors generated through OCR to improve data quality.  Status = **
 - [x] I also want to track how common the error is across my sources.   
 - [x] I want to remove the additional spaces and create better source materials.   
 - [x] I want to create an overview for the errors detected and removed for each document. 
+Side Quests: 
+- [ ] Run NVR 1873 and NVR 1874 through error pipeline
+- [ ] Renew error statistics 
 
 [G1T2ExtractMembership.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/G1T2ExtractMembership.ipynb)  
 Task 2: Extract names from membership-lists. Status = **in progress**  

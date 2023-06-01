@@ -7560,5 +7560,63 @@
     },
     "shareNewTopics": false,
     "description": "Match item Raadi (Q985032) for cells containing \"Rathshof\" in column Place_Reconciled"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Dorpat",
+                "l": "Dorpat"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Qid",
+    "description": "Fill down cells in column Qid"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Dorpat",
+                "l": "Dorpat"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "coordinate location",
+    "description": "Fill down cells in column coordinate location"
   }
 ]

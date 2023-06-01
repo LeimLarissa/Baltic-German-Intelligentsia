@@ -3967,5 +3967,324 @@
     },
     "shareNewTopics": false,
     "description": "Match item Ķeiži mõis (Q42900747) for cells containing \"Keusen\" in column Place_Reconciled"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "3L_MS",
+          "expression": "value",
+          "columnName": "3L_MS",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IN",
+                "l": "IN"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Reconciled",
+    "description": "Fill down cells in column Place_Reconciled"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Dorpat",
+                "l": "Dorpat"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Reconciled",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q11881845",
+        "name": "city"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Place_Reconciled to type Q11881845"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Dorpat",
+                "l": "Dorpat"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Qid",
+    "description": "Fill down cells in column Place_Qid"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Dorpat",
+                "l": "Dorpat"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Coordinates",
+    "description": "Fill down cells in column Place_Coordinates"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antzen",
+                "l": "Antzen"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Reconciled",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q1549591",
+        "name": "big city"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Place_Reconciled to type Q1549591"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antzen",
+                "l": "Antzen"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Reconciled",
+    "similarValue": "Antzen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q154994",
+      "name": "Antsla",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Antsla (Q154994) for cells containing \"Antzen\" in column Place_Reconciled"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Wenva",
+                "l": "Wenva"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Reconciled",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q1549591",
+        "name": "big city"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Place_Reconciled to type Q1549591"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place_Reconciled",
+          "expression": "value",
+          "columnName": "Place_Reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Wenva",
+                "l": "Wenva"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place_Reconciled",
+    "similarValue": "Wenva",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3468782",
+      "name": "Võnnu",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võnnu (Q3468782) for cells containing \"Wenva\" in column Place_Reconciled"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Zu_Place",
+    "description": "Remove column Zu_Place"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Auf_Place",
+    "description": "Remove column Auf_Place"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "In_Place",
+    "description": "Remove column In_Place"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Working_Line 2 3",
+    "description": "Remove column Working_Line 2 3"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Vocation",
+    "newColumnName": "Occupation",
+    "description": "Rename column Vocation to Occupation"
   }
 ]

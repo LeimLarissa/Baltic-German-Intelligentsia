@@ -41,14 +41,16 @@ Task 2: Extract names from membership-lists. Status = **in progress**
   - [ ] NVR
 - [ ] I want to extract the following metadata (if available): Year, Society, Membership Status (1st, 2nd, 3rd Level + No.), Text (Fullname, Profession, Location)  
   - [x] GEG
-  - [ ] GGuA
+  - [x] GGuA
   - [ ] NVR
    
- Task 3: Clean and homogenise data from extracted lists. Status = **in preparation**  
+ Task 3: Clean and homogenise data from extracted lists. Status = **in progress**  
 - [ ] I will use OpenRefine to clean the membership lists. I want to 
-    - separate the "Text" field into Title, First Name, Last Name, Profession, Location and Entry Year (if available) 
-    - remove additional spaces as well as OCR transcription errors outside of the Text and Name fields (probably manually) 
-    - homogenise especially Location and Profession information (e.g. clean writing differences or versions) 
+    - separate the "Text" field into Title, Name, Occupation, Location and Entry Year (if available) 
+    - remove additional spaces as well as OCR transcription errors outside of the Text field (probably manually) 
+    - homogenise especially Location and Profession information (e.g. clean writing differences or versions)   
+
+[G1T3HomogeniseData.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/G1T3HomogeniseData.ipynb)
 - [ ] I want to generalise some aspects for statistical analysis and visualisations: 
     - create profession fields that group certain professions together (possibly using a given ontology)
     - add location IDs that would allow mapping by longitude and latitude (most difficult for smaller Baltic towns and "Gutshöfe" that were renamed or no longer exist) 

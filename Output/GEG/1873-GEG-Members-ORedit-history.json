@@ -4286,5 +4286,2305 @@
     "oldColumnName": "Vocation",
     "newColumnName": "Occupation",
     "description": "Rename column Vocation to Occupation"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Occupation",
+    "index": 17,
+    "description": "Move column Occupation to position 17"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Occupation",
+    "index": 16,
+    "description": "Move column Occupation to position 16"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Occupation",
+    "index": 15,
+    "description": "Move column Occupation to position 15"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Occupation",
+    "index": 14,
+    "description": "Move column Occupation to position 14"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Occupation",
+    "index": 13,
+    "description": "Move column Occupation to position 13"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Place_Reconciled",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P17",
+          "name": "country"
+        }
+      ]
+    },
+    "columnInsertIndex": 16,
+    "description": "Extend data at index 16 based on column Place_Reconciled"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "country",
+    "newColumnName": "country_reconciled",
+    "description": "Rename column country to country_reconciled"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country_reconciled",
+    "index": 17,
+    "description": "Move column country_reconciled to position 17"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country_reconciled",
+    "index": 18,
+    "description": "Move column country_reconciled to position 18"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Place_Qid",
+    "newColumnName": "place_qid",
+    "description": "Rename column Place_Qid to place_qid"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Place_Coordinates",
+    "newColumnName": "coordinate_location",
+    "description": "Rename column Place_Coordinates to coordinate_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "außerordentlicher Professor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Außerordentlicher Professor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Conststorialrath."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Consistorialrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Kreisrichter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Kreisrichter"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Landrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Landrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Lehrer des Tulaschen Cadettencorps Coll.-Rath."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Oberst."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Oberst."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Pastor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Rathsherr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Rathsherr"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim. Schulinspector"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Schulinspector"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dimitt. Schulinspector"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Schulinspector"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dimitt. Syndicus der Universität Staatsrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Syndicus der Universität, Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Do. der Geschichte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Docent der Geschichte"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ehem. Professor der Dorpater Universität"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ehem. Professor der Dorpater Universität"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "emer. Pastor."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emer. Pastor."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "evang. Pastor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evang. Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gen.-Superintendant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "General-Superintendant"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jnspector des Gymnasiums."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Inspector des Gymnasiums"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kammerherr Präsident der archäologischen Gesellschaft"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kammerherr, Präsident der archäologischen Gesellschaft"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Leibarzt und Geheimrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leibarzt, Geheimrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oberverw."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oberverwalter"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Past. emer."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emer. Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Prof. emerit. d. Astronomie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emerit. Professor der Astronomie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Emer. Pastor."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emer. Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Emerit. Professor der Astronomie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emer. Professor der Astronomie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor ber Archäologie an der Universität"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Archäologie an der Universität"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Phar-makologie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Pharmakologie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Theologie für die ©tut"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Theologie für die Studenten orthodox-griechischer Confession, Protohierei"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Vetr.-Medizin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Veterinär-Medizin"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stellv. Lector d. lettischen Sprache"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stellv. Lector der lettischen Sprache"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stud. hist."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. hist."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stud. jur."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. jur."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stud. oec. pol."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. oec. pol."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stud. theol."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. theol."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "wirkl. St.-Rath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirkl. Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "wirkl. Staatsrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirkl. Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation_Rank",
+    "columnInsertIndex": 14,
+    "description": "Create column Occupation_Rank at index 14 based on column Occupation using expression grel:null"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation_General",
+    "columnInsertIndex": 14,
+    "description": "Create column Occupation_General at index 14 based on column Occupation using expression grel:null"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Geheimrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q718660",
+      "name": "Geheimrat",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Geheimrat (Q718660) for cells containing \"Geheimrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Hofmeister",
+    "description": "Clear recon data for cells containing \"Hofmeister\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Wirklicher Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2623484",
+      "name": "Wirklicher Staatsrat (Russland)",
+      "types": [
+        "Q28745974"
+      ],
+      "score": 82
+    },
+    "shareNewTopics": false,
+    "description": "Match item Wirklicher Staatsrat (Russland) (Q2623484) for cells containing \"Wirklicher Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q677455",
+      "name": "Staatsrat",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Staatsrat (Q677455) for cells containing \"Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienassessor",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2365856",
+      "name": "Kollegienassessor",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kollegienassessor (Q2365856) for cells containing \"Kollegienassessor\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kammerherr",
+    "description": "Clear recon data for cells containing \"Kammerherr\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Leibarzt, Geheimrath",
+                "l": "Leibarzt, Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Universität, Staatsrath",
+                "l": "Dimitt. Syndicus der Universität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister",
+                "l": "Hofmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath.",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienrat",
+    "description": "Clear recon data for cells containing \"Kollegienrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Professor",
+                "l": "Professor"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der philosophischen Facultät",
+                "l": "Professor der philosophischen Facultät"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Pharmakologie",
+                "l": "Professor der Pharmakologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Geschichte Rußlands",
+                "l": "Professor der Geschichte Rußlands"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. hist.",
+                "l": "Stud. hist."
+              }
+            },
+            {
+              "v": {
+                "v": "Docent der Geschichte",
+                "l": "Docent der Geschichte"
+              }
+            },
+            {
+              "v": {
+                "v": "Stellv. Lector der lettischen Sprache",
+                "l": "Stellv. Lector der lettischen Sprache"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Pharmacie",
+                "l": "Professor der Pharmacie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Wotischen Theologie",
+                "l": "Professor der Wotischen Theologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. jur.",
+                "l": "Stud. jur."
+              }
+            },
+            {
+              "v": {
+                "v": "Ehem. Professor der Dorpater Universität",
+                "l": "Ehem. Professor der Dorpater Universität"
+              }
+            },
+            {
+              "v": {
+                "v": "Emer. Professor der Astronomie",
+                "l": "Emer. Professor der Astronomie"
+              }
+            },
+            {
+              "v": {
+                "v": "Akademiker",
+                "l": "Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Veterinär-Medizin",
+                "l": "Professor der Veterinär-Medizin"
+              }
+            },
+            {
+              "v": {
+                "v": "Mag. ehemal. Professor der Universität",
+                "l": "Mag. ehemal. Professor der Universität"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Mineralogie",
+                "l": "Professor der Mineralogie"
+              }
+            },
+            {
+              "v": {
+                "v": "Docent der realen und historischen Altertumswissenschaften",
+                "l": "Docent der realen und historischen Altertumswissenschaften"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Geschichte",
+                "l": "Professor der Geschichte"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor des russischen Rechts",
+                "l": "Professor des russischen Rechts"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der finnischen Sprache",
+                "l": "Professor der finnischen Sprache"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der politischen Oekonomie",
+                "l": "Professor der politischen Oekonomie"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. oec. pol.",
+                "l": "Stud. oec. pol."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Jurisprudenz",
+                "l": "Professor der Jurisprudenz"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Physik",
+                "l": "Professor der Physik"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Archäologie an der Universität zu Moskau",
+                "l": "Professor der Archäologie an der Universität zu Moskau"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der orientalischen Sprachen",
+                "l": "Professor der orientalischen Sprachen"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Landwirthschaft am Polytechnikum",
+                "l": "Professor der Landwirthschaft am Polytechnikum"
+              }
+            },
+            {
+              "v": {
+                "v": "Außerordentlicher Professor",
+                "l": "Außerordentlicher Professor"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Theologie für die Studenten orthodox-griechischer Confession, Protohierei",
+                "l": "Professor der Theologie für die Studenten orthodox-griechischer Confession, Protohierei"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. theol.",
+                "l": "Stud. theol."
+              }
+            },
+            {
+              "v": {
+                "v": "Docent an der Universität Warschau",
+                "l": "Docent an der Universität Warschau"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der allgemeinen Sprachwissenschaft",
+                "l": "Professor der allgemeinen Sprachwissenschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der deutschen und vergleichenden Sprachkunde",
+                "l": "Professor der deutschen und vergleichenden Sprachkunde"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Chef einer Abtheilung der Agrarbank",
+                "l": "Chef einer Abtheilung der Agrarbank"
+              }
+            },
+            {
+              "v": {
+                "v": "Buchhalter",
+                "l": "Buchhalter"
+              }
+            },
+            {
+              "v": {
+                "v": "Revisor",
+                "l": "Revisor"
+              }
+            },
+            {
+              "v": {
+                "v": "Bankbeamter",
+                "l": "Bankbeamter"
+              }
+            },
+            {
+              "v": {
+                "v": "Director des Credit-Systems",
+                "l": "Director des Credit-Systems"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Redacteur",
+                "l": "Redacteur"
+              }
+            },
+            {
+              "v": {
+                "v": "Bibliothekar",
+                "l": "Bibliothekar"
+              }
+            },
+            {
+              "v": {
+                "v": "Buchbinder",
+                "l": "Buchbinder"
+              }
+            },
+            {
+              "v": {
+                "v": "Buchdrucker und Verleger",
+                "l": "Buchdrucker und Verleger"
+              }
+            },
+            {
+              "v": {
+                "v": "Stadt-Bibliothekar",
+                "l": "Stadt-Bibliothekar"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Dimitt. Kreisrichter",
+                "l": "Dimitt. Kreisrichter"
+              }
+            },
+            {
+              "v": {
+                "v": "Canzlei-Director des Justizministerium",
+                "l": "Canzlei-Director des Justizministerium"
+              }
+            },
+            {
+              "v": {
+                "v": "Landgerichtssecretär",
+                "l": "Landgerichtssecretär"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Consistorialrath",
+                "l": "Consistorialrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Canzleibeamter des Raths",
+                "l": "Canzleibeamter des Raths"
+              }
+            },
+            {
+              "v": {
+                "v": "Rathsherr",
+                "l": "Rathsherr"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberverwalter",
+                "l": "Oberverwalter"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Landrath",
+                "l": "Dimitt. Landrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Landrath",
+                "l": "Landrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Rathsherr",
+                "l": "Dimitt. Rathsherr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pastor",
+                "l": "Pastor"
+              }
+            },
+            {
+              "v": {
+                "v": "Pastor an der St. Petri Gemeinde",
+                "l": "Pastor an der St. Petri Gemeinde"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Pastor",
+                "l": "Dimitt. Pastor"
+              }
+            },
+            {
+              "v": {
+                "v": "Emer. Pastor",
+                "l": "Emer. Pastor"
+              }
+            },
+            {
+              "v": {
+                "v": "Küster",
+                "l": "Küster"
+              }
+            },
+            {
+              "v": {
+                "v": "Evang. Pastor",
+                "l": "Evang. Pastor"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Lehrer am Realgymnasium",
+                "l": "Lehrer am Realgymnasium"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberlehrer am Gymnasium",
+                "l": "Oberlehrer am Gymnasium"
+              }
+            },
+            {
+              "v": {
+                "v": "Schuldirector-Gehilfe",
+                "l": "Schuldirector-Gehilfe"
+              }
+            },
+            {
+              "v": {
+                "v": "Lehrer",
+                "l": "Lehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Schulinspector",
+                "l": "Dimitt. Schulinspector"
+              }
+            },
+            {
+              "v": {
+                "v": "Schuldirector",
+                "l": "Schuldirector"
+              }
+            },
+            {
+              "v": {
+                "v": "Director des Gymnasium des pädagogischen Instituts",
+                "l": "Director des Gymnasium des pädagogischen Instituts"
+              }
+            },
+            {
+              "v": {
+                "v": "Inspector des Gymnasiums",
+                "l": "Inspector des Gymnasiums"
+              }
+            },
+            {
+              "v": {
+                "v": "Inspektor der tatarischen Schulen",
+                "l": "Inspektor der tatarischen Schulen"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberlehrer an der Domschule",
+                "l": "Oberlehrer an der Domschule"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberlehrer",
+                "l": "Oberlehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Seminar-Director",
+                "l": "Seminar-Director"
+              }
+            },
+            {
+              "v": {
+                "v": "Privatdocent",
+                "l": "Privatdocent"
+              }
+            },
+            {
+              "v": {
+                "v": "Director des Gymnasiums",
+                "l": "Director des Gymnasiums"
+              }
+            },
+            {
+              "v": {
+                "v": "Director der St. Petri-Kirchenschule",
+                "l": "Director der St. Petri-Kirchenschule"
+              }
+            },
+            {
+              "v": {
+                "v": "Gymnasiallehrer",
+                "l": "Gymnasiallehrer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation_General",
+          "expression": "value",
+          "columnName": "Occupation_General",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rank",
+                "l": "Rank"
+              }
+            },
+            {
+              "v": {
+                "v": "Society",
+                "l": "Society"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation_Rank",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Ad_Society",
+    "columnInsertIndex": 16,
+    "description": "Create column Ad_Society at index 16 based on column Occupation_Rank using expression grel:null"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mag. ehemal. Professor der Universität"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ehemal. Professor der Universität"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
   }
 ]

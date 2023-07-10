@@ -1,314 +1,314 @@
-Column,YEAR,SOCIETY,1L_MS,2L_MS,3L_MS,NO_MS,Name_Ac_Title,Names,Occupation,Occupation_General,Occupation_Rank,HISCO_Code,Ad_Society,Place,Place_Reconciled,Qid,coordinate location,Country,Original_LINE
-1,1874,GEG,HM,HL,,1,Dr.,K. E. v. Baer,Geheimrath,,Geheimrath,,,Dorpat,Tartu,Q13972,"58.38,26.7225",," Dr, K. E. v. SB (ter|, Geheimrath, in Dorpat. 
+Column,YEAR,SOCIETY,1L_MS,2L_MS,3L_MS,NO_MS,Name_Ac_Title,Names,Occupation,HISCO_Code,Occupation_General,Occupation_Rank,Ad_Society,Place,Place_Reconciled,place_qid,coordinate_location,country_reconciled,Country,Original_LINE
+1,1874,GEG,HM,HL,,1,Dr.,K. E. v. Baer,Geheimrath,,Rank,Geheimrat,,Dorpat,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr, K. E. v. SB (ter|, Geheimrath, in Dorpat. 
 "
-2,1874,GEG,HM,HL,,2,Dr.,A. Buchholtz,,,,,,Riga,Riga,Q1773,"56.9475,24.106944444444",," Dr. A. Buchholtz| in Riga. 
+2,1874,GEG,HM,HL,,2,Dr.,A. Buchholtz,,,,,,Riga,Riga,Q1773,"56.9475,24.106944444444",Latvia,," Dr. A. Buchholtz| in Riga. 
 "
-3,1874,GEG,HM,HL,,3,Dr.,C. Grewingk,Professor der Mineralogie,Hochschulwesen,,13100,,Dorpat,Tartu,Q13972,"58.38,26.7225",," Dr. C. Grewingk|, Professor der Mineralogie in Dorpat. 
+3,1874,GEG,HM,HL,,3,Dr.,C. Grewingk,Professor der Mineralogie,13100,Hochschulwesen,,,Dorpat,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. C. Grewingk|, Professor der Mineralogie in Dorpat. 
 "
-4,1874,GEG,HM,HL,,4,Dr.,P. I. Karell,"Leibarzt, Geheimrath",Mediziner,Geheimrath,06105,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Dr. P. I. Karell|, Leibarzt und Geheimrath, in St. Petersburg. 
+4,1874,GEG,HM,HL,,4,Dr.,P. I. Karell,"Leibarzt, Geheimrath",06105,Medizin,Geheimrat,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Dr. P. I. Karell|, Leibarzt und Geheimrath, in St. Petersburg. 
 "
-5,1874,GEG,HM,HL,,5,Dr.,Alexander Graf Keyserling,Hofmeister,,Hofmeister,,,Raiküll,Raikküla,Q2989862,"58.935277777778,24.747777777778",Estland," Dr. Alexander Graf Keyserling|, Hofmei-ster, auf Raiküll in Estland. 
+5,1874,GEG,HM,HL,,5,Dr.,Alexander Graf Keyserling,Hofmeister,,Rank,Hofmeister,,Raiküll,Raikküla,Q2989862,"58.935277777778,24.747777777778",Estonia,Estland," Dr. Alexander Graf Keyserling|, Hofmei-ster, auf Raiküll in Estland. 
 "
-6,1874,GEG,HM,HL,,6,,E. Kunik,Akademiker,Hochschulwesen,,19990,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," E. K'unik|, Akademiker, in St. Petersburg. 
+6,1874,GEG,HM,HL,,6,,E. Kunik,Akademiker,19990,Hochschulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," E. K'unik|, Akademiker, in St. Petersburg. 
 "
-7,1874,GEG,HM,HL,,7,Dr.,Fr. A. Kreutzwald,,,,,,Werro,Võru,Q205271,"57.848611111111,26.992777777778",," Dr. Fr. A. Kreutzwald| in Werro. 
+7,1874,GEG,HM,HL,,7,Dr.,Fr. A. Kreutzwald,,,,,,Werro,Võru,Q205271,"57.848611111111,26.992777777778",Estonia,," Dr. Fr. A. Kreutzwald| in Werro. 
 "
-8,1874,GEG,HM,HL,,8,Dr.,E. Lönnrod,Professor,Hochschulwesen,,13100,,Helsingfors,Helsinki,Q1757,"60.17556,24.93417",," Dr. E. Lönnrod|, Professor in Helsingfors. 
+8,1874,GEG,HM,HL,,8,Dr.,E. Lönnrod,Professor,13100,Hochschulwesen,,,Helsingfors,Helsinki,Q1757,"60.17556,24.93417",Finland,," Dr. E. Lönnrod|, Professor in Helsingfors. 
 "
-9,1874,GEG,HM,HL,,9,,H. Neus,Dimitt. Schulinspector,Schulwesen,,22000,,Reval,Tallinn,Q1770,"59.437222222222,24.745",," H. Neus|, dimitt. Schulinfpector in Reval. 
+9,1874,GEG,HM,HL,,9,,H. Neus,Dimitt. Schulinspector,22000,Schulwesen,,,Reval,Tallinn,Q1770,"59.437222222222,24.745",Estonia,," H. Neus|, dimitt. Schulinfpector in Reval. 
 "
-10,1874,GEG,HM,HL,,10,Cand.,A. Schwabe,,,,,,Dorpat,Tartu,Q13972,"58.38,26.7225",," Cand. A. Schwabe| in Dorpat.' 
+10,1874,GEG,HM,HL,,10,Cand.,A. Schwabe,,,,,,Dorpat,Tartu,Q13972,"58.38,26.7225",Estonia,," Cand. A. Schwabe| in Dorpat.' 
 "
-11,1874,GEG,HM,HL,,11,,Carl Graf Sievers,,,,,,Wenden,Cēsis,Q107582,"57.313055555556,25.274722222222",," Carl Graf Sievers| in Wenden. 
+11,1874,GEG,HM,HL,,11,,Carl Graf Sievers,,,,,,Wenden,Cēsis,Q107582,"57.313055555556,25.274722222222",Latvia,," Carl Graf Sievers| in Wenden. 
 "
-12,1874,GEG,HM,HL,,12,,W. v. Stryk,Landrath,Verwaltung,,,,Brinckenhof,Briņķi,Q22117464,"57.04055556,22.55472222",," W. v. Stryk|, Landrath, auf Bnttckenfof. 
+12,1874,GEG,HM,HL,,12,,W. v. Stryk,Landrath,,Verwaltung,,,Brinckenhof,Briņķi,Q22117464,"57.04055556,22.55472222",Latvia,," W. v. Stryk|, Landrath, auf Bnttckenfof. 
 "
-13,1874,GEG,HM,HL,,13,,R. Baron Toll,Landrath,Verwaltung,,,,Kuckers,Kukruse,Q977259,"59.385833333333,27.36",," R. Baron Toll|, Landrath, aus Kuckers. 
+13,1874,GEG,HM,HL,,13,,R. Baron Toll,Landrath,,Verwaltung,,,Kuckers,Kukruse,Q977259,"59.385833333333,27.36",Estonia,," R. Baron Toll|, Landrath, aus Kuckers. 
 "
-14,1874,GEG,HM,HL,,14,,F. I. Wiedemann,Akademiker,Hochschulwesen,,19990,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," F. I. Wiedemann|, Akadentiker in St. Petersburg. 
+14,1874,GEG,HM,HL,,14,,F. I. Wiedemann,Akademiker,19990,Hochschulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," F. I. Wiedemann|, Akadentiker in St. Petersburg. 
 "
-15,1874,GEG,HM,AB,,15,Dr.,Fr. G. von Bunge,Wirkl. Staatsrath,,Wirkl. Staatsrath,,,Gotha,Gotha,Q6986,"50.948888888889,10.718333333333",," Dr. Fr. G. von Bunge|, wirkt. Staatsrath, in Gotha. 
+15,1874,GEG,HM,AB,,15,Dr.,Fr. G. von Bunge,Wirkl. Staatsrath,,Rank,Wirklicher Staatsrat (Russland),,Gotha,Gotha,Q6986,"50.948888888889,10.718333333333",Germany,," Dr. Fr. G. von Bunge|, wirkt. Staatsrath, in Gotha. 
 "
-16,1874,GEG,HM,AB,,16,Dr.,C. A. Herrmann,Professor der Geschichte,Hochschulwesen,,13100,,Marburg,Marburg,Q3869,"50.816666666667,8.7666666666667",," Dr. C. A. Herr mann|, Professor der Geschichte in Marburg. 
+16,1874,GEG,HM,AB,,16,Dr.,C. A. Herrmann,Professor der Geschichte,13100,Hochschulwesen,,,Marburg,Marburg,Q3869,"50.816666666667,8.7666666666667",Germany,," Dr. C. A. Herr mann|, Professor der Geschichte in Marburg. 
 "
-17,1874,GEG,HM,AB,,17,Dr.,Paul Hunsalvy,Akademiker,Hochschulwesen,,19990,,Pest,Pest,Q210205,"47.5,19.1",," Dr. Paul Hunsalvy|, Akademiker in Pest. 
+17,1874,GEG,HM,AB,,17,Dr.,Paul Hunsalvy,Akademiker,19990,Hochschulwesen,,,Pest,Pest,Q210205,"47.5,19.1",Hungary,," Dr. Paul Hunsalvy|, Akademiker in Pest. 
 "
-18,1874,GEG,HM,AB,,18,Dr.,A. F. Pott,Professor der allgem. Sprach-Wissenschaft,Hochschulwesen,,13100,,Halle,Halle (Saale),Q2814,"51.48277777777778,11.969722222222222",," Dr. A. F. Pott|, Professor der allgem. Sprach-Wissenschaft in Halle. 
+18,1874,GEG,HM,AB,,18,Dr.,A. F. Pott,Professor der allgem. Sprach-Wissenschaft,13100,Hochschulwesen,,,Halle,Halle (Saale),Q2814,"51.48277777777778,11.969722222222222",Germany,," Dr. A. F. Pott|, Professor der allgem. Sprach-Wissenschaft in Halle. 
 "
-19,1874,GEG,HM,AB,,19,Dr.,W. Schott,Professor der philosophischen Facultät,Hochschulwesen,,13100,,Berlin,Berlin,Q64,"52.516666666667,13.383333333333",," Dr. W. Schott|, Professor der philosophischen Facultät in Berlin. 
+19,1874,GEG,HM,AB,,19,Dr.,W. Schott,Professor der philosophischen Facultät,13100,Hochschulwesen,,,Berlin,Berlin,Q64,"52.516666666667,13.383333333333",Germany,," Dr. W. Schott|, Professor der philosophischen Facultät in Berlin. 
 "
-20,1874,GEG,HM,AB,,20,Dr.,C. Schirren,Professor der Geschichte,Hochschulwesen,,13100,,Kiel,Kiel,Q1707,"54.323333333333,10.139444444444",," Dr. C. Schirren|, Professor der Geschichte in Kiel. 
+20,1874,GEG,HM,AB,,20,Dr.,C. Schirren,Professor der Geschichte,13100,Hochschulwesen,,,Kiel,Kiel,Q1707,"54.323333333333,10.139444444444",Germany,," Dr. C. Schirren|, Professor der Geschichte in Kiel. 
 "
-21,1874,GEG,HM,AB,,21,Dr.,F. I. Winckelmann,Professor der Geschichte,Hochschulwesen,,13100,,Heidelberg,Heidelberg,Q2966,"49.412222222222,8.71",," Dr. F. I. Winckelmann|, Professor der Ge-schichte in Heidelberg. 
+21,1874,GEG,HM,AB,,21,Dr.,F. I. Winckelmann,Professor der Geschichte,13100,Hochschulwesen,,,Heidelberg,Heidelberg,Q2966,"49.412222222222,8.71",Germany,," Dr. F. I. Winckelmann|, Professor der Ge-schichte in Heidelberg. 
 "
-22,1874,GEG,OM,HL,IN,1,Mag.,Paul Alexejew,Professor der Theologie für die Stud. orthodox - griechischer Confession Protohierei,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Mag. Paul Alexejew|, Professor der Theologie für die Stud. ortbodox - griechischer Confefsion, Protohierei. 
+22,1874,GEG,OM,HL,IN,1,Mag.,Paul Alexejew,"Professor der Theologie für die Studenten orthodox-griechischer Confession, Protohierei",13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Mag. Paul Alexejew|, Professor der Theologie für die Stud. ortbodox - griechischer Confefsion, Protohierei. 
 "
-23,1874,GEG,OM,HL,IN,2,Dr.,Theodor Beise,"Dimitt. Syndicus der Universität, Staatsrath",Hochschulwesen,Staatsrath,,,,Tartu,Q13972,"58.38,26.7225",," Dr. Theodor Beise|, dimitt. Syndicus der Uni-versität, Staatsrath. 
+23,1874,GEG,OM,HL,IN,2,Dr.,Theodor Beise,"Dimitt. Syndicus der Universität, Staatsrath",,Hochschulwesen,Staatsrat,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. Theodor Beise|, dimitt. Syndicus der Uni-versität, Staatsrath. 
 "
-24,1874,GEG,OM,HL,IN,3,Dr.,Alexander Brückner,Professor der Geschichte Rußlands,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. Alexander Brückner|, Professor der Ge-schichte Rußlands. 
+24,1874,GEG,OM,HL,IN,3,Dr.,Alexander Brückner,Professor der Geschichte Rußlands,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. Alexander Brückner|, Professor der Ge-schichte Rußlands. 
 "
-25,1874,GEG,OM,HL,IN,4,,G. Blumberg,Gymnasiallehrer,Schulwesen,,13020,,,Tartu,Q13972,"58.38,26.7225",," G. Blumberg|, Gymnasiallehrer. 
+25,1874,GEG,OM,HL,IN,4,,G. Blumberg,Gymnasiallehrer,13020,Schulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," G. Blumberg|, Gymnasiallehrer. 
 "
-26,1874,GEG,OM,HL,IN,5,,Christoph Bereits,Stud. jur.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Christoph Bereits|, Stud. jur. 
+26,1874,GEG,OM,HL,IN,5,,Christoph Bereits,Stud. jur.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Christoph Bereits|, Stud. jur. 
 "
-27,1874,GEG,OM,HL,IN,6,,Hermann Baron Bruiningk,Stud. jur.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Hermann Baron Bruiningk|, Stud. jur. 
+27,1874,GEG,OM,HL,IN,6,,Hermann Baron Bruiningk,Stud. jur.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Hermann Baron Bruiningk|, Stud. jur. 
 "
-28,1874,GEG,OM,HL,IN,7,Dr.,B. Brunner,Secretär der Kais. livl. ökon. Societät,,,,Die Kaiserlich livländische ökonomische Societät,,Tartu,Q13972,"58.38,26.7225",," Dr. B. Brunner|, Secretär der Kais. livl. ökon. Societät. 
+28,1874,GEG,OM,HL,IN,7,Dr.,B. Brunner,Secretär der Kais. livl. ökon. Societät,,Society,,Die Kaiserlich livländische ökonomische Societät,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. B. Brunner|, Secretär der Kais. livl. ökon. Societät. 
 "
-29,1874,GEG,OM,HL,IN,8,,Alexander Buchholtz,Stud. jur.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Alexander Buchholtz|, Stud. jur. 
+29,1874,GEG,OM,HL,IN,8,,Alexander Buchholtz,Stud. jur.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Alexander Buchholtz|, Stud. jur. 
 "
-30,1874,GEG,OM,HL,IN,9,,Coustantin Baron Budberg,Dimitt. Oberst,Militär,,58320,,,Tartu,Q13972,"58.38,26.7225",," Coustantin Baron Budberg|, dimitt. Oberst. 
+30,1874,GEG,OM,HL,IN,9,,Coustantin Baron Budberg,Dimitt. Oberst,58320,Militär,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Coustantin Baron Budberg|, dimitt. Oberst. 
 "
-31,1874,GEG,OM,HL,IN,10,Dr.,Th. Clausen,Prof. emer. der Astronomie,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. Th. Clausen|, Prof. emer. der Astronomie. 
+31,1874,GEG,OM,HL,IN,10,Dr.,Th. Clausen,Prof. emer. der Astronomie,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. Th. Clausen|, Prof. emer. der Astronomie. 
 "
-32,1874,GEG,OM,HL,IN,11,,A. v. Dehn,Landgerichts-Secretär,Juristerei,,32120,,,Tartu,Q13972,"58.38,26.7225",," A. v. Dehn|, Landgerichts-Secretär. 
+32,1874,GEG,OM,HL,IN,11,,A. v. Dehn,Landgerichts-Secretär,32120,Juristerei,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," A. v. Dehn|, Landgerichts-Secretär. 
 "
-33,1874,GEG,OM,HL,IN,12,,A. Dieckhoff,Stud. oec. pol.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," A. Dieckhoff|, Stud. oec. pol. 
+33,1874,GEG,OM,HL,IN,12,,A. Dieckhoff,Stud. oec. pol.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," A. Dieckhoff|, Stud. oec. pol. 
 "
-34,1874,GEG,OM,HL,IN,13,,O. Dieckhoff,Stud. jur.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," O. Dieckhoff|, Stud. jur. 
+34,1874,GEG,OM,HL,IN,13,,O. Dieckhoff,Stud. jur.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," O. Dieckhoff|, Stud. jur. 
 "
-35,1874,GEG,OM,HL,IN,14,Dr.,G. Dragendorff,Professor der Pharmacie,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. G. Dragendorff|, Professor der Pharmacie. 
+35,1874,GEG,OM,HL,IN,14,Dr.,G. Dragendorff,Professor der Pharmacie,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. G. Dragendorff|, Professor der Pharmacie. 
 "
-36,1874,GEG,OM,HL,IN,15,Dr.,I. Engetmann,Professor des russischen Rechts,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. I. Engetmann|, Professor des russischen Rechts, 
+36,1874,GEG,OM,HL,IN,15,Dr.,I. Engetmann,Professor des russischen Rechts,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. I. Engetmann|, Professor des russischen Rechts, 
 "
-37,1874,GEG,OM,HL,IN,16,Dr.,M. v. Engelhardt,Professor der historischen Theologie,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. M. v. Engelhardt|, Professor der histori-scheu Theologie.» 
+37,1874,GEG,OM,HL,IN,16,Dr.,M. v. Engelhardt,Professor der historischen Theologie,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. M. v. Engelhardt|, Professor der histori-scheu Theologie.» 
 "
-38,1874,GEG,OM,HL,IN,17,,W. Eisenschmidt,Pastor an der St. Petri-Gemeinde,Pfarrwesen,,14120,,,Tartu,Q13972,"58.38,26.7225",," W. Eisenschmidt|, Pastor an. der St. Petri-Gemeinde. 
+38,1874,GEG,OM,HL,IN,17,,W. Eisenschmidt,Pastor an der St. Petri-Gemeinde,14120,Pfarrwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," W. Eisenschmidt|, Pastor an. der St. Petri-Gemeinde. 
 "
-39,1874,GEG,OM,HL,IN,18,,G. Elster,Stud. hist.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," G. Elster|, Stud. bist. 
+39,1874,GEG,OM,HL,IN,18,,G. Elster,Stud. hist.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," G. Elster|, Stud. bist. 
 "
-40,1874,GEG,OM,HL,IN,19,,Th. Gööck,Director des Gymnasiums,Schulwesen,,21110,,,Tartu,Q13972,"58.38,26.7225",," Th. Gööck|, Direetor des Gymnasiums. 
+40,1874,GEG,OM,HL,IN,19,,Th. Gööck,Director des Gymnasiums,21110,Schulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Th. Gööck|, Direetor des Gymnasiums. 
 "
-41,1874,GEG,OM,HL,IN,20,,W. Gläser,Buchdrucker und Verleger,Buchwesen,,92110,,,Tartu,Q13972,"58.38,26.7225",," W. Gläser|, Buchdrucker und Verleger. 
+41,1874,GEG,OM,HL,IN,20,,W. Gläser,Buchdrucker und Verleger,92110,Buchwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," W. Gläser|, Buchdrucker und Verleger. 
 "
-42,1874,GEG,OM,HL,IN,21,,H. E. Hartmann,,,,,,,Tartu,Q13972,"58.38,26.7225",," H. E. Hartmann|. 
+42,1874,GEG,OM,HL,IN,21,,H. E. Hartmann,,,,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," H. E. Hartmann|. 
 "
-43,1874,GEG,OM,HL,IN,22,Mag.,R. Hausmann,Professor der Geschichte,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Mag. R. Hausmann|, Professor der Geschichte. 
+43,1874,GEG,OM,HL,IN,22,Mag.,R. Hausmann,Professor der Geschichte,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Mag. R. Hausmann|, Professor der Geschichte. 
 "
-44,1874,GEG,OM,HL,IN,23,,Fr. Hollmann,Seminar-Director,Schulwesen,,21110,,,Tartu,Q13972,"58.38,26.7225",," Fr. Hollmann|, Seminar-Director. 
+44,1874,GEG,OM,HL,IN,23,,Fr. Hollmann,Seminar-Director,21110,Schulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Fr. Hollmann|, Seminar-Director. 
 "
-45,1874,GEG,OM,HL,IN,24,,I. W. Jansen,Redacteur,Buchwesen,,15900,,,Tartu,Q13972,"58.38,26.7225",," I. W. Jansen|, Redaeteur. 
+45,1874,GEG,OM,HL,IN,24,,I. W. Jansen,Redacteur,15900,Buchwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," I. W. Jansen|, Redaeteur. 
 "
-46,1874,GEG,OM,HL,IN,25,,C. F. Janter,Dimitt. Pastor,Pfarrwesen,,14120,,,Tartu,Q13972,"58.38,26.7225",," C. F. Janter|, dimitt. Pastor. 
+46,1874,GEG,OM,HL,IN,25,,C. F. Janter,Dimitt. Pastor,14120,Pfarrwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," C. F. Janter|, dimitt. Pastor. 
 "
-47,1874,GEG,OM,HL,IN,26,,C. Körber,Dimitt. Pastor,Pfarrwesen,,14120,,,Tartu,Q13972,"58.38,26.7225",," C. Körber|, dimitt. Pastor. 
+47,1874,GEG,OM,HL,IN,26,,C. Körber,Dimitt. Pastor,14120,Pfarrwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," C. Körber|, dimitt. Pastor. 
 "
-48,1874,GEG,OM,HL,IN,27,,H. Kuchczinski,Stud. hist.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," H. Kuchczinski|, Stud. bist. 
+48,1874,GEG,OM,HL,IN,27,,H. Kuchczinski,Stud. hist.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," H. Kuchczinski|, Stud. bist. 
 "
-49,1874,GEG,OM,HL,IN,28,,Georg Knüpffer,Stud. theol.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Georg Knüpff-er|, Stud; theol. 
+49,1874,GEG,OM,HL,IN,28,,Georg Knüpffer,Stud. theol.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Georg Knüpff-er|, Stud; theol. 
 "
-50,1874,GEG,OM,HL,IN,29,,A. Kurrikosf,Stud. theol.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," A. Kurrikosf|, Stud- theol. 
+50,1874,GEG,OM,HL,IN,29,,A. Kurrikosf,Stud. theol.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," A. Kurrikosf|, Stud- theol. 
 "
-51,1874,GEG,OM,HL,IN,30,,H. Laakmann,Buchdrucker und Verleger,Buchwesen,,92110,,,Tartu,Q13972,"58.38,26.7225",," H. Laakmann|, Buchdrucker und Verleger. 
+51,1874,GEG,OM,HL,IN,30,,H. Laakmann,Buchdrucker und Verleger,92110,Buchwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," H. Laakmann|, Buchdrucker und Verleger. 
 "
-52,1874,GEG,OM,HL,IN,81,Cand.,I. G. Ludwigs,Coll-Assessor,,Coll-Assessor,,,,Tartu,Q13972,"58.38,26.7225",," Cand. I. G. Ludwigs|, Coll.-Assessor. 
+52,1874,GEG,OM,HL,IN,81,Cand.,I. G. Ludwigs,Coll.-Assessor,,Rank,Kollegienassessor,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Cand. I. G. Ludwigs|, Coll.-Assessor. 
 "
-53,1874,GEG,OM,HL,IN,32,,E. v. Lanting,,,,,,,Tartu,Q13972,"58.38,26.7225",," E. v. Lanting|. 
+53,1874,GEG,OM,HL,IN,32,,E. v. Lanting,,,,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," E. v. Lanting|. 
 "
-54,1874,GEG,OM,HL,IN,33,,A. Lundmann,Gymnasiallehrer,Schulwesen,,13020,,,Tartu,Q13972,"58.38,26.7225",," A. Lundmann|, Gymnasiallehrer. 
+54,1874,GEG,OM,HL,IN,33,,A. Lundmann,Gymnasiallehrer,13020,Schulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," A. Lundmann|, Gymnasiallehrer. 
 "
-55,1874,GEG,OM,HL,IN,34,Dr.,Liborius,"Emer. Schuldirector, Staatsrath",Schulwesen,Staatsrath,21110,,,Tartu,Q13972,"58.38,26.7225",," Dr. Liborius|, emer. Schuldirector, Staatsrath. 
+55,1874,GEG,OM,HL,IN,34,Dr.,Liborius,"Emer. Schuldirector, Staatsrath",21110,Schulwesen,Staatsrat,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. Liborius|, emer. Schuldirector, Staatsrath. 
 "
-56,1874,GEG,OM,HL,IN,35,Dr.,E. Mattiesen,Redacteur,Buchwesen,,15900,,,Tartu,Q13972,"58.38,26.7225",," Dr. E. Mattiesen|, Redaeteur. 
+56,1874,GEG,OM,HL,IN,35,Dr.,E. Mattiesen,Redacteur,15900,Buchwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. E. Mattiesen|, Redaeteur. 
 "
-57,1874,GEG,OM,HL,IN,36,,I. Baron Maydell-Krüdnershof,Dimitt. Kreisrichter,Juristerei,,12210,,,Tartu,Q13972,"58.38,26.7225",," I. Baron ydell - Krüdnershof|, dim. Kreis-richtet. 
+57,1874,GEG,OM,HL,IN,36,,I. Baron Maydell-Krüdnershof,Dimitt. Kreisrichter,12210,Juristerei,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," I. Baron ydell - Krüdnershof|, dim. Kreis-richtet. 
 "
-58,1874,GEG,OM,HL,IN,37,,C. von Zur Mühlen,Director des Credit-Systems,Bankwesen,,21110,,,Tartu,Q13972,"58.38,26.7225",," C. von Zut-Mühlen|, Directot des Credit-Systems. ' . - • 
+58,1874,GEG,OM,HL,IN,37,,C. von Zur Mühlen,Director des Credit-Systems,21110,Bankwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," C. von Zut-Mühlen|, Directot des Credit-Systems. ' . - • 
 "
-59,1874,GEG,OM,HL,IN,38,,C. Mickwitz,Inspector des Gymnasiums,Schulwesen,,22000,,,Tartu,Q13972,"58.38,26.7225",," C. Mickwitz|, Jnspector des Gymnasiums. 
+59,1874,GEG,OM,HL,IN,38,,C. Mickwitz,Inspector des Gymnasiums,22000,Schulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," C. Mickwitz|, Jnspector des Gymnasiums. 
 "
-60,1874,GEG,OM,HL,IN,39,Dr.,Leo Meyer,Professor der deutschen und vergleichenden Sprachkunde,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dfj Leo Meyer|, Professor der deutschen und vergleichenden Sprachkunde. 
+60,1874,GEG,OM,HL,IN,39,Dr.,Leo Meyer,Professor der deutschen und vergleichenden Sprachkunde,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dfj Leo Meyer|, Professor der deutschen und vergleichenden Sprachkunde. 
 "
-61,1874,GEG,OM,HL,IN,40,Dr.,Arthur von Dettingen,Professor Vet Win,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. Arthut von Dettingen|, Prosefsor Vet Win 
+61,1874,GEG,OM,HL,IN,40,Dr.,Arthur von Dettingen,Professor Vet Win,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. Arthut von Dettingen|, Prosefsor Vet Win 
 "
-62,1874,GEG,OM,HL,IN,47,,T. Peck,Canzleibeamter des Raths,Verwaltung,,,,,Tartu,Q13972,"58.38,26.7225",," T. Peck|. Ctmzleibenmter des Raths. 
+62,1874,GEG,OM,HL,IN,47,,T. Peck,Canzleibeamter des Raths,,Verwaltung,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," T. Peck|. Ctmzleibenmter des Raths. 
 "
-63,1874,GEG,OM,HL,IN,42,,Louis Baron Rossillon,Wirkl. Staatsrath,,Wirkl. Staatsrath,,,,Tartu,Q13972,"58.38,26.7225",," Louis Baron Rossillon|. wirkl. StÄatsrath^ 
+63,1874,GEG,OM,HL,IN,42,,Louis Baron Rossillon,Wirkl. Staatsrath,,Rank,Wirklicher Staatsrat (Russland),,,Tartu,Q13972,"58.38,26.7225",Estonia,," Louis Baron Rossillon|. wirkl. StÄatsrath^ 
 "
-64,1874,GEG,OM,HL,IN,43,,R. Rech,Revisor,Bankwesen,,11020,,,Tartu,Q13972,"58.38,26.7225",," R. Rech|, Revisor. 
+64,1874,GEG,OM,HL,IN,43,,R. Rech,Revisor,11020,Bankwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," R. Rech|, Revisor. 
 "
-65,1874,GEG,OM,HL,IN,44,Dr.,Franz Rühl,Professor der Philologie,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. Franz Rühl|, Professor der Philologie. 
+65,1874,GEG,OM,HL,IN,44,Dr.,Franz Rühl,Professor der Philologie,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. Franz Rühl|, Professor der Philologie. 
 "
-66,1874,GEG,OM,HL,IN,46,,Dh $Ä. ©chtetitf,,,,,,,Tartu,Q13972,"58.38,26.7225",," Dh $Ä. ©chtetitf|. - 191 — 
+66,1874,GEG,OM,HL,IN,46,,Dh $Ä. ©chtetitf,,,,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dh $Ä. ©chtetitf|. - 191 — 
 "
-67,1874,GEG,OM,HL,IN,46,,Ad. Sachsendahl,Stud. med.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Ad. Sachsendahl|, stud. med. 
+67,1874,GEG,OM,HL,IN,46,,Ad. Sachsendahl,Stud. med.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Ad. Sachsendahl|, stud. med. 
 "
-68,1874,GEG,OM,HL,IN,47,,Joh. Sachsendahl,Stud. med.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Joh. Sachsendahl|, Stud. med. 
+68,1874,GEG,OM,HL,IN,47,,Joh. Sachsendahl,Stud. med.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Joh. Sachsendahl|, Stud. med. 
 "
-69,1874,GEG,OM,HL,IN,48,,I. ̂ chiskan,Stud. hist.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," I. ̂ chiskan|, Stud. bist, 
+69,1874,GEG,OM,HL,IN,48,,I. ̂ chiskan,Stud. hist.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," I. ̂ chiskan|, Stud. bist, 
 "
-70,1874,GEG,OM,HL,IN,49,,Leopold Schroeder,Candidat der vergleichenden Sprachforschung,Hochschulwesen,,19990,,,Tartu,Q13972,"58.38,26.7225",," Leopold Schroeder|, Candidat der vergleichen-den Sprachforschung. 
+70,1874,GEG,OM,HL,IN,49,,Leopold Schroeder,Candidat der vergleichenden Sprachforschung,19990,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Leopold Schroeder|, Candidat der vergleichen-den Sprachforschung. 
 "
-71,1874,GEG,OM,HL,IN,50,,Leonhard von Stryk,Secretär des Credit-Systems,Bankwesen,,32120,,,Tartu,Q13972,"58.38,26.7225",," Leonhard von Stryk|, Secretär des Credit-Systems. 
+71,1874,GEG,OM,HL,IN,50,,Leonhard von Stryk,Secretär des Credit-Systems,32120,Bankwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Leonhard von Stryk|, Secretär des Credit-Systems. 
 "
-72,1874,GEG,OM,HL,IN,51,Dr.,L. Stieda,Außerordentl. Professor,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. L. Stieda|, außerordentl. Professor. 5L"
-73,1874,GEG,OM,HL,IN,53,,R. Stillmark,Obersecretär des Raths,Verwaltung,,,,,Tartu,Q13972,"58.38,26.7225",," R. Stillmark|, Obersecretär des Rachs. 
+72,1874,GEG,OM,HL,IN,51,Dr.,L. Stieda,Außerordentl. Professor,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. L. Stieda|, außerordentl. Professor. 5L"
+73,1874,GEG,OM,HL,IN,53,,R. Stillmark,Obersecretär des Raths,,Verwaltung,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," R. Stillmark|, Obersecretär des Rachs. 
 "
-74,1874,GEG,OM,HL,IN,54,,W. Töpffer,Rathsherr,Verwaltung,,,,,Tartu,Q13972,"58.38,26.7225",," ÄZ. Töpffer|, Rathsherr. 
+74,1874,GEG,OM,HL,IN,54,,W. Töpffer,Rathsherr,,Verwaltung,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," ÄZ. Töpffer|, Rathsherr. 
 "
-75,1874,GEG,OM,HL,IN,55,,H. Treffner,Stud. theol.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," H. Treffner|, Stud. theol. 
+75,1874,GEG,OM,HL,IN,55,,H. Treffner,Stud. theol.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," H. Treffner|, Stud. theol. 
 "
-76,1874,GEG,OM,HL,IN,56,,Harald Baron Toll,Stud. jur.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," Harald Baron Toll|, Stud. jur. 
+76,1874,GEG,OM,HL,IN,56,,Harald Baron Toll,Stud. jur.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Harald Baron Toll|, Stud. jur. 
 "
-77,1874,GEG,OM,HL,IN,57,Dr.,phil. Mich. Weske,Lector der estn. Sprache,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," Dr. phil. Mich. Weske|, Lector der estn. Sprache. 
+77,1874,GEG,OM,HL,IN,57,Dr.,phil. Mich. Weske,Lector der estn. Sprache,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. phil. Mich. Weske|, Lector der estn. Sprache. 
 "
-78,1874,GEG,OM,HL,IN,58,,A. Wichmann,Stud. jur.,Hochschulwesen,,-1,,,Tartu,Q13972,"58.38,26.7225",," A. Wichmann|, Stud. jur. 
+78,1874,GEG,OM,HL,IN,58,,A. Wichmann,Stud. jur.,-1,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," A. Wichmann|, Stud. jur. 
 "
-79,1874,GEG,OM,HL,IN,59,,P. Wiskowatow,Professor der tuff Sprache,Hochschulwesen,,13100,,,Tartu,Q13972,"58.38,26.7225",," P. Wiskowatow|, Professor der tuff. Sprache. 
+79,1874,GEG,OM,HL,IN,59,,P. Wiskowatow,Professor der tuff Sprache,13100,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," P. Wiskowatow|, Professor der tuff. Sprache. 
 "
-80,1874,GEG,OM,HL,IN,60,,A. Willigerode,Consistorialrath,Verwaltung,,,,,Tartu,Q13972,"58.38,26.7225",," A. Willigerode|, Consistorialrath. 
+80,1874,GEG,OM,HL,IN,60,,A. Willigerode,Consistorialrath,,Verwaltung,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," A. Willigerode|, Consistorialrath. 
 "
-81,1874,GEG,OM,HL,IN,61,,P. Zilchert,Bankbeamter,Bankwesen,,33940,,,Tartu,Q13972,"58.38,26.7225",," P. Zilchert|, Bankbeamter. 
+81,1874,GEG,OM,HL,IN,61,,P. Zilchert,Bankbeamter,33940,Bankwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," P. Zilchert|, Bankbeamter. 
 "
-82,1874,GEG,OM,HL,OUT,62,,N. Andersohn,Oberlehrer am Gymnasium,Schulwesen,,13200,,Minsk,Minsk,Q2280,"53.902246,27.561837",," N. Andersohn|, Oberlehrer am Gymnasium in Minsk. 
+82,1874,GEG,OM,HL,OUT,62,,N. Andersohn,Oberlehrer am Gymnasium,13200,Schulwesen,,,Minsk,Minsk,Q2280,"53.902246,27.561837",Belarus,," N. Andersohn|, Oberlehrer am Gymnasium in Minsk. 
 "
-83,1874,GEG,OM,HL,OUT,63,,Fr. Amelung,Fabrikbesitzer,Besitzbürgertum,,21110,,Woisek,Võisiku,Q849030,"58.625556,25.918889",," Fr. Amelung|, Fabrikbesitzer inWoisek. 
+83,1874,GEG,OM,HL,OUT,63,,Fr. Amelung,Fabrikbesitzer,21110,Besitzbürgertum,,,Woisek,Võisiku,Q849030,"58.625556,25.918889",Estonia,," Fr. Amelung|, Fabrikbesitzer inWoisek. 
 "
-84,1874,GEG,OM,HL,OUT,64,,C. v. Brasch-Aya,Dimitt. Landrath,Verwaltung,,,,,,,,," C. v. Brasch-Aya|, dimitt. Äandrath. 
+84,1874,GEG,OM,HL,OUT,64,,C. v. Brasch-Aya,Dimitt. Landrath,,Verwaltung,,,,,,,,," C. v. Brasch-Aya|, dimitt. Äandrath. 
 "
-85,1874,GEG,OM,HL,OUT,65,Dr.,A. Christiani,General-Superintendent,Pfarrwesen,,14120,,Riga,Riga,Q1773,"56.9475,24.106944444444",," Dr. A. Christiani|, General-Superintendent in Riga. 
+85,1874,GEG,OM,HL,OUT,65,Dr.,A. Christiani,General-Superintendent,14120,Pfarrwesen,,,Riga,Riga,Q1773,"56.9475,24.106944444444",Latvia,," Dr. A. Christiani|, General-Superintendent in Riga. 
 "
-86,1874,GEG,OM,HL,OUT,66,,Georg Cramer,Gutsbesitzer,Besitzbürgertum,,61110,,Haakhof bei Narva,Aa Manor,Q16409363,"59.42527778,27.15066667",," Georg Cramer|, Gutsbesitzer auf Haakhof bei Narva. 
+86,1874,GEG,OM,HL,OUT,66,,Georg Cramer,Gutsbesitzer,61110,Besitzbürgertum,,,Haakhof bei Narva,Aa Manor,Q16409363,"59.42527778,27.15066667",Estonia,," Georg Cramer|, Gutsbesitzer auf Haakhof bei Narva. 
 "
-87,1874,GEG,OM,HL,OUT,67,Dr.,Fr. Enghoff,,,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Dr, Fr. Enghoff| in St. Petersburg, 
+87,1874,GEG,OM,HL,OUT,67,Dr.,Fr. Enghoff,,,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Dr, Fr. Enghoff| in St. Petersburg, 
 "
-88,1874,GEG,OM,HL,OUT,68,,W. Gendt,Dimitt. Rathsherr,Verwaltung,,,,Narva,Narva,Q102158,"59.379166666667,28.200555555556",," W. Gendt|, dimitt. Rachsherr in Narva. 
+88,1874,GEG,OM,HL,OUT,68,,W. Gendt,Dimitt. Rathsherr,,Verwaltung,,,Narva,Narva,Q102158,"59.379166666667,28.200555555556",Estonia,," W. Gendt|, dimitt. Rachsherr in Narva. 
 "
-89,1874,GEG,OM,HL,OUT,69,Mag.,K. Görtz,Professor der Archäologie an der Universität zu Moskau,Hochschulwesen,,13100,,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",," Mag. K. Görtz|, Professor der Archäologie an der Universität zu Moskau. 
+89,1874,GEG,OM,HL,OUT,69,Mag.,K. Görtz,Professor der Archäologie an der Universität zu Moskau,13100,Hochschulwesen,,,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",Russia,," Mag. K. Görtz|, Professor der Archäologie an der Universität zu Moskau. 
 "
-90,1874,GEG,OM,HL,OUT,70,Mag.,H. Graff,Director der St. Petri Kirchenschule,Schulwesen,,21110,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Mag. H. Graff|, Direetor der St. PetrinK irchen-schule in St. Petersburg. , 
+90,1874,GEG,OM,HL,OUT,70,Mag.,H. Graff,Director der St. Petri Kirchenschule,21110,Schulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Mag. H. Graff|, Direetor der St. PetrinK irchen-schule in St. Petersburg. , 
 "
-91,1874,GEG,OM,HL,OUT,71,Dr.,I. Girgensohn,Lehrer am Real-Gymnasium,Schulwesen,,13020,,Riga,Riga,Q1773,"56.9475,24.106944444444",," Dr. I. GirgensöHn|, Lehrer am Real-Gymna-siurn in Riga. 
+91,1874,GEG,OM,HL,OUT,71,Dr.,I. Girgensohn,Lehrer am Real-Gymnasium,13020,Schulwesen,,,Riga,Riga,Q1773,"56.9475,24.106944444444",Latvia,," Dr. I. GirgensöHn|, Lehrer am Real-Gymna-siurn in Riga. 
 "
-92,1874,GEG,OM,HL,OUT,72,,H. Hansen,Proeurafi'chrer der tusstschen Bank für auswärtigen Handel,Bankwesen,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," H. Hgnsen|, Proeurafi'chrer der tusstschen Pank für auswärtigen Handel in St. Petersburg. 
+92,1874,GEG,OM,HL,OUT,72,,H. Hansen,Proeurafi'chrer der tusstschen Bank für auswärtigen Handel,,Bankwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," H. Hgnsen|, Proeurafi'chrer der tusstschen Pank für auswärtigen Handel in St. Petersburg. 
 "
-93,1874,GEG,OM,HL,OUT,73,,Ferdinand Holst,Verwalter,Verwaltung,,21230,,Oberpahlen,Põltsamaa,Q642660,"58.653333333333,25.972222222222",," Ferdinand Holst|, Verwalter in Oberpcchlen. 
+93,1874,GEG,OM,HL,OUT,73,,Ferdinand Holst,Verwalter,21230,Verwaltung,,,Oberpahlen,Põltsamaa,Q642660,"58.653333333333,25.972222222222",Estonia,," Ferdinand Holst|, Verwalter in Oberpcchlen. 
 "
-94,1874,GEG,OM,HL,OUT,74,Dr.,med. Hirsch,,,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Dr. med. Hirsch| in St. Petersburg. 
+94,1874,GEG,OM,HL,OUT,74,Dr.,med. Hirsch,,,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Dr. med. Hirsch| in St. Petersburg. 
 "
-95,1874,GEG,OM,HL,OUT,75,,I. Hurt,Pastor,Pfarrwesen,,14120,,Odenpäh,Otepää,Q339347,"58.057222222222,26.498333333333",," I. Hurt|, Pastor zu Odenpäh. 
+95,1874,GEG,OM,HL,OUT,75,,I. Hurt,Pastor,14120,Pfarrwesen,,,Odenpäh,Otepää,Q339347,"58.057222222222,26.498333333333",Estonia,," I. Hurt|, Pastor zu Odenpäh. 
 "
-96,1874,GEG,OM,HL,OUT,76,,A. Jacobson,Gymnasiallehrer,Schulwesen,,13020,,Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," A. Jacobson|, Gymnasiallehrer in Petersburg. 
+96,1874,GEG,OM,HL,OUT,76,,A. Jacobson,Gymnasiallehrer,13020,Schulwesen,,,Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," A. Jacobson|, Gymnasiallehrer in Petersburg. 
 "
-97,1874,GEG,OM,HL,OUT,77,,W. Jakowlew,Docent an der Universität Warschau,Hochschulwesen,,13100,,,,,,," W. Jakowlew|, Docent an der Universität Warschau. 
+97,1874,GEG,OM,HL,OUT,77,,W. Jakowlew,Docent an der Universität Warschau,13100,Hochschulwesen,,,,,,,,," W. Jakowlew|, Docent an der Universität Warschau. 
 "
-98,1874,GEG,OM,HL,OUT,78,,I. Köhler,Professor,Hochschulwesen,,13100,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," I. Köhler|, Professor in St. Peteesburg. 
+98,1874,GEG,OM,HL,OUT,78,,I. Köhler,Professor,13100,Hochschulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," I. Köhler|, Professor in St. Peteesburg. 
 "
-99,1874,GEG,OM,HL,OUT,79,,G. Kriegsmann,,,,,,Rantzen,Rantzén,Q47006707,,," G. Kriegsmann| in Rantzen. 
+99,1874,GEG,OM,HL,OUT,79,,G. Kriegsmann,,,,,,Rantzen,Rantzén,Q47006707,,,," G. Kriegsmann| in Rantzen. 
 "
-100,1874,GEG,OM,HL,OUT,80,Mag.,A. Kotljarewski,Ehemal. Professor der Universität Dorpat,Hochschulwesen,,13100,,,,,,," Mag. A. Kotljarewski|, ehemal Professor der Universität Dorpat. 
+100,1874,GEG,OM,HL,OUT,80,Mag.,A. Kotljarewski,Ehemal. Professor der Universität Dorpat,13100,Hochschulwesen,,,,,,,,," Mag. A. Kotljarewski|, ehemal Professor der Universität Dorpat. 
 "
-101,1874,GEG,OM,HL,OUT,81,,Anna Baronesse Krüdener,,,,,,Wolmar,Valmiera,Q108037,"57.538055555556,25.423055555556",," Anna Baronesse Krüdener| in Wolmar. 
+101,1874,GEG,OM,HL,OUT,81,,Anna Baronesse Krüdener,,,,,,Wolmar,Valmiera,Q108037,"57.538055555556,25.423055555556",Latvia,," Anna Baronesse Krüdener| in Wolmar. 
 "
-102,1874,GEG,OM,HL,OUT,82,,Victor Baron Laudon,,,,,,Keusen,Ķeiži mõis,Q42900747,"57.62748,25.55437",," Victor Baron Laudon| zu Keusen. 
+102,1874,GEG,OM,HL,OUT,82,,Victor Baron Laudon,,,,,,Keusen,Ķeiži mõis,Q42900747,"57.62748,25.55437",Latvia,," Victor Baron Laudon| zu Keusen. 
 "
-103,1874,GEG,OM,HL,OUT,83,,C. Laaland,Pastor,Pfarrwesen,,14120,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," C. Laaland|, Pastor in St. Petersburg. 
+103,1874,GEG,OM,HL,OUT,83,,C. Laaland,Pastor,14120,Pfarrwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," C. Laaland|, Pastor in St. Petersburg. 
 "
-104,1874,GEG,OM,HL,OUT,84,,G. v. Liphart,Dimitt. Landrath,Verwaltung,,,,Rathshof,Raadi,Q985032,"57.7625,27.306667",," G. v. Liphart|, dimitt. Landrath, in Rathshof. 
+104,1874,GEG,OM,HL,OUT,84,,G. v. Liphart,Dimitt. Landrath,,Verwaltung,,,Rathshof,Raadi,Q985032,"57.7625,27.306667",Estonia,," G. v. Liphart|, dimitt. Landrath, in Rathshof. 
 "
-105,1874,GEG,OM,HL,OUT,85,,C. Malm,Pastor,Pfarrwesen,,14120,,Rappel,Rapla,Q215971,"58.994444444444,24.801111111111",Estland," C. Malm|, Pastor in Rappel (Estland"
-106,1874,GEG,OM,HL,OUT,86,Mag.,Ad. Martinoff,,,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Mag. Ad. Martin off| in St. Petersburg. 
+105,1874,GEG,OM,HL,OUT,85,,C. Malm,Pastor,14120,Pfarrwesen,,,Rappel,Rapla,Q215971,"58.994444444444,24.801111111111",Estonia,Estland," C. Malm|, Pastor in Rappel (Estland"
+106,1874,GEG,OM,HL,OUT,86,Mag.,Ad. Martinoff,,,,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Mag. Ad. Martin off| in St. Petersburg. 
 "
-107,1874,GEG,OM,HL,OUT,87,,K. Mühlenthal,Arzt,Mediziner,,06105,,Neuhausen,Vastseliina,Q2981703,"57.731944444444,27.281944444444",," K. Mühlenthal|, Arzt in Neuhausen. 
+107,1874,GEG,OM,HL,OUT,87,,K. Mühlenthal,Arzt,06105,Medizin,,,Neuhausen,Vastseliina,Q2981703,"57.731944444444,27.281944444444",Estonia,," K. Mühlenthal|, Arzt in Neuhausen. 
 "
-108,1874,GEG,OM,HL,OUT,88,,G. Masing,Pastor,Pfarrwesen,,14120,,Neuhausen,Vastseliina,Q2981703,"57.731944444444,27.281944444444",," G. Masing|, Pastor in Neuhausen. 
+108,1874,GEG,OM,HL,OUT,88,,G. Masing,Pastor,14120,Pfarrwesen,,,Neuhausen,Vastseliina,Q2981703,"57.731944444444,27.281944444444",Estonia,," G. Masing|, Pastor in Neuhausen. 
 "
-109,1874,GEG,OM,HL,OUT,89,,I. Masing,Pastor,Pfarrwesen,,14120,,Rappin,Räpina,Q1483558,"58.097777777778,27.464166666667",," I. Masing|, Pastor in Rappin. 
+109,1874,GEG,OM,HL,OUT,89,,I. Masing,Pastor,14120,Pfarrwesen,,,Rappin,Räpina,Q1483558,"58.097777777778,27.464166666667",Estonia,," I. Masing|, Pastor in Rappin. 
 "
-110,1874,GEG,OM,HL,OUT,90,,C. Oehrn,Pastor,Pfarrwesen,,14120,,Wendau,Võnnu,Q3468782,"58.2825,27.050277777778",," C. Oehrn|, Pastor in Wendau. 
+110,1874,GEG,OM,HL,OUT,90,,C. Oehrn,Pastor,14120,Pfarrwesen,,,Wendau,Võnnu,Q3468782,"58.2825,27.050277777778",Estonia,," C. Oehrn|, Pastor in Wendau. 
 "
-111,1874,GEG,OM,HL,OUT,91,,E. v. Pfeiffer,,,,,,Alt-Pigast,Kõlleste Rural Municipality,Q1542997,"58.070833333333,26.835",," E. v. Pfeiffer| in Alt-Pigast. 
+111,1874,GEG,OM,HL,OUT,91,,E. v. Pfeiffer,,,,,,Alt-Pigast,Kõlleste Rural Municipality,Q1542997,"58.070833333333,26.835",Estonia,," E. v. Pfeiffer| in Alt-Pigast. 
 "
-112,1874,GEG,OM,HL,OUT,92,,C. Pödder,Buchhalter,Bankwesen,,33110,,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",," C. Pödder|, Buchhalter in Moskau. 
+112,1874,GEG,OM,HL,OUT,92,,C. Pödder,Buchhalter,33110,Bankwesen,,,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",Russia,," C. Pödder|, Buchhalter in Moskau. 
 "
-113,1874,GEG,OM,HL,OUT,93,,G. Rosenpfanzer,Oberverwalter,Verwaltung,,21230,,Rathshof,Raadi,Q985032,"57.7625,27.306667",," G. Rosenpfanzer|, Oberverwalter in Rathshof. 
+113,1874,GEG,OM,HL,OUT,93,,G. Rosenpfanzer,Oberverwalter,21230,Verwaltung,,,Rathshof,Raadi,Q985032,"57.7625,27.306667",Estonia,," G. Rosenpfanzer|, Oberverwalter in Rathshof. 
 "
-114,1874,GEG,OM,HL,OUT,94,,C. v. Sengbusch-Launekaln,,,,,,Riga,Riga,Q1773,"56.9475,24.106944444444",," C. v. Sengbufch-Launekaln| in Riga. 
+114,1874,GEG,OM,HL,OUT,94,,C. v. Sengbusch-Launekaln,,,,,,Riga,Riga,Q1773,"56.9475,24.106944444444",Latvia,," C. v. Sengbufch-Launekaln| in Riga. 
 "
-115,1874,GEG,OM,HL,OUT,95,,Jegor v. Sivers,Professor der Landwirthschaft am Polytechnikum,Hochschulwesen,,13100,,Riga,Riga,Q1773,"56.9475,24.106944444444",," Jegor v. Sivers|, Professor der Landwirthschaft am Polytechnikum in Riga. 
+115,1874,GEG,OM,HL,OUT,95,,Jegor v. Sivers,Professor der Landwirthschaft am Polytechnikum,13100,Hochschulwesen,,,Riga,Riga,Q1773,"56.9475,24.106944444444",Latvia,," Jegor v. Sivers|, Professor der Landwirthschaft am Polytechnikum in Riga. 
 "
-116,1874,GEG,OM,HL,OUT,96,,Carl Stein,Pastor,Pfarrwesen,,14120,,Antzen,Antsla,Q154994,"57.829166666667,26.528888888889",," Carl Stein|, Pastor in Antzen. 
+116,1874,GEG,OM,HL,OUT,96,,Carl Stein,Pastor,14120,Pfarrwesen,,,Antzen,Antsla,Q154994,"57.829166666667,26.528888888889",Estonia,," Carl Stein|, Pastor in Antzen. 
 "
-117,1874,GEG,OM,HL,OUT,97,,C. Toepffer,Pastor,Pfarrwesen,,14120,,Talkhof,Puurmani,Q3477562,"58.576111111111,26.288333333333",," C. Toepsfer|, Pastor in Talkhof. 
+117,1874,GEG,OM,HL,OUT,97,,C. Toepffer,Pastor,14120,Pfarrwesen,,,Talkhof,Puurmani,Q3477562,"58.576111111111,26.288333333333",Estonia,," C. Toepsfer|, Pastor in Talkhof. 
 "
-118,1874,GEG,OM,HL,OUT,98,,Alexis Graf Uwarow,"Kammerherr, Präsident der archäologischen Gesellschaft",,Kammerherr,,Die archäologische Gesellschaft zu Moskau,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",," Alexis Graf Uwarow|, Kammerherr, Präfi-beut der archäologischen Gesellschaft in Moskau. 
+118,1874,GEG,OM,HL,OUT,98,,Alexis Graf Uwarow,"Kammerherr, Präsident der archäologischen Gesellschaft",,Rank,Kammerherr,Die archäologische Gesellschaft zu Moskau,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",Russia,," Alexis Graf Uwarow|, Kammerherr, Präfi-beut der archäologischen Gesellschaft in Moskau. 
 "
-119,1874,GEG,OM,HL,OUT,99,,Nicolai v. Wahl,,,,,,Pajus,Pajusi,Q3465378,"58.705277777778,25.94",," Nicolai v. Wahl| in Pajus. 
+119,1874,GEG,OM,HL,OUT,99,,Nicolai v. Wahl,,,,,,Pajus,Pajusi,Q3465378,"58.705277777778,25.94",Estonia,," Nicolai v. Wahl| in Pajus. 
 "
-120,1874,GEG,OM,AB,,100,Dr.,A. Schmiedeberg,Professor der Pharma­kologie,Hochschulwesen,,13100,,Straßburg i. E.,Strasbourg,Q6602,"48.573333333333,7.7522222222222",," Dr. A. Schmiedeberg|, Professor der Pharma­kologie in Straßburg i. E. 
+120,1874,GEG,OM,AB,,100,Dr.,A. Schmiedeberg,Professor der Pharma­kologie,13100,Hochschulwesen,,,Straßburg i. E.,Strasbourg,Q6602,"48.573333333333,7.7522222222222",France,," Dr. A. Schmiedeberg|, Professor der Pharma­kologie in Straßburg i. E. 
 "
-121,1874,GEG,CM,HL,,1,Dr.,A. Ahlquist,Professor der finnischen Sprache,Hochschulwesen,,13100,,Helsingfors,Helsinki,Q1757,"60.17556,24.93417",," Dr. A. Ah lqui st|, Professor der finnischen Sprache in Helsingfors. 
+121,1874,GEG,CM,HL,,1,Dr.,A. Ahlquist,Professor der finnischen Sprache,13100,Hochschulwesen,,,Helsingfors,Helsinki,Q1757,"60.17556,24.93417",Finland,," Dr. A. Ah lqui st|, Professor der finnischen Sprache in Helsingfors. 
 "
-122,1874,GEG,CM,HL,,2,,Jaan Adamsöhn,Dorfschulmeister,Schulwesen,,13020,,Holstershof (Paistel),Paistu,Q3466616,"58.270833333333,25.624444444444",," Ja an Ad am söhn|, Dorfschulmeister in Hols-fershof (Paistel"
-123,1874,GEG,CM,HL,,3,,Jul. Bergmann,"Dimitt. Lehrer des Tulafchen Cadettencorps, Coll-Rath",Schulwesen,Coll-Rath,13020,,Mitau,Jelgava,Q179830,"56.652222222222,23.724444444444",," Jul. Bergmann|, dimitt. Lehrer des Tulafchen Cadettencorps, Coll.-Rath, in Mitau. 
+122,1874,GEG,CM,HL,,2,,Jaan Adamsöhn,Dorfschulmeister,13020,Schulwesen,,,Holstershof (Paistel),Paistu,Q3466616,"58.270833333333,25.624444444444",Estonia,," Ja an Ad am söhn|, Dorfschulmeister in Hols-fershof (Paistel"
+123,1874,GEG,CM,HL,,3,,Jul. Bergmann,"Dimitt. Lehrer des Tulafchen Cadettencorps, Coll-Rath",13020,Schulwesen,Kollegienrat,,Mitau,Jelgava,Q179830,"56.652222222222,23.724444444444",Latvia,," Jul. Bergmann|, dimitt. Lehrer des Tulafchen Cadettencorps, Coll.-Rath, in Mitau. 
 "
-124,1874,GEG,CM,HL,,4,Cand.,Friedrich Bienemann,Oberlehrer an der Domschule,Schulwesen,,13200,,Reval,Tallinn,Q1770,"59.437222222222,24.745",," Cand. Friedrich Bienemann|, Oberlehrer an der Domschule zu Reval. 
+124,1874,GEG,CM,HL,,4,Cand.,Friedrich Bienemann,Oberlehrer an der Domschule,13200,Schulwesen,,,Reval,Tallinn,Q1770,"59.437222222222,24.745",Estonia,," Cand. Friedrich Bienemann|, Oberlehrer an der Domschule zu Reval. 
 "
-125,1874,GEG,CM,HL,,5,Dr.,A. Donner,,,,,,Helsingfors,Helsinki,Q1757,"60.17556,24.93417",," Dr. A. Donner| in Helsingfors. 
+125,1874,GEG,CM,HL,,5,Dr.,A. Donner,,,,,,Helsingfors,Helsinki,Q1757,"60.17556,24.93417",Finland,," Dr. A. Donner| in Helsingfors. 
 "
-126,1874,GEG,CM,HL,,6,,H. Diederichs,Oberlehrer,Schulwesen,,13200,,Mitau,Jelgava,Q179830,"56.652222222222,23.724444444444",," H. Diederichs|, Oberlehrer in Mitau. 
+126,1874,GEG,CM,HL,,6,,H. Diederichs,Oberlehrer,13200,Schulwesen,,,Mitau,Jelgava,Q179830,"56.652222222222,23.724444444444",Latvia,," H. Diederichs|, Oberlehrer in Mitau. 
 "
-127,1874,GEG,CM,HL,,7,Dr.,O. Duhmberg,,,,,,Barnaul,Barnaul,Q6014,"53.356666666667,83.787222222222",," Dr. O. Duhmberg| in Barnaul. 
+127,1874,GEG,CM,HL,,7,Dr.,O. Duhmberg,,,,,,Barnaul,Barnaul,Q6014,"53.356666666667,83.787222222222",Russia,," Dr. O. Duhmberg| in Barnaul. 
 "
-128,1874,GEG,CM,HL,,8,Dr.,I. Gorloff,Professor der politischen Oeko-nomie,Hochschulwesen,,13100,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Dr. I. Gorloff|, Professor der politischen Oeko-nomie in St. Petersburg. 
+128,1874,GEG,CM,HL,,8,Dr.,I. Gorloff,Professor der politischen Oeko-nomie,13100,Hochschulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Dr. I. Gorloff|, Professor der politischen Oeko-nomie in St. Petersburg. 
 "
-129,1874,GEG,CM,HL,,9,Dr.,L. Gahlnbäck,Schuldirector,Schulwesen,,21110,,Reval,Tallinn,Q1770,"59.437222222222,24.745",," Dr. L. (SWih Kit Mief|, Sämldirector in Reval. 
+129,1874,GEG,CM,HL,,9,Dr.,L. Gahlnbäck,Schuldirector,21110,Schulwesen,,,Reval,Tallinn,Q1770,"59.437222222222,24.745",Estonia,," Dr. L. (SWih Kit Mief|, Sämldirector in Reval. 
 "
-130,1874,GEG,CM,HL,,10,,H. Holzmayer,Oberlehrer,Schulwesen,,13200,,Arensburg,Kuressaare,Q188179,"58.253333333333,22.486111111111",," H. Holzmayer|, Oberlehrer in Arensburg. 
+130,1874,GEG,CM,HL,,10,,H. Holzmayer,Oberlehrer,13200,Schulwesen,,,Arensburg,Kuressaare,Q188179,"58.253333333333,22.486111111111",Estonia,," H. Holzmayer|, Oberlehrer in Arensburg. 
 "
-131,1874,GEG,CM,HL,,11,Dr.,B. Köhne,Wirkl. Staatsrath,,Wirkl. Staatsrath,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Dr. B. Köhne|, wirkl. St.-Rath. in St. Petersurg. 
+131,1874,GEG,CM,HL,,11,Dr.,B. Köhne,Wirkl. Staatsrath,,Rank,Wirklicher Staatsrat (Russland),,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Dr. B. Köhne|, wirkl. St.-Rath. in St. Petersurg. 
 "
-132,1874,GEG,CM,HL,,12,,M. Körber,Pastor,Pfarrwesen,,14120,,Anseküll,Anseküla Parish,Q12359332,,," M. Körber|, Pastor in Anseküll. 
+132,1874,GEG,CM,HL,,12,,M. Körber,Pastor,14120,Pfarrwesen,,,Anseküll,Anseküla Parish,Q12359332,,Estonia,," M. Körber|, Pastor in Anseküll. 
 "
-133,1874,GEG,CM,HL,,13,,I. Laosson,Lehrer,Schulwesen,,13020,,Tarwast,Tarvastu,Q3130504,"58.230555555556,25.893055555556",," I. Laosson|, Lehrer in Tarwast. 
+133,1874,GEG,CM,HL,,13,,I. Laosson,Lehrer,13020,Schulwesen,,,Tarwast,Tarvastu,Q3130504,"58.230555555556,25.893055555556",Estonia,," I. Laosson|, Lehrer in Tarwast. 
 "
-134,1874,GEG,CM,HL,,14,Dr.,Ferdinand Löwe,Coll-Assessor,,Coll-Assessor,,,Reval,Tallinn,Q1770,"59.437222222222,24.745",," Dr. Ferdinand Löwe|, Coll.-Ass., in Reval. 
+134,1874,GEG,CM,HL,,14,Dr.,Ferdinand Löwe,Coll.-Assessor,,Rank,Kollegienassessor,,Reval,Tallinn,Q1770,"59.437222222222,24.745",Estonia,," Dr. Ferdinand Löwe|, Coll.-Ass., in Reval. 
 "
-135,1874,GEG,CM,HL,,15,,Johann Mielberg,,,,,,,,,,," Johann Mielberg|. 
+135,1874,GEG,CM,HL,,15,,Johann Mielberg,,,,,,,,,,,," Johann Mielberg|. 
 "
-136,1874,GEG,CM,HL,,16,,I. Nocks,Schuldirector-Gehilfe,Schulwesen,,32120,,Reval,Tallinn,Q1770,"59.437222222222,24.745",," I. Nocks|, Schuldirector-Gehilfe in Reval. 
+136,1874,GEG,CM,HL,,16,,I. Nocks,Schuldirector-Gehilfe,32120,Schulwesen,,,Reval,Tallinn,Q1770,"59.437222222222,24.745",Estonia,," I. Nocks|, Schuldirector-Gehilfe in Reval. 
 "
-137,1874,GEG,CM,HL,,17,Dr.,Radloff,Inspector der tatarischen Schulen,Schulwesen,,22000,,Kasan,Kazan,Q900,"55.790833333333,49.114444444444",," Dr. Radloff|, Inspector der tatarischen Schulen in Kasan. 
+137,1874,GEG,CM,HL,,17,Dr.,Radloff,Inspector der tatarischen Schulen,22000,Schulwesen,,,Kasan,Kazan,Q900,"55.790833333333,49.114444444444",Russia,," Dr. Radloff|, Inspector der tatarischen Schulen in Kasan. 
 "
-138,1874,GEG,CM,HL,,18,,C. Rußwurm,Dimitt. Schulinspector,Schulwesen,,22000,,Reval,Tallinn,Q1770,"59.437222222222,24.745",," C. Rußwurm|, dimitt. Schulinspector tu Reval. 
+138,1874,GEG,CM,HL,,18,,C. Rußwurm,Dimitt. Schulinspector,22000,Schulwesen,,,Reval,Tallinn,Q1770,"59.437222222222,24.745",Estonia,," C. Rußwurm|, dimitt. Schulinspector tu Reval. 
 "
-139,1874,GEG,CM,HL,,19,,A. Schiefner,Akademiker,Hochschulwesen,,19990,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," A. Schiefner|, Akadeintker in St. Petersburg. 
+139,1874,GEG,CM,HL,,19,,A. Schiefner,Akademiker,19990,Hochschulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," A. Schiefner|, Akadeintker in St. Petersburg. 
 "
-140,1874,GEG,CM,HL,,20,Mag.,Fr. Schmidt,Adjunct der Akademie,Pfarrwesen,,14120,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Mag. Fr. Schmidt|. Adjunct der Akademie in St. Petersburg. 
+140,1874,GEG,CM,HL,,20,Mag.,Fr. Schmidt,Adjunct der Akademie,14120,Pfarrwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Mag. Fr. Schmidt|. Adjunct der Akademie in St. Petersburg. 
 "
-141,1874,GEG,CM,HL,,21,Dr.,Th. Struve,Director des Gymnasiums des pädagogischen Instituts,Schulwesen,,21110,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",," Dr. Th. Struve|, Directordes Gymnasiutns des pädagogischen Instituts in St. Petersburg. 
+141,1874,GEG,CM,HL,,21,Dr.,Th. Struve,Director des Gymnasiums des pädagogischen Instituts,21110,Schulwesen,,,St. Petersburg,Saint Petersburg,Q656,"59.95,30.316666666667",Russia,," Dr. Th. Struve|, Directordes Gymnasiutns des pädagogischen Instituts in St. Petersburg. 
 "
-142,1874,GEG,CM,HL,,22,,H. Wühner,Küster,Pfarrwesen,,55140,,Tarwast,Tarvastu,Q3130504,"58.230555555556,25.893055555556",," H. Wühner|, Küster in Tarwast. 
+142,1874,GEG,CM,HL,,22,,H. Wühner,Küster,55140,Pfarrwesen,,,Tarwast,Tarvastu,Q3130504,"58.230555555556,25.893055555556",Estonia,," H. Wühner|, Küster in Tarwast. 
 "
-143,1874,GEG,CM,AB,,23,Dr.,I. Altmann,,,,,,Berlin,Berlin,Q64,"52.516666666667,13.383333333333",," Dr. I. Alt mann| in Berlin. 
+143,1874,GEG,CM,AB,,23,Dr.,I. Altmann,,,,,,Berlin,Berlin,Q64,"52.516666666667,13.383333333333",Germany,," Dr. I. Alt mann| in Berlin. 
 "
-144,1874,GEG,CM,AB,,24,Dr.,Julius Butenz,Bibliothekar,Buchwesen,,19120,,Pest,Pest,Q210205,"47.5,19.1",," Dr. Julius Butenz|, Bibliothekar in Pest. 
+144,1874,GEG,CM,AB,,24,Dr.,Julius Butenz,Bibliothekar,19120,Buchwesen,,,Pest,Pest,Q210205,"47.5,19.1",Hungary,," Dr. Julius Butenz|, Bibliothekar in Pest. 
 "
-145,1874,GEG,CM,AB,,25,,L. Haan,Evang. Pastor,Pfarrwesen,,14120,,Bekes Czaba,Békéscsaba,Q178878,"46.683333333333,21.083333333333",Ungarn," L. Haan|, evang. Pastor in Bekes Czaba in Ungarn. 
+145,1874,GEG,CM,AB,,25,,L. Haan,Evang. Pastor,14120,Pfarrwesen,,,Bekes Czaba,Békéscsaba,Q178878,"46.683333333333,21.083333333333",Hungary,Ungarn," L. Haan|, evang. Pastor in Bekes Czaba in Ungarn. 
 "
-146,1874,GEG,CM,AB,,26,,Carl Hernmark,Canzlei-Direktor des Justiz-Ministeriums,Juristerei,,21110,,Stockholm,Stockholm,Q1754,"59.329444444444,18.068611111111",," Carl Hernmark|, Canzlei-Direktor des Justiz-Ministeriums in Stockholm. 
+146,1874,GEG,CM,AB,,26,,Carl Hernmark,Canzlei-Direktor des Justiz-Ministeriums,21110,Juristerei,,,Stockholm,Stockholm,Q1754,"59.329444444444,18.068611111111",Sweden,," Carl Hernmark|, Canzlei-Direktor des Justiz-Ministeriums in Stockholm. 
 "
-147,1874,GEG,CM,AB,,27,Dr.,C. Höhlbaum,,,,,,Göttingen,Göttingen,Q3033,"51.533888888889,9.9355555555556",," Dr. C. Höhlbaum| in Göttingen. 
+147,1874,GEG,CM,AB,,27,Dr.,C. Höhlbaum,,,,,,Göttingen,Göttingen,Q3033,"51.533888888889,9.9355555555556",Germany,," Dr. C. Höhlbaum| in Göttingen. 
 "
-148,1874,GEG,CM,AB,,28,Cand.,E. Kluge,,,,,,Altona,Altona,Q1630,"53.55,9.9333",," Cand. E. Kluge| in Altona. 
+148,1874,GEG,CM,AB,,28,Cand.,E. Kluge,,,,,,Altona,Altona,Q1630,"53.55,9.9333",Germany,," Cand. E. Kluge| in Altona. 
 "
-149,1874,GEG,CM,AB,,29,Dr.,Kohl,Stadtbibliothekar,Buchwesen,,19120,,Bremen,Bremen,Q24879,"53.076944444444,8.8088888888889",," Dr. Kohl|, Stadtbibliothekar in Bremen. 
+149,1874,GEG,CM,AB,,29,Dr.,Kohl,Stadtbibliothekar,19120,Buchwesen,,,Bremen,Bremen,Q24879,"53.076944444444,8.8088888888889",Germany,," Dr. Kohl|, Stadtbibliothekar in Bremen. 
 "
-150,1874,GEG,CM,AB,,30,Dr.,Aug. Leskien,Professor,Hochschulwesen,,13100,,Leipzig,Leipzig,Q2079,"51.34,12.375",," Dr. Aug. Leskien|, Professor in Leipzig. 
+150,1874,GEG,CM,AB,,30,Dr.,Aug. Leskien,Professor,13100,Hochschulwesen,,,Leipzig,Leipzig,Q2079,"51.34,12.375",Germany,," Dr. Aug. Leskien|, Professor in Leipzig. 
 "
-151,1874,GEG,CM,AB,,31,Dr.,F. Lundberg,Professor der Veterinär-Me-dicin,Hochschulwesen,,13100,,Stockholm,Stockholm,Q1754,"59.329444444444,18.068611111111",," Dr. F. Lundberg|, Professor der Veterinär-Me-dicin in Stockholm. 
+151,1874,GEG,CM,AB,,31,Dr.,F. Lundberg,Professor der Veterinär-Me-dicin,13100,Hochschulwesen,,,Stockholm,Stockholm,Q1754,"59.329444444444,18.068611111111",Sweden,," Dr. F. Lundberg|, Professor der Veterinär-Me-dicin in Stockholm. 
 "
-152,1874,GEG,CM,AB,,32,Dr.,C. Lohmeyer,Professor,Hochschulwesen,,13100,,Königsberg,Kaliningrad,Q1829,"54.716666666667,20.5",," Dr. C. Lohmeyer|, Professor in Königsberg. 
+152,1874,GEG,CM,AB,,32,Dr.,C. Lohmeyer,Professor,13100,Hochschulwesen,,,Königsberg,Kaliningrad,Q1829,"54.716666666667,20.5",Russia,," Dr. C. Lohmeyer|, Professor in Königsberg. 
 "
-153,1874,GEG,CM,AB,,33,Dr.,W. Maurenbrecher,Prof.,Hochschulwesen,,13100,,Königsberg,Kaliningrad,Q1829,"54.716666666667,20.5",," Dr. W. M au renb recher|, Pros, in Königsberg. 
+153,1874,GEG,CM,AB,,33,Dr.,W. Maurenbrecher,Prof.,13100,Hochschulwesen,,,Königsberg,Kaliningrad,Q1829,"54.716666666667,20.5",Russia,," Dr. W. M au renb recher|, Pros, in Königsberg. 
 "
-154,1874,GEG,CM,AB,,34,Dr.,W. Mannhardt,Professor,Hochschulwesen,,13100,,Danzig,Gdańsk,Q1792,"54.35,18.666666666666668",," Dr. W. Mann Hardt|, Professor in Danzig. 
+154,1874,GEG,CM,AB,,34,Dr.,W. Mannhardt,Professor,13100,Hochschulwesen,,,Danzig,Gdańsk,Q1792,"54.35,18.666666666666668",Poland,," Dr. W. Mann Hardt|, Professor in Danzig. 
 "
-155,1874,GEG,CM,AB,,35,Dr.,Th. Nöldeke,Professor der orientalischen Sprachen,Hochschulwesen,,13100,,Straßburg i. E.,Strasbourg,Q6602,"48.573333333333,7.7522222222222",," Dr. Th. Nöldeke|, Professor der orientalischen Sprachen in Straßburg i. E. 
+155,1874,GEG,CM,AB,,35,Dr.,Th. Nöldeke,Professor der orientalischen Sprachen,13100,Hochschulwesen,,,Straßburg i. E.,Strasbourg,Q6602,"48.573333333333,7.7522222222222",France,," Dr. Th. Nöldeke|, Professor der orientalischen Sprachen in Straßburg i. E. 
 "
-156,1874,GEG,CM,AB,,36,Dr.,O. Schade,Professor,Hochschulwesen,,13100,,Königsberg,Kaliningrad,Q1829,"54.716666666667,20.5",," Dr. O. schade|, Professor in Königsberg i. Pr. 
+156,1874,GEG,CM,AB,,36,Dr.,O. Schade,Professor,13100,Hochschulwesen,,,Königsberg,Kaliningrad,Q1829,"54.716666666667,20.5",Russia,," Dr. O. schade|, Professor in Königsberg i. Pr. 
 "
-157,1874,GEG,CM,AB,,37,Dr.,G. Sauerwein,,,,,,Banteln bei Hannover,Banteln,Q112937,"52.068055555556,9.7555555555556",," Dr. G. Sauerwein| in Banteln bei Hannover. 
+157,1874,GEG,CM,AB,,37,Dr.,G. Sauerwein,,,,,,Banteln bei Hannover,Banteln,Q112937,"52.068055555556,9.7555555555556",Germany,," Dr. G. Sauerwein| in Banteln bei Hannover. 
 "
-158,1874,GEG,CM,AB,,38,Dr.,W. Thomsen,Professor,Hochschulwesen,,13100,,Kopenhagen,Copenhagen,Q1748,"55.676111111111,12.568888888889",," Dr. W. Thomsen|, Professor in Kopenhagen. 
+158,1874,GEG,CM,AB,,38,Dr.,W. Thomsen,Professor,13100,Hochschulwesen,,,Kopenhagen,Copenhagen,Q1748,"55.676111111111,12.568888888889",Denmark,," Dr. W. Thomsen|, Professor in Kopenhagen. 
 "

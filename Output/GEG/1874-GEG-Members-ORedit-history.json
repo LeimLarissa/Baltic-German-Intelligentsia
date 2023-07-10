@@ -7618,5 +7618,340 @@
     },
     "columnName": "coordinate location",
     "description": "Fill down cells in column coordinate location"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "HISCO_Code",
+    "index": 11,
+    "description": "Move column HISCO_Code to position 11"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "HISCO_Code",
+    "index": 10,
+    "description": "Move column HISCO_Code to position 10"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Coll-Assessor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kollegienassessor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation_Rank"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Coll-Rath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kollegienrat"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation_Rank"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Geheimrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geheimrat"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation_Rank"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Staatsrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Staatsrat"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation_Rank"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wirkl. Staatsrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirklicher Staatsrat"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Geheimrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q718660",
+      "name": "Geheimrat",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Geheimrat (Q718660) for cells containing \"Geheimrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Wirklicher Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2623484",
+      "name": "Wirklicher Staatsrat (Russland)",
+      "types": [
+        "Q28745974"
+      ],
+      "score": 82
+    },
+    "shareNewTopics": false,
+    "description": "Match item Wirklicher Staatsrat (Russland) (Q2623484) for cells containing \"Wirklicher Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q677455",
+      "name": "Staatsrat",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Staatsrat (Q677455) for cells containing \"Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Hofmeister",
+    "description": "Clear recon data for cells containing \"Hofmeister\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienassessor",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2365856",
+      "name": "Kollegienassessor",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kollegienassessor (Q2365856) for cells containing \"Kollegienassessor\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kammerherr",
+    "description": "Clear recon data for cells containing \"Kammerherr\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienrat",
+    "description": "Clear recon data for cells containing \"Kollegienrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mediziner"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Medizin"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation_General"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Qid",
+    "newColumnName": "place_qid",
+    "description": "Rename column Qid to place_qid"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location",
+    "newColumnName": "coordinate_location",
+    "description": "Rename column coordinate location to coordinate_location"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Place_Reconciled",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P17",
+          "name": "country"
+        }
+      ]
+    },
+    "columnInsertIndex": 16,
+    "description": "Extend data at index 16 based on column Place_Reconciled"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "country",
+    "newColumnName": "country_reconciled",
+    "description": "Rename column country to country_reconciled"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country_reconciled",
+    "index": 17,
+    "description": "Move column country_reconciled to position 17"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country_reconciled",
+    "index": 18,
+    "description": "Move column country_reconciled to position 18"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Theologie für die Stud. orthodox - griechischer Confession Protohierei"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Theologie für die Studenten orthodox-griechischer Confession, Protohierei"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
   }
 ]

@@ -1,4 +1,6 @@
 1870_NVR_Cor_18.txt
+1872_NVR_Cor_19.txt
+1874_NVR_Cor_20.txt
 1875_NVR_Cor_21.txt
 1877_NVR_Cor_22.txt
 1880_NVR_Cor_23.txt

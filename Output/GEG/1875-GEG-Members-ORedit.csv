@@ -5,7 +5,7 @@ Column,YEAR,SOCIETY,1L_MS,2L_MS,3L_MS,NO_MS,Name_Ac_Title,Names,Occupation,Occup
 "
 3,1875,GEG,HM,HL,,3,,Theodor Baron Bühler,"Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",Verwaltung,Geheimrat,,Moskau,Moscow,Q649,"55.755833333333,37.617777777778",Russia,," Theodor Baron Bühler|,  Geheimrath, Direc-tor des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten in Moskau. 
 "
-4,1875,GEG,HM,HL,,4,,Karl  Cröger,Emer. Lehrer der Schmidt'schen Anstalt,Schulwesen,,,Fellin,Viljandi,Q44840,"58.363333333333,25.595555555556",Estonia,," Karl  Cröger|, em. Lehrer der Schmidt ' fchen Anstalt in Fellin. 
+4,1875,GEG,HM,HL,,4,,Karl Cröger,Emer. Lehrer der Schmidt'schen Anstalt,Schulwesen,,,Fellin,Viljandi,Q44840,"58.363333333333,25.595555555556",Estonia,," Karl  Cröger|, em. Lehrer der Schmidt ' fchen Anstalt in Fellin. 
 "
 5,1875,GEG,HM,HL,,5,Dr.,C. Grewingk,Professor der Mineralogie,Hochschulwesen,,,Dorpat,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. C. Grewingk|, Professor der Mineralogie in Dorpat. 
 "
@@ -187,7 +187,7 @@ Column,YEAR,SOCIETY,1L_MS,2L_MS,3L_MS,NO_MS,Name_Ac_Title,Names,Occupation,Occup
 "
 94,1875,GEG,OM,HL,IN,71,,H. Treffner,Stud. theol.,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," H. Treffner|, Stud. theol. 
 "
-95,1875,GEG,OM,HL,IN,72,,Harald Baron Tol l,,,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Harald Baron Tol l| .  
+95,1875,GEG,OM,HL,IN,72,,Harald Baron Toll,,,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Harald Baron Tol l| .  
 "
 96,1875,GEG,OM,HL,IN,73,Dr. phil.,Mich. Weske,Lector der estn. Sprache,Hochschulwesen,,,,Tartu,Q13972,"58.38,26.7225",Estonia,," Dr. phil. Mich. Weske|, Lector der estn. Sprache. 
 "

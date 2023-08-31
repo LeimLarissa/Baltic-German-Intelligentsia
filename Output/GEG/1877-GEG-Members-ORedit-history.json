@@ -1,0 +1,6503 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "LINE",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Original_LINE",
+    "columnInsertIndex": 8,
+    "description": "Create column Original_LINE at index 8 based on column LINE using expression grel:value"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "LINE",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "|",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column LINE by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "LINE 1",
+    "newColumnName": "Names",
+    "description": "Rename column LINE 1 to Names"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "LINE 2",
+    "newColumnName": "Working_Line",
+    "description": "Rename column LINE 2 to Working_Line"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "expression": "value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line using expression value.replace(\",\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "expression": "value.replace(\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line using expression value.replace(\".\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line using expression value.trim()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "*2Mctor Baron Laudon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dr. Baron Laudon"
+      }
+    ],
+    "description": "Mass edit cells in column Names"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Names",
+    "expression": "grel:value.partition(\"Dr.\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "Name_Ac_Title",
+    "columnInsertIndex": 8,
+    "description": "Create column Name_Ac_Title at index 8 based on column Names using expression grel:value.partition(\"Dr.\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Name_Ac_Title",
+    "index": 7,
+    "description": "Move column Name_Ac_Title to position 7"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.replace(\"Dr.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.replace(\"Dr.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Names",
+    "expression": "grel:value.partition(\"Mag.\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "Mag",
+    "columnInsertIndex": 9,
+    "description": "Create column Mag at index 9 based on column Names using expression grel:value.partition(\"Mag.\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Mag",
+    "index": 8,
+    "description": "Move column Mag to position 8"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.replace(\"Mag.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.replace(\"Mag.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Names",
+    "expression": "grel:value.partition(\"Cand.\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "Cand",
+    "columnInsertIndex": 10,
+    "description": "Create column Cand at index 10 based on column Names using expression grel:value.partition(\"Cand.\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Cand",
+    "index": 9,
+    "description": "Move column Cand to position 9"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Name_Ac_Title",
+    "expression": "join ([cells['Name_Ac_Title'].value,cells['Mag'].value,cells['Cand'].value],'')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Name_Ac_Title using expression join ([cells['Name_Ac_Title'].value,cells['Mag'].value,cells['Cand'].value],'')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Mag",
+    "description": "Remove column Mag"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Cand",
+    "description": "Remove column Cand"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.replace(\"Cand.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.replace(\"Cand.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.trim()"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": " in ",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column Working_Line by separator"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line 1",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "in ",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column Working_Line 1 by separator"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line 1 1",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "auf ",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column Working_Line 1 1 by separator"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line 1 1 1",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "zu ",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column Working_Line 1 1 1 by separator"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line 1 1 1 2",
+    "expression": "join ([cells['Working_Line 1 1 1 2'].value,cells['Working_Line 1 1 2'].value,cells['Working_Line 1 2'].value,cells['Working_Line 2'].value,cells['Working_Line 3'].value],', ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line 1 1 1 2 using expression join ([cells['Working_Line 1 1 1 2'].value,cells['Working_Line 1 1 2'].value,cells['Working_Line 1 2'].value,cells['Working_Line 2'].value,cells['Working_Line 3'].value],', ')"
+  },
+  {
+    "op": "core/column-reorder",
+    "columnNames": [
+      "Column",
+      "YEAR",
+      "SOCIETY",
+      "1L_MS",
+      "2L_MS",
+      "3L_MS",
+      "NO_MS",
+      "Name_Ac_Title",
+      "Names",
+      "Working_Line 1 1 1 1",
+      "Working_Line 1 1 1 2",
+      "Original_LINE"
+    ],
+    "description": "Reorder columns"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Working_Line 1 1 1 2",
+    "newColumnName": "Place",
+    "description": "Rename column Working_Line 1 1 1 2 to Place"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ", ",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column Place by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Place 2",
+    "newColumnName": "Country",
+    "description": "Rename column Place 2 to Country"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Place 1",
+    "newColumnName": "Place",
+    "description": "Rename column Place 1 to Place"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Working_Line 1 1 1 1",
+    "newColumnName": "Occupation",
+    "description": "Rename column Working_Line 1 1 1 1 to Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " Hols-fershof (Paistel)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Holstershof (Paistel)"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " St  Petersburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Petersburg"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dombrowitza im Gouv Wolhynien"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dombrowitza im Gouv. Wolhynien"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Freiburg i B"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Freiburg i. B."
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Holstershof (Paistel)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Holssershof (Paistel)"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jlluxt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Illuxt"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jrkutzk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jrkutzk"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jrkutzk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Irkutzk"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Königsberg i Pr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Königsberg"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Peterburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Petersburg"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Petersburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Petersburg"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "St Petersburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "St. Petersburg"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Straßburg i E"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Straßburg i. E."
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Talkhos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Talkhof"
+      }
+    ],
+    "description": "Mass edit cells in column Place"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Place",
+          "expression": "value",
+          "columnName": "Place",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "3L_MS",
+          "expression": "value",
+          "columnName": "3L_MS",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IN",
+                "l": "IN"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "description": "Fill down cells in column Place"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "3L_MS",
+          "expression": "value",
+          "columnName": "3L_MS",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IN",
+                "l": "IN"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "description": "Fill down cells in column Place"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "3L_MS",
+          "expression": "value",
+          "columnName": "3L_MS",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IN",
+                "l": "IN"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "description": "Blank down cells in column Place"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Place",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "place_reconciled",
+    "columnInsertIndex": 11,
+    "description": "Create column place_reconciled at index 11 based on column Place using expression grel:value"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "3L_MS",
+          "expression": "value",
+          "columnName": "3L_MS",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IN",
+                "l": "IN"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "description": "Fill down cells in column place_reconciled"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "autoMatch": false,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column place_reconciled to type null"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Helsingfors",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1757",
+      "name": "Helsinki",
+      "types": [
+        "Q5119",
+        "Q515",
+        "Q200250",
+        "Q856076",
+        "Q51929311",
+        "Q1549591",
+        "Q2264924"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Helsinki (Q1757) for cells containing \"Helsingfors\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Dorpat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q13972",
+      "name": "Tartu",
+      "types": [
+        "Q11881845",
+        "Q1187811",
+        "Q707813",
+        "Q50330360"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Tartu (Q13972) for cells containing \"Dorpat\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Moskau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q649",
+      "name": "Moscow",
+      "types": [
+        "Q4442912",
+        "Q183342",
+        "Q1549591",
+        "Q174844",
+        "Q51929311",
+        "Q5119",
+        "Q7930989",
+        "Q1637706",
+        "Q51929311",
+        "Q50330360",
+        "Q51929311",
+        "Q51929311",
+        "Q43263"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Moscow (Q649) for cells containing \"Moskau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Fellin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q44840",
+      "name": "Viljandi",
+      "types": [
+        "Q11881845",
+        "Q707813"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Viljandi (Q44840) for cells containing \"Fellin\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "St. Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"St. Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Werro",
+    "judgment": "matched",
+    "match": {
+      "id": "Q205271",
+      "name": "Võru",
+      "types": [
+        "Q11881845"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võru (Q205271) for cells containing \"Werro\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Reval",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1770",
+      "name": "Tallinn",
+      "types": [
+        "Q5119",
+        "Q707813",
+        "Q11881845",
+        "Q1549591",
+        "Q2264924",
+        "Q486972",
+        "Q1200957"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Tallinn (Q1770) for cells containing \"Reval\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wenden",
+    "judgment": "matched",
+    "match": {
+      "id": "Q107582",
+      "name": "Cēsis",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Cēsis (Q107582) for cells containing \"Wenden\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Brinckenhof",
+    "judgment": "matched",
+    "match": {
+      "id": "Q22117464",
+      "name": "Briņķi",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Briņķi (Q22117464) for cells containing \"Brinckenhof\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Raiküll",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2989862",
+      "name": "Raikküla",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Raikküla (Q2989862) for cells containing \"Raiküll\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kuckers",
+    "judgment": "matched",
+    "match": {
+      "id": "Q977259",
+      "name": "Kukruse",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kukruse (Q977259) for cells containing \"Kuckers\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Gotha",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6986",
+      "name": "Gotha",
+      "types": [
+        "Q42744322",
+        "Q134626"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Gotha (Q6986) for cells containing \"Gotha\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Marburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3869",
+      "name": "Marburg",
+      "types": [
+        "Q134626",
+        "Q1187811",
+        "Q1547289",
+        "Q3678424",
+        "Q42744322"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Marburg (Q3869) for cells containing \"Marburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Pest",
+    "judgment": "matched",
+    "match": {
+      "id": "Q210205",
+      "name": "Pest",
+      "types": [
+        "Q123705",
+        "Q22674925"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pest (Q210205) for cells containing \"Pest\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Halle",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2814",
+      "name": "Halle (Saale)",
+      "types": [
+        "Q42744322",
+        "Q1547289",
+        "Q1549591",
+        "Q707813",
+        "Q61708053",
+        "Q1187811"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Halle (Saale) (Q2814) for cells containing \"Halle\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Berlin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q64",
+      "name": "Berlin",
+      "types": [
+        "Q1901835",
+        "Q200250",
+        "Q15974307",
+        "Q707813",
+        "Q42744322",
+        "Q67123843",
+        "Q133442",
+        "Q114401982",
+        "Q51929311",
+        "Q1549591",
+        "Q5119",
+        "Q1221156",
+        "Q1637706",
+        "Q1307779"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Berlin (Q64) for cells containing \"Berlin\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kiel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1707",
+      "name": "Kiel",
+      "types": [
+        "Q42744322",
+        "Q1549591",
+        "Q707813",
+        "Q61856863",
+        "Q14784328"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kiel (Q1707) for cells containing \"Kiel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Heidelberg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2966",
+      "name": "Heidelberg",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Heidelberg (Q2966) for cells containing \"Heidelberg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Minsk",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2280",
+      "name": "Minsk",
+      "types": [
+        "Q5119",
+        "Q159438",
+        "Q14921981",
+        "Q10864048",
+        "Q7930989",
+        "Q1549591",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Minsk (Q2280) for cells containing \"Minsk\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Riga",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1773",
+      "name": "Riga",
+      "types": [
+        "Q5119",
+        "Q109329953",
+        "Q707813",
+        "Q1549591",
+        "Q15127838"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Riga (Q1773) for cells containing \"Riga\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Woisek",
+    "judgment": "matched",
+    "match": {
+      "id": "Q849030",
+      "name": "Võisiku",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võisiku (Q849030) for cells containing \"Woisek\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Haakhof bei Narva",
+    "judgment": "matched",
+    "match": {
+      "id": "Q16409363",
+      "name": "Aa Manor",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Aa Manor (Q16409363) for cells containing \"Haakhof bei Narva\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Narva",
+    "judgment": "matched",
+    "match": {
+      "id": "Q102158",
+      "name": "Narva",
+      "types": [
+        "Q11881845",
+        "Q902814"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Narva (Q102158) for cells containing \"Narva\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Oberpahlen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q642660",
+      "name": "Põltsamaa",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Põltsamaa (Q642660) for cells containing \"Oberpahlen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "St. Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"St. Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Odenpäh",
+    "judgment": "matched",
+    "match": {
+      "id": "Q339347",
+      "name": "Otepää",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Otepää (Q339347) for cells containing \"Odenpäh\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "St. Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"St. Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kiew",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1899",
+      "name": "Kyiv",
+      "types": [
+        "Q5119",
+        "Q51929311",
+        "Q7930989",
+        "Q1637706",
+        "Q1200957",
+        "Q12131624"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kyiv (Q1899) for cells containing \"Kiew\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wolmar",
+    "judgment": "matched",
+    "match": {
+      "id": "Q108037",
+      "name": "Valmiera",
+      "types": [
+        "Q109329953",
+        "Q707813",
+        "Q15127838"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Valmiera (Q108037) for cells containing \"Wolmar\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Turgel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q141796",
+      "name": "Türi",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Türi (Q141796) for cells containing \"Turgel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Weißenstein",
+    "judgment": "matched",
+    "match": {
+      "id": "Q45114",
+      "name": "Paide",
+      "types": [
+        "Q11881845"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Paide (Q45114) for cells containing \"Weißenstein\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Keusen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q657744",
+      "name": "Căușeni",
+      "types": [
+        "Q515"
+      ],
+      "score": 92
+    },
+    "shareNewTopics": false,
+    "description": "Match item Căușeni (Q657744) for cells containing \"Keusen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rappel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q215971",
+      "name": "Rapla",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Rapla (Q215971) for cells containing \"Rappel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rathshof",
+    "judgment": "matched",
+    "match": {
+      "id": "Q985032",
+      "name": "Raadi",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Raadi (Q985032) for cells containing \"Rathshof\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Neuhausen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2981703",
+      "name": "Vastseliina",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Vastseliina (Q2981703) for cells containing \"Neuhausen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rappin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1483558",
+      "name": "Räpina",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Räpina (Q1483558) for cells containing \"Rappin\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wendau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3468782",
+      "name": "Võnnu",
+      "types": [
+        "Q3744870"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võnnu (Q3468782) for cells containing \"Wendau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Antzen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q154994",
+      "name": "Antsla",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Antsla (Q154994) for cells containing \"Antzen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Talkhof",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3477562",
+      "name": "Puurmani",
+      "types": [
+        "Q3744870"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Puurmani (Q3477562) for cells containing \"Talkhof\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Pajus",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3465378",
+      "name": "Pajusi",
+      "types": [
+        "Q51049922"
+      ],
+      "score": 91
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pajusi (Q3465378) for cells containing \"Pajus\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Straßburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6602",
+      "name": "Strasbourg",
+      "types": [
+        "Q484170",
+        "Q1549591",
+        "Q902814",
+        "Q57318"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Strasbourg (Q6602) for cells containing \"Straßburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Holssershof (Paistel)",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3466616",
+      "name": "Paistu",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Paistu (Q3466616) for cells containing \"Holssershof (Paistel)\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Mitau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q179830",
+      "name": "Jelgava",
+      "types": [
+        "Q109329953",
+        "Q15127838"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Jelgava (Q179830) for cells containing \"Mitau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Arensburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q188179",
+      "name": "Kuressaare",
+      "types": [
+        "Q11881845"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kuressaare (Q188179) for cells containing \"Arensburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Anseküll",
+    "judgment": "matched",
+    "match": {
+      "id": "Q12359332",
+      "name": "Anseküla Parish",
+      "types": [
+        "Q13358519"
+      ],
+      "score": 64
+    },
+    "shareNewTopics": false,
+    "description": "Match item Anseküla Parish (Q12359332) for cells containing \"Anseküll\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Tarwast",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3130504",
+      "name": "Tarvastu",
+      "types": [
+        "Q51049922"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Tarvastu (Q3130504) for cells containing \"Tarwast\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kasan",
+    "judgment": "matched",
+    "match": {
+      "id": "Q900",
+      "name": "Kazan",
+      "types": [
+        "Q51929311",
+        "Q51929311",
+        "Q50330360",
+        "Q56580032",
+        "Q7930989",
+        "Q1549591",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kazan (Q900) for cells containing \"Kasan\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Bekes Czaba",
+    "judgment": "matched",
+    "match": {
+      "id": "Q178878",
+      "name": "Békéscsaba",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Békéscsaba (Q178878) for cells containing \"Bekes Czaba\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Stockholm",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1754",
+      "name": "Stockholm",
+      "types": [
+        "Q515",
+        "Q1549591",
+        "Q707813",
+        "Q2264924",
+        "Q51929311",
+        "Q5119",
+        "Q486972"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Stockholm (Q1754) for cells containing \"Stockholm\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Göttingen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3033",
+      "name": "Göttingen",
+      "types": [
+        "Q1187811",
+        "Q42744322",
+        "Q1549591",
+        "Q253030",
+        "Q134626",
+        "Q707813",
+        "Q1780389"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Göttingen (Q3033) for cells containing \"Göttingen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Altona",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1630",
+      "name": "Altona",
+      "types": [
+        "Q278976",
+        "Q515",
+        "Q5283531"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Altona (Q1630) for cells containing \"Altona\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Bremen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q24879",
+      "name": "Bremen",
+      "types": [
+        "Q1187811",
+        "Q1549591",
+        "Q707813",
+        "Q42744322",
+        "Q85635638"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Bremen (Q24879) for cells containing \"Bremen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Leipzig",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2079",
+      "name": "Leipzig",
+      "types": [
+        "Q1549591",
+        "Q515",
+        "Q253030",
+        "Q42744322",
+        "Q61708099"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Leipzig (Q2079) for cells containing \"Leipzig\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Königsberg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1829",
+      "name": "Kaliningrad",
+      "types": [
+        "Q12134916",
+        "Q7930989",
+        "Q1549591",
+        "Q56580425"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kaliningrad (Q1829) for cells containing \"Königsberg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Danzig",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1792",
+      "name": "Gdańsk",
+      "types": [
+        "Q1549591",
+        "Q2264924",
+        "Q707813",
+        "Q925381"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Gdańsk (Q1792) for cells containing \"Danzig\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Banteln bei Hannover",
+    "judgment": "matched",
+    "match": {
+      "id": "Q112937",
+      "name": "Banteln",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Banteln (Q112937) for cells containing \"Banteln bei Hannover\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kopenhagen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1748",
+      "name": "Copenhagen",
+      "types": [
+        "Q5119",
+        "Q1549591",
+        "Q51929311",
+        "Q1392581"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Copenhagen (Q1748) for cells containing \"Kopenhagen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Barnaul",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6014",
+      "name": "Barnaul",
+      "types": [
+        "Q7930989",
+        "Q1549591"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Barnaul (Q6014) for cells containing \"Barnaul\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Alt-Bornhusen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q8324289",
+      "name": "Pornuse",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pornuse (Q8324289) for cells containing \"Alt-Bornhusen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "London",
+    "judgment": "matched",
+    "match": {
+      "id": "Q84",
+      "name": "London",
+      "types": [
+        "Q200250",
+        "Q1066984",
+        "Q515",
+        "Q1637706",
+        "Q208511",
+        "Q5119",
+        "Q174844",
+        "Q51929311"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item London (Q84) for cells containing \"London\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Dombrowitza im Gouv. Wolhynien",
+    "judgment": "matched",
+    "match": {
+      "id": "Q205765",
+      "name": "Dubrovytsia",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Dubrovytsia (Q205765) for cells containing \"Dombrowitza im Gouv. Wolhynien\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wette",
+    "judgment": "matched",
+    "match": {
+      "id": "Q849030",
+      "name": "Võisiku",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võisiku (Q849030) for cells containing \"Wette\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Lais",
+    "judgment": "matched",
+    "match": {
+      "id": "Q993245",
+      "name": "Laiuse",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Laiuse (Q993245) for cells containing \"Lais\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Illuxt",
+    "judgment": "matched",
+    "match": {
+      "id": "Q580373",
+      "name": "Ilūkste",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Ilūkste (Q580373) for cells containing \"Illuxt\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Warschau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q270",
+      "name": "Warsaw",
+      "types": [
+        "Q5119",
+        "Q925381",
+        "Q515",
+        "Q1901835",
+        "Q1549591",
+        "Q1637706",
+        "Q1200957",
+        "Q51929311",
+        "Q56061"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Warsaw (Q270) for cells containing \"Warschau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Obenpäh",
+    "judgment": "matched",
+    "match": {
+      "id": "Q339347",
+      "name": "Otepää",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Otepää (Q339347) for cells containing \"Obenpäh\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Keysen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q20529637",
+      "name": "Ēvele",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Ēvele (Q20529637) for cells containing \"Keysen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rantzen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q757043",
+      "name": "Baloži",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Baloži (Q757043) for cells containing \"Rantzen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rappel (Estland)",
+    "judgment": "matched",
+    "match": {
+      "id": "Q215971",
+      "name": "Rapla",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 60
+    },
+    "shareNewTopics": false,
+    "description": "Match item Rapla (Q215971) for cells containing \"Rappel (Estland)\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Straßburg i. E.",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6602",
+      "name": "Strasbourg",
+      "types": [
+        "Q484170",
+        "Q1549591",
+        "Q902814",
+        "Q57318"
+      ],
+      "score": 83
+    },
+    "shareNewTopics": false,
+    "description": "Match item Strasbourg (Q6602) for cells containing \"Straßburg i. E.\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Fennern",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1805635",
+      "name": "Vändra",
+      "types": [
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Vändra (Q1805635) for cells containing \"Fennern\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Ampel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2842107",
+      "name": "Ambla",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Ambla (Q2842107) for cells containing \"Ampel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Budapest",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1781",
+      "name": "Budapest",
+      "types": [
+        "Q5119",
+        "Q13218690",
+        "Q1637706",
+        "Q171441",
+        "Q51929311"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Budapest (Q1781) for cells containing \"Budapest\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Peking",
+    "judgment": "matched",
+    "match": {
+      "id": "Q956",
+      "name": "Beijing",
+      "types": [
+        "Q5119",
+        "Q515",
+        "Q1208802",
+        "Q1066538",
+        "Q1637706",
+        "Q50330360",
+        "Q208511",
+        "Q174844",
+        "Q27554677",
+        "Q200250",
+        "Q1549591"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Beijing (Q956) for cells containing \"Peking\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Christiania",
+    "judgment": "matched",
+    "match": {
+      "id": "Q585",
+      "name": "Oslo",
+      "types": [
+        "Q5119",
+        "Q1549591",
+        "Q515",
+        "Q1306755",
+        "Q51929311"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Oslo (Q585) for cells containing \"Christiania\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Freiburg i. B.",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2833",
+      "name": "Freiburg im Breisgau",
+      "types": [
+        "Q1549591",
+        "Q1187811",
+        "Q2327515",
+        "Q14784328",
+        "Q42744322",
+        "Q134626",
+        "Q4946461"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Freiburg im Breisgau (Q2833) for cells containing \"Freiburg i. B.\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Stuttgart",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1022",
+      "name": "Stuttgart",
+      "types": [
+        "Q1549591",
+        "Q2327515",
+        "Q1066984",
+        "Q253030",
+        "Q42744322",
+        "Q106517174",
+        "Q14784328"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Stuttgart (Q1022) for cells containing \"Stuttgart\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Bonn",
+    "judgment": "matched",
+    "match": {
+      "id": "Q586",
+      "name": "Bonn",
+      "types": [
+        "Q1549591",
+        "Q253030",
+        "Q1187811",
+        "Q537250",
+        "Q85635630",
+        "Q42744322",
+        "Q1901835",
+        "Q1180262",
+        "Q515"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Bonn (Q586) for cells containing \"Bonn\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Irkutzk",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6576",
+      "name": "Irkutsk",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Irkutsk (Q6576) for cells containing \"Irkutzk\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Barmbek bei Hamburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q808342",
+      "name": "Barmbek",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Barmbek (Q808342) for cells containing \"Barmbek bei Hamburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kairo",
+    "judgment": "matched",
+    "match": {
+      "id": "Q85",
+      "name": "Cairo",
+      "types": [
+        "Q5119",
+        "Q515",
+        "Q1549591",
+        "Q1637706",
+        "Q174844",
+        "Q51929311",
+        "Q200250",
+        "Q15661340",
+        "Q1200957"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Cairo (Q85) for cells containing \"Kairo\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Oxford",
+    "judgment": "matched",
+    "match": {
+      "id": "Q34217",
+      "name": "Oxford",
+      "types": [
+        "Q1357964",
+        "Q1187811",
+        "Q7897276",
+        "Q515"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Oxford (Q34217) for cells containing \"Oxford\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Münster",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2742",
+      "name": "Münster",
+      "types": [
+        "Q707813",
+        "Q1549591",
+        "Q42744322",
+        "Q85635630",
+        "Q106517174",
+        "Q1392581"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Münster (Q2742) for cells containing \"Münster\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "place_reconciled: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "place_reconciled",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Alchen",
+    "description": "Clear recon data for cells containing \"Alchen\" in column place_reconciled"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "place_reconciled",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "qid",
+          "name": null
+        },
+        {
+          "id": "P625",
+          "name": null
+        }
+      ]
+    },
+    "columnInsertIndex": 12,
+    "description": "Extend data at index 12 based on column place_reconciled"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "place_reconciled",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P17",
+          "name": null
+        }
+      ]
+    },
+    "columnInsertIndex": 12,
+    "description": "Extend data at index 12 based on column place_reconciled"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country",
+    "index": 13,
+    "description": "Move column country to position 13"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country",
+    "index": 14,
+    "description": "Move column country to position 14"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "country",
+    "newColumnName": "country_reconciled",
+    "description": "Rename column country to country_reconciled"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location",
+    "newColumnName": "coordinate_location",
+    "description": "Rename column coordinate location to coordinate_location"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Accise-Beamter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acquise-Beamter"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acquise-Beamter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Accise-Beamter"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Akademiker "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Akademiker"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "bimitt Landrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Landrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "bimüt Syndicus der Uni­versität Staats rath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cand hist"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cand. hist."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cand jur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cand. jur."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Conservator am Reichs-Museum"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conservator am Reichs-Museum"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim Kreis-richtet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Kreisrichter"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim Landrath "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Landrath "
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim Pastor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dim Stadtältermann"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Stadtältermann"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dimitt Lehrer des Tulaschen Cadettencorps Coll-Rath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll-Rath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "dimitt Schulinspector"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Schulinspector"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Director ber St Petri-Kirchen» schule"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Director der St. Petri-Kirchenschule"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Docent an dem Karolini-schen Institut"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Docent an dem Karolinischen Institut"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Eoll-Assessor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Coll.-Assessor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll-Rath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "evang Pastor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evang. Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "geb Baronesse v Campenhausen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geb. Baronesse v. Campenhausen"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Geheimrath  Director des Haupt-Staatsarchivs des Ministerium der aus-wärtigen Angelegenheiten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Geheimrath Akademiker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geheimrath, Akademiker"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "General - Superintenbent"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "General-Superintendant"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gutsbesi^er"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gutsbesitzer"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jnspector der tartarischen Schulen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Inspector der tartarischen Schulen"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jnspector des Gymnasiums"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Inspector des Gymnasiums"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "K H"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "K. H."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kammerherr Präsident der archäologischen Gesellschaft"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kammerherr, Präsident der archäologischen Gesellschaft"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kaplan der Kirche d h Johannes von Jerusalem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kaplan der Kirche des heiligen Johannes von Jerusalem"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lector der estn Sprache"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lector der estnischen Sprache"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lehrer amReal-Gymnasium"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lehrer am Real-Gymnasium"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mm Oberst"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Oberst"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oberlehret an der Domschule "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oberlehrer an der Domschule "
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oberverw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oberverwalter"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pastor "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pastor"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pastor an der St Petri-Gemeinde"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pastor an der St. Petri-Gemeinde"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Procuraführer ber russischen Bank für auswärtigen Hcinbel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Procuraführer der russischen Bank für auswärtigen Handel"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Prof an ber Universität Warschau"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor an der Universität Warschau"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Prof emer der Astronomie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor emeritus der Astronomie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor am Veter-Jnstitut"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor am Veterinär-Institut"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor an der Uni-versität "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor an der Universität "
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor an der Universität "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor an der Universität"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor ct d Universität"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor an der Universität"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Archäologie an der Universität "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Archäologie an der Universität zu Moskau"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der deutschen und ver-gleichenden Sprachkunde"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der deutschen und vergleichenden Sprachkunde"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Ge-schichte Rußlands"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Geschichte Rußlands"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der klass Philologie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der klassischen Philologie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der oriental Sprachen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der orientalischen Sprachen"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Pharma-kologie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Pharmakologie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der politischen Oeko-nomie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der politischen Oekonomie"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Theologie für die Stud orthod-griech Consession Protohierei"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Theologie für die Stud orthod-griech Confession, Protohierei"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der vergl Sprach-Wissenschaft"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der vergleichenden Sprach-Wissenschaft"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Professor der Veterinair-Med"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Professor der Veterinär-Medizin"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Redacteur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Redacteur"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rebacteur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Redacteur"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Schul-Jnspector"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schul-Inspector"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud bist"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. hist."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud dipl"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. dipl."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stud hist"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. hist."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud hist"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. hist."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud jur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. jur."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stud med"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. med."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud med"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. med."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud pbilol"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. philol."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud pharm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. pharm."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud pharmac"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. pharmac."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud philol"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. philol."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stud theol"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stud. theol."
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "wirkl St-Rath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirklicher Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wirkl Staatsrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirkl. Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wirklicher Staatsrath"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirkl. Staatsrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "WML Staatsrath Curator des Dörptschen Lehrbezirks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister ",
+                "l": "Hofmeister "
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation_Rank",
+    "columnInsertIndex": 10,
+    "description": "Create column Occupation_Rank at index 10 based on column Occupation using expression grel:null"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Geheimrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q718660",
+      "name": "Geheimrat",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Geheimrat (Q718660) for cells containing \"Geheimrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Wirklicher Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2623484",
+      "name": "Wirklicher Staatsrat (Russland)",
+      "types": [
+        "Q28745974"
+      ],
+      "score": 82
+    },
+    "shareNewTopics": false,
+    "description": "Match item Wirklicher Staatsrat (Russland) (Q2623484) for cells containing \"Wirklicher Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kammerherr",
+    "description": "Clear recon data for cells containing \"Kammerherr\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienassesor",
+    "description": "Clear recon data for cells containing \"Kollegienassesor\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "dimitt Syndicus der Universität, Staatsrath",
+                "l": "dimitt Syndicus der Universität, Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "dimitt Syndicus der Universität, Staatsrath",
+                "l": "dimitt Syndicus der Universität, Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q677455",
+      "name": "Staatsrat",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Staatsrat (Q677455) for cells containing \"Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Secretär der Kaiserl livl. oec. Societät",
+                "l": "Secretär der Kaiserl livl. oec. Societät"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation_Rank",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Ad_Society",
+    "columnInsertIndex": 11,
+    "description": "Create column Ad_Society at index 11 based on column Occupation_Rank using expression grel:null"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation_General",
+    "columnInsertIndex": 10,
+    "description": "Create column Occupation_General at index 10 based on column Occupation using expression grel:null"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Akademiker",
+                "l": "Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Candidat der vergleichenden Sprachforschung",
+                "l": "Candidat der vergleichenden Sprachforschung"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Adjunct der Akademie",
+                "l": "Adjunct der Akademie"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Akademiker",
+                "l": "Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Candidat der vergleichenden Sprachforschung",
+                "l": "Candidat der vergleichenden Sprachforschung"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Adjunct der Akademie",
+                "l": "Adjunct der Akademie"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienassesor",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2365856",
+      "name": "Kollegienassessor",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kollegienassessor (Q2365856) for cells containing \"Kollegienassesor\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Leibarzt und Geheimrath",
+                "l": "Leibarzt und Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Leibarzt und Geheimrath",
+                "l": "Leibarzt und Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://lobid.org/gnd/reconcile/",
+      "identifierSpace": "https://d-nb.info/gnd/",
+      "schemaSpace": "https://d-nb.info/standards/elementset/gnd#AuthorityResource",
+      "autoMatch": false,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type null"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Leibarzt und Geheimrath",
+                "l": "Leibarzt und Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://lobid.org/gnd/reconcile/",
+      "identifierSpace": "https://d-nb.info/gnd/",
+      "schemaSpace": "https://d-nb.info/standards/elementset/gnd#AuthorityResource",
+      "type": {
+        "id": "AuthorityResource",
+        "name": "Normdatenressource"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type AuthorityResource"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Leibarzt und Geheimrath",
+                "l": "Leibarzt und Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Leibarzt und Geheimrath",
+                "l": "Leibarzt und Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Occupation_Rank: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Occupation_Rank",
+          "from": 50,
+          "to": 72,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Occupation_Rank: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Occupation_Rank",
+          "from": 50,
+          "to": 72,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Occupation_Rank: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Occupation_Rank",
+          "from": 50,
+          "to": 72,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Geheimrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q718660",
+      "name": "Geheimrat",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Geheimrat (Q718660) for cells containing \"Geheimrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Coll.-Assessor",
+                "l": "Coll.-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Leibarzt und Geheimrath",
+                "l": "Leibarzt und Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Occupation_Rank: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Occupation_Rank",
+          "from": 50,
+          "to": 72,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Occupation_Rank: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Occupation_Rank",
+          "from": 50,
+          "to": 72,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Occupation_Rank: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Occupation_Rank",
+          "from": 50,
+          "to": 72,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienassessor",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2365856",
+      "name": "Kollegienassessor",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kollegienassessor (Q2365856) for cells containing \"Kollegienassessor\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Wirklicher Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2623484",
+      "name": "Wirklicher Staatsrat (Russland)",
+      "types": [
+        "Q28745974"
+      ],
+      "score": 82
+    },
+    "shareNewTopics": false,
+    "description": "Match item Wirklicher Staatsrat (Russland) (Q2623484) for cells containing \"Wirklicher Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q677455",
+      "name": "Staatsrat",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Staatsrat (Q677455) for cells containing \"Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/de/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q28745974",
+        "name": "civil rank of the Russian Empire"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Occupation_Rank to type Q28745974"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Prinz",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2747456",
+      "name": "Prinz",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Prinz (Q2747456) for cells containing \"Prinz\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Geheimrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q718660",
+      "name": "Geheimrat",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Geheimrat (Q718660) for cells containing \"Geheimrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Wirklicher Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2623484",
+      "name": "Wirklicher Staatsrat (Russland)",
+      "types": [
+        "Q28745974"
+      ],
+      "score": 82
+    },
+    "shareNewTopics": false,
+    "description": "Match item Wirklicher Staatsrat (Russland) (Q2623484) for cells containing \"Wirklicher Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Staatsrat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q677455",
+      "name": "Staatsrat",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Staatsrat (Q677455) for cells containing \"Staatsrat\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Kollegienassessor",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2365856",
+      "name": "Kollegienassessor",
+      "types": [
+        ""
+      ],
+      "score": 50
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kollegienassessor (Q2365856) for cells containing \"Kollegienassessor\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_Rank",
+    "similarValue": "Prinz",
+    "description": "Clear recon data for cells containing \"Prinz\" in column Occupation_Rank"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dimitt. Landrath "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dimitt. Landrath"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Buchhalter",
+                "l": "Buchhalter"
+              }
+            },
+            {
+              "v": {
+                "v": "Director des Credit-Systems",
+                "l": "Director des Credit-Systems"
+              }
+            },
+            {
+              "v": {
+                "v": "Procuraführer der russischen Bank für auswärtigen Handel",
+                "l": "Procuraführer der russischen Bank für auswärtigen Handel"
+              }
+            },
+            {
+              "v": {
+                "v": "Secretär des Credit-Systems",
+                "l": "Secretär des Credit-Systems"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Buchhändler und Antiquar",
+                "l": "Buchhändler und Antiquar"
+              }
+            },
+            {
+              "v": {
+                "v": "Redacteur",
+                "l": "Redacteur"
+              }
+            },
+            {
+              "v": {
+                "v": "Buchdrucker und Verleger",
+                "l": "Buchdrucker und Verleger"
+              }
+            },
+            {
+              "v": {
+                "v": "Buchdrucker",
+                "l": "Buchdrucker"
+              }
+            },
+            {
+              "v": {
+                "v": "Bibliothekar",
+                "l": "Bibliothekar"
+              }
+            },
+            {
+              "v": {
+                "v": "Stadtbibliothekar",
+                "l": "Stadtbibliothekar"
+              }
+            },
+            {
+              "v": {
+                "v": "Gutsbesitzer",
+                "l": "Gutsbesitzer"
+              }
+            },
+            {
+              "v": {
+                "v": "Revisor",
+                "l": "Revisor"
+              }
+            },
+            {
+              "v": {
+                "v": "Fabrikbesitzer",
+                "l": "Fabrikbesitzer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Occupation_General",
+          "expression": "value",
+          "columnName": "Occupation_General",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Professor",
+                "l": "Professor"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Geschichte Rußlands",
+                "l": "Professor der Geschichte Rußlands"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Pharmacie",
+                "l": "Professor der Pharmacie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der keltischen Sprache",
+                "l": "Professor der keltischen Sprache"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der klassischen Philologie",
+                "l": "Professor der klassischen Philologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. jur.",
+                "l": "Stud. jur."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Chirurgie",
+                "l": "Professor der Chirurgie"
+              }
+            },
+            {
+              "v": {
+                "v": "Akademiker",
+                "l": "Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Mineralogie",
+                "l": "Professor der Mineralogie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der vergleichenden Sprach-Wissenschaft",
+                "l": "Professor der vergleichenden Sprach-Wissenschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der politischen Oekonomie",
+                "l": "Professor der politischen Oekonomie"
+              }
+            },
+            {
+              "v": {
+                "v": "Cand. hist.",
+                "l": "Cand. hist."
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der orientalischen Sprachen",
+                "l": "Professor der orientalischen Sprachen"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Landwirthschaft am Polytechnikum",
+                "l": "Professor der Landwirthschaft am Polytechnikum"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. pharmac.",
+                "l": "Stud. pharmac."
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. med.",
+                "l": "Stud. med."
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. theol.",
+                "l": "Stud. theol."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der philosophischen Facultät",
+                "l": "Professor der philosophischen Facultät"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Pharmakologie",
+                "l": "Professor der Pharmakologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. hist.",
+                "l": "Stud. hist."
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. pharm.",
+                "l": "Stud. pharm."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der allgemeinen Sprach-Wissenschaft",
+                "l": "Professor der allgemeinen Sprach-Wissenschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Theologie für die Stud orthod-griech Confession, Protohierei",
+                "l": "Professor der Theologie für die Stud orthod-griech Confession, Protohierei"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Technologie und Landwirtschaft",
+                "l": "Professor der Technologie und Landwirtschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. dipl.",
+                "l": "Stud. dipl."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der historischen Theologie",
+                "l": "Professor der historischen Theologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor an der Universität in Christiania",
+                "l": "Professor an der Universität in Christiania"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Anatomie",
+                "l": "Professor der Anatomie"
+              }
+            },
+            {
+              "v": {
+                "v": "Cand. jur.",
+                "l": "Cand. jur."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Veterinär-Medizin",
+                "l": "Professor der Veterinär-Medizin"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Theologie",
+                "l": "Professor der Theologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Geschichte",
+                "l": "Professor der Geschichte"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor des russischen Rechts",
+                "l": "Professor des russischen Rechts"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor an der Universität zu Kiew",
+                "l": "Professor an der Universität zu Kiew"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor emeritus der Astronomie",
+                "l": "Professor emeritus der Astronomie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der finnischen Sprache",
+                "l": "Professor der finnischen Sprache"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor am Veterinär-Institut",
+                "l": "Professor am Veterinär-Institut"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor an der Universität Warschau",
+                "l": "Professor an der Universität Warschau"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Syndicus der Uni­versität, Staatsrath",
+                "l": "Dimitt. Syndicus der Uni­versität, Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Jurisprudenz",
+                "l": "Professor der Jurisprudenz"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Physik",
+                "l": "Professor der Physik"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Philologie",
+                "l": "Professor der Philologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Archäologie an der Universität zu Moskau",
+                "l": "Professor der Archäologie an der Universität zu Moskau"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor an der Universität in Berlin",
+                "l": "Professor an der Universität in Berlin"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der Physiologie",
+                "l": "Professor der Physiologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Stud. philol.",
+                "l": "Stud. philol."
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der altclassischen Philologie",
+                "l": "Professor der altclassischen Philologie"
+              }
+            },
+            {
+              "v": {
+                "v": "Professor der deutschen und vergleichenden Sprachkunde",
+                "l": "Professor der deutschen und vergleichenden Sprachkunde"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pastor an der St. Petri-Gemeinde",
+                "l": "Pastor an der St. Petri-Gemeinde"
+              }
+            },
+            {
+              "v": {
+                "v": "Küster",
+                "l": "Küster"
+              }
+            },
+            {
+              "v": {
+                "v": "Evang. Pastor",
+                "l": "Evang. Pastor"
+              }
+            },
+            {
+              "v": {
+                "v": "Pastor",
+                "l": "Pastor"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Pastor",
+                "l": "Dimitt. Pastor"
+              }
+            },
+            {
+              "v": {
+                "v": "Kaplan der Kirche des heiligen Johannes von Jerusalem",
+                "l": "Kaplan der Kirche des heiligen Johannes von Jerusalem"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Inspector der tartarischen Schulen",
+                "l": "Inspector der tartarischen Schulen"
+              }
+            },
+            {
+              "v": {
+                "v": "Schuldirector-Gehilfe",
+                "l": "Schuldirector-Gehilfe"
+              }
+            },
+            {
+              "v": {
+                "v": "Lehrer der Schmidt'schen Anstalt",
+                "l": "Lehrer der Schmidt'schen Anstalt"
+              }
+            },
+            {
+              "v": {
+                "v": "Lehrer",
+                "l": "Lehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks",
+                "l": "Wirkl. Staatsrath, Curator des Dörptschen Lehrbezirks"
+              }
+            },
+            {
+              "v": {
+                "v": "Lehrer am Real-Gymnasium",
+                "l": "Lehrer am Real-Gymnasium"
+              }
+            },
+            {
+              "v": {
+                "v": "Schuldirector",
+                "l": "Schuldirector"
+              }
+            },
+            {
+              "v": {
+                "v": "Privatlehrer",
+                "l": "Privatlehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath",
+                "l": "Dimitt. Lehrer des Tulaschen Cadettencorps, Coll.-Rath"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberlehrer",
+                "l": "Oberlehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Schul-Inspector",
+                "l": "Schul-Inspector"
+              }
+            },
+            {
+              "v": {
+                "v": "Gymnasiallehrer",
+                "l": "Gymnasiallehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Docent an dem Karolinischen Institut",
+                "l": "Docent an dem Karolinischen Institut"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberlehrer am Gymnasium",
+                "l": "Oberlehrer am Gymnasium"
+              }
+            },
+            {
+              "v": {
+                "v": "Director des Gymnasiums des pädagogischen Instituts",
+                "l": "Director des Gymnasiums des pädagogischen Instituts"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Schulinspector",
+                "l": "Dimitt. Schulinspector"
+              }
+            },
+            {
+              "v": {
+                "v": "Dorfschulmeister",
+                "l": "Dorfschulmeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Elementarlehrer",
+                "l": "Elementarlehrer"
+              }
+            },
+            {
+              "v": {
+                "v": "Inspector des Gymnasiums",
+                "l": "Inspector des Gymnasiums"
+              }
+            },
+            {
+              "v": {
+                "v": "Oberlehrer an der Domschule ",
+                "l": "Oberlehrer an der Domschule "
+              }
+            },
+            {
+              "v": {
+                "v": "Lehrer am Gymnasium ",
+                "l": "Lehrer am Gymnasium "
+              }
+            },
+            {
+              "v": {
+                "v": "Privatdocent",
+                "l": "Privatdocent"
+              }
+            },
+            {
+              "v": {
+                "v": "Director des Gymnasiums",
+                "l": "Director des Gymnasiums"
+              }
+            },
+            {
+              "v": {
+                "v": "Director der St. Petri-Kirchenschule",
+                "l": "Director der St. Petri-Kirchenschule"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Oberverwalter",
+                "l": "Oberverwalter"
+              }
+            },
+            {
+              "v": {
+                "v": "Dimitt. Landrath",
+                "l": "Dimitt. Landrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Conservator am Reichs-Museum",
+                "l": "Conservator am Reichs-Museum"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Canzleibeamter des Raths",
+                "l": "Canzleibeamter des Raths"
+              }
+            },
+            {
+              "v": {
+                "v": "Bürgermeister",
+                "l": "Bürgermeister"
+              }
+            },
+            {
+              "v": {
+                "v": "Verwalter",
+                "l": "Verwalter"
+              }
+            },
+            {
+              "v": {
+                "v": "Accise-Beamter",
+                "l": "Accise-Beamter"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister ",
+                "l": "Hofmeister "
+              }
+            },
+            {
+              "v": {
+                "v": "Landrath ",
+                "l": "Landrath "
+              }
+            },
+            {
+              "v": {
+                "v": "Obersecretär des Raths",
+                "l": "Obersecretär des Raths"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation_General",
+    "description": "Fill down cells in column Occupation_General"
+  }
+]

@@ -1,4 +1,4 @@
-des
+<section type='beginning'>des
 Naturforscher -Vereins
 zu Riga.
 R iga, 1884.
@@ -570,7 +570,9 @@ liche Hoheit eines Geschenks — eines Brillantringes mit dem
 Wappen (BeH3e.ae:BHMr& HBOÖpaacemeMi.) Seiner Kaiserlichen 
 Hoheit.
 —  14 —
- Sitzungsberichte.12. S e p te m b e r  1883.
+</section>
+<section type='monthlymeet'>  Sitzungsberichte.
+ 12. S e p te m b e r  1883.
  Naturalien. Eswurdenvorgezeigt: Einehiergezogene
 Banane mit zahlreichen, freilich noch unreifen Früchten, von 
 Herrn Gärtner Thieme, ein Zweig vom weidenblättrigen Birn­
@@ -2389,7 +2391,8 @@ Anhaftende Z i n s e n ............................... 52 „
 Baares S a l d o ......................................... 194 „
 zusammen 7046 Rbl.
 61 —
-Wissenschaftliche Vereine und Institute, mit denen der 
+</section>
+<section type='list'> Wissenschaftliche Vereine und Institute, mit denen der 
 Verein im Jahre 1883 in Verkehr stand,
 nebst Angabe der zuletzt erhaltenen Schriften.1) A lte n b u rg .  Naturforschende Gesellseh. des Osterlandes.
 Mitteilungen N. F. II, 1884,
@@ -2766,7 +2769,8 @@ HpOTOKOJPB 1883.
 150) Z ü r ic h .  Naturforschende Gesellschaft.
 V ierteljahrsschrift Jahrg . 25.
 151) Z w ic k a u . Verein für Naturkunde.
-Jahresbericht von 1881.
+</section>
+<section type='yearlymeet'> Jahresbericht von 1881.
 fü r  d ie  B ib l io th e k  v o n  d en  V e r f a s s e r n .
 K. B e rg . A ddendaetem endanda ad hemiptera Argentina. 1884. 
 A. B rau n . Land- und Süsswassermollusken der Ostsee­
@@ -2822,7 +2826,8 @@ Meteorologische Beobachtungen
 in
 Riga und  D ü n a mü n d e
 für 1883.
-Station Riga. Monat Januar 1883.
+</section>
+<section type='table'> Station Riga. Monat Januar 1883.
 Mittefwerthe. l b- Mittag. Temperatur.
 700 mm % Mtr. russ.Cels. + p. Sec. 0-10 Cels. Cels. - mm. Fuss.
 1—6.361.989 SW.12—2.2—7.94.22—3.754.496 S.88—0.3—7.93.74.03+ 2.444.998SSW.610+ 3.0—0.5R.4.74.14—5.156.963N.60+ 0.4—8.1R.4.45 — 9.4 66.9 60 NNE. 6 1 — 6.2 —11.2 S. 4.5
@@ -2875,7 +2880,8 @@ Regen oder Schnee.
 Niederschlags­
 menge.
 W asserstand.
-Station Dünamünde. Monat Januar 1883.
+</section>
+<section type='table'> Station Dünamünde. Monat Januar 1883.
 Mittelwert!». l 1». Mittag. Temperatur.
 fix,
 <S9
@@ -2933,7 +2939,8 @@ Niederschlags­
 menge.
 NW.
 NNW. W asserstand.
-Station Riga« Monat Februar 1883.
+</section>
+<section type='table'> Station Riga« Monat Februar 1883.
 Mtttelwertke. l h- Mittag. Temperatur.
 t-t ® sfcß
 © =3
@@ -3040,7 +3047,8 @@ W SW
 Regenoder Schpee.
  W N W Niederschlags­menge. ‘
  N W.NNW . W asserstand.
-Station Riga. Monat März 1883.
+</section>
+<section type='table'> Station Riga. Monat März 1883.
 Mittelwerthe. l h- Mittag. Temperatur. mtc rsc3
 u +m2
 S4)ö con
@@ -3098,7 +3106,8 @@ SW . Minim.
 Regen oder Schuee.
 Niederschli
 menge.
-Station Dünamünde. Monat März 1883.
+</section>
+<section type='table'> Station Dünamünde. Monat März 1883.
 Mittelwerthe. 1h- Mittag. Temperatur.
 ö,
 aa>
@@ -3152,7 +3161,8 @@ WNW N iederschlags­
 menge.
 NW .
 NNW . W asserstand.
-Station Riga. Monat April 1883.
+</section>
+<section type='table'> Station Riga. Monat April 1883.
 MittelwcrtHe. l h- Mittag. Temperatur.
 ■<3??> O
 s  *  
@@ -3204,7 +3214,8 @@ Regen oder Schnee.
 W NW Niederschlags­
 menge.
 ,NNW . W asserstand.
-Station Dtin&miinde. Monat April 1883.
+</section>
+<section type='table'> Station Dtin&miinde. Monat April 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 12
 3
@@ -3260,7 +3271,8 @@ Regen oder Schnee.
 W SW
  W N W Niederschlags­menge.
 NW .
-Station Riga. Monat Mai ,1883.
+</section>
+<section type='table'> Station Riga. Monat Mai ,1883.
 Mittelwerthe. l h- Mittag. Temperatur. ibnß T£3o3ä
 © 03V
 £m»  ■ 
@@ -3312,7 +3324,8 @@ Regen oder Schnee.
 Niederschli
 menge.
 NW .
-Station Dünamünde. Monat Mai 1883.
+</section>
+<section type='table'> Station Dünamünde. Monat Mai 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 PH
 £
@@ -3376,7 +3389,8 @@ Regen oder Schnee.
 N iederschlags­
 menge.
 W asserstand.
-Station Riga. Monat Juni 1883.
+</section>
+<section type='table'> Station Riga. Monat Juni 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 'S
 -o2o
@@ -3433,7 +3447,8 @@ W NW Niederschlags­
 menge.
 | NW .
 iNNW .
-Station Dimanrände. Monat ^uni 1883.
+</section>
+<section type='table'> Station Dimanrände. Monat ^uni 1883.
 SJ
 Mittelwerthe. l h- Mittag. Temperatur. O®jao 
  ’■ 
@@ -3492,7 +3507,8 @@ menge.
 NW .
 ! W asserstand.
  1 ii
-Station Riga. Monat juK 1&8S,
+</section>
+<section type='table'> Station Riga. Monat juK 1&8S,
 ------ -
 Mittelwerthe. M ittag. T emperatur. «tJc 1!  rsscö
 <X> 02
@@ -3602,7 +3618,8 @@ Regen oder Schiiee.
 |W-NW N iederschlags­
 menge.
 W asserstand.
-Station Riga. Monat August 1883.
+</section>
+<section type='table'> Station Riga. Monat August 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 700mm. Mtr. russ.
 Cels. + p. Sec, 0-10 Cels. Cels. mm. Fuss
@@ -3653,7 +3670,8 @@ Minim.
 Niederschlags­
 menge.
 NNW . W asserstand.
-Station Dünamünd©. Monat August 1883.
+</section>
+<section type='table'> Station Dünamünd©. Monat August 1883.
 Mittelwerthe. l h- M ittag. Temperatur. haS
 cicL CO<ss-S >o> cmo
 3!
@@ -3709,7 +3727,8 @@ W NW j N iederschlags­
 menge.
 NW.
 NNW.
-Station Riga. Monat September 1883.
+</section>
+<section type='table'> Station Riga. Monat September 1883.
 Mittelwerthe. l h- M ittag. Temperatur.
 Q 700 mm Mtr. russ.Cels. + * ; p. Sec. 0-10 Cels. Cels. - mm. F uss.
 1+16.754.385SSW42+21.4+ 9.37.25.82+ 18.749.979w.22+23.4+ 15.3R.5.53 + 1 9 .3 51.1 81 SSE . 2 1 + 2 6 .8 + 1 2 .9 R. 5.3 5.2
@@ -3766,7 +3785,8 @@ Regen oder Schnee.
 Niederschlags­
 menge.
 W asserstand.
-Station Diinamünde. Monat September 1883.
+</section>
+<section type='table'> Station Diinamünde. Monat September 1883.
 Mitteiwerthe. l h- Mittag. Temperatur.
 700 mm. Mtr. mm. russ.Cels. + * p. Sec. 0-10 Cels. Cels. - Fuss
 1 +  16.7 54.2 87 SSW . 10 2 _ _ 0.6 5.2
@@ -3818,7 +3838,8 @@ WNW N iederschlags­
 menge.
 NW .
 NNW . W asserstand.
-Station Riga. Monat Oetober 1883.
+</section>
+<section type='table'> Station Riga. Monat Oetober 1883.
 Mittelwerthe. l h* Mittag. Temperatur.
 S®o
  I S03 CD
@@ -3867,7 +3888,8 @@ W SW Regen oder Schnee.
 Niederschlags­
 menge.
  N W.NN W . W asserstand.
-Station Dänamünde. Mojjat Oktober 1883.
+</section>
+<section type='table'> Station Dänamünde. Mojjat Oktober 1883.
 !
 Mittelwerthe. l h- Mittag. Temperatur.
 a
@@ -3922,7 +3944,8 @@ Minim.
 Regen oder Schnee.
 W NW j N iederschlags­
 menge.
-Station Riga. Monat November 1883.
+</section>
+<section type='table'> Station Riga. Monat November 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 Q 700 mm Sy/ Mtr. rus&.
 Cels. + % p. Sec. 0-10 Cels. Cels. — mm. F ass.
@@ -3979,7 +4002,8 @@ Niederschlags*
 menge.
 NW .
 W asserstand.
-Station Dünamünde. Monat Kovembe* 1883.
+</section>
+<section type='table'> Station Dünamünde. Monat Kovembe* 1883.
 Mittelwerthe. l h- Mittag. Temperatur.
 £
 d, a>
@@ -4690,3 +4714,4 @@ fCi3
 31 — 13.03
 Mitt. 8.01
 D
+</section>

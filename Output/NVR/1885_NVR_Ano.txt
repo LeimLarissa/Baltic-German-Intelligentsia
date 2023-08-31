@@ -1,4 +1,4 @@
-des
+<section type='beginning'>des
 Naturforscher -Vereins
 zu Riga.
 ---- - ------------------------------------------
@@ -287,7 +287,9 @@ Längen giebt direkt die gesuchte relative Geschwindigkeit.
  Heinr.v. Rautenfeld.*) A n m e r k u n g .  In  einem Dynamometer a d d i e r e n  sich in Bezug 
 auf den A usschlag entgegengesetzte Ströme, ohne R ücksicht auf ihr 
 Zeichen, wenn sie n a c h e i n a n d e r  erfolgen.
-—7— Sitzungsberichte.3. S e p te m b e r  18 8 4 .
+</section>
+<section type='monthlymeet'> —7— Sitzungsberichte.
+3. S e p te m b e r  18 8 4 .
 Der Präses eröffnete die erste Versammlung nach den 
 Ferien mit einer kurzen Begrössung und gedachte der im 
 Laufe der Ferien verstorbenen M itglieder (Dr. Szonn, Dr. 
@@ -1333,7 +1335,8 @@ hatte.
 25. August 1885. G. S c h w e d e r .
 Korr.-Bl. des N.-V. XXVIII. 3. 3
 _  34 —
-Wissenschaftliche Vereine und Institute, mit denen der 
+</section>
+<section type='list'> Wissenschaftliche Vereine und Institute, mit denen der 
 Verein im Jahre 1884 in Verkehr stand,
 nebst Angabe der zuletzt erhaltenen Schriften.A lte n b u r g . Naturforschende Gesellsch. des Osterlandes.
 Mitteilungen N. P. II, 1884.
@@ -1757,7 +1760,8 @@ gamen. 1885.
 E. R. v. T r a u tv e t te r .  Incrementa florae phaner. Rossicae 
 IV. 1884.
 — 45 —
-Direktorium des Naturforscher-Vereins zu Riga 
+</section>
+<section type='list'> Direktorium des Naturforscher-Vereins zu Riga 
 für 1884— 85.
 Präses G. Sch we d e r, Stadtschulendirektor. 
 Vice-Pi’ääes Th. G rönjberg , Professor.
@@ -1772,7 +1776,8 @@ G. T hom s, Professor.
 A. W e rn e r , Oberlehrer.
 H. H ell m ann, Oberlehrer.
 Konservator A. S p u n d e , Lehrer.
-Mitglieder am 1. Juli 1885.
+</section>
+<section type='list'> Mitglieder am 1. Juli 1885.
 (Die Nummer vor dem Namen ist diejenige, unter welcher das betreffende 
 Diplom ausgestellt ist.)
 A. E h r e n m i t g l i e d e r .
@@ -2063,7 +2068,8 @@ in
 i ga  und D ü n a mü n
 fü r  1884,
 —==*<158$Э0сЗ$ё>><>
-Station R iga. Monat Januar 1884.
+</section>
+<section type='table'> Station R iga. Monat Januar 1884.
 Mittel*« rthe. l h- Mittag. Тмилйаг.
 Cels. 700щ т . Mt r. + % p. Sec. 0-10 Cels. Cels. - mm.
 russ.
@@ -2229,7 +2235,8 @@ W SW
 WNW Niederschlags­
 menge.
 NNW. Wasserstand.
-Station IMmamünde. Monat Februar 1884.
+</section>
+<section type='table'> Station IMmamünde. Monat Februar 1884.
 Ф
 Mittelwerthe. 1>». Mittag. Temperatur. ОCDX0X
 02
@@ -2282,7 +2289,8 @@ W SW
 Niederschlags­
 menge.
 Wass erstand.
-Station Riga. Monat März 1884.
+</section>
+<section type='table'> Station Riga. Monat März 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 Cels. 700mm. Mtr. 
 russ.
@@ -2334,7 +2342,8 @@ Niederschlags­
 menge.
 NW.
 NNW. Wasserstand.
-Station Dünamünde. Monat März 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat März 1884.
 ttittelwerthe. l h- Mittag. Temperatur.
 700 mm. Mtr. russ.Cels. + % p. Sec. 0-10 Cels. Cels. - mm. Fuss
 1_7.472.389 ENB.40___3.72—4.377.597 SE.610——3.83—2.479.386 SE.50——3.64—4.878.495 SE.61——3.45—4.875.988 ENE.10——3.36—2.671.785 SE.69——3.27—3.368.994 SE.84——3.28—0.563.88301——3.29—4.557.191 ESE.610—— S°.3.210 — 4.6 61.9 87 ESE. 5 0 — — 3.0
@@ -2383,7 +2392,8 @@ Niederschlags­
 menge.
 NW.
 NNW. Wasserstand.
-Station Riga. Monat April 1884.
+</section>
+<section type='table'> Station Riga. Monat April 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 TaS S
 ’S
@@ -2438,7 +2448,8 @@ Niederschlags­
 menge.
 NW.
 Wasserstand.
-Station Dünamünde. Monat April 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat April 1884.
 Mittelwerthe. l fl- Mittag. Temperatur.
 Cels. 700 mm. Mtr. ■+■ p. gec. 0-10 Cels. Cels.
 russ.
@@ -2489,7 +2500,8 @@ Niederschlags'
 menge.
 NW.
 Wasserstand.
-Station Riga. Monat Mai 1884.
+</section>
+<section type='table'> Station Riga. Monat Mai 1884.
 Mittelwerthe. l h* Mittag. Temperatur.
 JФd
 оS  Я 
@@ -2548,7 +2560,8 @@ WNW] Niederschlags- J
 menge, !
 NW.
 Wasserstand.
-Station Dünamiinde. Monat Mm 1884.
+</section>
+<section type='table'> Station Dünamiinde. Monat Mm 1884.
 аз
 T» Mittelwerthe. l h- Mittag. Temperatur.
 QQ
@@ -2605,7 +2618,8 @@ Niederschlags­
 menge.
 NW.
 Wasserstand.
-Station Riga. Monat Juni 1884.
+</section>
+<section type='table'> Station Riga. Monat Juni 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 700mm.
 Cels. Mtr. 
@@ -2663,7 +2677,8 @@ Niederschlags­
 menge.
 NW.
 NNW. Wasserstand.
-Station Dünamünde. Monat Juni 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat Juni 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 700 mm. Mtr. 0-10 - russ.Cels. + % p. Sec. Cels. Cels. mm. Fass
 1 +12.1 61.5 73 NE. 6 5 _ _ 1.0 4.2
@@ -2721,7 +2736,8 @@ Niederschlags­
 menge.
 NW.
 NNW. Wasserstand.
-Station Riga. Monat Juli 1884.
+</section>
+<section type='table'> Station Riga. Monat Juli 1884.
 Mittelwerthe. l b- Mittag. Temperatur.
 -3 ■'  
 aо
@@ -2783,7 +2799,8 @@ WNW Niederschlags- 1
 menge. I
 NW.
 NNW. Wasserstand.
-Station Dim am im de. Monat Juli 1884.
+</section>
+<section type='table'> Station Dim am im de. Monat Juli 1884.
 Ф
 Mittelwerthe. ) l 1». Mittag. Temperatur. 0330
 01 
@@ -2847,7 +2864,8 @@ Niederschlags­
 menge.
 NW.
 'NNW. Wasserstand.1
-Station Riga. Monat August 1884.
+</section>
+<section type='table'> Station Riga. Monat August 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 Cels. 700mm. Mt r. 
 russ.
@@ -2906,7 +2924,8 @@ jwsw
 Niederschlags­
 menge.
 NNW. Wasserstand.
-Station Diinamiinde. Monat August 1884.
+</section>
+<section type='table'> Station Diinamiinde. Monat August 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 ä
 ’S
@@ -2974,7 +2993,8 @@ NNW. Wasserstand.
 £
 £
 сс
-Station Riga. Monat September 1884.
+</section>
+<section type='table'> Station Riga. Monat September 1884.
 Mittelwerthe. lh. Mittag. Temperatur.
 яbß
 0
@@ -3033,7 +3053,8 @@ Regen oder Sclmee.
 WNW Niederschlags­
 menge.
 NNW. Wasserstand.
-Station Dünamünde. Monat September 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat September 1884.
 Mittelwerthe. lh. Mittag. Temperatur.
 ..
 ®О3Ф
@@ -3100,7 +3121,8 @@ Niederschlags­
 menge.
 NW.
 NNW. Wasserstand.
-Station Riga. Monat Oktober 1884.
+</section>
+<section type='table'> Station Riga. Monat Oktober 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 Q russ.Cels. 700mm. %л/ Mtr.+ p. Sec. 0-10 Cels. Cels. “ mm. Fuss,
 1+ 9.970.478 SSW.80+16.8+6.24.12+ 9.766.467s.48+14.9+5.83.93 +11.1 63.3 66 SE. 2 10° +14.9 + 6.0 4.0
@@ -3159,7 +3181,8 @@ menge.
 NNW. Wasserstand.
 11 ю
 1
-Station Dünamünde. Monat Oktober 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat Oktober 1884.
 Mittelwerthe. lb. Mittag. Temperatur.
 Q 700 mm. Mtr. russ.
 Cels. + % p. Sec. 0-10 Cels. Cels. — mm. Fuss.
@@ -3222,7 +3245,8 @@ Niederschlags­
 menge.
 NW.
 NNW. Wasserst and.
-Station Riga. Monat November 1884.
+</section>
+<section type='table'> Station Riga. Monat November 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 700mm.
 Cels. %/у/ Mt r. russ.+ p. Sec. 0-10 Cels. Ceis. — mm. Fuss.
@@ -3276,7 +3300,8 @@ Regen oder Schnee.
 Niederschlags­
 menge.
 NNW. Wasserstand.
-Station Dünamünde. Monat November 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat November 1884.
 I
 Mittelwerthe. | l h- Mittag. Temperatur.
 Sh
@@ -3334,7 +3359,8 @@ Regen oder Sclmee.
 Niederschlags­
 menge.
 NNW. Wasserstand.
-Station Riga. Monat December 1884.
+</section>
+<section type='table'> Station Riga. Monat December 1884.
 Mittelwerthe. l h- Mittag. Temperatur.
 Q Cels. 700 mm /у/ Mt r.
 :
@@ -3389,7 +3415,8 @@ Niederschlags­
 menge.
 NW.
 Wasserstand.
-Station Dünamünde. Monat December 1884.
+</section>
+<section type='table'> Station Dünamünde. Monat December 1884.
 Mittelwerthe. l !l- Mittag. Temperatur.
 Cels. 700mm. Mtr. o-io- Cels. Cels. - russ.+ p. Sec. mm. Fuss.
 1—7.552.6100 NE.1810__- S.4.73.42—7.346.2100 E.610—— S.1.54.53—5.356.1100 SSW.210——s.0.84.54—7.049.7100 SE.610——8.3.13.55+1.544.7100 SSE.410—— RS.1.33.86 4- 1.6 46.6 99 W. 10 10 — — RS. 2.0 4.7
@@ -3987,3 +4014,4 @@ December 1884.
 31 — 0 .1 1 0.08 0.02 — 0.40 0.89 1.85 2.62 4.46 6.64
 Mitt. — 1.74 — 1.04 — 0.80 — 0.91 0.43 1.55 2.62 4.79 7.33
 Dat. n. St.
+</section>

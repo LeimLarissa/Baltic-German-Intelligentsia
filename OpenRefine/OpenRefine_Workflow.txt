@@ -1,0 +1,20 @@
+OpenRefine Workflow
+1. Manually add | seperator after each member name and bevor the "," or other seperator.
+2. Create Open Refine project - UTF-8, CSV, Don't store blanck rows, trim leading & trailing white spaces. 
+3. Rename Project. Switch to 500 rows displayed. 
+4. Apply 01SeperatingNames.json
+5. Go through column "Names" to eliminate obvious mistakes. Correct names wherever familiar. Check with previous lists if possible. (Original spelling preserved in column "Original_LINE")
+6. Apply 02SeparatingAcTitles.json
+7. Manually look for discipline specifications (phil./med.) and add them to Name_Ac_Title
+8. Apply 03SeparatingPlaceOccupation.json
+9. Create text facet for column "Place" and clean place names.
+10. Add column "place_reconciled" based on column "Place" 
+11. Add for those people "IN" (3L_MS) the city the society is located the name of it in column "place_reconciled". 
+12. Apply 04ReconcilePlace.json
+13. Manually select reconciled places if needed. Research unknown (likely small) places and give best approximation. 
+14. Apply 05AddQIDandCoordinates.json
+15. Use text filter to manually correct column "Occupation" for obvious errors.
+16. Apply 06OccupationDetailing.json to create blank columns
+16. Include in facet "Occupation" all civil rank associated occupations and manually transfer them to column "Occupation_Rank". Reconcile (Wikidata de/type:civil rank of the Russian Empire) the rank if applicable. [Kollegienassessor, Kollegienrat, Staatsrat, Wirklicher Staatsrat, Geheimrat, Kammerherr?]
+17. Manually add additionally mentioned learned societies to the column "Ad_Society". Use full correct spelling. 
+18. Use the Facet text filter on column "occupation" to group together certain occupations to occupational fields. Name the occupational field in the first cell of "Occupation_General" and use edit cells fill down to apply to the rest. [Bankwesen, Besitzbürgertum, Buchwesen, Frau, Handel, Hochschulwesen, Juristerei, Medizin, Militär, Pfarrwesen, rank, Schulwesen, society, Verwaltung] 

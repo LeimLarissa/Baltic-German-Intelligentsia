@@ -1,0 +1,72 @@
+[
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "place_reconciled",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "qid",
+          "name": null
+        },
+        {
+          "id": "P625",
+          "name": null
+        }
+      ]
+    },
+    "columnInsertIndex": 12,
+    "description": "Extend data at index 12 based on column place_reconciled"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "place_reconciled",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P17",
+          "name": null
+        }
+      ]
+    },
+    "columnInsertIndex": 12,
+    "description": "Extend data at index 12 based on column place_reconciled"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country",
+    "index": 13,
+    "description": "Move column country to position 13"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "country",
+    "index": 14,
+    "description": "Move column country to position 14"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "country",
+    "newColumnName": "country_reconciled",
+    "description": "Rename column country to country_reconciled"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location",
+    "newColumnName": "coordinate_location",
+    "description": "Rename column coordinate location to coordinate_location"
+  }
+]

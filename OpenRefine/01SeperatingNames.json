@@ -1,0 +1,57 @@
+A
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column LINE by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "LINE 1",
+    "newColumnName": "Names",
+    "description": "Rename column LINE 1 to Names"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "LINE 2",
+    "newColumnName": "Working_Line",
+    "description": "Rename column LINE 2 to Working_Line"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "expression": "value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line using expression value.replace(\",\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "expression": "value.replace(\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line using expression value.replace(\".\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Working_Line",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Working_Line using expression value.trim()"
+  }
+]

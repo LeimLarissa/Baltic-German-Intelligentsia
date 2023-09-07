@@ -1,0 +1,160 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Names",
+    "expression": "grel:value.partition(\"Dr.\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "Name_Ac_Title",
+    "columnInsertIndex": 8,
+    "description": "Create column Name_Ac_Title at index 8 based on column Names using expression grel:value.partition(\"Dr.\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Name_Ac_Title",
+    "index": 7,
+    "description": "Move column Name_Ac_Title to position 7"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.replace(\"Dr.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.replace(\"Dr.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Names",
+    "expression": "grel:value.partition(\"Mag.\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "Mag",
+    "columnInsertIndex": 9,
+    "description": "Create column Mag at index 9 based on column Names using expression grel:value.partition(\"Mag.\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Mag",
+    "index": 8,
+    "description": "Move column Mag to position 8"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.replace(\"Mag.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.replace(\"Mag.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Names",
+    "expression": "grel:value.partition(\"Cand.\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "Cand",
+    "columnInsertIndex": 10,
+    "description": "Create column Cand at index 10 based on column Names using expression grel:value.partition(\"Cand.\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Cand",
+    "index": 9,
+    "description": "Move column Cand to position 9"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Name_Ac_Title",
+    "expression": "join ([cells['Name_Ac_Title'].value,cells['Mag'].value,cells['Cand'].value],'')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Name_Ac_Title using expression join ([cells['Name_Ac_Title'].value,cells['Mag'].value,cells['Cand'].value],'')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Mag",
+    "description": "Remove column Mag"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Cand",
+    "description": "Remove column Cand"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.replace(\"Cand.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.replace(\"Cand.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Names",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Names using expression value.trim()"
+  }
+]

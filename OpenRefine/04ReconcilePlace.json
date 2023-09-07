@@ -1,0 +1,1385 @@
+[
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "autoMatch": false,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column place_reconciled to type null"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Helsingfors",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1757",
+      "name": "Helsinki",
+      "types": [
+        "Q5119",
+        "Q515",
+        "Q200250",
+        "Q856076",
+        "Q51929311",
+        "Q1549591",
+        "Q2264924"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Helsinki (Q1757) for cells containing \"Helsingfors\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Dorpat",
+    "judgment": "matched",
+    "match": {
+      "id": "Q13972",
+      "name": "Tartu",
+      "types": [
+        "Q11881845",
+        "Q1187811",
+        "Q707813",
+        "Q50330360"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Tartu (Q13972) for cells containing \"Dorpat\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Moskau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q649",
+      "name": "Moscow",
+      "types": [
+        "Q4442912",
+        "Q183342",
+        "Q1549591",
+        "Q174844",
+        "Q51929311",
+        "Q5119",
+        "Q7930989",
+        "Q1637706",
+        "Q51929311",
+        "Q50330360",
+        "Q51929311",
+        "Q51929311",
+        "Q43263"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Moscow (Q649) for cells containing \"Moskau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Fellin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q44840",
+      "name": "Viljandi",
+      "types": [
+        "Q11881845",
+        "Q707813"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Viljandi (Q44840) for cells containing \"Fellin\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "St. Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"St. Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Werro",
+    "judgment": "matched",
+    "match": {
+      "id": "Q205271",
+      "name": "Võru",
+      "types": [
+        "Q11881845"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võru (Q205271) for cells containing \"Werro\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Reval",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1770",
+      "name": "Tallinn",
+      "types": [
+        "Q5119",
+        "Q707813",
+        "Q11881845",
+        "Q1549591",
+        "Q2264924",
+        "Q486972",
+        "Q1200957"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Tallinn (Q1770) for cells containing \"Reval\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wenden",
+    "judgment": "matched",
+    "match": {
+      "id": "Q107582",
+      "name": "Cēsis",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Cēsis (Q107582) for cells containing \"Wenden\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Brinckenhof",
+    "judgment": "matched",
+    "match": {
+      "id": "Q22117464",
+      "name": "Briņķi",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Briņķi (Q22117464) for cells containing \"Brinckenhof\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Raiküll",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2989862",
+      "name": "Raikküla",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Raikküla (Q2989862) for cells containing \"Raiküll\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kuckers",
+    "judgment": "matched",
+    "match": {
+      "id": "Q977259",
+      "name": "Kukruse",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kukruse (Q977259) for cells containing \"Kuckers\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Gotha",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6986",
+      "name": "Gotha",
+      "types": [
+        "Q42744322",
+        "Q134626"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Gotha (Q6986) for cells containing \"Gotha\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Marburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3869",
+      "name": "Marburg",
+      "types": [
+        "Q134626",
+        "Q1187811",
+        "Q1547289",
+        "Q3678424",
+        "Q42744322"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Marburg (Q3869) for cells containing \"Marburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Pest",
+    "judgment": "matched",
+    "match": {
+      "id": "Q210205",
+      "name": "Pest",
+      "types": [
+        "Q123705",
+        "Q22674925"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pest (Q210205) for cells containing \"Pest\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Halle",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2814",
+      "name": "Halle (Saale)",
+      "types": [
+        "Q42744322",
+        "Q1547289",
+        "Q1549591",
+        "Q707813",
+        "Q61708053",
+        "Q1187811"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Halle (Saale) (Q2814) for cells containing \"Halle\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Berlin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q64",
+      "name": "Berlin",
+      "types": [
+        "Q1901835",
+        "Q200250",
+        "Q15974307",
+        "Q707813",
+        "Q42744322",
+        "Q67123843",
+        "Q133442",
+        "Q114401982",
+        "Q51929311",
+        "Q1549591",
+        "Q5119",
+        "Q1221156",
+        "Q1637706",
+        "Q1307779"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Berlin (Q64) for cells containing \"Berlin\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kiel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1707",
+      "name": "Kiel",
+      "types": [
+        "Q42744322",
+        "Q1549591",
+        "Q707813",
+        "Q61856863",
+        "Q14784328"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kiel (Q1707) for cells containing \"Kiel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Heidelberg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2966",
+      "name": "Heidelberg",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Heidelberg (Q2966) for cells containing \"Heidelberg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Minsk",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2280",
+      "name": "Minsk",
+      "types": [
+        "Q5119",
+        "Q159438",
+        "Q14921981",
+        "Q10864048",
+        "Q7930989",
+        "Q1549591",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Minsk (Q2280) for cells containing \"Minsk\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Riga",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1773",
+      "name": "Riga",
+      "types": [
+        "Q5119",
+        "Q109329953",
+        "Q707813",
+        "Q1549591",
+        "Q15127838"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Riga (Q1773) for cells containing \"Riga\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Woisek",
+    "judgment": "matched",
+    "match": {
+      "id": "Q849030",
+      "name": "Võisiku",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võisiku (Q849030) for cells containing \"Woisek\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Haakhof bei Narva",
+    "judgment": "matched",
+    "match": {
+      "id": "Q16409363",
+      "name": "Aa Manor",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Aa Manor (Q16409363) for cells containing \"Haakhof bei Narva\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Narva",
+    "judgment": "matched",
+    "match": {
+      "id": "Q102158",
+      "name": "Narva",
+      "types": [
+        "Q11881845",
+        "Q902814"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Narva (Q102158) for cells containing \"Narva\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Oberpahlen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q642660",
+      "name": "Põltsamaa",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Põltsamaa (Q642660) for cells containing \"Oberpahlen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "St. Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"St. Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Odenpäh",
+    "judgment": "matched",
+    "match": {
+      "id": "Q339347",
+      "name": "Otepää",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Otepää (Q339347) for cells containing \"Odenpäh\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "St. Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"St. Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kiew",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1899",
+      "name": "Kyiv",
+      "types": [
+        "Q5119",
+        "Q51929311",
+        "Q7930989",
+        "Q1637706",
+        "Q1200957",
+        "Q12131624"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kyiv (Q1899) for cells containing \"Kiew\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wolmar",
+    "judgment": "matched",
+    "match": {
+      "id": "Q108037",
+      "name": "Valmiera",
+      "types": [
+        "Q109329953",
+        "Q707813",
+        "Q15127838"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Valmiera (Q108037) for cells containing \"Wolmar\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Turgel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q141796",
+      "name": "Türi",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Türi (Q141796) for cells containing \"Turgel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Weißenstein",
+    "judgment": "matched",
+    "match": {
+      "id": "Q45114",
+      "name": "Paide",
+      "types": [
+        "Q11881845"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Paide (Q45114) for cells containing \"Weißenstein\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Keusen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q657744",
+      "name": "Căușeni",
+      "types": [
+        "Q515"
+      ],
+      "score": 92
+    },
+    "shareNewTopics": false,
+    "description": "Match item Căușeni (Q657744) for cells containing \"Keusen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Petersburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q656",
+      "name": "Saint Petersburg",
+      "types": [
+        "Q183342",
+        "Q1549591",
+        "Q27554677",
+        "Q50330360",
+        "Q7930989",
+        "Q1637706",
+        "Q43263",
+        "Q4442912",
+        "Q50330360",
+        "Q51929311",
+        "Q1637706",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Saint Petersburg (Q656) for cells containing \"Petersburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rappel",
+    "judgment": "matched",
+    "match": {
+      "id": "Q215971",
+      "name": "Rapla",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Rapla (Q215971) for cells containing \"Rappel\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rathshof",
+    "judgment": "matched",
+    "match": {
+      "id": "Q985032",
+      "name": "Raadi",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Raadi (Q985032) for cells containing \"Rathshof\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Neuhausen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2981703",
+      "name": "Vastseliina",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Vastseliina (Q2981703) for cells containing \"Neuhausen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Rappin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1483558",
+      "name": "Räpina",
+      "types": [
+        "Q11881845",
+        "Q50809253"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Räpina (Q1483558) for cells containing \"Rappin\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Wendau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3468782",
+      "name": "Võnnu",
+      "types": [
+        "Q3744870"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Võnnu (Q3468782) for cells containing \"Wendau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Antzen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q154994",
+      "name": "Antsla",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Antsla (Q154994) for cells containing \"Antzen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Talkhof",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3477562",
+      "name": "Puurmani",
+      "types": [
+        "Q3744870"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Puurmani (Q3477562) for cells containing \"Talkhof\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Pajus",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3465378",
+      "name": "Pajusi",
+      "types": [
+        "Q51049922"
+      ],
+      "score": 91
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pajusi (Q3465378) for cells containing \"Pajus\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Straßburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6602",
+      "name": "Strasbourg",
+      "types": [
+        "Q484170",
+        "Q1549591",
+        "Q902814",
+        "Q57318"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Strasbourg (Q6602) for cells containing \"Straßburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Holssershof (Paistel)",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3466616",
+      "name": "Paistu",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Paistu (Q3466616) for cells containing \"Holssershof (Paistel)\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Mitau",
+    "judgment": "matched",
+    "match": {
+      "id": "Q179830",
+      "name": "Jelgava",
+      "types": [
+        "Q109329953",
+        "Q15127838"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Jelgava (Q179830) for cells containing \"Mitau\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Arensburg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q188179",
+      "name": "Kuressaare",
+      "types": [
+        "Q11881845"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kuressaare (Q188179) for cells containing \"Arensburg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Anseküll",
+    "judgment": "matched",
+    "match": {
+      "id": "Q12359332",
+      "name": "Anseküla Parish",
+      "types": [
+        "Q13358519"
+      ],
+      "score": 64
+    },
+    "shareNewTopics": false,
+    "description": "Match item Anseküla Parish (Q12359332) for cells containing \"Anseküll\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Tarwast",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3130504",
+      "name": "Tarvastu",
+      "types": [
+        "Q51049922"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Tarvastu (Q3130504) for cells containing \"Tarwast\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kasan",
+    "judgment": "matched",
+    "match": {
+      "id": "Q900",
+      "name": "Kazan",
+      "types": [
+        "Q51929311",
+        "Q51929311",
+        "Q50330360",
+        "Q56580032",
+        "Q7930989",
+        "Q1549591",
+        "Q1637706"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kazan (Q900) for cells containing \"Kasan\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Bekes Czaba",
+    "judgment": "matched",
+    "match": {
+      "id": "Q178878",
+      "name": "Békéscsaba",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Békéscsaba (Q178878) for cells containing \"Bekes Czaba\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Stockholm",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1754",
+      "name": "Stockholm",
+      "types": [
+        "Q515",
+        "Q1549591",
+        "Q707813",
+        "Q2264924",
+        "Q51929311",
+        "Q5119",
+        "Q486972"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Stockholm (Q1754) for cells containing \"Stockholm\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Göttingen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3033",
+      "name": "Göttingen",
+      "types": [
+        "Q1187811",
+        "Q42744322",
+        "Q1549591",
+        "Q253030",
+        "Q134626",
+        "Q707813",
+        "Q1780389"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Göttingen (Q3033) for cells containing \"Göttingen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Altona",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1630",
+      "name": "Altona",
+      "types": [
+        "Q278976",
+        "Q515",
+        "Q5283531"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Altona (Q1630) for cells containing \"Altona\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Bremen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q24879",
+      "name": "Bremen",
+      "types": [
+        "Q1187811",
+        "Q1549591",
+        "Q707813",
+        "Q42744322",
+        "Q85635638"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Bremen (Q24879) for cells containing \"Bremen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Leipzig",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2079",
+      "name": "Leipzig",
+      "types": [
+        "Q1549591",
+        "Q515",
+        "Q253030",
+        "Q42744322",
+        "Q61708099"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Leipzig (Q2079) for cells containing \"Leipzig\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Königsberg",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1829",
+      "name": "Kaliningrad",
+      "types": [
+        "Q12134916",
+        "Q7930989",
+        "Q1549591",
+        "Q56580425"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Kaliningrad (Q1829) for cells containing \"Königsberg\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Danzig",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1792",
+      "name": "Gdańsk",
+      "types": [
+        "Q1549591",
+        "Q2264924",
+        "Q707813",
+        "Q925381"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Gdańsk (Q1792) for cells containing \"Danzig\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Banteln bei Hannover",
+    "judgment": "matched",
+    "match": {
+      "id": "Q112937",
+      "name": "Banteln",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Banteln (Q112937) for cells containing \"Banteln bei Hannover\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Kopenhagen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1748",
+      "name": "Copenhagen",
+      "types": [
+        "Q5119",
+        "Q1549591",
+        "Q51929311",
+        "Q1392581"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Copenhagen (Q1748) for cells containing \"Kopenhagen\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Barnaul",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6014",
+      "name": "Barnaul",
+      "types": [
+        "Q7930989",
+        "Q1549591"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Barnaul (Q6014) for cells containing \"Barnaul\" in column place_reconciled"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "place_reconciled",
+    "similarValue": "Alt-Bornhusen",
+    "judgment": "matched",
+    "match": {
+      "id": "Q8324289",
+      "name": "Pornuse",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pornuse (Q8324289) for cells containing \"Alt-Bornhusen\" in column place_reconciled"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Geheimrath",
+                "l": "Geheimrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Akademiker",
+                "l": "Geheimrath, Akademiker"
+              }
+            },
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Coll-Assessor",
+                "l": "Coll-Assessor"
+              }
+            },
+            {
+              "v": {
+                "v": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten",
+                "l": "Geheimrath, Director des Haupt-Staatsarchivs des Ministerium der auswärtigen Angelegenheiten"
+              }
+            },
+            {
+              "v": {
+                "v": "Wirkl. Staatsrath",
+                "l": "Wirkl. Staatsrath"
+              }
+            },
+            {
+              "v": {
+                "v": "Hofmeister ",
+                "l": "Hofmeister "
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation_Rank",
+    "columnInsertIndex": 10,
+    "description": "Create column Occupation_Rank at index 10 based on column Occupation using expression grel:null"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Occupation",
+          "expression": "value",
+          "columnName": "Occupation",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kammerherr, Präsident der archäologischen Gesellschaft",
+                "l": "Kammerherr, Präsident der archäologischen Gesellschaft"
+              }
+            },
+            {
+              "v": {
+                "v": "Secretär der Kaiserl livl. oec. Societät",
+                "l": "Secretär der Kaiserl livl. oec. Societät"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation_Rank",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Ad_Society",
+    "columnInsertIndex": 11,
+    "description": "Create column Ad_Society at index 11 based on column Occupation_Rank using expression grel:null"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Occupation",
+    "expression": "grel:null",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation_General",
+    "columnInsertIndex": 10,
+    "description": "Create column Occupation_General at index 10 based on column Occupation using expression grel:null"
+  }
+]

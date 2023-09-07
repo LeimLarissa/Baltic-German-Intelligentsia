@@ -1,0 +1,664 @@
+<volume year='1880' number='4'> |||   DDDaaatttuuummm   nnneeeuuueeennn   SSStttyyyllleee...   
+<section type='beginning'> Still. 
+NNE. 
+ENE. 
+ESE. 
+SSE. 
+RReeggeenn  ooddeerr  SScchhnneeee--
+SSW. 
+SW. NNiieeddeerrsscchhllaagg..  
+WNW] 
+NW. 
+NNW. 
+Correlpondeiyblatt 
+des 
+Naturforscher - Vereins 
+zu Riga. 
+XXIII. Jahrgang. JV? 4. 
+Inhalt: Krönig-Clausius'sche Gastheorie. — Rigasche Schnellwage. — 
+Beiträge zur Schmetterlingsfauna. — Element von Trouve. — 
+Akustisches. — Nagelflue. — Fischtreppe. — Regenmenge 1877. 
+— Axolotl. — Verflüssigung der Gase. — Lichtmühle. — Rho­
+dens amarus. — Zugzeiten. — Flamme. — Meteorologische 
+Tabellen. 
+</section>\n
+<section type='monthlymeet'>
+Am 7. November 1877. 
+Krönig-Clausius'sche Gastheorie. Prof. Grönberg 
+recapitulirt das in der vorigen Sitzung Abgehandelte und 
+setzt seinen Vortrag über dieses Thema fort. 
+Aus dem interessanten Vortrage können nur einige der 
+wichtigsten Resultate unter Fortlassung ihrer mathematischen 
+Begründung angeführt werden. 
+Seit 1845, wo auch die Wärme, gleich Schall und Licht, 
+als eine Art Bewegung erkannt worden , gehört die Wärme­
+lehre zur Mechanik. Diese Brkenntniss gipfelt in dem Satze 
+von der Aequivalenz von Arbeit und Wärme, welchem Joule 
+durch seine classischen Arbeiten die allgemeinste Anerkennung 
+verschafft hat. Die Wärmeerscheinungen werden somit er­
+zeugt durch Bewegung, und zwar durch die Bewegung der 
+kleinsten Körpertheilchen (Molekeln): steigt die Temperatur 
+eines Körpers, so nimmt die Geschwindigkeit seiner Molekeln 
+zu; dieselbe nimmt ab, sobald die Temperatur des Körpers 
+sinkt. Welcher Art ist aber die Bewegung der Molekeln? 
+Krönig und Clausius haben fast gleichzeitig eine Hypothese 
+aufgestellt, die für die gasförmigen Körper am weitesten aus­
+gebaut ist. 
+Corr.-Bl. d. N.-V. XXIII. 4. 4 
+— 50 -
+Dieser Hypothese zufolge sind alle Körper als aus Mo­
+lekeln zusammengesetzt zu denken, die von einander durch 
+im Verhältnis zu ihrer eigenen Grösse sehr bedeutende Ent­
+fernungen getrennt sind und sich gegenseitig anziehen mit 
+einer Kraft (Cohäsion), die mit zunehmender Entfernung sehr 
+schnell an Stärke abnimmt. Da nun erfahrungsmässig bei den 
+Gasen die Cohäsion verschwindend klein ist, so dürften die 
+Molekeln bei ihrer Bewegung sich gegenseitig kaum beein­
+flussen, d. h. die Molekeln müssen sich gradlinig mit constanter 
+Geschwindigkeit bewegen. Eine Störung dieser Bewegung 
+wäre nur dann zu erwarten, sobald die Gastheilchen entweder 
+auf eine feste Wand (Gefässwand z. B.) oder auf einander 
+stossen: alsdann würden sie, als elastisch angenommen, nach 
+den bekannten Gesetzen des elastischen Stesses, abprallen, 
+um abermals gradlinig sich zu bewegen, bis ein neuer Zu-
+sammenstoss die Richtung und Geschwindigkeit ihrer Bewe­
+gung ändert. Für diesen steten Wechsel in der Bewegung 
+der hin- und herfahrenden Theilchen mussten die Gesetze 
+aufgesucht werden! Die Gesetzmässigkeit entsteht hier aber 
+erst durch die grosse Zahl der Stesse, denn je grösser diese 
+Anzahl ist, um so grösser wird die Wahrscheinlichkeit dafür, 
+dass unter allen möglichen Folgen eine einzige ganz be­stimmte eintrete, genau so, wie wenn sie unmittelbar durch 
+den Zwang eines festen Naturgesetzes, nicht aber durch das 
+Spiel zahlloser Zufälligkeiten hervorgebracht wäre. Von 
+diesem Gesichtspunkte aus (der ja auch in der modernen 
+Statistik so fruchtbringend gewesen) haben Clansius und der 
+Engländer Makwell mit Hilfe der Wahrscheinlichkeitsrechnung 
+die wahrscheinlichsten Beharrungszustände für Gase aus der 
+obigen Hypothese erschlossen und die überraschendste Ueber-
+einstimmung mit der Erfahrung gefunden. 
+Die Hypothese leistet aber noch mehr; sie gestattet nicht 
+blos scheinbar unabhängige Gesetze, wie sie die Erfahrung 
+liefert (z. B. das Mariotte'sche, das Daltonische Gesetz, 
+die Avogadro'sche Regel etc.), in ihrer gegenseitigen Ab­
+hängigkeit zu erfassen, —- sondern sie lässt neue Gesetz­
+mässigkeiten erschlossen, die, wenn sie durch die Erfahrung 
+bestätigt werden, den besten Beweis für die Fruchtbarkeit 
+und somit Berechtigung der Hypothese abgeben. Und da­
+für giebt die Lehre von der sogenannten inneren Reibung 
+— 51 — 
+der Gase Belege! Zum Schiusa mögen, um ein Bild von dem 
+Zustande eines Gases bei 0° C. und 760mm Quecksilberdruck 
+zu geben, einige Resultate der modernen Gastheorie angeführt 
+werden. Die Geschwindigkeit, mit der sich die Gasmolekeln 
+gradlinig fortbewegen, ist: 
+bei Wasserstoff 1844 Meter pr. See.) ~ 
+Stickstoff 492 0» C. 760-
+"c"""" Quecksilberdruck.
+„ bauerston 461 „ „ „ ) 
+Bei Luft fänden dann 4700 Mill. Zusammenstösse pro 
+Secunde statt; d. h. 100,000 Mal mehr als die Schwingungen, 
+welche dem höchsten hörbaren Tone entsprechen. 
+Die mittlere Entfernung zweier Nachbarmolekeln beträgt 
+3 bis 4 Milliontel-Millimeter; die Anzahl der Molekeln in 
+einem Kubikcentimeter beträgt 21 Trillionen und auf ein 
+Gramm gehen 10,000 Trillionen Luftmolekeln. Sind diese 
+letzten Zahlen auch nicht als absolut sicher zu nehmen, so 
+bieten sie neue Ausgangspunkte für Spekulationen. 
+Am 21. November 1877. 
+Naturalien gingen ein: 
+ein Löffelreiher (Platalea leueorodia), vom Seilermeister 
+Berg, welcher diesen hier sehr seltenen Vogel zu 
+Ende Getober dieses Jahres bei der Alexanderpforte 
+geschossen hat; 
+ein Steinadler (Aquila chrysaetos), aus Lennewarden von 
+A. v. Wulf. 
+Rigasche Schnellwage. Director Schweder legt 
+eine von den in Riga viel gebrauchten Schnellwagen vor, 
+welche vor mehreren Jahren von dem hiesigen Mechaniker 
+Steuwer erfunden worden ist und daher wohl den Namen 
+der Rigaschcn Schnellwage führen darf. In den Lehrbüchern 
+der Physik und Mechanik hat Schweder diese Wage bisher 
+nicht erwähnt gefunden. Die Eigentümlichkeit derselben 
+besteht darin, dass der Aufhängepunkt des Wagebalkens und 
+der Aufhängepunkt der Last wie bei der römischen Schnell­
+wage einen constanten Abstand haben. Sie sind an einer 
+gemeinsamen Hülse angebracht, durch welche der am Ende 
+verdickte, sonst gleichmässige Wagebalken verschiebbar ist. 
+Ein Laufgewicht ist also nicht vorhanden. Im Gegensatz zu der 
+dänischen Schnellwage, welche hier Besmer genannt wird, 
+4* 
+— 52 — 
+ist die Eintheilung des Wagebalkens für gleiche Gewichtszu­
+nahmen eine gleichmässige, was durch Aufstellung der Mo­
+mentengleichung bewiesen wird. Bezeichnet man die zu 
+wiegende Last mit P, den Abstand der beiden Schneiden mit 
+b, das Gewicht des verschiebbaren Wagebalkens mit Q, den 
+Abstand seines Schwerpunktes vom Unterstützungspunkt 
+mit x, so hat man 
+Q. x =. P. b. 
+Da hier Q und b constant sind, so müssen offenbar x u. P 
+sich in gleichem Verhältnis ändern, so dass also für gleiche 
+Gewichtszunahmen auch x um gleiche Grössen wachsen muss. 
+Für x — b wird P == Q, woraus sich ergiebt, wie gross man 
+je nach der Bestimmung der Wage bei ihrer Anfertigung den 
+Abstand b zu nehmen hat. 
+Beitrag zur Schmetterlingsfauna. Kreislehrer Tei ch 
+bemerkt, dass noch im Jahre 1840 nach der Pastorin Lienig 
+nur 1290 Schmetterlingsarten bekannt waren, dass die Zahl 
+derselben 1870 nach Nolcken's Fauna auf 1674 stieg, welche 
+in den letzten Jahren sich noch bis 1758 vermehrte. Dieser 
+Zahl kann Teich jetzt noch 8 neue Arten hinzufügen: 
+1) Acronycta abscondita Tn., am 22. Mai an einer Birke 
+hinter dem Lagerplatz gefunden. 
+2) Agrostis recussa. Hb. 
+3) Tapinostola elymi. Tn. 
+4) Galamia phragmitides. Hb. 
+5) Caradrina Seiini. B. 
+6) Mesogona oxalina. Hb. 
+7) Orrhodia subspadicea. Stgr. 
+8) Penthina pyrolana. Wck. 
+Teich erbietet sich, von den genannten Schmetterlingen 
+Exemplare für die Vereinssammlung abzugeben. 
+Dr. Bosse theilt mit, dass er einige der genannten Spe­
+eles ebenfalls gefangen habe. 
+Telephon. Lehrer Saweljew zeigt ein ihm von 
+Hrn. Kroepsch zur Verfügung gestelltes Telephon vor und 
+erklärt den physikalischen Vorgang. Es werden von den An­
+wesenden erfolgreiche Versuche mit dem Telephon angestellt. 
+Akustische Sand- u. Staubfiguren. Director Schwe­der stellt darauf bezügliche Experimente an. 
+— 53 — 
+Am 16. Januar 1878. 
+Element von Trouvd. Lehrer Saweljew spricht über 
+das galvanische Element von Trouvd, welches den Vorzug 
+leichter Transportfähigkeit mit grosser elektromotorischer 
+Kraft und Constanz vereinigt. Es besteht ähnlich dem alten 
+Volta'schen Element aus einer Kupfer- und Zinkplatte, zwi­
+schen welchen sich Tuchscheiben befinden, die zum Theil mit 
+einer Lösung von Kupfervitriol, zum Theil mit einer solchen von 
+Zinkvitriol getränkt sind; die erstere liegt an der Kupfer­
+platte, die andere an der Zinkplatte. Durch hermetischen 
+Verschluss ist die Verdunstung verhindert. Solch ein Element 
+kann Monate lang wirksam und ausser Thätigkeit Jahre hin­
+durch wirkungsfähig bleiben. 
+Telephon. Lehrer Saweljew zeigt ferner die Wir­kung elektrischer Ströme auf das Telephon. Bei schnell auf­
+einanderfolgenden Unterbrechungen und Schliessungen des 
+Stromes hörte man deutlich das Knistern der Metallplatte, so 
+dass man dies bei der Telephonie als Signal benutzen könnte. 
+Selbst der schwache Strom, wie ihn ein Plattenpaar von 
+Kupfer und Zink liefert, liess bei genähertem Ohr dasselbe 
+Geräusch hören. 
+Akustik. Director Schweder führte eine Reihe aku- * 
+stischer Experimente zur Erläuterung der wichtigsten Sätze 
+aus der Lehre vom Schall vor. 
+Am 28. Januar 1878. 
+Nagelflue. Veranlasst durch die Mittheilung des 
+Maklers Bockslaff, dass er in Martzen im Aronthale (Ncben-
+fluss der Düna) eine Felswand gefunden, welche ihm der 
+Nagelflue ähnlich erschienen, giebt Oberlehrer Gottfriedt 
+eine genaue Beschreibung dieser Gesteinsart und führt an, 
+dass dieselbe besonders in der Schweiz häufig auftrete und 
+dort in mächtigen, oft Tausende von Fussen hohen Felsen 
+und Schichten die Molasse durchsetze. Die Nagelflue ist ein 
+Conglomerat von meist abgerundeten Gesteinsfragmenten ver­
+schiedenster Art und unterscheidet sich von allen übrigen 
+dadurch, dass die Bindemasse nicht thonig oder kieselig, son­
+dern kalkig ist und mit Säuren aufbraust. Die Consistenz 
+der Nagelflue ist sehr verschieden. Bei den meisten ver­
+— 54 — 
+wittert die Bindemasse leicht und die einzelnen Conglomerate 
+werden dadurch lose. Ihren Namen hat die Nagelflue daher, 
+dass die an der Felswand klosgelegten kleinen, runden Stein, 
+chen mit den Köpfen eingeschlagener Nägel Aehnlichkeit 
+haben. Die Nagelflue gehöre durchaus den Tertiärgebilden 
+an, daher dürfe man dem Felsen bei Martzen diesen Namen 
+nicht geben. — Ein Stück Nagelflue vom Rigi wird der Ver­
+sammlung vorgelegt. 
+Fischtreppe. Director Schweder berichtet über eine 
+im Jahre 1876 an dem Wasserfall der Narowa angelegte 
+Lachstreppe, die den Zweck hat, den Lachsen die Möglichkeit 
+zu geben, neben dem 20 Fuss hohen Wasserfall in den Peipus 
+zu gelangen. Diese von Herrn Knoop mit bedeutenden Kosten 
+hergestellte Fischtreppe besteht aus 17 vierkantigen Behältern, 
+die stufenförmig einer über dem andern angebracht sind, so 
+dass das durchfliegende Wasser in kleinen Cascaden von 
+einem Kasten zum andern herabfällt. Die Kasten sind theils 
+gemauert, theils von Holz und von verschiedener Ausdehnung, 
+der unterste 7 Fuss, der oberste 22 Fuss lang. Der Niveau­
+unterschied zwischen zwei benachbarten Kasten beträgt etwa 
+14 Zoll. Diese kleinen Absätze sollen nun von den Fischen 
+nacheinander ersprungen werden. Damit sie sich auf den 
+einzelnen Stufen etwas erholen können, ist die Strömung da­
+durch gemässigt, dass das Wasser aus einem Kasten in den 
+andern im Zickzack durch in den Ecken angebrachte Oeff-
+nungen fliesst. 
+Regenmenge des Jahres 1877. Cand. Behrmann 
+giebt eine vergleichende Uebersicht der Regenmessungen, 
+welche im J. 1877 in und bei Riga angestellt wurden. Es 
+lagen von 4 Stationen vollständige Beobachtungen vor, 
+und zwar von Thüringshof: Beob. Agronom L. Taube, Po-
+deraa: Beob. der Vortragende, Alexandershöhe: Beob. Dr. Ge-hewe, und die Beobachtungen der meteorologischen Station 
+in Riga im Stadtgymnasium. Die 3 erstgenannten Stationen 
+liegen in fast süd-nördlicher Richtung in einer Entfernung 
+von 3 resp. 9 Werst Luftlinie, während wiederum die mittlere 
+Station Poderaa in nordwestlicher Richtung 3 Werst von der 
+meteorologischen Station in Riga entfernt ist. Die absolute 
+Regenmenge (incl. Schnee) betrug auf den verschiedenen Sta­
+— 55 — 
+tionen in obiger Reihenfolge 488,es"""; 421,6mm; 432,3mm; 448,5mm; 
+im Mittel also 447,76 (20-jähriges Mittel = 450""°). Der Haupt­
+regenmonat war in diesem Jahre ausnahmsweise der Juli mit 
+87,o; 72,s; 75,4 und 82,4mm; im Mittel also mit 79,4mra, während 
+das Minimum der Niederschläge auf den April fiel mit 2,9; 
+3,os; 5,6 und 3,5mm; im Mittel also mit 3,76mm. Das Tages-Ma-
+ximum fiel für Thüringshof auf den 2. Juli mit 28,7mm; für die 
+übrigen Stationen auf den 4 Juli mit 14,2; 15,i und l7,9mm. 
+Schliesslich glaubt Redner auf eine Eigenthümlichkeit in den 
+zusammengestellten Beobachtungszahlen aufmerksam machen 
+zu müssen, die, weil zu häufig wiederkehrend, keine zufällige 
+sein dürfte. Die Zahlen der drei Süd-Nord-Stationen zeigen 
+nämlich häufig, an aufeinanderfolgenden Tagen, eine Abnahme 
+oder Zunahme. Redner glaubt dies mit der Windrichtung in 
+Zusammenhang bringen zu dürfen und ersucht die Herren 
+Beobachter, auch möglichst Windrichtung und Wolkenzug no-
+tiren zu wollen. 
+Die Regenvertheilung war ferner für die verschiedenen 
+Stationen und Monate graphisch dargestellt, wodurch eine 
+sehr bequeme und leichte Uebersicht erreicht war. 
+Der Jahresbericht der meteorologischen Station 
+wird von Oberlehrer Gottfriedt vorgetragen. 
+Axolotl. Director Schweder theilt mit, dass die Um­wandlung des Axolotl in ein lungenathmendes Thier, welche 
+zuerst 1864 von Dumeril in Paris beobachtet wurde, neuer­
+dings auch in der Zucht des Fräuleins Chauvin in Freiburg, 
+sowie auch Herrn Prof. Weissmann gelungen ist. Nach den 
+letztgenannten Beobachtern ist feuchte Luft für diese Um­
+wandlung besonders nothwendig und glaubt Prof. Weissmann, 
+dass die grosse Trockenheit in Mexico, der Heimath des Axo­
+lotl, der Grund sei, dass dort das Thier im Larvenzustande 
+verbleibt. 
+Am 6. Februar 1878. 
+Verflüssigung der Gase. Dr. Albrecht hält einen 
+Vortrag über das Ueberführen der sogen, permanenten Gase 
+in den tropfbar flüssigen Zustand. Nachdem Redner einleitend 
+die bereits durch Davy und Faraday ausgeführte Verdichtung 
+verschiedener Gase, wie des Cyans, des Schwefelwasserstoffs, 
+— 56 — 
+des Chlors, des Ammoniaks u. s. w., berührt und des von 
+Natterer hergestellten grösseren Apparats zur Verdichtung 
+der Kohlensäure erwähnt, geht derselbe zur Darlegung der 
+in jüngster Zeit durch Caillctet und Pictet zur Anwendung 
+gebrachten Verdichtungsmethoden über. 
+Am 5. December 1877 trat Caillctet mit seinen Ergeb­
+nissen vor die Pariser Akademie. Es war ihm gelungen, das 
+Acetylen zu Tröpfchen zu verdichten, indem er in einer sehr 
+dickwandigen Glasröhre von geringem lichten Durchmesser 
+das Gas dem Druck einer hydraulischen Presse aussetzte. 
+Das Acetylen wurde flüssig bei: 
+10 C. und 48 Atmosphären Druck. 
+^°nn5(3„„
+10° „ „ 63 
+25° „ „ 94 „ „ 
+31° „ „ 103 „ 
+Aethyl Wasserstoff wurde flüssig bei 4° C. und einem Druck 
+von 46 Atm. 
+Bald gelang es Caillctet, auch das Stickoxydgas bei 
+—• 11° C. und einem Druck von 104 Atm. flüssig zu machen, 
+während dasselbe bei + 8° selbst unter dem Druck von 270 
+Atmosphären noch gasförmig blieb. Sauerstoff und Kohlen-
+oxydgas blieben bei — 290° C. (?) und einem Druck von 
+300 Atm. noch gasförmig, bildeten aber sofort einen dicken 
+Nebel, als durch plötzliche Ausdehnung die Temperatur noch 
+weiter erniedrigt wurde. 
+Stickstoff, bei 13° C. und 200 Atm. comprimirt und dann 
+plötzlich ausgedehnt, verdichtete sich zu kleinen Tröpfchen. 
+Wasserstoff verdichtete sich bei 280 Atm. und plötzlicher 
+Ausdehnung zu einem feinen Nebel. 
+Luft, von Kohlensäure befreit, bei 200 Atm. und durch 
+Stickoxydul erkältet, wurde in sehr bewegliche Tröpfchen 
+verflüssigt. Bei 300 Atm. bedeckte sich die Oberfläche des 
+gefrorenen Quecksilbers mit Reif, welcher also aus gefrorener 
+Luft bestand. 
+Während Caillctet mit seinem Apparat den Sauerstoff und 
+Wasserstoff nur zu Nebeln verdichten konnte, ist es Pictet 
+in Genf durch Anwendung grossartigerer Apparate gelungen, 
+beide Gase in deutlich sichtbare und messbare Flüssigkeits­
+mengen umzuwandeln und auch mit grosser Wahrscheinlichkeit 
+- 57 -
+das Festwerden beider Gase zu constatiren. Er entwickelte 
+den Sauerstoff durch Erhitzen von chlorsaurem Kali mit Va 
+Chlorcalium in einer sehr stark wandigen schmiedeeisernen 
+Retorte, an welche ein 5 Meter langes dickwandiges Kupfer­
+rohr angesetzt war, welches, ein wenig abwärts geneigt, am 
+Ende durch einen Hahn geschlossen wurde. Dieses Rohr 
+war von einem mit flüssiger Kohlensäure gefüllten Kühlrohr 
+umgeben. Durch eine sinnreiche Vorrichtung wurde eine 
+energische Verdunstung der flüssigen Kohlensäure und immer­
+währende Erneuerung derselben bewirkt. Nachdem hierdurch 
+eine Kälte von — 140° C. in dem Kühlrohr erzeugt war, 
+wurde die Retorte erhitzt und damit die Sauerstoffentwickelung 
+eingeleitet. Der Druck stieg auf 500 Atm., dann fiel er und 
+blieb bei 320 Atm. stehen. Als der Hahn geöffnet wurde, 
+sah man einen Strahl mit solcher Heftigkeit entweichen, dass 
+man die Flüssigkeit nicht auffangen konnte. Der Strahl wurde 
+durch elektrisches Licht beleuchtet und zeigte sich, wenn man 
+ihn rechtwinklig zu den einfallenden Strahlen durch einen Nicol 
+betrachtete, stark polarisirt, was wahrscheinlich durch kleine 
+im Strahl enthaltene Sauerstoffkrystalle hervorgebracht wird. 
+Am 10. Januar 1878 unterwarf er den Wasserstoff der 
+Kondensation mit demselben Erfolge. 
+Aenderung eines Flusslaufes. Agronom L. Taube 
+referirt über einen Vortrag von Tschernig, die Aenderung 
+im Laufe des Isonzo betreffend. Zugleich legt er drei Karten 
+vor, die eine aus der Römerzeit, die zweite aus dem Mittel­
+alter und die dritte für die Gegenwart, und demonstrirt an 
+denselben die eingetretenen Veränderungen, welche zum Theil 
+auf eine 585 nach Christo eingetretene grosse Ueberschwem-
+mung zurückgeführt werden. 
+Fischtreppe. Dr. Buhse legt Abbildungen von Lachs­treppen aus England und Schottland zur Ansicht vor. 
+Dr. Gehewe theilt ein Schreiben aus Krähenholm mit, 
+wonach die Fischtreppe an der Narowa von den Lachsen nicht 
+benutzt werden soll. 
+Lichtmühle. Lehrer Saweljew theilt mit, dass bei 
+der Lichtmühle folgender Versuch gelungen sei. Sind die 
+Flügel aus magnetisirtem Stahl gemacht und werden dieselben, 
+nachdem der Apparat im Wasser zum Schwimmen gebracht 
+ist, durch einen Magneten fixirt, so dreht sich das gläserne 
+— 58 — 
+Gehäuse bei der Bestrahlung im entgegengesetzten Sinne, als 
+sich sonst die Flügel drehen würden, was vollständig dem 
+Gesetz der Action und Reaction entspricht. 
+Am 20. Februar 1878. 
+Rhodens amarus. Realschulinspector Berg machte 
+Mittheilungen über den Bitterling (Rhodens amarus Bl.), diese 
+kleinste Karpfenart, welche, in Europa weit verbreitet, in Liv-
+land bisher doch nur in der Düna beobachtet ist. Ein Exemplar 
+aus der Düna wurde dem Verein kürzlich durch den Director 
+Schweder übergeben. Ausser der Laichzeit sind beide Ge­
+schlechter gleich gefärbt, mit graugrünem Rücken und silber­
+glänzenden Seiten. Bezeichnend ist ein grüner glänzender 
+Streifen zu beiden Seiten des Leibes. Im Hochzeitkleide 
+schillert das Männchen in Regenbogenfarben, an Bauch und 
+Brust orangegelb. Nach Brehm verändert sich auch die Haut 
+der Oberlippe, es erhebt sich im Oberkiefer eine Wulst, aus 
+8—13 kreideweissen Warzen bestehend, 2 bis 3 auch am 
+oberen Augenrande. Es sind aneinandergedrängte Ober­
+hautzellen. Die Weibchen haben, worauf zuerst Krauss hin­
+weist, eine lange röthliche Legeröhre, bei 2 Zoll langen 
+Fischen gewöhnlich 4 — 8 Linien lang. Brehm hat diese Röhre 
+bei grösseren Thieren auch IV2—2 Zoll lang gefunden. Sie­
+bold bemerkte auf dem Strassburger Fischmarkt diese Lege­
+röhre perlschnurartig mit Eiern gefüllt. Siebold fand im 
+Darm dieser Fische nur Algen, indessen nahmen die Bitter­
+linge auch thierische Nahrung zu sich. Die Vermehrung ist 
+nicht stark, die Eier aber sind verhältnismässig gross. 
+Nach Dr. Noll — in einer Abhandlung: „Bitterling und 
+Malermuschel" 1869 — legt das Weibchen des Bitterlings 
+mittelst der Legeröhre seine Eier lebenden Muscheln in die 
+Kiemen, in deren Fächern sich die jungen Fische entwickeln, 
+bis sie durch die Auswurfscanäle der Muscheln freigelassen 
+werden. Dr. Noll hat 1876 werthvolle Beobachtungen an 
+einem Aquarium gemacht, welches etwa 15 Liter Wasser 
+enthielt, am Boden erst 3Vs Centim. hoch mit Lehm, dann 
+IV2 Centim. mit grobem Sand gefüllt war, in welchem Valis-
+neria spiralis wuchs. Die Bitterlinge zeigten sich hier mehr 
+— 59 — 
+als nächtliche Thicre, welche besonders Abends spielten und 
+einander jagten. Gefüttert wurden sie meist mit Brod­
+krümelchen, welche auf das Wasser gestreut wurden; sie er­
+hielten aber auch rohes, in feine Splitterchen zerschnittenes 
+getrocknetes Rindfleisch und Ameiseneier. Zur Laichzeit im 
+Frühling wurden sie auch mit Daphia pulex gefüttert; rothe 
+Bachwürmer, Tubifex rivulorum, holen sich die Bitterlinge 
+selbst aus dem Schlamm. 
+Die Brunstzeit beginnt im Zimmer bereits im Januar und 
+tritt dann auch die Legeröhre hervor. Sie behält nach Körner 
+etwa 30 Tage die Länge von 5mm, wächst dann aber in 48 
+Stunden zu 20mm Länge. Am 16. April 1876 reichte die Lege­
+röhre bis zur Schwanzflosse, am 18. April über den Saum 
+derselben. Da wurden Anodonta intermedia und Unio pictorum 
+hineingelegt, welche sich bald eingruben. Bald drängten sich 
+die Fische an die Unio heran. Das Weibchen suchte am 
+18. und 19. April Eier — gelb und3mm im Durchmesser — hin­
+einzulegen, worauf das Männchen die Muschel mit einer 
+wasserhellen Flüssigkeit übergoss. Am ersten Mai hatte das 
+Weibchen wieder eine lange Legeröhre und diesmal gelang 
+auch der Legeversuch. Dies wiederholte sich am 9. und 16. 
+Mai. Leider war das Männchen in der Nacht aus dem 
+Aquarium gesprungen und umgekommen. Nach der Laichzeit 
+fand Noll in der Anodonta keine Eier. — Am 1. und 2. Juni 
+lagen entwickelte Embryonen, welche auch schon Augen hatten, 
+nahe bei der Muschel, welche in ihrer Ruhe gestört war. 
+Zugzeiten. Inspector Berg theilt mit, dass im mittlem 
+Livland, Lipskaln, nach den Beobachtungen von Oscar von 
+Löwis im Jahre 1877 die Zugvögel sich bedeutend verspätet 
+haben: 
+1877. in früheren Jahren. 
+Dohle 13. März 1. März 
+Feldlerche .... 16. „ 5. „ 
+Staar 17. „ 8. „ 
+Haidelerche .... 20. „ 10. „ 
+Wachholderdrossel .21. „ 10. „ 
+Hänfling 22. „ 8. „ 
+Buchfink 26. „ 21. „ 
+Singdrossel .... 27. „ 24. „ 
+— 60 — 
+1877. in früheren Jahren. 
+Weindrossel und Ente 31. März 25. März 
+Thurmfalk .... 31.»26.
+Kraniche 2. April 26. » 
+Becassine 6. r> 28. # r> 
+Storch 8. » 3. April 
+Waldschnepfe . . . 11. n 30. März. 
+Ueber Geruchsorgane und Geruchscntwickler bei 
+den Schmetterlingen machte Dr. Bosse einige vorläufige Mit­
+theilungen. 
+Am 20. März 1878. 
+Mitglieder. Zu ordentlichen Mitgliedern wurden auf­genommen die Herren: Polyteehniker Chaudoir und Apotheker 
+Theodor Anspach. 
+An Naturalien waren eingegangen von Herrn v. Löwis 
+ein Sägetaucher(Merguscastor),durch Inspector Bergaus
+Kurland Zapfen von Abies excelsa, deren Schuppen zurück­
+gebogen sind, eine Eigenthümlichkeit, die sich auch bei allen 
+übrigen am Baum befindlichen Zapfen gezeigt hat. Der 
+Präses macht die Mittheilung, dass Architekt Pflug dem 
+Verein eine junge Ringelrobbe übergeben habe, die lebend im 
+Eiskeller des Dubbelnschen Actienhauses gefunden worden ist. 
+Die Flamme. Oberlehrer Gottfriedt hält einen durch 
+zahlreiche schöne Experimente veranschaulichten Vortrag über 
+die Haupteigenschaften der Flamme. Redner definirt die 
+Flamme als einen bis zum Glühen erhitzten luftförmigen Körper 
+und erklärt sodann die Entstehung der Flamme. Soll ein 
+entzündlicher Körper verbrennen, so muss er über die Tem­
+peratur erhitzt werden, wo die Verwandtschaft wach wird. 
+Ist ein Körper feuerfest und im Sauerstoff verbrennlich, so 
+giebt er nur einen Funken, wie Eisen, Nickel und Kohle; ver­
+dampft er dagegen unterhalb der Entzündungstemperatur, so 
+erhält man eine Flamme, gleichviel ob der Körper fest oder 
+flüssig ist. Redner zeigt es exerimentell an Magnesium, Zink, 
+Parafin, Schwefel, Colophon etc. Das Brennen der Flamme, 
+die gegen das Ende hin spitz ist und die Form des Gasstromes 
+annimmt, ist an Luftzutritt gebunden. Verbrennungsproducte 
+— 61 — 
+müssen ab- und neuer Sauerstoff zugeleitet werden. Das Ver­
+brennen findet nur an der Berührungsfläche des Gases und 
+der Luft statt. Das Innere der Flamme ist kalt, so dass 
+Pulver dort nicht entzündet wird. Redner zeigt ferner die 
+umgekehrte Verbrennung: Sauerstoffgas in einer Wasserstoff­
+atmosphäre. 
+Geht die Wärme unter die Entzündungstemperatur, so 
+erlischt die Flamme. Leicht entzündliche Körper sind daher 
+durch Ausblasen schwer zu löschen. 
+An jeder Lichtflamme unterscheidet man vier Theile-
+1) Den dunklen inneren Kern; er enthält unverbranntes Gas, 
+das durch die Hitze des Dochtes sich entwickelt und keine 
+grosse Wärme besitzt. Wird die Flamme durch ein Draht­
+gewebe abgeschnitten, so erscheint der abgekühlte Theil als 
+Rauch und lässt sich entzünden. 2) Die den Kern umgebende, 
+stark leuchtende Hülle enthält Russ und ist undurchsichtig. 
+Von den aus dem Kern ausgeschiedenen Gasen verbrennt 
+hier vorzugsweise der Wasserstoff, während der Kohlenstoff 
+in glühendem Zustande ausgeschieden wird und das Leuchten 
+der Flamme bewirkt. Ist der Luftzutritt zu gering, so russt 
+die Flamme. 3) Der ausgeschiedene Kohlenstoff verbrennt 
+endlich in dem sogenannten Schleier zu Kohlensäure. Der 
+Schleier bildet eine dünne Hülle und ist der heisseste Theil der 
+Flamme, während die Leuchtkraft recht gering ist. 4) Die 
+blaue Zone. In derselben befindet sich viel Luft. 
+Ferner erklärt der Vortragende die Einrichtung des 
+Bunsen'schen Brenners und des Knallgasgebläses. Glühende 
+Gase leuchten wenig wegen geringer Masse, sind aber sehr 
+heiss; die festen Körper geben die Helligkeit. 
+Zum Schluss zeigt Redner die verschiedenen Farben der 
+Flammen von Wasserstoffgas, Cyangas, Cyaneisen und mehreren 
+Metallen, deren Flammen sich ganz besonders durch schöne 
+Färbung auszeichnen. 
+Libau in Kurland. Jahr 1876. Beobachter E. Qu aas. 
+?+
+o 
+Jahres­ '3|  R. S. Winde. N. NE. E. SE. S. SW. W. NW. 
+zeiten. -°.6 (h 
+äg 
+29 
+Winter 
+1875/76 61,8 - 5,0 6,9 70,0 8 22 1 15 Häufigkt. 10 11 20 81 23 15 69 25 19 — 
+M. Stärke 4 3 3 4 4 5 5 4 
+Frühling 56,1 + 4,3 6,6 81,0 15 24 4 21 Häufigkt. 
+11 24 23 33 15 33 80 29 28 
+— 
+M. Stärke 4 4 3 3 5 5 4 4 
+Sommer 59,7 + 18,0 3,9 90,2 29 9 7 Häufigkt. 22 40 26 15 10 25 63 38 
+37 
+-—
+M. Stärke 5 5 4 5 5 6 5 6 
+Herbst 59,4 + 5,7 6,0 323,5 41 11 8 10 1 
+Häufigkt. 8 15 27 44 63 39 48 13 16 
+M.Stärke 6 5 5 5 6 7 7 7 
+Met. Jahr 59,35 + 5,7 5,87 564,7 93 57 13 55 8 Häufigkt. 
+51 90 96 173 110 112 260 105 100 
+M. Stärke 5 4,2 3,6 4,5 5 5,3 4,8 5 
+' 
+Thermom. 
+nach Cels. 
+l 
+Bewölkung. 
+Niederschlag 
+Mm. 
+Graupeln. 
+Nebel. 
+Gewitter. 
+— 63 — 
+</section>
+<section type='table'> Station Riga. Monat Mai 1877. 
+Mi 11 e 1 w e r4 h e. Lufttemp.Wasser­stand.
+ä 
+'S 
+od 
+700 mm 
+Cels. + % 0—10 0—10 Cels. Cels. R—s mm. engl. Fuss. 
+1+4.653.676 NNW210+7.8+2.76.03.75
+2+4.257.759 NNW12+10.0—0.95.94.15
+3+2.858.462 N.35+10.0+1.25.83.95
+4+2.255.664 NW.32+3.2—2.35.84.15
+5+3.755.668 SW.45+7.2-2.6s.0.45.84.2
+6+2.354.879 NNW18+9.6—0.1 S.5.64.0
+7+5.056.658 SW.12+9.6—0.65.64.15
+8+8.861.056 SW.13+14.0+0.45.74.1
+9 +13.1 60.5 47 SE. 2 8 +16.8 + 2.3 1.4 5.5 3.9 
+10 + 9.9 52.0 90 ENE. 1 10 +13.2 + 7.3 R. 5.7 5.7 4.05 
+11 + 9.7 45.4 88 SW. 2 10 +13.6 + 8.0 R. 0.9 5.9 4.45 
+12 + 6.6 53.5 75 SW. 2 8 + 9.4 + 3.9 R. 0.3 6.1 4.5 
+13 + 9.1 57.5 74 NE. 1 5 4-15.6 4- 3.6 5.6 3.85 
+14 +13.0 51.9 83 S. 2 10 +17.6 4-10.2 R. 17.7 5.4 3.9 
+15 +1 4.9 56.1 68 SW. 1 6 +20.3 + 6.8 R. 5.8 4.25 
+16 +14.3 58.9 75 N. 1 6 +21.0 + 6 8 R. 1.8 6.0 4.2 
+17 + 6.7 59.2 91 NNW 6 10 +10.4 + 4.6 R. 8.3 6.2 4.45 
+18 + 5.2 60.8 88 NNW 4 7 + 7.1 + 4.3 R. 6.0 4.1 
+19 + 6.8 59.0 77 N. 3 8 +11.0 4- 3.4 5.9 3.95 
+20 + 9.7 55.6 80 NE. 4 9 4-12.4 4- 4.5 5.6 3.35 
+21 +10.6 56.4 70 NE. 4 10 4-14.4 4- 6.7 R. 5.9 5.6 3.55 
+22 + 8.6 58.2 60 N. 5 3 4-n.o + 4.8 6.2 4.0 
+23 + 7.8 61.3 51 NE. 4 1 +10.8 + 3.6 5.8 3.8 
+24 + 3.8 64.8 51 NE. ti 5 + 6.4 + 0.1 5.7 3.65 
+25 + 3.4 61.7 53 NW. 1 4 4" 7.4 — 0.2 5.6 3.6 
+26 + 8.7 60.5 46 SW. 2 1 +11.8 — 1.0 5.6 3.5 
+27 + 9.7 56.0 62 SW. 2 5 4-15.2 + 5.6 R. 1.6 5.5 3.95 
+28 + 9.8 56.3 78 s. 3 7 +14.0 + 2.2 R. 5.6 3.9 
+29 +17.7 53.6 64 s. 6 7 +23.8 +15.2 R. 2.2 5.2 3.85 
+30 +17.4 54.0 86 s. 2 10 +23.8 4-15.8 R. 0.2 5.1 36 
+31 +13.5 57.6 72 SW. 2 8 4-17.0 +10.0 5.2 4.0 
++ 8.5 56.9 69 6.2 46.4 5.39 3.95 
+Am 11. u. 18. Nebel, am 3. u. 7. Reif, am 21. u. 30. Gewitter, am 27. Hagel. 
+Winde ty 
+W 
+53 s £ OD £ 
+02 W 02 
+OD 
+rM 
+Häufigkeit . . . 14 12 4 Ii 1 3 — 14 3 15 2 3 4 7 
+Stärke iu Mtr.p.Sec. 4.8 1.2 3.3 2.0 1.7 — 2.5 2.0 2.6 1.0 3.7 2.2 3.4 
+DDDaaatttuuummm   nnneeeuuueeennn   SSStttyyylllsss...   
+| Lufttemp. 
+1 
+Barometer. 
+Haarhygr. 
+Wind. 
+NNE. 
+Bewölkung 
+SSE. 
+Minim. 
+RReeggeenn  ooddeerr  SScchhnneeee..  
+SW. 
+WSW NNiieeddeerrsscchhllaagg..  
+WNW 
+Riga. \ 
+NNW. Dünamünde. 
+— 64 — 
+</section>
+<section type='table'> Station Riga. Monat Juni 1877. 
+Wasser­
+ Mi11e1wer1he. Lufttemp..stand.
+700mm. 
+Cels. +• % 0-10 0-10 Cels. Cels. R-S Fuss engl. 
+1 +15.3 61.9 68 NW. 1 4 +1 8.0 + 8.5 5.4 3.95 
+2 +17.8 60.9 55 SW. 3 7 +23.2 + 8.4 R. 4.5 3.8 
+3 +15.9 63.5 66 SW. 3 7 +19.8 +1 0.5 46 39 
+4 +20.3 64.1 58 S W .  2 4 —j—25.1 +10.7 4.6 3.9 
+5 +23.6 64.1 51 s. 1 2 +28.0 + 14.5 4.3 3.8 
+6 +25.7 63.8 55 s. 2 3 +30.2 +1 7.4 4.2 3.85 
+7 +23.5 61.8 61 SW. 4 1 +30.2 +16.2 R. 4.1 3.9 
+8 +16.2 65.3 49 WSW3 2 +20.2 + 11.2 4.5 4.1 
+9 +16.8 62.9 53 N W .  3 4 +21.0 + 8.9 4.5 4.15 
+10 +16.9 60.6 67 NW. 3 7 +21.6 +1 1.3 4.9 4.7 
+11 +18.3 56.7 65 SW. 3 3 +24.9 +11.1 4.9 4.65 
+12 +15.3 55.7 67 NW. 4 6 +24.8 +11.1 5.0 4.8 
+13 +14.0 54.1 68 NW. 2 9 +18.0 + 9.7 4.8 4.5 
+14 +13.2 56.4 69 N. 6 4 + 14.7 + 9.7 5.3 5.2 
+15 +13.6 62.2 62 NW. 2 7 +15.6 -+- 7.5 4.9 4.7 
+16 +14.7 66.2 65 N. 9 4 +16.8 + 7.9 4.9 4.7 
+17 + 16.7 66.3 48 NW. 2 1 +20.2 +10.7 4.5 4.35 
+18 +15.6 61.1 64 NW. 4 5 +23.6 +10.6 5.2 4.85 
+19 +11.3 61.5 70 NW. 2 7 +15.8 + 8.7 R. 3.5 4.5 4.45 
+20 +11.5 59.0 61 NW. 3 5 +15.6 + 5.7 4.4 4.3 
+21 +11.0 58.7 56 N. 5 2 +13.8 + 7.9 4.3 4.1 
+22 +14.4 60.1 48 SW. 2 2 +18.0 + 8.5 3.9 4.0 
+23 +17.1 53.0 69 S. 6 7 +20.4 +10.7 R. 7.1 3.6 3.55 
+24 +16.8 55.7 65 SW. 4 6 +20.6 +12.7 4.6 4.6 
+25 +14.8 59.8 70 SW. 1 9 +18.6 + 7.7 R. 43 4.25 
+26 +15.3 61.3 63 SW. 2 5 +19.6 + 8.3 4.2 4.4 
+27 +16.8 59.3 67 S W .  4 10 +21.1 +10.9 R. 4.7 4.65 
+28 +13.6 59.2 75 SW. 1 10 +17.6 + 9.3 R. 3.1 4.9 4.6 
+29 +13.6 60.2 72 SW. 2 8 +19.0 + 9.9 5.0 4.7 
+30 +17.8 63.8 47 SW. 2 8 +21.6 + 7.9 4.8 4.5 
++16.2 60.6 62 5. 13.7 4.6 4.3 
+Am 7. und 23. Gewitter. 
+W 
+£ W020Q££
+w OQ 
+Z 
+5 
+Häufigkeit . . . 11 14 8 1 35 2 18 1 
+Stärke in Mtr.p.Sec. — 3.9 — — — — — — 3.5 3.o 2.6 5.5 3.7 5,o 
+Verantwortlich für die Bedaction: G. Schweder. 
+Von der Censur erlaubt. Riga, den 8. November 1878. 
+Druck von W. F. Hacker in Riga. 
+</section>
+</volume>

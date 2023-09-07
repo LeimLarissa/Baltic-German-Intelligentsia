@@ -1,0 +1,17 @@
+<volume year='1880' number='13'> III   DDDaaatttuuummm   nnneeeuuueeennn   SSStttyyylllsss...   
+<section type='beginning'> Barometer. 
+Still. Haarhygr. 
+Wind. 
+NNE. 
+Bewölkung. 
+ESE. Maxim. 
+Minim. 
+SSW. 
+RReeggeenn  ooddeerr  SScchhnneeee..  
+SW. 
+NNiieeddeerrsscchhllaagg..  
+NW. 
+Dünamünde. 
+1 
+</section>
+</volume>

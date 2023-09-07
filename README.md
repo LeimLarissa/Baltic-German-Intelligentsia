@@ -45,6 +45,8 @@ Task 2: Extract names from membership-lists. Status = **in progress**
   - [ ] NVR
    
  Task 3: Clean and homogenise data from extracted lists. Status = **in progress**  
+ 
+ [OpenRefine Workflow](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/87334a1d44327e4667fddd2b0d8a384fb61b464e/OpenRefine/OpenRefine_Workflow.txt)
 - [ ] I will use OpenRefine to clean the membership lists. I want to 
     - separate the "Text" field into Title, Name, Occupation, Location and Entry Year (if available) 
     - remove additional spaces as well as OCR transcription errors outside of the Text field (probably manually) 

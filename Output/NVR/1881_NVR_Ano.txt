@@ -2550,7 +2550,8 @@ Konservator A. S punde■, Lehrer,
 <section type='list'> Mitglieder am 1. Juli 1881.
 (Die Nummer vor dem Namen ist diejenige, unter welcher das betreffende 
 Diplom ausgestellt ist.)
- A. Ehrenmitglieder.1. 658. Albedinsky, Gen.-Gouverneur von Warschau seit 1867
+ A. Ehrenmitglieder.
+1. 658. Albedinsky, Gen.-Gouverneur von Warschau seit 1867
 2. 605. Berg, Karl, Dr. phil., Prof. in Buenos-Ayres „ 1881
 3. 21. Bubse, Fr., Dr. phil., in R i g a .....................Stifter „ 1881
 4. 679. Dechen, Geh. Oberbergrath in Bonn . . „ 1870

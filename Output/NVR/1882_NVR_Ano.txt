@@ -2083,7 +2083,7 @@ Jahrbücher 30.
 Vierteljahrsschrift Jahrg. 25. 
 149) Zwickau. Verein für Naturkunde. 
 Jahresbericht von 1881. 
-</section>\n
+</section>
 <section type='list'> Direktorium des Naturforscher-Vereins zu Riga 
 für 1881—1882. 
 Präses G. Schweder, Stadtschulendirektor 
@@ -2376,7 +2376,7 @@ Kischinew ,, 1870
 37. 421. Wiedemann, Akademiker in Petersburg . ,, 1852 
 38. 284. Zeller, Professor in Stettin „ 1848 
 — 60 — 
-</section>\n
+</section>
 <section type='text'> Das Sinusgesetz des Foucaultschen Pendels 
 von Prof. Th. Grönberg. 
 Die elementaren Beweise für das Sinusgesetz des 

@@ -1,0 +1,258 @@
+
+<section type='list'> Mitglieder am 1. Juli 1883. (Die Nummer vor dem Namen ist diejenige, unter welcher das betreffende Diplom ausgestellt ist.) 
+<members>
+<honorable_members> A. Ehrenmitglieder. 
+1) 605. Berg, Karl, Dr. phil., Prof., in Buenos-Aires seit 1881 
+2) 21. Buhse, Fr., Dr. phil., in Riga Stifter , ,  1881 
+3) 679. Dechen, Wirkl. Geheimrat, in Bonn . . . , ,  1870 
+4) 618. Dubois-Reymond, Professor, in Berlin . . „ 1870 
+5) 680. Fresenius, R., Präses des naturhistor. Ver­eins, in Wiesbaden „ 1870 
+6) 676. Goeppert, Präses der schlesischen Gesell­schaft, in Breslau „ 1870 
+7) 247. Grewingk, C., Prof., wirkl. Staatsrat, in Dorpat , ,  1870 
+8) 280. Helmersen, G. v., General, in Petersburg . „ 1848 
+9) 585. Keyserling, Graf, Alex., in Raikiill (Estl.) „ 1864 
+10) 681, Kokscharow, General, Akadem.-Direktor des Bergkorps, in Petersburg. . . . . seit 1870 
+11) 472. Middendorf?, Geheimrat, in Hellenorm (Livl.) 1855 
+12) 752. Petzholdt, Alex., Prof. emer., wirkl Staats-1 rat, in Freiburg in Baden ...... „ 1881 
+13) 602. Renard, Geheimrat, in Moskau ..... „ 1865 
+14) 674. Schmidt, C., Professor, wirkl. Staatsrat, in Dorpat ,, 1870 
+15) 601. Schuwalow, Graf P. . . „ 1865 
+16) 625. Schweinfurth, G., Dr. phil. ...... „ 1872 
+17) 636. Toepler, Aug., Professor, in Dresden . . ,, 1868 
+18) 626. Tolstoi, Graf D., wirkl. Geheimrat, Minister, in Petersburg „ 1867 
+19) 627. Trautvetter, Direktor des botanischen Gar­tens, in Petersburg. ........ „ 1867 
+20) 506. Vesselofsky, best. Sekretär der Akademie der Wissenschaften, in Petersburg ... „ 1870 
+</honorable_members>
+<constant_members> B. Beständige Mitglieder. (Durch Zahlung eines einmaligen Beitrages von 40 Rbl. (bei Auswärtigen von 30 Rbl.) wird ein Mitglied von den jährlichen Beiträgen befreit.) 
+1) 616. Hoyningen von Hu.ene in Lechts (Eatl.) . seit 1867 
+2) 776. Wulf, A. v., Besitzer von Lennewarden (Livland) „ 1873 
+3) 878. Rautenfeld, H. v>, auf Lindenruh .... „ 1879 
+</constant_members>
+<ordinary_members> C. Ordentliche Mitglieder. 
+<in_hometown> 1. In oder bei Riga wohnend. 
+1) 858. Albrecht, M., Dr. phil, Fabrikdirektor seit 1876 
+2) 609. Allenstein, Dr. med „ 1869 
+3) 3. Angelbeck, Ed., Pharmaceut . . . 
+4) 863. Anspach, Th., Pharmaceut .... . . „ 1878 
+5) 923. Back, Direktor der Gewerbeschule . . „ 1882 
+6) 739. Banken, M., Lehrer . , „ 1873 
+7) 786. Barth, E., Schulvorsteher .... „ 1875 
+8) 837. Baumann, J., Architekt ..... . „ M6 
+9) 927. Baxter, M. S., Ingenieur . . . . . „ 1883 
+10) 659. Behrmann, Th., Fabrikdirektor . . „ 1869 
+11) 880. Beck, A., Dr. phil., Professor . . . „ 1879 
+12) 261. Berg, F., Direktor der Realschule . - - » 1847 
+13) 902. Berg, Paul, Cand. ehem., Assistent am Polytechnikum . „ 1881 
+14) 734. Bermann, P., Lehrer ., 1872 
+15) 438. Bernhardt, R,, Kreisfiskal .... „ 1853 
+16) 710. Bernhardt, R., Lehrer . ... . . „ 1871 
+17) 727. Berteis, A., Dr. phil seit 1871 
+18) 203. Blumenthal, J., Dr. med., Hofrat .... ,, 1846 
+19) 815. Bockslaff, N., Makler ,, 1875 
+20) 906. Bolton, Kaufmann „ 1881 
+21) 15. Bornhaupt, Dr. phil Stifter ,, 1845 
+22) 624. Bornhaupt, C., Konsulent „ 1868 
+23) 771. Braunstein, M., Lehrer ,, 1873 
+24) 897. Bruhns, Ed., Buchhändler „ 1881 
+25) 647. Buchardt, Th., Apotheker „ 1868 
+26) 888. Büngner, Gust., Cand., Oberlehrer ... „ 1880 
+27) 22. Buhse, Jak., auf Stubbensee Stifter „ 1845 
+28) 840. Carlile, Hugh, Eisenbahndirektor.... ,, 1878 
+29) 718. Deeters, H., Dr. med „ 1872 
+30) 927. Dettmann, H., Mechaniker „ 1882 
+31) 758. Dohne, Fr., Lehrer „ 1873 
+32) 811. Dombrowski, Beamter „ 1875 
+33) 829. Donner, L. W., Lehrer >> 1876 
+34) 597. Dulckeit, J., Zahnarzt „ 1864 
+35) 33. Eckers, Koll.-Rath Stifter „ 1845 
+36) 828. Effert, Ed., Lehrer „ 1876 
+37) 809. Ehrlich, Joh., Kronslandmesser .... „ 1875 
+38) 756. Erasmus, W., Apotheker „ 1873 
+39) 621. Esche, Dr. med „ 1867 
+40) 801. Felser, Osw., Kaufmann ....... „ 1875 
+41) 844. Fettinz, P. v., wirkl. Staatsrat „ 1877 
+42) 862. Fleischer, Hugo, Beamter ». 1878 
+43) 649. Förster, 0., Dr. med „ 1868 
+44) 821. Forsch, Rob., Eisenbahnbeamter .... „ 1876 
+45) 38. Frederking, C. W., Mag. pharm Stifter ,, 1845 
+46) 869. Friedenberg, Lehrer „ 1878 
+47) 537. Fromm, W., Lehrer „ 1860 
+48) 783. Gerich, E., Kaufmann „ 1874 
+49) 404. Germann, Th., Advokat „ 1860 
+50) 623. Gögginger, H., sen., Kunstgärtner ... „ 1867 
+51) 646. Gögginger, H., jun., „ ... „ 1868 
+52) 225. Gottfriedt, M., Oberlehrer „ 1846 
+53) 806. Grönberg, Th., Professor 1875 
+54) 336. Grote, A. v., Kammerherr, Land rat ... „ 1850 
+55) 337. Grote, F. M. v., dim. Landrat ,, 1850 
+56) 884. Grube, Karl, Lehrer „ 1880 
+57) 399. Gutzeit, W. v., Dr. med » 1850 
+58) 859. Hacker, W. M., Buchdruckereibesitzer. . „ 1877 
+59) 780. Haensell, A., Oberlehrer „ 1874 
+60) 479. Haken, W., Beamter „ 1856 
+61) 720. Hampeln, P. v., Dr. med ,, 1872 
+62) 548. Hartmann, Th., Ratsherr » 1861 
+63) 588. Hauffe, O., Kaufmann........ seit 1863 
+64) 866. Hellmann, H., Oberlehrer „ 1878 
+65) 339. Hernmarek, dim. Bürgermeister .... „ 1850 
+66) 909. Hertzberg, Rieh, v., Forsttaxator ... „ 1863 
+67) 613. Hill, A., Veterinärarzt ....... „ 1866 
+68) 340. Hill, J., Kaufmann . . . „ 1850 
+69) 697. Hoff, B., Kunstgärtner „ 1870 
+70) 645. Holst, V, Dr. med „ 1868 
+71) 908. Jacoby, Georg, Koll.-Rat „ 1881 
+72) 921. Jaksch, Rob., Kaufmann „ 1882 
+73) 839. Jastrzembski, Wl., Koll.-Rat „ 1876 
+74) 843. Jensen, E., Forstrevident „ 1878 
+75) 761. Johannsohn, N. v., Fabrikdirektor ... „ 1873 
+76) 874. Jürgensohn, Oberforstmeister „ 1879 
+77) 740. Keilmann, Ph., Dr. med ,, 1873 
+78) 882. Keilmann, Isid., Zahnarzt „ 1879 
+79) 472. Kieseritzky,G.,Direktor desPolytechnikums „ 1853 
+80) 538. Kirschfeldt, L., Apotheker „ 1860 
+81) 449. Klein, E. v., Koll.-Rat ,, 1855 
+82) 746. Klemm, Lehrer der Heilgymnastik ... „ 1873 
+83) 889. Knieriem, W., Professor, Dr. „ 1880 
+84) 872. Koch, Jul., Beamter „ 1879 
+85) 773. Kottkowitz, Gymnasiallehrer „ 1873 
+86) 898. Kröpsch, W., Kaufmann ,, 1881 
+87) 732. Krohne, H., Kaufmann ....... „ 1872 
+88) 888. Kuphaldt, G., Stadtgärtner „ 1880 
+89) 241. Lange, B. v., Dr. med., wirkl. Staatsrat . „ 1846 
+90) 883. Langermann, Lehrer ........ „ 1880 
+91) 733. Lementy, J., Lehrer „ 1872 
+92) 926. Maisit, Martin, Lehrer ....... „ 1883 
+93) 607. Meder, R., Oberlehrer ....... ,, 1865 
+94) 796. Meissner, H., Turnlehrer „ 1875 
+95) 388. Mengden, Baron, Kammerherr .... „ 1851 
+96) 725. Mesching, J., Beamter „ 1872 
+97) 917. Milhard, J., Kreislehrer ....... „ 1832 
+98) 912. Miram, Joh., Dr. med. „ 1882 
+99) 818. Müller, Eug. Wilh., Kaufmann .... „ 1876 
+100) 855. Müthel, K., Gymnasiallehrer ..... „ 1877 
+101) 741. Mündel, Koll.-Assessor „ 1873 
+102) 114. Niederlau, F., Apotheker ...... Stifter 
+103) 389. Oettingen, Aug. v., Hofmeister, Stadtrat „ 1851 
+104) 769. Ostwald, E., Forstingenieur ..... „ 1873 
+105) 743. Panin, A., Dr. med „ 1873 
+106) 760. Petersenn, K., Dr. med . „ 1873 
+107) 913. Plates, E. A., Buchdruckereibesitzer . . „ 1882 
+108) 915. Pohrt, Nik., Chemiker . „ 1882 Korr.-Bl. des N.-V. XXVI. 6. ß 
+109) 895. Pusankiewicz, Roman seit 1880 
+110) 791. Raasehe. Gr. L., Mechaniker ,, 1875 
+111) 853. Rahwing, P., Lehrer ,, 1877 
+112) 885. Reckert, Alex., Kaufmann ...... „ 1880 
+113) 886. Reckert, Wold., Kaufmann „ 1880 
+114) 615. Rieke, Aug., Oberlehrer ,, 1866 
+115) 804. Riach, Kaufmann „ 1875 
+116) 832. Rodin, Lehrer . . . „ 1876 
+117) 565. Rosenberg, C., Kaufmann „ 1862 
+118) 900. Rothert, Bankdirektor ....... „ 1881 
+119) 910. Rubach, Rentier ,, 1882 
+120) 604. Rücker, C., Aeltester ,, 1865 
+121) 352. Rücker, D. H., Konsul ....... „ 1850 
+122) 779. Saweljew, Alex., Lehrer „ 1874 
+123) 586. Sawinitsch, Lehrer ,, 1864 
+124) 792. Schabert, Kreislehrer ,, 1875 
+125) 857. Schilling, E., Agronom ,, 1877 
+126) 914. Schleicher, Fr. A., Fabrikant „ 1882 
+127) 922. Schultz, H., Dr. med ,, 1882 
+128) 575. Schulz, Th., Kaufmann ,, 1862 
+129) 899. Schwartz, Val., Dr. med „ 1881 
+130) 549. Schweder, G., Stadtschulendirektor... ,, 1859 
+131) 714. Seidler, H., Fabrikdirektor ,, 1872 
+132) 856. Sieber, A. v., Dr. med., Hofrat .... „ 1877 
+133) 928. Sönnecken, G., Fabrikant „ 1883 
+134) 656. Spunde, A., Lehrer „ 1869 
+135) 745. Stamm, C., Notarius publicus „ 1873 
+136) 633. Stieda, Herrn., Aeltester....... „ 1868 
+137) 813. Szonn, Dr. med. . „ 1875 
+138) 813. Taube, Ludw., Buchhalter ,, 1870 
+139) 584. Teich, C. A., Kreislehrer „ 1863 
+140) 287. Thieme, Kunstgärtner „ 1848 
+141) 728. Thoms, G., Professor „ 1872 
+142) 903. Trey, H., Land, ehem., Assistent ... „ 1881 
+143) 925. Vielrose, Viktor, Kreislehrer „ 1882 
+144) 754. Wagner, K., Kunstgärtner „ 1873 
+145) 853. Walter, J., Lehrer „ 1876 
+146) 918. Walter, Karl, Oberlehrer „ 1882 
+147) 803. Walter, Jos., Fabrikant „ 1875 
+148) 911. Weiss, Ed., Telegraphen-Beamter ... „ 1881 
+149) 819. Werner, A., Oberlehrer „ 1876 
+150) 824. Werner, G., Beamter » 1876 
+151) 653. Werther, W., Lehrer „ 1869 
+152) 650. Westberg, C., Ratsherr ....... », 1868 
+153) 700. Westermann, H., Oberlehrer ..... >, 1870 
+154) 599. Wiehert, E., Dr. med. ....... „ 1864 
+155) 907. Wichmann, Jul., Geheimrat ... . . seit 1881 
+156) 770. Wolff, Fr., Lehrer ......... „ 1873 
+157) 842. Wolff, B., Dr. phil., Professor ...... • , „ 1876 
+158) 905. Wolferz, Dr. med „ 1881 
+159) 664. Zander, J., Stadt-Aeltermann ..... „ 1869 
+160) 871. Zilp, G., Lehrer 1879 
+</in_hometown>
+<outside_hometown> 2. Ausserhalb Riga's wohnend. 
+1) 864. Chaudoir, J. de, in Wolhynien seit 1878 
+2) 25. Ciaassen, Prof. emer., wirkl. Staatsrat, in Dorpat Stifter „ 1845 
+3) 787. Flor, Ose., Cand. phys., bei Königsberg . „ 1875 
+4) 849. Grünhof, Dr. med., in Prawingen (Kurl.) . „ 1877 
+5) 706. Grünwaldt, P., Kaufmann, in Petersburg . „ 1871 
+6) 182. Hagen, Arth., Landwirt, in Tirsen (Livl.). „ 1874 
+7) 845. Johnson, W., Türkischer General-Konsul, in Kopenhagen „ 1878 
+8) 876. Kämmerling in Kemmern ...... >> 1879 
+9) 896. Klinge, J., Mag. bot., in Dorpat .... 1881 
+10) 836. Kreytenberg, Apotheker, in Mitau ... „ 1876 
+11) 794. Kuehn, Landwirt, in Smilten (Livl.) ... „ 1875 
+12) 916. Laudanski, A., Chemiker, in Karotscha (Gouv. Orel.) „ 1882 
+13) 97. Loewis of Menar, Alex, y., auf Dahlen (Livl.) Stifter „ 1845 
+14) 867. Loewis ofMenar, Osk.v., auf Lipskaln (Livl.) „ 1878 
+15) 841. Loewis of Menar, W. v., auf Panteh (Livl.) „ 1876 
+16) 919. Lutzau, Dr. med., in Wolmar „ 1882 
+17) 205. Manderstierna, General, in Warschau . . „ 1845 
+18) 106. Mercklin, Dr. med., Geheimrat in Petersburg Stifter „ 1845 
+19) 860. Nordstfoem, Dr. med., Staatsrat, in Dubbeln „ 1878 
+20) 128. Bautenfeld, H. v., auf Ringmundshof (Livl.) >, 1848 
+21) 904. Schade, A., Kreislehrer, in Wolmar . . „ 1881 
+22) 266. Schoeler, Apotheker, in Fellin „ 1847 
+23) 920. Treumann, J., Oberlehrer, in Birkenruh . „ 1882 
+</outside_hometown>
+</ordinary_members>
+<corresponding_members> D. Korrespondirende Mitglieder. 
+1) 684. Ascherson, Dr., Sekretär des botanischen Vereins, in Berlin seit 1870 
+2) 573. Bauer, dim. Gymn.-Direktor, in Riga . . „ 1862 
+3) 694. Berendt, Dr., in Königsberg „ 1870 
+4) 716. Berg, v., Ingeniejir-Kapitän „ 1872 
+5) 709. Brandt, A. v., Dr., in Petersburg.... „ 1871 
+6) 696. Bruttan, Hofrat, in Dorpat „ 1870 
+7) 610. Diercke, A., Seminardirektor, in Stade (Hannover) „ 1869 6* 
+8) 481. Dietrich, Sekr. der Gartenbaugesellschaft, in Reval seit 1856 
+9) 283. Dubitzky, Dr. med., in Riga ..... „ 1848 
+10) 582. Flügel, F., Dr., in Leipzig ,, 1863 
+11) 568. Götschel, E. v., Generalmajor, in Wilna . „ 1875 
+12) 755. Heller, Professor, in Wien 1873 
+13) 712. Knappe, D., Schulinspektor, in Windau . ,, 1871 
+14) 686. Krauss, Professor, in Stuttgart .... ,, 1870 
+15) 666. Krüger, E., Reallehrer, in Mitau .... „ 1869 
+16) 748. Kuhn, C. v., Ingenieur-Kapitän „ 1873 
+17) 881. Iversen, W., Kustos der ökon. Gesellschaft, in Petersburg „ 1874 
+18) 533. Le Jolis, Dr., in Cherbourg „ 1860 
+19) 695. Lindemann, Dr. E. v., Medicinalvat, in Kischinew ,, 1870 
+20) 689. Möhl, Professor, in Kassel ,, 1870 
+21) 206. Moritz, wirkl. Staatsrat, in Dorpat ... ,, 1845 
+22) 560. Müller, Ferd., Oberlehrer, in Petersburg . ,, 1876 
+23) 115. Nolcken, Baron, Generalmajor, in Riga . Stifter 
+24) 693. Oettingen, Arthur v., Professor, in Dorpat ,, 1870 
+25) 522. Peltz, A., Koll.-Assess., in Petersburg. . ,, 1871 
+26) 784. Quaas, Navigationslehrer, in Libau ... „ 1875 
+27) 253. Rosenberger, Pastor, in Ringen (Kurl.) . ,, 1870 
+28) 570. Russow, E., Professor, in Dorpat. ... „ 1870 
+29) 594. Schell, A., Professor, in Wien .... ,, 1874 
+30) 682. Schmidt, Fr., Akademiker, in Petersburg. ,, 1870 
+31) 691. Staudinger, Dr., in Dresden „ 1870 
+32) 698. Stieda, L., Dr., Professor, in Dorpat . . ,, 1870 
+33) 705. Strauch, A., Akademiker, in Petersburg . ,, 1871 
+34) 704. Uexküll v. Güldenband, Ingenieur-Kapitän „ 1871 
+35) 421. Wiedemann, Akademiker, in Petersburg . ,, 1852 
+</corresponding_members>
+</members>
+</section>

@@ -9252,6 +9252,8 @@ wasseranstalt 1887
 293 L. Zwingmann, Dr. med 1888 
 294 V. v. Zwingmann, Staatsrat 1884 
 — 228 — 
+</section>
+<section type='report'>
 Kassaberieht für 1898—99. 
 a) Meteorologische Station. 
 Einnahme. Rbl. K. Ausgabe. Rbl. K. 

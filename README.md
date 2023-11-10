@@ -31,18 +31,18 @@ Side Quests:
 
 [G1T2ExtractMembership.ipynb](https://github.com/LeimLarissa/Baltic-German-Intelligentsia/blob/main/G1T2ExtractMembership.ipynb)  
 Task 2: Extract names from membership-lists. Status = **in progress**  
-- [ ] I need to identify the part within the text that includes the membership list. I will tag all sections of the text to make future work easier. 
+- [x] I need to identify the part within the text that includes the membership list. I will tag all sections of the text to make future work easier. 
   - [X] GEG
   - [x] GGuA
-  - [ ] NVR
-- [ ] I need to make sure that information is not lost by a line break. Therefore, I want all information about one person in one line as well as membership status information taged. 
+  - [x] NVR
+- [x] I need to make sure that information is not lost by a line break. Therefore, I want all information about one person in one line as well as membership status information taged. 
   - [x] GEG
   - [x] GGuA
-  - [ ] NVR
-- [ ] I want to extract the following metadata (if available): Year, Society, Membership Status (1st, 2nd, 3rd Level + No.), Text (Fullname, Profession, Location)  
+  - [x] NVR
+- [x] I want to extract the following metadata (if available): Year, Society, Membership Status (1st, 2nd, 3rd Level + No.), Text (Fullname, Profession, Location)  
   - [x] GEG
   - [x] GGuA
-  - [ ] NVR
+  - [x] NVR
    
  Task 3: Clean and homogenise data from extracted lists. Status = **in progress**  
  

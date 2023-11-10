@@ -395,7 +395,7 @@
 347) E. Werner, Stud. bot., in Dorpat » 1908 
 348) G. Westberg, Mag. bot » 1894 
 </outside_hometown>
-<female_members> IV. Teilnehmerinnen. 
+<female_participants> IV. Teilnehmerinnen. 
 1) Fräul. Auguste Baumert, Reimerstrasse 1, Q. 6 se't 1906 
 2) Frau Dr. Berteis, Alexanderstrasse 95 1907 
 3) Fräul. Marie Büttner, Kandau 1907 
@@ -431,7 +431,7 @@
 33) Frau Paula Zelm 1906 
 34) Fräul. Franziska Zimmermann, Lehrerin der Naturgeschichte 1907 
 35) „ Karoline Zimmermann, Gertrudstrasse 6 1908 
-</female_members>
+</female_participants>
 </ordinary_members>
 </members>
 </section>

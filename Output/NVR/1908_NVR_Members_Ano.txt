@@ -373,7 +373,7 @@
 25) Ed. v. Wahl • Addafer, Livland 1908 
 26) P. Wasmuth, Beamter in Reval 1907 
 </outside_hometown>
-<female_members> Teilnehmerinnen. 
+<female_participants> Teilnehmerinnen. 
 1) Fräul. Auguste Baumert, Reimerstrasse 1, Q. 6 seit 1906 
 2) Frau Dr. Berteis, Alexanderstrasse 95 1906 
 3) Fräul. Marie Büttner, Kandau 1907 
@@ -401,7 +401,7 @@
 25) Frau Ellen v. Tideböhl, Peter-Paulstrasse 2 1906 
 26) „ Paula Zelm, Poderaa, Zementfabrik „ 1906 
 27) Fräul. Franziska Zimmermann, Lehrerin d. Naturgesch., Gertrudstr. 6 „ 1907
-</female_members>
+</female_participants>
 </ordinary_members>
 </members>
 </section>

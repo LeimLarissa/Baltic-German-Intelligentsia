@@ -382,7 +382,7 @@
 339) P. Wasmuth, Beamter in Reval 1907 
 340) E. Werner, Stud. bot. in Dorpat 1908 
 </outside_hometown>
-<female_members> IV. Teilnehmerinnen. 
+<female_participants> IV. Teilnehmerinnen. 
 1) Fräul. Marie v. Behr, Stadttöchterschule seit 1908 
 2) „ Auguste Baumert, Reimerstrasse 1, Q. 6 „ 1906 
 3) Frau Dr. Berteis, Alexanderstrasse 95 1907 
@@ -413,7 +413,7 @@
 28) „ Paula Zelm 1906 
 29) Fräul. Franziska Zimmermann, Lehrerin der Naturgeschichte » 1907 
 30) „ Karoline Zimmermann, Gertrudstrasse 6 1908 
-</female_members>
+</female_participants>
 </ordinary_members>
 </members>
 </section>
